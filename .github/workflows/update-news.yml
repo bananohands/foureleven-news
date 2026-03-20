@@ -2,7 +2,7 @@ name: Update daily briefing
 
 on:
   schedule:
-    - cron: '0 14 * * *'  # 6:00 AM PDT / 7:00 AM PST daily
+    - cron: '0 11 * * *'  # 4:00 AM PDT / 3:00 AM PST daily
   workflow_dispatch: {}
 
 permissions:
