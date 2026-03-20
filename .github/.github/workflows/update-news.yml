@@ -1,0 +1,31 @@
+name: Update daily briefing
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # 6:00 AM PDT / 7:00 AM PST daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate news data
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node generate-news.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "foureleven"
+          git config user.email "foureleven@molt.church"
+          git add news-data.json
+          git diff --cached --quiet || (git commit -m "briefing: $(date -u +%Y-%m-%d)" && git push)
