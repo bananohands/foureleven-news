@@ -1,113 +1,97 @@
 {
-  "generated": "2026-03-20T16:25:14.727Z",
-  "date": "Friday, March 20, 2026",
-  "storyCount": 13,
+  "generated": "2026-03-21T11:17:00.482Z",
+  "date": "Saturday, March 21, 2026",
+  "storyCount": 11,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Air raid sirens blare during Eid call to prayer in Kuwait",
-      "summary": "Air raid sirens blared across Kuwait City during Eid prayers as Iran launched missiles and drones at US assets—nothing says holiday spirit like incoming ordnance.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss",
+      "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran fired missiles at Diego Garcia military base",
+      "summary": "Iran fired two ballistic missiles at the US-UK Diego Garcia base in the Indian Ocean but missed both shots, while Trump claims the US is 'getting very close to meeting our objectives' in winding down the war.",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
       "importance": "high",
-      "pubDate": "Fri, 20 Mar 2026 16:05:39 +0000"
+      "pubDate": "Sat, 21 Mar 2026 10:59:51 GMT"
     },
     {
-      "title": "Israel strikes Syria after Druze clashes",
-      "summary": "Israel struck Syrian weapons sites and government infrastructure after clashes involving the Druze community, with Syria calling it an \"outrageous\" assault on sovereignty.",
+      "title": "UK allows US to use bases to strike Strait of Hormuz targets",
+      "summary": "UK approved expanded use of British bases for US strikes on Strait of Hormuz targets after accusing Iran of 'reckless strikes.'",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Mar 2026 16:02:50 GMT"
-    },
-    {
-      "title": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran",
-      "summary": "Trump slammed NATO allies as \"cowards\" for not helping guarantee shipping through the Strait of Hormuz while NATO quietly relocates personnel from Iraq.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on?traffic_source=rss",
+      "link": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "high",
-      "pubDate": "Fri, 20 Mar 2026 15:49:05 +0000"
+      "pubDate": "Sat, 21 Mar 2026 10:47:17 GMT"
     },
     {
-      "title": "Switzerland announces halt to weapons exports to US amid Iran war",
-      "summary": "Switzerland halted weapons exports to the US and closed its airspace to US military flights linked to the Iran war—Swiss neutrality strikes again.",
+      "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
+      "summary": "Drone strike by 'outlaw groups' killed one police officer near Iraqi intelligence headquarters in Baghdad.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/20/switzerland-announces-halt-to-weapons-exports-to-us-amid-iran-war?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 20 Mar 2026 15:29:24 +0000"
+      "pubDate": "Sat, 21 Mar 2026 10:41:03 +0000"
     },
     {
-      "title": "US easing ban on Iranian oil would signal ‘beginning of the end of war’",
-      "summary": "The US is considering lifting sanctions on Iranian oil stranded on tankers at sea, which it says could signal the \"beginning of the end of war.\"",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/us-easing-ban-on-iranian-oil-would-signal-beginning-of-the-end-of?traffic_source=rss",
+      "title": "Iran war enters its fourth week with no clear end in sight",
+      "summary": "US-Israel war against Iran enters week four with Trump considering 'winding down' military efforts while lifting sanctions on Iranian oil stranded at sea to ease energy crisis.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week",
       "importance": "high",
-      "pubDate": "Fri, 20 Mar 2026 15:12:02 +0000"
+      "pubDate": "Sat, 21 Mar 2026 05:43:23 -0400"
     },
     {
-      "title": "US considering occupying Kharg Island to force Iran to open Hormuz strait, say reports",
-      "summary": "Reports suggest Trump is weighing occupying Iran's Kharg Island to force Tehran to reopen the Hormuz strait—apparently \"no boots on the ground\" has an expiration date.",
+      "title": "A wave of executions is feared in Iran after 3 young men were hanged this week",
+      "summary": "Iran executed three young men this week, sparking fears of a broader wave of executions amid the ongoing war.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Mar 2026 08:23:01 +0000"
+    },
+    {
+      "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+      "summary": "Iran announced it will allow Japanese ships to transit the Strait of Hormuz, notable since Japan sources 90% of its crude from the Middle East.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Mar 2026 08:21:20 +0000"
+    },
+    {
+      "title": "Trump hints at wind down of war as US prepares to send more troops to Gulf",
+      "summary": "Trump hints at winding down the war while simultaneously sending three more amphibious assault ships to the Gulf and considering a Kharg Island takeover.",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump",
       "importance": "high",
-      "pubDate": "Fri, 20 Mar 2026 14:39:05 GMT"
+      "pubDate": "Sat, 21 Mar 2026 07:44:11 GMT"
     },
     {
-      "title": "Iran video said to show US F-35 being hit",
-      "summary": "Iran released military video allegedly showing its air defenses hitting a US F-35 fighter jet, though authenticity remains unverified.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Mar 2026 13:44:06 +0000"
-    },
-    {
-      "title": "‘The saddest day for Muslim worshippers in Jerusalem’: al-Aqsa mosque closed at Eid",
-      "summary": "Al-Aqsa mosque was closed for Eid prayers for the first time since 1967, forcing hundreds of Palestinian worshippers to pray outside the sealed holy site.",
+      "title": "Israel deliberately targeting medical facilities in south Lebanon, say health workers",
+      "summary": "Lebanese health workers say Israel is systematically targeting medical facilities in south Lebanon using double-tap strikes to make the area uninhabitable.",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/20/the-saddest-day-for-muslim-worshippers-in-jerusalem-al-aqsa-mosque-closed-at-eid",
+      "link": "https://www.theguardian.com/world/2026/mar/21/israel-targeting-medical-facilities-south-lebanon-health-workers",
       "importance": "medium",
-      "pubDate": "Fri, 20 Mar 2026 13:11:32 GMT"
+      "pubDate": "Sat, 21 Mar 2026 06:00:44 GMT"
     },
     {
-      "title": "Father of killed US military member disputes Hegseth’s claim he said to ‘finish’ the job in Iran",
-      "summary": "The father of a US service member killed in a refueling tanker crash disputes Defense Secretary Hegseth's claim that families told him to \"finish the job\" in Iran.",
+      "title": "US lifts sanctions on Iranian oil at sea in bid to ease supply pressures",
+      "summary": "Trump administration waived sanctions on Iranian oil purchases at sea for 30 days, bringing 140 million barrels to market to ease surging oil prices.",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth",
-      "importance": "low",
-      "pubDate": "Fri, 20 Mar 2026 12:50:41 GMT"
+      "link": "https://www.theguardian.com/us-news/2026/mar/20/us-sanctions-iranian-oil",
+      "importance": "high",
+      "pubDate": "Sat, 21 Mar 2026 05:22:28 GMT"
     },
     {
-      "title": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
-      "summary": "Iran's IRGC announced that spokesman Ali Mohammad Naini was killed in US-Israeli attacks as the assassination campaign against Iranian leadership continues.",
+      "title": "Israel launches fresh strikes on Tehran and Beirut - as it happened",
+      "summary": "Kuwait's state oil firm reported drone attacks on its Mina Al-Ahmadi refinery causing fires, while Israel launched fresh strikes on Tehran and Beirut.",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/mar/20/iran-war-live-updates-oil-prices-israel-netanyahu-ground-component-us-tensions-hormuz",
+      "importance": "high",
+      "pubDate": "Sat, 21 Mar 2026 03:40:41 GMT"
+    },
+    {
+      "title": "Iran war live: US-Israel attack Natanz nuclear site; Diego Garcia targeted",
+      "summary": "US-Israel forces attacked Iran's Natanz nuclear site while Iran targeted Diego Garcia base, as Trump demands other nations protect the Strait of Hormuz from Iranian attacks.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Mar 2026 12:44:16 +0000"
-    },
-    {
-      "title": "Zelenskyy sends a delegation to US to seek resumption of Russia-Ukraine talks",
-      "summary": "Zelenskyy sent a delegation to the US seeking to resume Russia-Ukraine talks—apparently one war at a time isn't enough for Washington's attention span.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-us-talks-iran-drones-40ad8f5481d954fe8207c3d576d540f7",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Mar 2026 12:23:02 +0000"
-    },
-    {
-      "title": "Slovenia heads to polls with diverging views on Israel in focus",
-      "summary": "Slovenia heads to polls with the center-left coalition facing the populist right amid claims of foreign meddling and diverging views on Israel.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus?traffic_source=rss",
-      "importance": "low",
-      "pubDate": "Fri, 20 Mar 2026 11:51:23 +0000"
-    },
-    {
-      "title": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
-      "summary": "Israel struck Syrian army camps in the south after alleged attacks on the Druze community in Suwayda on Thursday.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss",
-      "importance": "low",
-      "pubDate": "Fri, 20 Mar 2026 11:46:30 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
+      "importance": "high",
+      "pubDate": "Sat, 21 Mar 2026 00:00:00 +0000"
     }
   ]
 }
