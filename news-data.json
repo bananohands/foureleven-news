@@ -1,97 +1,209 @@
 {
-  "generated": "2026-03-21T11:17:00.482Z",
-  "date": "Saturday, March 21, 2026",
-  "storyCount": 11,
+  "generated": "2026-03-22T11:17:23.474Z",
+  "date": "Sunday, March 22, 2026",
+  "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran fired missiles at Diego Garcia military base",
-      "summary": "Iran fired two ballistic missiles at the US-UK Diego Garcia base in the Indian Ocean but missed both shots, while Trump claims the US is 'getting very close to meeting our objectives' in winding down the war.",
+      "title": "Middle East crisis live: Iranian official claims strait of Hormuz open to all but ships of ‘enemy’ countries",
+      "summary": "<p>Iran has effectively closed strait by attacking ships and reportedly laying mines in the waterway, causing major crisis in global energy markets</p><p>Several blasts could be heard from Jerusalem on Sunday, AFP journalists said, after the Israeli military warned of incoming missile fire from Iran",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 11:08:52 GMT"
+    },
+    {
+      "title": "‘Nobody else is responsible’: Trump to blame for Iran crisis, ex-CIA chief says",
+      "summary": "<p>Leon Panetta calls president ‘naive’ over strait of Hormuz closure and says ‘the chickens are coming home to roost’</p><p>Donald Trump is stuck between “a rock and a hard place” after three weeks of war in Iran and “sending a message of weakness” to the world, <a href=\"https://www.panettainstitut",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/mar/22/trump-iran-leon-panetta",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 11:00:19 GMT"
+    },
+    {
+      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 10:57:44 GMT"
+    },
+    {
+      "title": "Iran not believed to have capability or intent to bomb Britain, says UK minister",
+      "summary": "<p>Steve Reed says ‘UK is not going to be dragged into this war’ after Israeli warnings that Iranian missiles could hit Europe</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehr",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/22/iran-capability-intent-bomb-missiles-britain-steve-reed",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 10:42:44 GMT"
+    },
+    {
+      "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
+      "summary": "It was the first time Iranian missiles had penetrated Israeli air defence systems in the area around a key nuclear site.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/3/22/aftermath-of-iranian-missiles-strikes-near-israels-nuclear-centre?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 10:34:48 +0000"
+    },
+    {
+      "title": "Lebanese nurse refuses to leave her post at hospital despite loses",
+      "summary": "Lebanese nurse remains at her post in the Bekaa Valley after losing her fiance in the 2024 Israel-Hezbollah war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 10:34:37 +0000"
+    },
+    {
+      "title": "'It's been bittersweet': The Iranian-Iraqi cafe drawing crowds to Hackney",
+      "summary": "Logma, a newly opened Iranian-Iraqi cafe in Hackney, has gone viral for its sandwiches.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c393k28kvd1o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 10:18:02 GMT"
+    },
+    {
+      "title": "Israeli firefighters battle vehicles blaze after missile attack from Lebano",
+      "summary": "Footage shows Israeli firefighters attempting to put out a fire caused by a missile attack from Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-firefighters-battle-vehicles-blaze-after-missile-attack-from-lebano?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 09:54:51 +0000"
+    },
+    {
+      "title": "Woman confronts Ben-Gvir at site of Iranian missile strike",
+      "summary": "Israeli woman confronts National Security Minister Itamar Ben-Gvir at the site of an Iranian missile strike in Arad.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 09:09:43 +0000"
+    },
+    {
+      "title": "Why the world should worry about Israel’s nuclear doctrine",
+      "summary": "The threshold the Israeli authorities have set for the use of a nuclear weapon is dangerously low.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/3/22/why-the-world-should-worry-about-israels-nuclear-doctrine?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 09:01:21 +0000"
+    },
+    {
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 08:56:16 GMT"
+    },
+    {
+      "title": "Iran war: What’s happening on day 23 of US-Israel attacks?",
+      "summary": "Trump threatens to hit Iranian energy sites if the Strait of Hormuz is not reopened; Tehran vows to retaliate.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/22/iran-war-whats-happening-on-day-23-of-us-israel-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 08:33:28 +0000"
+    },
+    {
+      "title": "Drone footage shows damage in Arad after overnight Iranian missile attack",
+      "summary": "Drone footage shows heavy damage to residential buildings in Arad, Israel, after an overnight Iranian missile strike.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/drone-footage-shows-damage-in-arad-after-overnight-iranian-missile-attack?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 08:11:11 +0000"
+    },
+    {
+      "title": "Trump threatens attacks on Iranian power plants over opening Strait of Hormuz",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/66f02bc/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F62%2F30b70358a2af04c49b4e3c161754%2Fa87689c14f414462a4942cbae9acfbfd\" width=\"100%\"><small style=\"color: #999;\">Ultra-Orthodox Jewish",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 05:23:01 +0000"
+    },
+    {
+      "title": "Trump tells Iran it has 48 hours to open Hormuz or US will ‘obliterate’ its power plants",
+      "summary": "<p>US president threatens to take out Iranian energy facilities – ‘starting with the biggest one first’ – if Tehran does not reopen the strait</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/22/iran-donald-trump-48-hours-open-hormuz-strait",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 05:12:48 GMT"
+    },
+    {
+      "title": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
+      "summary": "Donald Trump has threatened to 'obliterate' Iran’s power plants if Tehran fails to open the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/trump-threatens-to-obliterate-iran-power-plants-unless-hormuz-strait-open?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 05:08:50 +0000"
+    },
+    {
+      "title": "Casualties as Israeli settlers set fire to homes and cars in West Bank",
+      "summary": "Settlers set fire to homes and cars near Jenin amid reports of widespread violence across the occupied territory.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 04:58:22 +0000"
+    },
+    {
+      "title": "Projectile strikes vessel off coast of UAE - as it happened",
+      "summary": "<p>This blog is now closed</p><p><strong>Circling back now to Diego Garcia, Iran fired two intermediate-range ballistic missiles at the joint US-UK military base in the Indian Ocean – but neither of them hit, according to news reports citing US officials</strong>.</p><p>The <a href=\"https://www.wsj.",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "importance": "high",
-      "pubDate": "Sat, 21 Mar 2026 10:59:51 GMT"
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 03:17:20 GMT"
     },
     {
-      "title": "UK allows US to use bases to strike Strait of Hormuz targets",
-      "summary": "UK approved expanded use of British bases for US strikes on Strait of Hormuz targets after accusing Iran of 'reckless strikes.'",
+      "title": "Six fuel ships bound for Australia cancelled as Bowen concedes ‘flow of oil to Asian refineries has slowed’",
+      "summary": "<p>Energy minister says war on Iran creating ‘uncertain environment’ but insists government doing ‘all the preparatory work’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/mar/22/australia-news-live-tropical-cyclone-narelle-south-australia-election-peter-malinauskas-labo",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/22/six-fuel-ships-bound-for-australia-cancelled-as-bowen-concedes-flow-of-oil-to-asian-refineries-has-slowed",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 02:22:30 GMT"
+    },
+    {
+      "title": "What we know about Iran’s latest attacks on Israel",
+      "summary": "Israel’s air defence system failed to stop at least two Iranian missile strikes on southern Israel.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 02:19:22 +0000"
+    },
+    {
+      "title": "Will the Houthis join Iran in war against Israel and the US?",
+      "summary": "The Yemeni armed group says all options are on the table.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 01:22:48 +0000"
+    },
+    {
+      "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran’s power plants",
+      "summary": "Iran responds to Trump's threat by saying all US energy infrastructure in the region will be targeted if it is attacked.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 01:16:57 +0000"
+    },
+    {
+      "title": "Trump at a crossroads as US weighs tough options in Iran",
+      "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "high",
-      "pubDate": "Sat, 21 Mar 2026 10:47:17 GMT"
+      "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Mar 2026 00:50:43 GMT"
     },
     {
-      "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
-      "summary": "Drone strike by 'outlaw groups' killed one police officer near Iraqi intelligence headquarters in Baghdad.",
+      "title": "Iran war live: Trump threatens to attack power plants over Strait of Hormuz",
+      "summary": "Donald Trump threatens to 'obliterate' Iran's power plants if it fails to open the Strait of Hormuz within 48 hours.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 21 Mar 2026 10:41:03 +0000"
+      "pubDate": "Sun, 22 Mar 2026 00:00:13 +0000"
     },
     {
-      "title": "Iran war enters its fourth week with no clear end in sight",
-      "summary": "US-Israel war against Iran enters week four with Trump considering 'winding down' military efforts while lifting sanctions on Iranian oil stranded at sea to ease energy crisis.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week",
-      "importance": "high",
-      "pubDate": "Sat, 21 Mar 2026 05:43:23 -0400"
-    },
-    {
-      "title": "A wave of executions is feared in Iran after 3 young men were hanged this week",
-      "summary": "Iran executed three young men this week, sparking fears of a broader wave of executions amid the ongoing war.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3",
+      "title": "Almost 100 wounded in Iranian missile strikes on southern Israel",
+      "summary": "<p>Israeli air defence systems fail to intercept at least two projectiles during attacks on cities of Arad and Dimona</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retali",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel",
       "importance": "medium",
-      "pubDate": "Sat, 21 Mar 2026 08:23:01 +0000"
-    },
-    {
-      "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
-      "summary": "Iran announced it will allow Japanese ships to transit the Strait of Hormuz, notable since Japan sources 90% of its crude from the Middle East.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 21 Mar 2026 08:21:20 +0000"
-    },
-    {
-      "title": "Trump hints at wind down of war as US prepares to send more troops to Gulf",
-      "summary": "Trump hints at winding down the war while simultaneously sending three more amphibious assault ships to the Gulf and considering a Kharg Island takeover.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump",
-      "importance": "high",
-      "pubDate": "Sat, 21 Mar 2026 07:44:11 GMT"
-    },
-    {
-      "title": "Israel deliberately targeting medical facilities in south Lebanon, say health workers",
-      "summary": "Lebanese health workers say Israel is systematically targeting medical facilities in south Lebanon using double-tap strikes to make the area uninhabitable.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/21/israel-targeting-medical-facilities-south-lebanon-health-workers",
-      "importance": "medium",
-      "pubDate": "Sat, 21 Mar 2026 06:00:44 GMT"
-    },
-    {
-      "title": "US lifts sanctions on Iranian oil at sea in bid to ease supply pressures",
-      "summary": "Trump administration waived sanctions on Iranian oil purchases at sea for 30 days, bringing 140 million barrels to market to ease surging oil prices.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/mar/20/us-sanctions-iranian-oil",
-      "importance": "high",
-      "pubDate": "Sat, 21 Mar 2026 05:22:28 GMT"
-    },
-    {
-      "title": "Israel launches fresh strikes on Tehran and Beirut - as it happened",
-      "summary": "Kuwait's state oil firm reported drone attacks on its Mina Al-Ahmadi refinery causing fires, while Israel launched fresh strikes on Tehran and Beirut.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/mar/20/iran-war-live-updates-oil-prices-israel-netanyahu-ground-component-us-tensions-hormuz",
-      "importance": "high",
-      "pubDate": "Sat, 21 Mar 2026 03:40:41 GMT"
-    },
-    {
-      "title": "Iran war live: US-Israel attack Natanz nuclear site; Diego Garcia targeted",
-      "summary": "US-Israel forces attacked Iran's Natanz nuclear site while Iran targeted Diego Garcia base, as Trump demands other nations protect the Strait of Hormuz from Iranian attacks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
-      "importance": "high",
-      "pubDate": "Sat, 21 Mar 2026 00:00:00 +0000"
+      "pubDate": "Sat, 21 Mar 2026 23:07:11 GMT"
     }
   ]
 }
