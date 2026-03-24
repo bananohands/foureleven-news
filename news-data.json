@@ -1,209 +1,129 @@
 {
-  "generated": "2026-03-23T11:38:14.499Z",
-  "date": "Monday, March 23, 2026",
-  "storyCount": 25,
+  "generated": "2026-03-24T11:39:46.159Z",
+  "date": "Tuesday, March 24, 2026",
+  "storyCount": 15,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Trump postpones military strikes on Iranian power plants for a five day period",
-      "summary": "<p>US president says he has instructed his defence department against strikes following ‘productive conversations’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites\">Iran vows to destroy Middle East water and energy faci",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 11:23:09 GMT"
+      "title": "Russia fires nearly 400 drones at Ukraine with signs its spring offensive has started",
+      "summary": "Russia launched nearly 400 drones at Ukraine in what appears to be the start of its spring offensive, hitting residential areas in Zaporizhzhia.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-offensive-civilian-attacks-48a46d2503513c903bc3e4de31b96e00",
+      "importance": "high",
+      "pubDate": "Tue, 24 Mar 2026 11:23:02 +0000"
     },
     {
-      "title": "Has Iran brought down an ‘unkillable’ US F-35 jet?",
-      "summary": "The supersonic fighter jet is designed to avoid detection by radar and other technologies.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/23/has-iran-brought-down-an-unkillable-us-f-35-jet?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 11:18:10 +0000"
-    },
-    {
-      "title": "Trump postpones military strikes on Iranian power plants",
-      "summary": "This is a breaking news story.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 11:13:47 +0000"
-    },
-    {
-      "title": "Iraq pulled into Iran war as US targets Iran-aligned groups",
-      "summary": "Iraq is increasingly caught between the US and Iran as the regional war escalates, deepening economic woes.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/23/iraq-pulled-into-iran-war-as-us-targets-iran-aligned-groups?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 11:10:44 +0000"
-    },
-    {
-      "title": "Threats over Iran war bare Trump efforts to transform free speech: Experts",
-      "summary": "Threat to punish broadcasters for coverage not in 'public interest' comes amid wider roll-backs, analysts say.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/23/threats-over-iran-war-bare-trump-efforts-to-transform-free-speech-experts?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 11:10:05 +0000"
-    },
-    {
-      "title": "Iran threatens strikes on Gulf power plants following Trump's Strait of Hormuz ultimatum",
-      "summary": "Iran warned it could start striking power plants across the Gulf region, after President Trump threatened to hit Iran's energy infrastructure unless Tehran opens the Strait of Hormuz when his 48 hour ultimatum expires on Monday.",
+      "title": "Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war",
+      "summary": "Senate confirmed Markwayne Mullin as DHS Secretary while Iran denied ongoing talks with the US to end the war now in its fourth week.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
+      "link": "https://www.npr.org/2026/03/24/g-s1-114942/up-first-newsletter-iran-war-trump-ice-tsa-airports-markwayne-mullin-dhs",
       "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 06:37:23 -0400"
+      "pubDate": "Tue, 24 Mar 2026 07:13:38 -0400"
     },
     {
-      "title": "Why Iran’s threat to destroy water facilities could spell disaster for Gulf countries",
-      "summary": "<p>Desalination infrastructure is crucial in arid region with very little rainfall and few rivers or lakes</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined\">Mid",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/23/iran-threat-to-destroy-water-facilities-gulf",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 09:43:36 GMT"
-    },
-    {
-      "title": "IRGC spokesman tells US President Donald Trump ‘You’re fired!’",
-      "summary": "Spokesman for the IRGC took jabs at US president Trump, mimicking his catchphrases and language.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/irgc-spokesman-tells-us-president-donald-trump-youre?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 09:42:19 +0000"
-    },
-    {
-      "title": "Aftermath of Israeli attack in southern Lebanon",
-      "summary": "This is the aftermath in the southern Lebanese town of al-Shihabiya after an Israeli attack.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/aftermath-of-israeli-attack-in-southern-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 09:38:48 +0000"
-    },
-    {
-      "title": "Israel’s displacement of civilians in Lebanon is a possible war crime",
-      "summary": "The Israeli tactics of mass expulsion of Lebanese civilians risk directly violating international law.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/3/23/israels-displacement-of-civilians-in-lebanon-is-a-possible-war-crime?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 09:21:19 +0000"
-    },
-    {
-      "title": "Israeli settlers rampage through West Bank towns for second night in a row",
-      "summary": "The violence comes as Israel continues its push to expand control over Palestinian territory.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/23/israeli-settlers-rampage-through-west-bank-towns-for-second-night-in-a-row?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 08:50:33 +0000"
-    },
-    {
-      "title": "Ukrainians are growing more pessimistic about the prospects for peace, survey says",
-      "summary": "As the Iran war delays peace talks for Ukraine -- and global supplies of air defense missiles -- there are signs that fewer Ukrainians are willing to endure Russia's war for as long as necessary.",
+      "title": "Iran fires more missiles at Israel, dismisses Trump's talk as 'fake news'",
+      "summary": "Iran fired missiles at four Israeli sites including central Tel Aviv, injuring at least six people, while a gas line in southwest Iran was also struck overnight.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/23/nx-s1-5754745/ukrainians-are-growing-more-pessimistic-about-the-prospects-for-peace-survey-says",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 04:43:20 -0400"
+      "link": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
+      "importance": "high",
+      "pubDate": "Tue, 24 Mar 2026 07:08:10 -0400"
     },
     {
-      "title": "‘Unprecedented’: Israel, US carry out extensive strikes across Iran",
-      "summary": "Tehran is hit by 'a wide-scale wave of strikes' as US President Donald Trump's 48-hour ultimatum is set to expire.",
+      "title": "Kim vows to 'irreversibly' cement North Korea's nuclear status",
+      "summary": "Kim Jong Un vowed to 'irreversibly' cement North Korea's nuclear status, calling the country's rapid weapons expansion the 'right' choice.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status",
+      "importance": "medium",
+      "pubDate": "Tue, 24 Mar 2026 07:05:14 -0400"
+    },
+    {
+      "title": "Amazon says AWS Bahrain region ‘disrupted’ following drone activity",
+      "summary": "Amazon's AWS Bahrain region was disrupted by drone activity for the second time this month due to the Iran war.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 08:39:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/3/24/amazon-says-aws-bahrain-region-disrupted-following-drone-activity?traffic_source=rss",
+      "importance": "low",
+      "pubDate": "Tue, 24 Mar 2026 10:39:41 +0000"
     },
     {
-      "title": "‘Pentagon requesting $200bn signals that war will stretch a long time’",
-      "summary": "‘Pentagon requesting $200bn signals that war will stretch on a very long time’",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/23/pentagon-requesting-200bn-signals-that-war-will-stretch-a-long-time?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 08:27:41 +0000"
-    },
-    {
-      "title": "China ‘is playing the long game’ in Iran war by staying neutral",
-      "summary": "Han Shen Lin, director of the China Office at the Asia Consultative Group, says that China is likely to remain neutral,",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/23/china-is-playing-the-long-game-in-iran-war-by-staying-neutral?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 08:09:04 +0000"
-    },
-    {
-      "title": "Iran war: What’s happening on day 24 of US-Israel attacks?",
-      "summary": "The region is on edge as Trump's deadline for Iran to reopen the Strait of Hormuz or face attacks on power plants nears.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 08:07:55 +0000"
-    },
-    {
-      "title": "Rubio to testify in trial of former roommate accused of secretly lobbying for Venezuela",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/11adc14/2147483647/strip/true/crop/3786x2523+0+159/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2F13%2Fe6491ff24133484d3340b2db64e2%2Fb5019a1f166247ac88dfe7fad8b707c8\" width=\"100%\"><small style=\"color: #999;\">Former U.S. Rep. Da",
-      "source": "AP News",
-      "link": "https://apnews.com/article/rubio-rivera-miami-trial-venezuela-5993890ac0d3deece86f6ed900959a64",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 07:53:01 +0000"
-    },
-    {
-      "title": "Asian shares decline as hopes dim for resolution in Iran after Trump’s latest comments",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/11b39e4/2147483647/strip/true/crop/6150x4098+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6d%2F4d%2Fa8c7cebf595b32cd0e4ea3f8d894%2F497efa9029264623b536a1ac06a1dde9\" width=\"100%\"><small style=\"color: #999;\">A person looks at an ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/stocks-markets-oil-iran-trump-026e3ab83a6256e36001b85058f92b5d",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 07:53:01 +0000"
-    },
-    {
-      "title": "IEA chief warns of ‘very severe’ global energy crisis",
-      "summary": "IEA may release more oil as the Iran war hits supply, with chief Fatih Birol warning of a severe global energy crisis.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/iea-chief-warns-of-very-severe-global-energy-crisis?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 07:39:43 +0000"
-    },
-    {
-      "title": "Rescue teams brave fire in suspected attack on Gaza City residential area",
-      "summary": "Rescue teams headed to the site of a suspected Israeli attack in Gaza City to control the blaze.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/rescue-teams-brave-fire-in-suspected-attack-on-gaza-city-residential-area?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 07:34:46 +0000"
-    },
-    {
-      "title": "World in energy crisis worse than 1970s’ oil shocks combined, IEA head says",
-      "summary": "Energy crunch prompted by Iran war poses 'major threat' to global economy, Fatih Birol says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/3/23/world-in-energy-crisis-worse-than-1970s-oil-shocks-combined-iea-head-says?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 07:07:08 +0000"
-    },
-    {
-      "title": "International Energy Agency head says global economy faces ‘major, major threat’ because of Iran war",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/59e5f4f/2147483647/strip/true/crop/6921x4612+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2Fb5%2F8bd65306e322f150eb3dd6625360%2F5cd7836018964b3186634f8d02f9719b\" width=\"100%\"><small style=\"color: #999;\">International Energy ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-war-australia-international-energy-agency-f1e7ccd313263fd63e695f43a2e68165",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 06:53:01 +0000"
-    },
-    {
-      "title": "Trump’s video game war: AI, memes and a simplistic narrative have flattened the conflict | Nesrine Malik",
-      "summary": "<p>What was supposed to be a quick win has become a quagmire, so it now must be reduced to a dopamine hit</p><p>The war on Iran, even as it spreads and destabilises the Middle East and the global economy, is not real. This is how it is being portrayed by the Trump administration. The war is a video ",
+      "title": "Pakistan’s army chief attempts to broker Iran peace talks in call with Trump",
+      "summary": "Pakistan's army chief Asim Munir attempted to broker Iran-US peace talks in a call with Trump, with negotiations possibly starting next week in Islamabad.",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
+      "link": "https://www.theguardian.com/world/2026/mar/24/pakistan-army-chief-iran-peace-talks-trump-call",
       "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 06:00:42 GMT"
+      "pubDate": "Tue, 24 Mar 2026 10:39:16 GMT"
     },
     {
-      "title": "Vehicles belonging to Jewish ambulance service set on fire in London in apparent antisemitic attack",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/287b1c4/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2F3f%2Feec96a668179c611cfedab9f428e%2F610b4265e30c40b5a146af1f1320ea50\" width=\"100%\"><small style=\"color: #999;\">A control tower is se",
-      "source": "AP News",
-      "link": "https://apnews.com/article/london-golders-green-ambulance-arson-antisemitism-hatzola-493f0d803b9c197a158d8f970eeb0998",
+      "title": "Asia boosts coal use as Iran war squeezes global LNG supplies",
+      "summary": "Asian countries are boosting coal use as the Iran war squeezes global LNG supplies, worsening air pollution concerns.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/03/24/g-s1-114940/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies",
       "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 05:53:02 +0000"
+      "pubDate": "Tue, 24 Mar 2026 06:35:51 -0400"
     },
     {
-      "title": "Iran threatens to attack Mideast electrical plants powering US bases",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/de75f9d/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F2c%2F27c5221419473095b2ec0812b728%2Fa7c8c47d6fb5485cbf815a21fadcbd63\" width=\"100%\"><small style=\"color: #999;\">People follow a truck",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-23-2026-93c6b3234a5e8917aaf599bf85a03044",
+      "title": "Iran says no talks with US, calls Trump statements a ‘bluff’",
+      "summary": "Iranian officials dismissed Trump's peace talk claims as a 'bluff,' denying any direct or indirect negotiations with the US.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/iran-says-no-talks-with-us-calls-trump-statements-a?traffic_source=rss",
+      "importance": "high",
+      "pubDate": "Tue, 24 Mar 2026 09:54:54 +0000"
+    },
+    {
+      "title": "Israel kills three in Beirut as it intensifies attacks across Lebanon",
+      "summary": "Israel killed three people in Beirut while intensifying attacks across Lebanon, where over one million people are displaced.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/24/israel-kills-two-in-beirut-as-it-intensifies-attacks-across-lebanon?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Mon, 23 Mar 2026 05:23:02 +0000"
+      "pubDate": "Tue, 24 Mar 2026 09:10:12 +0000"
+    },
+    {
+      "title": "Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga",
+      "summary": "Airstrikes may have destroyed Iran's last F-14 Tomcats, ending the strange saga of US-built planes Iran kept flying for decades despite sanctions.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/03/24/nx-s1-5752380/f14-tomcats-iran-us-israel-airstrikes-top-gun",
+      "importance": "low",
+      "pubDate": "Tue, 24 Mar 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Deadly air attack hits pro-Iran Popular Mobilisation Forces in Iraq",
+      "summary": "A deadly airstrike hit pro-Iran Popular Mobilisation Forces headquarters in Iraq's Anbar province.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/deadly-air-attack-hits-pro-iran-popular-mobilisation-forces-in-iraq?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 24 Mar 2026 08:43:47 +0000"
+    },
+    {
+      "title": "Denmark votes in an early election that follows a crisis over US designs on Greenland",
+      "summary": "Denmark held early elections following a crisis over US designs on Greenland.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/denmark-general-election-parliament-greenland-frederiksen-a47b681838c18ef9b7b4fe63fd4b3b0c",
+      "importance": "low",
+      "pubDate": "Tue, 24 Mar 2026 08:23:02 +0000"
+    },
+    {
+      "title": "Top EU official calls for negotiations with Iran and an end to war",
+      "summary": "European Commission President Ursula von der Leyen called for negotiations with Iran and an end to hostilities.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 24 Mar 2026 07:28:53 +0000"
+    },
+    {
+      "title": "Large oil refinery explosion near Texas coast forces residents to shelter in place",
+      "summary": "A large explosion at a Valero oil refinery near Port Arthur, Texas forced residents to shelter in place.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/refinery-explosion-texas-coast-60ecf6d9a70a2f1d5494fb8e38a84c4a",
+      "importance": "low",
+      "pubDate": "Tue, 24 Mar 2026 07:23:03 +0000"
+    },
+    {
+      "title": "Asian shares mostly rebound after Trump hints at a possible end to the Iran war",
+      "summary": "Asian shares rebounded after Trump hinted at a possible end to the Iran war, though Iran denies any talks are happening.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/stock-markets-trump-iran-oil-46bf2f12fb7f46c97dfe983f76e938f9",
+      "importance": "medium",
+      "pubDate": "Tue, 24 Mar 2026 07:23:03 +0000"
     }
   ]
 }
