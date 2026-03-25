@@ -1,129 +1,129 @@
 {
-  "generated": "2026-03-24T11:39:46.159Z",
-  "date": "Tuesday, March 24, 2026",
+  "generated": "2026-03-25T11:35:57.289Z",
+  "date": "Wednesday, March 25, 2026",
   "storyCount": 15,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Russia fires nearly 400 drones at Ukraine with signs its spring offensive has started",
-      "summary": "Russia launched nearly 400 drones at Ukraine in what appears to be the start of its spring offensive, hitting residential areas in Zaporizhzhia.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-offensive-civilian-attacks-48a46d2503513c903bc3e4de31b96e00",
-      "importance": "high",
-      "pubDate": "Tue, 24 Mar 2026 11:23:02 +0000"
-    },
-    {
-      "title": "Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war",
-      "summary": "Senate confirmed Markwayne Mullin as DHS Secretary while Iran denied ongoing talks with the US to end the war now in its fourth week.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/24/g-s1-114942/up-first-newsletter-iran-war-trump-ice-tsa-airports-markwayne-mullin-dhs",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Mar 2026 07:13:38 -0400"
-    },
-    {
-      "title": "Iran fires more missiles at Israel, dismisses Trump's talk as 'fake news'",
-      "summary": "Iran fired missiles at four Israeli sites including central Tel Aviv, injuring at least six people, while a gas line in southwest Iran was also struck overnight.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
-      "importance": "high",
-      "pubDate": "Tue, 24 Mar 2026 07:08:10 -0400"
-    },
-    {
-      "title": "Kim vows to 'irreversibly' cement North Korea's nuclear status",
-      "summary": "Kim Jong Un vowed to 'irreversibly' cement North Korea's nuclear status, calling the country's rapid weapons expansion the 'right' choice.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Mar 2026 07:05:14 -0400"
-    },
-    {
-      "title": "Amazon says AWS Bahrain region ‘disrupted’ following drone activity",
-      "summary": "Amazon's AWS Bahrain region was disrupted by drone activity for the second time this month due to the Iran war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/24/amazon-says-aws-bahrain-region-disrupted-following-drone-activity?traffic_source=rss",
-      "importance": "low",
-      "pubDate": "Tue, 24 Mar 2026 10:39:41 +0000"
-    },
-    {
-      "title": "Pakistan’s army chief attempts to broker Iran peace talks in call with Trump",
-      "summary": "Pakistan's army chief Asim Munir attempted to broker Iran-US peace talks in a call with Trump, with negotiations possibly starting next week in Islamabad.",
+      "title": "Middle East crisis live: Iran’s military mocks Trump’s claims of ceasefire talks, strikes Gulf states overnight",
+      "summary": "Iran fired missiles at Israeli and US bases in Kuwait, Jordan and Bahrain overnight, with military spokesman sarcastically asking if the US is \"negotiating with yourselves\" after Trump's ceasefire claims.",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/24/pakistan-army-chief-iran-peace-talks-trump-call",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Mar 2026 10:39:16 GMT"
-    },
-    {
-      "title": "Asia boosts coal use as Iran war squeezes global LNG supplies",
-      "summary": "Asian countries are boosting coal use as the Iran war squeezes global LNG supplies, worsening air pollution concerns.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/24/g-s1-114940/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Mar 2026 06:35:51 -0400"
-    },
-    {
-      "title": "Iran says no talks with US, calls Trump statements a ‘bluff’",
-      "summary": "Iranian officials dismissed Trump's peace talk claims as a 'bluff,' denying any direct or indirect negotiations with the US.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/iran-says-no-talks-with-us-calls-trump-statements-a?traffic_source=rss",
+      "link": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
       "importance": "high",
-      "pubDate": "Tue, 24 Mar 2026 09:54:54 +0000"
+      "pubDate": "Wed, 25 Mar 2026 11:30:42 GMT"
     },
     {
-      "title": "Israel kills three in Beirut as it intensifies attacks across Lebanon",
-      "summary": "Israel killed three people in Beirut while intensifying attacks across Lebanon, where over one million people are displaced.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/24/israel-kills-two-in-beirut-as-it-intensifies-attacks-across-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Mar 2026 09:10:12 +0000"
+      "title": "US set to send airborne troops to Middle East as Trump claims talks with Iran taking place",
+      "summary": "The US is deploying airborne troops to the Middle East as Iran strikes Gulf states, while Tehran denies any negotiations with Washington.",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/24/middle-east-violence-trump-claims-very-good-talks-iran",
+      "importance": "high",
+      "pubDate": "Wed, 25 Mar 2026 11:26:22 GMT"
     },
     {
-      "title": "Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga",
-      "summary": "Airstrikes may have destroyed Iran's last F-14 Tomcats, ending the strange saga of US-built planes Iran kept flying for decades despite sanctions.",
+      "title": "Thousands of U.S. troops deploy to Middle East. And, the latest on DHS funding talks",
+      "summary": "Thousands of paratroopers from the 82nd Airborne are deploying to the Middle East as the conflict escalates.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/24/nx-s1-5752380/f14-tomcats-iran-us-israel-airstrikes-top-gun",
-      "importance": "low",
-      "pubDate": "Tue, 24 Mar 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/03/25/g-s1-115071/up-first-newsletter-trump-iran-israel-lebanon-dhs-funding-data-brokers",
+      "importance": "high",
+      "pubDate": "Wed, 25 Mar 2026 07:26:10 -0400"
     },
     {
-      "title": "Deadly air attack hits pro-Iran Popular Mobilisation Forces in Iraq",
-      "summary": "A deadly airstrike hit pro-Iran Popular Mobilisation Forces headquarters in Iraq's Anbar province.",
+      "title": "Most Americans say US military action against Iran has gone too far, a new AP-NORC poll finds",
+      "summary": "A new AP-NORC poll finds most Americans think US military action against Iran has gone too far.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/poll-iran-trump-war-oil-gas-prices-2abd1ea4a81f3339cebadd5480fb863b",
+      "importance": "medium",
+      "pubDate": "Wed, 25 Mar 2026 11:23:02 +0000"
+    },
+    {
+      "title": "Large Polymarket, Wall Street bets on Trump’s war news under scrutiny",
+      "summary": "Critics are questioning whether the White House engaged in insider trading after large, well-timed bets on Iran war news appeared on Polymarket and Wall Street this week.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/deadly-air-attack-hits-pro-iran-popular-mobilisation-forces-in-iraq?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/3/25/large-polymarket-wall-street-bets-on-trumps-war-news-under-scrutiny?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Tue, 24 Mar 2026 08:43:47 +0000"
+      "pubDate": "Wed, 25 Mar 2026 11:21:19 +0000"
     },
     {
-      "title": "Denmark votes in an early election that follows a crisis over US designs on Greenland",
-      "summary": "Denmark held early elections following a crisis over US designs on Greenland.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/denmark-general-election-parliament-greenland-frederiksen-a47b681838c18ef9b7b4fe63fd4b3b0c",
-      "importance": "low",
-      "pubDate": "Tue, 24 Mar 2026 08:23:02 +0000"
-    },
-    {
-      "title": "Top EU official calls for negotiations with Iran and an end to war",
-      "summary": "European Commission President Ursula von der Leyen called for negotiations with Iran and an end to hostilities.",
+      "title": "Iran’s closure of the Strait of Hormuz is an international crisis",
+      "summary": "Iran has closed the Strait of Hormuz, creating an international crisis that requires urgent action.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Mar 2026 07:28:53 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/3/25/irans-closure-of-the-strait-of-hormuz-is-an-international-crisis?traffic_source=rss",
+      "importance": "high",
+      "pubDate": "Wed, 25 Mar 2026 10:09:15 +0000"
     },
     {
-      "title": "Large oil refinery explosion near Texas coast forces residents to shelter in place",
-      "summary": "A large explosion at a Valero oil refinery near Port Arthur, Texas forced residents to shelter in place.",
+      "title": "‘A heinous crime’: Air strikes kill seven fighters in Iraq’s Anbar",
+      "summary": "US airstrikes killed seven Iran-aligned PMF fighters in Iraq's Anbar province, escalating attacks on Iranian proxies.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/25/a-heinous-crime-air-strikes-kill-seven-fighters-in-iraqs-anbar?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 25 Mar 2026 09:34:59 +0000"
+    },
+    {
+      "title": "UK police arrest 2 men over arson attack on ambulances belonging to a Jewish charity",
+      "summary": "UK police arrested two men over an arson attack on ambulances belonging to Jewish charity Hatzola Northwest in London.",
       "source": "AP News",
-      "link": "https://apnews.com/article/refinery-explosion-texas-coast-60ecf6d9a70a2f1d5494fb8e38a84c4a",
+      "link": "https://apnews.com/article/uk-jewish-charity-antisemitic-ambulances-arrests-arson-b29a746774f9d9ee8c72ed4ed2b48dad",
       "importance": "low",
-      "pubDate": "Tue, 24 Mar 2026 07:23:03 +0000"
+      "pubDate": "Wed, 25 Mar 2026 09:23:02 +0000"
     },
     {
-      "title": "Asian shares mostly rebound after Trump hints at a possible end to the Iran war",
-      "summary": "Asian shares rebounded after Trump hinted at a possible end to the Iran war, though Iran denies any talks are happening.",
+      "title": "Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages",
+      "summary": "Russia claims it shot down 389 Ukrainian drones as both sides escalate aerial bombardments.",
       "source": "AP News",
-      "link": "https://apnews.com/article/stock-markets-trump-iran-oil-46bf2f12fb7f46c97dfe983f76e938f9",
+      "link": "https://apnews.com/article/russia-ukraine-war-drones-fire-ustluga-9cb9adca61c79312b470a00fa8ae80be",
+      "importance": "low",
+      "pubDate": "Wed, 25 Mar 2026 09:23:02 +0000"
+    },
+    {
+      "title": "US Democrats condemn war on Iran as Senate resolution fails",
+      "summary": "A Senate resolution to end US attacks on Iran failed 47-53, with Democrats condemning the war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-democrats-condemn-war-on-iran-as-senate-resolution-fails?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Tue, 24 Mar 2026 07:23:03 +0000"
+      "pubDate": "Wed, 25 Mar 2026 09:20:42 +0000"
+    },
+    {
+      "title": "US talking to itself, says Iran as Trump claims wheels of diplomacy turning",
+      "summary": "Iranian officials continue denying any peace talks despite reports the US sent a ceasefire proposal, saying America is \"talking to itself.\"",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/25/us-talking-to-itself-says-iran-as-trump-claims-wheels-of-diplomacy-turning?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 25 Mar 2026 08:09:40 +0000"
+    },
+    {
+      "title": "‘Do not call your defeat an agreement’ IRGC warns US, Israel",
+      "summary": "Iran's IRGC warned the US and Israel to \"not call your defeat an agreement,\" rejecting Trump's claims about ongoing talks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/do-not-call-your-defeat-an-agreement-irgc-warns-us-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 25 Mar 2026 08:01:05 +0000"
+    },
+    {
+      "title": "Conservatives gather for CPAC with the right openly divided over the Iran war",
+      "summary": "Conservative Republicans are openly divided over the Iran war as they gather for CPAC, exposing rifts in Trump's base.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/trump-cpac-republicans-iran-war-bannon-387082bac70bc17ce56a37fcbd5b056a",
+      "importance": "medium",
+      "pubDate": "Wed, 25 Mar 2026 07:23:01 +0000"
+    },
+    {
+      "title": "Oil falls more than 4% and Asian shares gain over Trump’s talk of negotiations with Iran",
+      "summary": "Oil prices fell more than 4% and Asian shares gained after Trump talked about Iran negotiations, showing markets' desperation for any peace signal.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17",
+      "importance": "medium",
+      "pubDate": "Wed, 25 Mar 2026 07:23:01 +0000"
+    },
+    {
+      "title": "Iran’s new security boss Mohammad Zolghadr: Why his appointment matters",
+      "summary": "Iran appointed ex-IRGC commander Mohammad Zolghadr as new security chief to manage external US-Israeli pressure and internal unrest.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/25/irans-new-security-boss-mohammad-zolghadr-why-his-appointment-matters?traffic_source=rss",
+      "importance": "low",
+      "pubDate": "Wed, 25 Mar 2026 07:15:26 +0000"
     }
   ]
 }
