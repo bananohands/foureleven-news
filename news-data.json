@@ -1,209 +1,97 @@
 {
-  "generated": "2026-03-26T11:43:19.814Z",
-  "date": "Thursday, March 26, 2026",
-  "storyCount": 25,
+  "generated": "2026-03-27T11:36:35.330Z",
+  "date": "Friday, March 27, 2026",
+  "storyCount": 11,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Southeast Asia turns to nuclear as Iran war disrupts energy supplies",
-      "summary": "Analysts say the Iran war energy crisis is also adding momentum to nuclear interest and action in the region.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/26/g-s1-115291/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 07:30:48 -0400"
-    },
-    {
-      "title": "Middle East crisis live: Israel says it has killed Iranian naval chief as Trump repeats claim Tehran ‘begging’ for deal",
-      "summary": "<p>Israeli defence minister says Alireza Tangsiri was responsible for blocking the strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/mar/25/trump-iran-war-analysis\">Analysis: Trump pitches peace plan but military buildups rarely veer to off-ramp</a></p></li></ul><p><st",
+      "title": "Middle East crisis live: Trump extends pause on energy site strikes; German minister says US-Iran talks to take place ‘very soon’",
+      "summary": "Trump extended his deadline for Iran to reopen the Strait of Hormuz to April 6, while Germany's foreign minister says US-Iran peace talks will happen \"very soon\" in Pakistan.",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 11:30:25 GMT"
+      "link": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
+      "importance": "high",
+      "pubDate": "Fri, 27 Mar 2026 11:21:52 GMT"
     },
     {
-      "title": "Germany warns of world economic ‘catastrophe’; OECD cuts UK growth forecast",
-      "summary": "European powers and bodies warn of economic collapse as the war on Iran nears one-month mark.",
+      "title": "‘My heart burns with pain’: Iranian mother tells UN of Minab school attack",
+      "summary": "Iranian mother Mohaddeseh Fallahat told the UN Human Rights Council about losing two children in the Minab school attack, alongside Iran's foreign minister addressing the body.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/26/germany-warns-of-world-economic-catastrophe-oecd-cuts-uk-growth-forecast?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/3/27/my-heart-burns-with-pain-iranian-mother-tells-un-of-minab-school-attack?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 11:16:58 +0000"
+      "pubDate": "Fri, 27 Mar 2026 10:48:47 +0000"
     },
     {
-      "title": "Iran rejects U.S. peace plan. And, jury finds Meta, Google to blame in addiction trial",
-      "summary": "Iran rejects a U.S. proposal to end the war and counters with a different peace plan. And, a jury finds Meta and Google negligent in a trial over social media's harms.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/26/g-s1-115289/up-first-newsletter-iran-israel-trump-meta-google-social-media-cdc-director",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 07:16:16 -0400"
-    },
-    {
-      "title": "Iranian naval commander Alireza Tangsiri killed in attack, says Israel",
-      "summary": "Defence Minister claims Israel killed Alireza Tangsiri, citing his role in blocking the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/26/iranian-naval-commander-alireza-tangsiri-killed-in-attack-says-israel?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 11:10:39 +0000"
-    },
-    {
-      "title": "My last fight with my Palestinian father still haunts me. Neither of us could bury the past",
-      "summary": "<p>My eternally exiled father was dying and witnessing a siege on Gaza. Afterwards I could go home – but he couldn’t</p><p>The last fight we ever had, my father and I, occurred on a night in May 2021 on the eve of his first chemo treatment. At this point in our story, I was a new mother, and he was ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/ng-interactive/2026/mar/26/hannah-lillith-assadi-father-palestine-gaza",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 11:00:34 GMT"
-    },
-    {
-      "title": "Video: Storms wash away vehicles and flood homes across Middle East",
-      "summary": "Vehicles were washed away in floods in Oman and homes were flooded in Syria as storms brought floods across the region.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/video-storms-wash-away-vehicles-and-flood-homes-across-middle-east?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 10:45:13 +0000"
-    },
-    {
-      "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
-      "summary": "<p>Market in North Darfur and truck carrying civilians in North Kordofan hit as civil war approaches fourth year</p><p>At least 28 civilians have been killed in two separate drone strikes in Sudan, according to health workers, as the country’s brutal civil war between the army and the paramilitary R",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 10:24:21 GMT"
-    },
-    {
-      "title": "Nicolás Maduro heads back to a US court, fighting charges as Venezuela moves on without him",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/6a08888/2147483647/strip/true/crop/3158x2104+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2Fc8%2Fc5b5882dba03013f6faa65ed7a93%2F179dae5b0571464a89c75a90ca8cf899\" width=\"100%\"><small style=\"color: #999;\">Venezuela&#x27;s Pres",
-      "source": "AP News",
-      "link": "https://apnews.com/article/maduro-venezuela-trump-criminal-case-14a4236af0bed76639e8a02a8d45e3ca",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 10:23:02 +0000"
-    },
-    {
-      "title": "Lebanese fear another occupation as Israel threatens to use Gaza tactics in the south",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/96ea08c/2147483647/strip/true/crop/5015x3342+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2Fbb%2F1492e7910585dde149794bc91882%2F664c65b253834371a7499f984f830571\" width=\"100%\"><small style=\"color: #999;\">An Israeli soldier ju",
-      "source": "AP News",
-      "link": "https://apnews.com/article/lebanon-israel-hezbollah-war-incursion-416347699f12430c471f3f26b07821cf",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 10:23:02 +0000"
-    },
-    {
-      "title": "‘Missile hit’ flips car in Israel",
-      "summary": "Surveillance footage shows a car overturning due to 'falling rocket debris in central Israel'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/missile-hit-flips-car-in-israel?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 10:19:08 +0000"
-    },
-    {
-      "title": "I am not paying American war taxes this year. Will you join me? | Clara Vondrich",
-      "summary": "<p>War tax resistance has a venerable tradition dating back to days before the US was even born. It’s time to revive this tradition</p><p>More than $20bn. That’s <a href=\"https://www.csis.org/analysis/iran-war-cost-estimate-update-113-billion-day-6-165-billion-day-12\">roughly the cost of our militar",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/26/american-war-taxes",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 10:00:33 GMT"
-    },
-    {
-      "title": "Israel hinders repair of damaged water infra deepening Gaza’s health crisis",
-      "summary": "Palestinian engineers struggle to repair Gaza's water system, which has been contaminated, posing a health risk.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/3/26/israel-hinders-repair-of-damaged-water-infra-deepening-gazas-health-crisis?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 09:52:51 +0000"
-    },
-    {
-      "title": "Amid US-Israel war, Iran football team trains in Turkiye before World Cup",
-      "summary": "Iran will play two friendly matches in Turkiye as they prepare for the FIFA World Cup in the US, Canada and Mexico.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/3/26/amid-us-israel-war-iran-football-team-trains-in-turkiye-before-world-cup?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 09:48:22 +0000"
-    },
-    {
-      "title": "Israel and Iran ramp up attacks as Trump insists Tehran wants a deal",
-      "summary": "The war in the Middle East ramped up on Thursday as Israel launched a wave of strikes targeting Iranian infrastructure, and Iran fired rounds of missiles at central Israel.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 05:44:35 -0400"
-    },
-    {
-      "title": "‘He will call me Mama’: The Gaza ‘grandmother’ raising an orphaned baby",
-      "summary": "Maha was 'Grandmother' in her family until she adopted Hamza, born the day an Israeli air strike killed his parents.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/longform/2026/3/26/he-will-call-me-mama-the-gaza-grandmother-raising-an-orphaned-baby?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 08:53:33 +0000"
-    },
-    {
-      "title": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays",
-      "summary": "Shortage of helium will have ripple effects across medical and other industries.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/3/26/helium-hitch-why-us-israel-war-on-iran-could-cause-mri-scan-delays?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 08:51:30 +0000"
-    },
-    {
-      "title": "US seeks Hamas ‘political surrender’ in new Gaza plan",
-      "summary": "Analysts say a new US disarmament proposal exploits the regional war to enforce inequitable plan for Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/26/us-seeks-hamas-political-surrender-in-new-gaza-plan?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 08:42:56 +0000"
-    },
-    {
-      "title": "German minister calls Iran war an ‘economic catastrophe’",
-      "summary": "Germany’s defence minister, Boris Pistorius, says the economic impact of the war is \"absolutely evident\".",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/german-minister-calls-iran-war-an-economic?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 08:21:43 +0000"
-    },
-    {
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+      "title": "Ukraine signs deal with Saudi Arabia offering drone expertise",
+      "summary": "Ukraine signed a deal offering Saudi Arabia drone expertise, with Zelensky noting both countries face similar Iranian attacks.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 08:13:32 GMT"
+      "pubDate": "Fri, 27 Mar 2026 10:15:27 GMT"
     },
     {
-      "title": "Israeli push for more force ‘not working out very well’",
-      "summary": "“The Israeli public opinion is to use more force”",
+      "title": "India lowers fuel taxes, says rumours of lockdown ‘completely false’",
+      "summary": "India cut fuel taxes and denied lockdown rumors as the world's third-largest crude importer scrambles with Iran war-related shortages.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/israeli-push-for-more-force-not-working-out-very?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/3/27/india-slashes-petrol-diesel-import-taxes-as-fuel-prices-remain-high?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 07:59:58 +0000"
+      "pubDate": "Fri, 27 Mar 2026 09:50:01 +0000"
     },
     {
-      "title": "Two teenagers killed in Shiraz, two dead in Abu Dhabi as Iran war expands",
-      "summary": "Deadly attacks rise as Israel announces strikes on Isfahan and as Trump and Tehran debate ceasefire terms.",
+      "title": "Rubio heads to Europe to try garner support for Iran war",
+      "summary": "Secretary of State Marco Rubio heads to the G7 meeting in France today to pitch reluctant allies on supporting Trump's Iran war.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7",
+      "importance": "high",
+      "pubDate": "Fri, 27 Mar 2026 05:49:02 -0400"
+    },
+    {
+      "title": "Iran emergency workers search for survivors after deadly US-Israel attacks",
+      "summary": "Iran reports nearly 2,000 war dead as rescue teams search rubble from latest US-Israeli strikes that killed six in Qom.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-launch-extensive-strikes-on-central-iran-two-teenagers-killed?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 07:47:23 +0000"
+      "link": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom?traffic_source=rss",
+      "importance": "high",
+      "pubDate": "Fri, 27 Mar 2026 08:45:24 +0000"
     },
     {
-      "title": "Southeast Asia revisits nuclear power plans for AI data centers as Iran war disrupts energy supplies",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e2de604/2147483647/strip/true/crop/8368x5576+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2F5a%2F3b0136ab8f9bc6c8028677fe692a%2F3700ce9ced3743e4a37d11703ae4766d\" width=\"100%\"><small style=\"color: #999;\">FILE -Construction wo",
-      "source": "AP News",
-      "link": "https://apnews.com/article/southeast-nuclear-energy-power-artificial-intelligence-c08108c2c5da7fd263098ff43748eac5",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 07:23:02 +0000"
+      "title": "Saudi Arabia urging US to ramp up Iran attacks, intelligence source confirms",
+      "summary": "Saudi Crown Prince Mohammed bin Salman is privately urging the US to escalate attacks on Iran, viewing the war as a \"historic opportunity\" to remake the Middle East.",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/27/saudi-arabia-us-iran-attacks-mohammed-bin-salman",
+      "importance": "high",
+      "pubDate": "Fri, 27 Mar 2026 08:16:46 GMT"
     },
     {
-      "title": "‘This is our fight“: Suburbanites embrace anti-Trump resistance ahead of No Kings protests",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/5d32dd6/2147483647/strip/true/crop/5883x3920+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2Fba%2F6cf22b176608ea245a7a0def791b%2F78b849bd71b74194a3c7c0f08f783147\" width=\"100%\"><small style=\"color: #999;\">Allison Posner, an or",
-      "source": "AP News",
-      "link": "https://apnews.com/article/donald-trump-suburbs-no-kings-resistance-7f42979bbd254f3e4e5d79ec252e0cc2",
+      "title": "Israeli opposition leader rails against ‘multi-front war without strategy’",
+      "summary": "Israeli opposition leader Yair Lapid slammed the government's \"multi-front war without strategy,\" saying military forces are \"stretched to the limit and beyond.\"",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/27/israeli-opposition-leader-rails-against-multi-front-war-without-strategy?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 07:23:02 +0000"
+      "pubDate": "Fri, 27 Mar 2026 07:42:44 +0000"
     },
     {
-      "title": "Asian stocks mostly fall and oil climbs again over Iran war de-escalation uncertainties",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4460c62/2147483647/strip/true/crop/4517x3010+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2F9d%2F92a18eefba828da4dd81323a94e5%2F4c09627bd65d46d8b76aa230763ccd88\" width=\"100%\"><small style=\"color: #999;\">Currency traders watc",
+      "title": "Iran bans sports teams from travelling to ‘hostile’ countries amid war",
+      "summary": "Iran banned its sports teams from traveling to \"hostile\" countries for security reasons, affecting a scheduled game between Iranian and Emirati clubs in Saudi Arabia.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss",
+      "importance": "low",
+      "pubDate": "Fri, 27 Mar 2026 07:25:59 +0000"
+    },
+    {
+      "title": "US Treasury plans to put Trump’s signature on new paper currency in first for sitting president",
+      "summary": "The US Treasury plans to put Trump's signature on new paper currency, marking the first time a sitting president's signature will appear on American money.",
       "source": "AP News",
-      "link": "https://apnews.com/article/stock-markets-trump-iran-oil-8118f58d75859b9fc74ab133fa9e8c3e",
+      "link": "https://apnews.com/article/trump-currency-signiture-treasury-first-d919877e39f907eba1172a07920ea80e",
+      "importance": "low",
+      "pubDate": "Fri, 27 Mar 2026 07:23:02 +0000"
+    },
+    {
+      "title": "Somali children are ‘on the edge’ as hunger spreads. UNICEF says Iran war has worsened the crisis",
+      "summary": "UNICEF says the Iran war has worsened Somalia's hunger crisis, with children \"on the edge\" as food supply disruptions compound existing drought conditions.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/somalia-hungry-children-unicef-iran-war-6783d2d4b41318f88e3d21ae6fb95973",
       "importance": "medium",
-      "pubDate": "Thu, 26 Mar 2026 07:23:02 +0000"
+      "pubDate": "Fri, 27 Mar 2026 07:23:02 +0000"
     }
   ]
 }
