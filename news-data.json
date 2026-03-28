@@ -1,97 +1,105 @@
 {
-  "generated": "2026-03-27T11:36:35.330Z",
-  "date": "Friday, March 27, 2026",
-  "storyCount": 11,
+  "generated": "2026-03-28T11:21:45.334Z",
+  "date": "Saturday, March 28, 2026",
+  "storyCount": 12,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Trump extends pause on energy site strikes; German minister says US-Iran talks to take place ‘very soon’",
-      "summary": "Trump extended his deadline for Iran to reopen the Strait of Hormuz to April 6, while Germany's foreign minister says US-Iran peace talks will happen \"very soon\" in Pakistan.",
+      "title": "U.S. troops injured in attack on Saudi base as the war reaches one month",
+      "summary": "Iranian forces hit a Saudi air base housing US troops, wounding several American service members as the month-old Iran war escalates beyond direct US-Israeli strikes.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month",
+      "importance": "high",
+      "pubDate": "Sat, 28 Mar 2026 05:38:20 -0400"
+    },
+    {
+      "title": "Hundreds of organised protests show resilience of Iranian regime, experts say",
+      "summary": "Iran's regime organized over 850 pro-government rallies since the war began while arresting at least 1,400 people — classic authoritarian playbook of manufactured support plus repression.",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/28/iran-pro-regime-demonstrations-detained-people",
+      "importance": "medium",
+      "pubDate": "Sat, 28 Mar 2026 09:00:24 GMT"
+    },
+    {
+      "title": "One month into Iran war, some Trump objectives are unfulfilled as he looks to wind down the conflict",
+      "summary": "Trump is looking to wind down the Iran war after a month of fighting that hasn't achieved his initial objectives — turns out regime change is harder than campaign rallies.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/trump-iran-objectives-one-month-1a32141f5ca2104af78625b3aa277421",
+      "importance": "high",
+      "pubDate": "Sat, 28 Mar 2026 07:53:02 +0000"
+    },
+    {
+      "title": "Israel says it intercepted first incoming missile from Yemen as war in Middle East intensifies",
+      "summary": "Israel intercepted its first missile from Yemen since the Iran war started, marking the Houthis' entry into the expanding regional conflict.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-28-2026-0f919596403d2f851196451f4532717e",
+      "importance": "high",
+      "pubDate": "Sat, 28 Mar 2026 07:53:02 +0000"
+    },
+    {
+      "title": "Trump claims Iran wants to ‘make a deal’",
+      "summary": "Trump claims Iran wants to \"make a deal\" — the same guy who tore up the last Iran deal now thinks bombing them will bring them to the table.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 28 Mar 2026 07:34:15 +0000"
+    },
+    {
+      "title": "Yemen’s Houthis launch first attack on Israel since outbreak of conflict, as Rubio says war to end in ‘weeks’",
+      "summary": "Yemen's Houthis fired ballistic missiles at Israeli military sites while Secretary Rubio promised the war will end in \"weeks\" — we'll see about that timeline.",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio",
+      "importance": "high",
+      "pubDate": "Sat, 28 Mar 2026 05:56:41 GMT"
+    },
+    {
+      "title": "Gulf countries warn of rising threat from Iran-backed militias and proxies",
+      "summary": "Gulf states are warning that Iran may activate sleeper cells across the Middle East as the conflict widens beyond direct military strikes.",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/28/gulf-countries-threat-iran-backed-militias-proxies-war-us-israel-middle-east",
+      "importance": "high",
+      "pubDate": "Sat, 28 Mar 2026 05:00:19 GMT"
+    },
+    {
+      "title": "Uproar in Bahrain after detainee dies in police custody",
+      "summary": "A 32-year-old detained for opposing the Iran war died in Bahraini police custody, adding domestic repression to the regional chaos.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 28 Mar 2026 04:54:23 +0000"
+    },
+    {
+      "title": "UAE targeted with missiles and drones – as it happened",
+      "summary": "UAE was targeted with missiles and drones while India slashed fuel taxes to cushion consumers from war-driven energy price spikes.",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
       "importance": "high",
-      "pubDate": "Fri, 27 Mar 2026 11:21:52 GMT"
+      "pubDate": "Sat, 28 Mar 2026 02:35:08 GMT"
     },
     {
-      "title": "‘My heart burns with pain’: Iranian mother tells UN of Minab school attack",
-      "summary": "Iranian mother Mohaddeseh Fallahat told the UN Human Rights Council about losing two children in the Minab school attack, alongside Iran's foreign minister addressing the body.",
+      "title": "Intense bombing in Tehran, Isfahan",
+      "summary": "US-Israeli airstrikes hit Tehran and Isfahan early morning, sending black smoke over both Iranian cities as the bombing campaign continues.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/27/my-heart-burns-with-pain-iranian-mother-tells-un-of-minab-school-attack?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 27 Mar 2026 10:48:47 +0000"
-    },
-    {
-      "title": "Ukraine signs deal with Saudi Arabia offering drone expertise",
-      "summary": "Ukraine signed a deal offering Saudi Arabia drone expertise, with Zelensky noting both countries face similar Iranian attacks.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 27 Mar 2026 10:15:27 GMT"
-    },
-    {
-      "title": "India lowers fuel taxes, says rumours of lockdown ‘completely false’",
-      "summary": "India cut fuel taxes and denied lockdown rumors as the world's third-largest crude importer scrambles with Iran war-related shortages.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/27/india-slashes-petrol-diesel-import-taxes-as-fuel-prices-remain-high?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 27 Mar 2026 09:50:01 +0000"
-    },
-    {
-      "title": "Rubio heads to Europe to try garner support for Iran war",
-      "summary": "Secretary of State Marco Rubio heads to the G7 meeting in France today to pitch reluctant allies on supporting Trump's Iran war.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss",
       "importance": "high",
-      "pubDate": "Fri, 27 Mar 2026 05:49:02 -0400"
+      "pubDate": "Sat, 28 Mar 2026 02:27:33 +0000"
     },
     {
-      "title": "Iran emergency workers search for survivors after deadly US-Israel attacks",
-      "summary": "Iran reports nearly 2,000 war dead as rescue teams search rubble from latest US-Israeli strikes that killed six in Qom.",
+      "title": "Iran war live: US-Israeli war on Iran widens with first attack from Yemen",
+      "summary": "Iranian Red Crescent reports over 92,600 civilian buildings damaged in US-Israeli strikes as Yemen joins the expanding war.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss",
       "importance": "high",
-      "pubDate": "Fri, 27 Mar 2026 08:45:24 +0000"
+      "pubDate": "Sat, 28 Mar 2026 00:00:48 +0000"
     },
     {
-      "title": "Saudi Arabia urging US to ramp up Iran attacks, intelligence source confirms",
-      "summary": "Saudi Crown Prince Mohammed bin Salman is privately urging the US to escalate attacks on Iran, viewing the war as a \"historic opportunity\" to remake the Middle East.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/27/saudi-arabia-us-iran-attacks-mohammed-bin-salman",
-      "importance": "high",
-      "pubDate": "Fri, 27 Mar 2026 08:16:46 GMT"
-    },
-    {
-      "title": "Israeli opposition leader rails against ‘multi-front war without strategy’",
-      "summary": "Israeli opposition leader Yair Lapid slammed the government's \"multi-front war without strategy,\" saying military forces are \"stretched to the limit and beyond.\"",
+      "title": "Rescue workers rush to save lives after south Tehran missile strike",
+      "summary": "Rescue workers are digging survivors and bodies from a building hit by missiles in south Tehran — the human cost of Trump's \"precision\" campaign.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/3/27/israeli-opposition-leader-rails-against-multi-front-war-without-strategy?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 27 Mar 2026 07:42:44 +0000"
-    },
-    {
-      "title": "Iran bans sports teams from travelling to ‘hostile’ countries amid war",
-      "summary": "Iran banned its sports teams from traveling to \"hostile\" countries for security reasons, affecting a scheduled game between Iranian and Emirati clubs in Saudi Arabia.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss",
-      "importance": "low",
-      "pubDate": "Fri, 27 Mar 2026 07:25:59 +0000"
-    },
-    {
-      "title": "US Treasury plans to put Trump’s signature on new paper currency in first for sitting president",
-      "summary": "The US Treasury plans to put Trump's signature on new paper currency, marking the first time a sitting president's signature will appear on American money.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-currency-signiture-treasury-first-d919877e39f907eba1172a07920ea80e",
-      "importance": "low",
-      "pubDate": "Fri, 27 Mar 2026 07:23:02 +0000"
-    },
-    {
-      "title": "Somali children are ‘on the edge’ as hunger spreads. UNICEF says Iran war has worsened the crisis",
-      "summary": "UNICEF says the Iran war has worsened Somalia's hunger crisis, with children \"on the edge\" as food supply disruptions compound existing drought conditions.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/somalia-hungry-children-unicef-iran-war-6783d2d4b41318f88e3d21ae6fb95973",
-      "importance": "medium",
-      "pubDate": "Fri, 27 Mar 2026 07:23:02 +0000"
+      "pubDate": "Fri, 27 Mar 2026 23:28:03 +0000"
     }
   ]
 }
