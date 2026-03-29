@@ -1,105 +1,209 @@
 {
-  "generated": "2026-03-28T11:21:45.334Z",
-  "date": "Saturday, March 28, 2026",
-  "storyCount": 12,
+  "generated": "2026-03-29T11:21:58.687Z",
+  "date": "Sunday, March 29, 2026",
+  "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "U.S. troops injured in attack on Saudi base as the war reaches one month",
-      "summary": "Iranian forces hit a Saudi air base housing US troops, wounding several American service members as the month-old Iran war escalates beyond direct US-Israeli strikes.",
+      "title": "Middle East crisis live: Iranian forces waiting for US ground troops to arrive and ‘set them on fire’, warns parliamentary speaker",
+      "summary": "<p>Iranian state media publishes message from Mohammad Bagher Ghalibaf marking 30 days since the start of the war</p><p></p><p>Iran’s foreign minister, Abbas Araghchi, has condemned Israel’s killing of three journalists in Lebanon on Saturday.</p><p>On his Telegram, Araghchi said the killings amount",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 11:14:55 GMT"
+    },
+    {
+      "title": "Trump is contemplating the sheer folly of boots on the ground in Iran. How did it come to this? | Simon Tisdall",
+      "summary": "<p>After the anguish of Iraq and Afghanistan, it’s almost unthinkable the US would again send troops to the Middle East – but its president is desperate and narcissistic</p><p>Concern is justifiably growing that a cornered Donald Trump will <a href=\"https://www.washingtonpost.com/national-security/2",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/29/trump-boots-ground-iran-war-middle-east",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 10:56:06 GMT"
+    },
+    {
+      "title": "Pakistan hosts diplomatic discussions on ending war",
+      "summary": "Foreign ministers from Pakistan, Saudi Arabia, Turkey and Egypt will meet in Islamabad today in an attempt to come up with a plan to de-escalate the Iran war, after another group got involved in the expanding conflict: Yemen's Houthi rebels.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month",
-      "importance": "high",
-      "pubDate": "Sat, 28 Mar 2026 05:38:20 -0400"
-    },
-    {
-      "title": "Hundreds of organised protests show resilience of Iranian regime, experts say",
-      "summary": "Iran's regime organized over 850 pro-government rallies since the war began while arresting at least 1,400 people — classic authoritarian playbook of manufactured support plus repression.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/28/iran-pro-regime-demonstrations-detained-people",
+      "link": "https://www.npr.org/2026/03/29/nx-s1-5765344/pakistan-diplomatic-discussions-iran-war",
       "importance": "medium",
-      "pubDate": "Sat, 28 Mar 2026 09:00:24 GMT"
+      "pubDate": "Sun, 29 Mar 2026 06:08:38 -0400"
     },
     {
-      "title": "One month into Iran war, some Trump objectives are unfulfilled as he looks to wind down the conflict",
-      "summary": "Trump is looking to wind down the Iran war after a month of fighting that hasn't achieved his initial objectives — turns out regime change is harder than campaign rallies.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-iran-objectives-one-month-1a32141f5ca2104af78625b3aa277421",
-      "importance": "high",
-      "pubDate": "Sat, 28 Mar 2026 07:53:02 +0000"
-    },
-    {
-      "title": "Israel says it intercepted first incoming missile from Yemen as war in Middle East intensifies",
-      "summary": "Israel intercepted its first missile from Yemen since the Iran war started, marking the Houthis' entry into the expanding regional conflict.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-28-2026-0f919596403d2f851196451f4532717e",
-      "importance": "high",
-      "pubDate": "Sat, 28 Mar 2026 07:53:02 +0000"
-    },
-    {
-      "title": "Trump claims Iran wants to ‘make a deal’",
-      "summary": "Trump claims Iran wants to \"make a deal\" — the same guy who tore up the last Iran deal now thinks bombing them will bring them to the table.",
+      "title": "Dozens detained in Tel Aviv as anti-war protest turns violent",
+      "summary": "Police in Tel Aviv dispersed protesters opposing the US-Israeli war on Iran on Saturday. Up to 18 people were arrested.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/dozens-detained-in-tel-aviv-as-anti-war-protest-turns-violent?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 28 Mar 2026 07:34:15 +0000"
+      "pubDate": "Sun, 29 Mar 2026 09:30:28 +0000"
     },
     {
-      "title": "Yemen’s Houthis launch first attack on Israel since outbreak of conflict, as Rubio says war to end in ‘weeks’",
-      "summary": "Yemen's Houthis fired ballistic missiles at Israeli military sites while Secretary Rubio promised the war will end in \"weeks\" — we'll see about that timeline.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio",
-      "importance": "high",
-      "pubDate": "Sat, 28 Mar 2026 05:56:41 GMT"
-    },
-    {
-      "title": "Gulf countries warn of rising threat from Iran-backed militias and proxies",
-      "summary": "Gulf states are warning that Iran may activate sleeper cells across the Middle East as the conflict widens beyond direct military strikes.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/mar/28/gulf-countries-threat-iran-backed-militias-proxies-war-us-israel-middle-east",
-      "importance": "high",
-      "pubDate": "Sat, 28 Mar 2026 05:00:19 GMT"
-    },
-    {
-      "title": "Uproar in Bahrain after detainee dies in police custody",
-      "summary": "A 32-year-old detained for opposing the Iran war died in Bahraini police custody, adding domestic repression to the regional chaos.",
+      "title": "Pentagon readies ‘for weeks of US ground operations’ in Iran",
+      "summary": "Uncertainty looms over Trump's approval of the Pentagon's plans for limited ground operations in Iran's strategic regions.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 28 Mar 2026 04:54:23 +0000"
+      "pubDate": "Sun, 29 Mar 2026 09:15:57 +0000"
     },
     {
-      "title": "UAE targeted with missiles and drones – as it happened",
-      "summary": "UAE was targeted with missiles and drones while India slashed fuel taxes to cushion consumers from war-driven energy price spikes.",
+      "title": "Exhausted Palestinians struggle to put lives back together as world’s gaze fixes on Iran",
+      "summary": "<p>Five months after a ceasefire was announced in Gaza, airstrikes are still killing civilians and the humanitarian situation remains dire</p><p>There is little left that connects Palestinians in Gaza with their prewar existence. The contours of life have become darker and far more brutal, as if the",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
-      "importance": "high",
-      "pubDate": "Sat, 28 Mar 2026 02:35:08 GMT"
-    },
-    {
-      "title": "Intense bombing in Tehran, Isfahan",
-      "summary": "US-Israeli airstrikes hit Tehran and Isfahan early morning, sending black smoke over both Iranian cities as the bombing campaign continues.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss",
-      "importance": "high",
-      "pubDate": "Sat, 28 Mar 2026 02:27:33 +0000"
-    },
-    {
-      "title": "Iran war live: US-Israeli war on Iran widens with first attack from Yemen",
-      "summary": "Iranian Red Crescent reports over 92,600 civilian buildings damaged in US-Israeli strikes as Yemen joins the expanding war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss",
-      "importance": "high",
-      "pubDate": "Sat, 28 Mar 2026 00:00:48 +0000"
-    },
-    {
-      "title": "Rescue workers rush to save lives after south Tehran missile strike",
-      "summary": "Rescue workers are digging survivors and bodies from a building hit by missiles in south Tehran — the human cost of Trump's \"precision\" campaign.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
+      "link": "https://www.theguardian.com/world/2026/mar/29/exhausted-palestinians-struggle-ceasefire-gaza-iran-israel-us-war-humanitarian-crisis",
       "importance": "medium",
-      "pubDate": "Fri, 27 Mar 2026 23:28:03 +0000"
+      "pubDate": "Sun, 29 Mar 2026 09:12:04 GMT"
+    },
+    {
+      "title": "US-Israel war on Iran: What’s happening on day 30 of attacks?",
+      "summary": "Foreign ministers from Pakistan, Turkiye, Egypt and Saudi Arabia hold talks in Islamabad to end US-Israel war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 08:54:04 +0000"
+    },
+    {
+      "title": "Analyst says that Iran’s interest is in an extended war",
+      "summary": "Rob Geist-Pinfold, says that the United States has an interest in ending the war while Tehran is likely to prolong it.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/29/analyst-says-that-irans-interest-is-in-an-extended-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 08:44:59 +0000"
+    },
+    {
+      "title": "Living in the dark: Gaza’s struggle for electricity",
+      "summary": "War has shattered Gaza’s power grid, forcing families to rely on generators and private charging points.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/3/29/living-in-the-dark-gazas-struggle-for-electricity?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 08:21:13 +0000"
+    },
+    {
+      "title": "Pakistan hosts top Saudi, Turkish, Egyptian diplomats over war in Iran",
+      "summary": "Talks are under way in Islamabad, as the Pakistani government acts as mediator between the US and Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-top-saudi-turkish-egyptian-diplomats-over-war-in-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 08:11:52 +0000"
+    },
+    {
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 07:51:04 GMT"
+    },
+    {
+      "title": "Lebanese resident stays behind with pet monkey despite evacuation orders",
+      "summary": "A Lebanese man has refused to leave Tyre in southern Lebanon, staying with his pet monkey despite evacuation orders.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-resident-stays-behind-with-pet-monkey-despite-evacuation-orders?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 07:31:17 +0000"
+    },
+    {
+      "title": "Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities",
+      "summary": "Iran targets Aluminium Bahrain, Emirates Global Aluminium in retaliation for US-Israeli attacks on its infrastructure.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/29/irans-irgc-claim-attacks-on-uae-bahrain-facilities-linked-to-us-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 07:30:22 +0000"
+    },
+    {
+      "title": "‘Trump has to open the Strait of Hormuz’ with ground forces",
+      "summary": "Kenneth Katzman says US war objectives in Iran that cannot be met with air power can be met with a ground invasion.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/29/trump-has-to-open-the-strait-of-hormuz-with-ground-forces?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 07:15:40 +0000"
+    },
+    {
+      "title": "Thick plumes of smoke rise over Iraq’s Mosul after strikes",
+      "summary": "Thick plumes of smoke rise over Mosul after air strikes targeted sites belonging to Iraq’s Popular Mobilisation Forces.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/thick-plumes-of-smoke-rise-over-iraqs-mosul-after-strikes?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 07:15:19 +0000"
+    },
+    {
+      "title": "Toddler rescued after US-Israeli strike on Iran",
+      "summary": "Rescue teams from the Iranian Red Crescent rescued a toddler from a destroyed building after a US-Israeli strike.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/toddler-rescued-after-us-israeli-strike-on-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 07:14:59 +0000"
+    },
+    {
+      "title": "Israeli strikes and US troop buildup put Pakistan’s peacemaker role under pressure",
+      "summary": "<p>Islamabad is attempting high-wire diplomacy between US and Iran, but Israel could spoil any chance of success </p><p>Intensifying Israeli bombing of civilian targets in Iran and an expanding US military force in the Gulf are casting a dark shadow over Pakistan’s hopes of hosting peace talks betwe",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/29/israeli-strikes-us-troop-buildup-pakistan-peacemaker-role-under-pressure",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 06:00:48 GMT"
+    },
+    {
+      "title": "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle",
+      "summary": "Former two-time champion loses his fourth straight bout after being stopped by Pyfer in the second round.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/3/29/israel-adesanya-knocked-out-by-joe-pyfer-at-ufc-fight-night-in-seattle?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 05:57:46 +0000"
+    },
+    {
+      "title": "What happens in the occupied West Bank under the shadow of the Iran war",
+      "summary": "Since Israel went to war with Iran, settler violence in the occupied West Bank has surged.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 04:34:31 +0000"
+    },
+    {
+      "title": "As war on Iran enters second month, Yemen’s Houthis open new front",
+      "summary": "The Yemeni group pledges more attacks on Israel as fears mount that the worsening conflict will spiral out of control.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 00:59:21 +0000"
+    },
+    {
+      "title": "Houthi forces enter Iran conflict with missile attacks on Israeli military sites",
+      "summary": "<p>Escalation represents dangerous spread of war and brings threat of even more damage to the global economy</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon\">Middle East",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 00:00:40 GMT"
+    },
+    {
+      "title": "Iran war live: Pakistan, Turkiye, Egypt, Saudi seek to de-escalate",
+      "summary": "Push for diplomacy as Iran threatens retaliatory attacks on Israeli, US universities in the Middle East.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 29 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Key moments in first month of US-Israeli war on Iran",
+      "summary": "One month after US and Israel launched strikes on Iran, the conflict has escalated across the Middle East.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 28 Mar 2026 22:50:55 +0000"
+    },
+    {
+      "title": "Air strikes in Iraq kill three PMF fighters, two police",
+      "summary": "Iraq turning into 'expanding battleground' in war, which began on February 28 with US-Israeli strikes on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 28 Mar 2026 22:32:05 +0000"
+    },
+    {
+      "title": "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference",
+      "summary": "Iranian opposition leader calls on Trump administration to 'stay the course' as the US and Israel wage war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 28 Mar 2026 22:05:31 +0000"
     }
   ]
 }
