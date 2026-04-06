@@ -1,209 +1,209 @@
 {
-  "generated": "2026-04-05T11:22:53.869Z",
-  "date": "Sunday, April 5, 2026",
+  "generated": "2026-04-06T11:41:48.154Z",
+  "date": "Monday, April 6, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Iran says at least five people killed by US-Israeli attacks during US pilot rescue operation",
-      "summary": "<p>Trump says ‘not a single American’ was killed during rescue of second crew member from F-15 fighter jet</p><p><strong>Iranian media has claims that</strong> <strong>a US aircraft was destroyed while searching for the crew member of a missing US F-15 fighter jet</strong>.</p><p>“An American enemy ",
+      "title": "Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz",
+      "summary": "<p>US and Iran reportedly receive proposal for a potential 45-day ceasefire; IRGC says Majid Khademi was killed early on Monday</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/05/trump-warns-iran-to-reopen-strait-of-hormuz-by-tuesday-or-face-hell\">Trump warns Iran to reopen strait ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 11:38:10 GMT"
+    },
+    {
+      "title": "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work?",
+      "summary": "Mediators Pakistan, Turkiye and Egypt are proposing a 45-day ceasefire plan. But Iran is reluctant.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/6/trumps-bridge-day-threat-can-a-last-ditch-ceasefire-plan-work?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 11:12:53 +0000"
+    },
+    {
+      "title": "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
+      "summary": "Trump threatened to bomb Iran's power plants and bridges unless it opens the Strait of Hormuz. And, NASA's Artemis II crew prepares to make its closest approach to the moon.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/04/06/g-s1-116535/up-first-newsletter-trump-strait-of-hormuz-artemis-two-lunar-flyby-savannah-nancy-guthrie-ada",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 06:55:28 -0400"
+    },
+    {
+      "title": "Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut",
+      "summary": "The Israeli military launches new attacks on Beirut, southern Lebanon as humanitarian crisis deepens.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 10:45:58 +0000"
+    },
+    {
+      "title": "Was Trump oblivious to the realities of Netanyahu’s promised ‘easy’ war on Iran?",
+      "summary": "<p>Senior US officials consider the PM’s pitch to have been overblown, creating potentially far-reaching consequences for Israel</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel\">Middle East crisis – live updates</a></p",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/apr/06/trump-iran-war-netanyahu-israel",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 10:38:12 GMT"
+    },
+    {
+      "title": "Iran pushes back against Trump's deadline",
+      "summary": "Iran's top officials pushed back against President Trump's deadline to open the Strait of Hormuz, striking a defiant tone as the warring sides traded missile attacks.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 06:19:32 -0400"
+    },
+    {
+      "title": "How Middle East conflict is infiltrating the tight US Senate race in Michigan",
+      "summary": "<p>Heated discourse over Israel and influencer Hasan Piker has created cracks between progressive and establishment Democratic candidates in key swing state</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-y",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/apr/06/michigan-senate-race-democrats",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 10:00:17 GMT"
+    },
+    {
+      "title": "World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney",
+      "summary": "Graham Arnold was received by jubilant Iraqi fans upon his return to Australia after a successful qualification campaign.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/4/6/world-cup-qualification-earns-iraq-coach-arnold-a-heros-welcome-in-sydney?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 09:53:26 +0000"
+    },
+    {
+      "title": "Up to 1.2 million people forced to flee as Israel pummels Lebanon",
+      "summary": "Families face repeated trauma as Israeli attacks displace nearly 1.2 million, many for the second time in recent months.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/4/6/israeli-airstrikes-devastate-lebanese-villages-and-displace-millions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 09:45:16 +0000"
+    },
+    {
+      "title": "Iraqis give rousing welcome to coach behind historic World Cup return",
+      "summary": "Iraqis in Sydney turned out in full force to welcome coach Graham Arnold as he returned to Australia.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/iraqis-give-rousing-welcome-to-coach-behind-historic-world-cup-return?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 09:36:36 +0000"
+    },
+    {
+      "title": "A Russian attack kills 3 in Odesa while Ukraine targets Russian oil infrastructure, officials say",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/683633a/2147483647/strip/true/crop/5701x3799+4+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F21%2Ff571539202520370f4a459064943%2Fb0c852bfa16547019fc0e5ae9728d4d4\" width=\"100%\"><small style=\"color: #999;\">A rescue worker walks",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-odesa-drones-oil-e455aee8c725ef624bf23ddf1542c523",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 09:23:02 +0000"
+    },
+    {
+      "title": "Families fleeing Israeli attacks take refuge in Lebanon’s mountains",
+      "summary": "Over one million people displaced across Lebanon as Israel escalates military campaign with air raids, ground invasion.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/6/families-fleeing-israeli-attacks-take-refuge-in-lebanon-mountains?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 09:21:57 +0000"
+    },
+    {
+      "title": "Yemen’s civilians fear fallout after Houthis enter Iran war",
+      "summary": "Fears of air strikes and rising prices dominate everyday life in Sanaa as Yemen becomes embroiled in regional conflict.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/6/yemens-civilians-fear-fallout-after-houthis-enter-iran-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 09:10:31 +0000"
+    },
+    {
+      "title": "Trump says US armed Iranian dissidents via Kurds, Kurdish groups deny claim",
+      "summary": "Trump's admission gives credence to Iranian assertion that the January protests were backed by the West to create chaos.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-armed-iranian-dissidents-via-kurds-kurdish-groups-deny-claim?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 09:10:17 +0000"
+    },
+    {
+      "title": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
+      "summary": "Tehran says it will respond 'in kind' to attacks on its infrastructure, accuses Trump of inciting 'war crimes'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/6/irans-top-university-bombed-as-us-israel-intensify-attacks-34-killed?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 08:31:35 +0000"
+    },
+    {
+      "title": "Iran war: What is happening on day 38 of US-Israeli attacks?",
+      "summary": "Tensions continue after Trump's threat on Truth Social for Iran to reopen the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 08:01:40 +0000"
+    },
+    {
+      "title": "A new regional order for the Strait of Hormuz",
+      "summary": "The GCC and Iran can come up with a new security architecture for the Strait of Hormuz that can give Trump an off-ramp.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 05:40:17 +0000"
+    },
+    {
+      "title": "Trump’s chaotic war on Iran has dragged into its sixth week because he is fighting an adversary he doesn’t understand | Nesrine Malik",
+      "summary": "<p>Ignorance and arrogance were his drivers. The idea that the regime plays by different rules, with its own goals, never occurred to him</p><p>Five weeks. We are now five weeks in and entering the sixth week of the war on Iran. What was <a href=\"https://www.whitehouse.gov/releases/2026/03/peace-thr",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/06/donald-trump-us-israel-war-iran-sixth-week",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 05:00:10 GMT"
+    },
+    {
+      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+      "summary": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 06 Apr 2026 04:56:03 GMT"
+    },
+    {
+      "title": "At least 15 killed in strikes on Lebanon – as it happened",
+      "summary": "<p>This blog has now closed. Our live coverage of the US-Israel war on Iran continues <a href=\"https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel\">here</a></p><p><strong>Iranian media has claims that</strong> <strong>a US aircraft was destroyed",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
       "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 11:21:51 GMT"
+      "pubDate": "Mon, 06 Apr 2026 03:54:41 GMT"
     },
     {
-      "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
-      "summary": "Drivers lined up for free gas in Chicago as fuel prices surge, driven by the US-Israeli war on Iran.",
+      "title": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
+      "summary": "Diesel prices have more than doubled in the Southeast Asian nation amid Iran's blockade of the Strait of Hormuz.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
+      "link": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 11:08:14 +0000"
+      "pubDate": "Mon, 06 Apr 2026 01:14:00 +0000"
     },
     {
-      "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
-      "summary": "The second pilot from the fighter jet shot down in Iran is rescued by US rescue forces after 48 hours.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
+      "title": "Trump news at a glance: president accused of ‘threatening possible war crimes’ in Iran post",
+      "summary": "<p>Chuck Schumer accuses president of ‘ranting like unhinged madman’ in threat to obliterate Iran’s power plants and bridges. Key US politics stories from 5 April</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel\">Middle",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-news-updates-social-media-post-today",
       "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 10:10:50 +0000"
+      "pubDate": "Mon, 06 Apr 2026 01:07:52 GMT"
     },
     {
-      "title": "What we know so far about rescue of US airman in Iran",
-      "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+      "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
+      "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 10:07:16 GMT"
+      "pubDate": "Mon, 06 Apr 2026 00:23:16 GMT"
     },
     {
-      "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
-      "summary": "CCTV footage circulated online shows the moment that an Israeli military dog attacks a worshipper leaving a mosque",
+      "title": "Iran war live: Tehran says response to ceasefire proposals formulated",
+      "summary": "Iran says no direct talks during escalating US-Israeli attacks as Trump's Hormuz deadline nears.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 10:04:23 +0000"
+      "pubDate": "Mon, 06 Apr 2026 00:00:00 +0000"
     },
     {
-      "title": "In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted",
-      "summary": "Lebanon says at least 54 health workers are among more than 1,400 people killed by Israel during the current invasion. Human rights groups say first responders are being targeted — something Israel denies.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/05/nx-s1-5763606/lebanon-medics-killed-targeted-israel",
+      "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
+      "summary": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 06:00:00 -0400"
-    },
-    {
-      "title": "US rescues second crew member of downed F-15E fighter jet from Iran",
-      "summary": "<p>The rescue of the air man from the F-15E fighter jet was announced by Donald Trump in a late night social media post</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed\">Middle East crisis – ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 09:56:36 GMT"
-    },
-    {
-      "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
-      "summary": "Bahrain and the UAE also reported attacks resulting in fires, which were put out quickly.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 08:52:22 +0000"
-    },
-    {
-      "title": "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
-      "summary": "UNRWA's mandate to provide for Palestinian refugees makes it a direct threat to the Israeli genocidal project.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 08:40:26 +0000"
-    },
-    {
-      "title": "A long Mideast war could take away from support for Ukraine, Zelenskyy tells the AP",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/69cab7a/2147483647/strip/true/crop/4665x3108+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2Fb3%2F7589a3b6a5ab473032b7b8531e4c%2Fcf337ceb932b4596a057bae963e2f630\" width=\"100%\"><small style=\"color: #999;\">Ukraine&#x27;s Presid",
-      "source": "AP News",
-      "link": "https://apnews.com/article/zelenskyy-russia-ukraine-iran-patriot-missiles-584e73848c0ca1008824c399b8026487",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 08:23:02 +0000"
-    },
-    {
-      "title": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
-      "summary": "Protesters chant against the US and Israel, urging the global community to confront their actions in the Middle East.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/4/5/thousands-rally-in-iraq-against-us-israeli-regional-aggression?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 08:06:38 +0000"
-    },
-    {
-      "title": "Trump seeks to end the war without it becoming ‘an abject failure’",
-      "summary": "Barbara Slavin of the Stimson Center says Trump misread the situation in Iran and now scrambles for a way out.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-seeks-to-end-the-war-without-it-becoming-an-abject?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 07:58:05 +0000"
-    },
-    {
-      "title": "Under Israeli restrictions, Palestinian Christians mark quiet Holy Week",
-      "summary": "Israeli restrictions disrupt Jerusalem's Holy Week, leaving the Christian Quarter deserted and businesses shuttered.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/4/5/under-israeli-restrictions-palestinian-christians-mark-quiet-holy-week?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 07:49:46 +0000"
-    },
-    {
-      "title": "Iran war: What is happening on day 37 of US-Israeli attacks?",
-      "summary": "A US crew member who has been missing since Iran shot down a fighter jet has been rescued, President Donald Trump says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 07:45:48 +0000"
-    },
-    {
-      "title": "Yemen’s Houthis claim cluster missile attack on Israel’s Ben Gurion airport",
-      "summary": "Yemen’s Houthi military spokesman has claimed responsibility for a strike on Israel’s Ben Gurion airport in Jaffa.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/yemens-houthis-claim-cluster-missile-attack-on-israels-ben-gurion-airport?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 07:45:37 +0000"
-    },
-    {
-      "title": "A fire has broken out at a petrochemicals plant in the UAE following an attack",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/6bfdd34/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F6c%2F8318660673cf274aaf6f48d445df%2Fbe11f46859cd4aecaa028adf7dab9d9f\" width=\"100%\"><small style=\"color: #999;\">A man looks at a dest",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 06:53:02 +0000"
-    },
-    {
-      "title": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms",
-      "summary": "Iran claims another US aircraft involved in the rescue of the F-15 fighter pilot has been shot down.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/5/us-rescues-airman-whose-f-15-was-downed-in-iran-trump-confirms?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 06:51:57 +0000"
-    },
-    {
-      "title": "Trump says U.S. military has rescued airman shot down over Iran",
-      "summary": "A U.S. Airforce officer whose plane was shot down in Iran was rescued by U.S. forces early Sunday after evading capture for more than a day in enemy territory, President Trump announced on social media.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/05/nx-s1-5774368/iran-war-updates",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 01:53:55 -0400"
-    },
-    {
-      "title": "Trump’s unpopular war on Iran",
-      "summary": "Most Americans oppose the US-Israel war on Iran. ​​No recent US war has ever started off being this unpopular.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 05:07:35 +0000"
-    },
-    {
-      "title": "A strategy ‘to make life intolerable’: Israeli settlers are driving Christians out of West Bank",
-      "summary": "<p>The Taybeh community has survived crusaders and the Ottoman and British empires, but the latest attacks leave its future in question</p><p>Taybeh, a small hilltop town in the heart of the West Bank is one of the oldest Christian communities in the world. After increasing attacks from Israeli sett",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/05/israeli-settlers-driving-christians-out-west-bank",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 05:00:43 GMT"
-    },
-    {
-      "title": "‘I was beaten and tortured’: how a British father and son made a fortune in Dubai then became wanted men",
-      "summary": "<p>As the Middle East is drawn into war, expats and influencers are under pressure to only share the positive side of the UAE. In reality many are at risk of being put behind bars, and often find the UK government has little interest in helping them get out</p><p>A four-metre barbed-wire fence runs ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/05/british-father-son-dubai-fortune-wanted-men-prison-beaten-tortured",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 05:00:42 GMT"
-    },
-    {
-      "title": "Netanyahu confirms attack on petrochemical plant– as it happened",
-      "summary": "<p>This live blog is now closed. Our coverage of the Middle East crisis continues <a href=\"https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed\">here</a></p><p><strong>Iran has executed two men convicted of membership ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 02:49:50 GMT"
-    },
-    {
-      "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
-      "summary": "Tehran says Iraq will face no restrictions in waterway, praising country's 'struggle' against the US.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 02:14:52 +0000"
-    },
-    {
-      "title": "US satellite firm Planet Labs announces blackout on war on Iran images",
-      "summary": "Company says move amid US-Israel war on Iran comes after a request from the US government.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 01:13:40 +0000"
-    },
-    {
-      "title": "Iran war live: Iran claims downing of 2 US planes; Hormuz ‘deadline’ looms",
-      "summary": "Tehran says it shoots down two C-130 planes and two Blackhawk helicopters belonging to the US.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Apr 2026 00:00:00 +0000"
+      "pubDate": "Sun, 05 Apr 2026 21:30:19 GMT"
     }
   ]
 }
