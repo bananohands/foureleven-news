@@ -1,209 +1,209 @@
 {
-  "generated": "2026-04-12T11:27:39.687Z",
-  "date": "Sunday, April 12, 2026",
+  "generated": "2026-04-13T11:59:02.257Z",
+  "date": "Monday, April 13, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Haitians cut back on already scarce food and ask how they’ll survive rising fuel prices",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/cc8021b/2147483647/strip/true/crop/8552x5698+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2F32%2F99c8d73ce3f71af6c0049c6aac43%2F9c69782dd7b54713a0c3141e17218d87\" width=\"100%\"><small style=\"color: #999;\">Gas station employees",
-      "source": "AP News",
-      "link": "https://apnews.com/article/haiti-oil-prices-food-gas-transportation-iran-6ec63f1dd3a2ed106555dfe73fe383a6",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 10:53:02 +0000"
-    },
-    {
-      "title": "Iran war diverts US military and attention from Asia ahead of Trump’s summit with China’s leader",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/0645188/2147483647/strip/true/crop/3000x1999+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2F3a%2Fbddeb102cbecd380feb2a84fd427%2F1aa04af506d74501a5ba0dc4c7674887\" width=\"100%\"><small style=\"color: #999;\">In this photo provide",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-war-asia-china-trump-xi-44891d1bdf2c6b47acc766a8faf69ec6",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 10:53:02 +0000"
-    },
-    {
-      "title": "A Hezbollah commander describes battling Israel in Lebanon",
-      "summary": "In a rare interview, a wounded Hezbollah commander tells NPR about his secretive Shia Muslim militia's new command structure and how it has managed to keep firing rockets into northern Israel.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 06:02:00 -0400"
-    },
-    {
-      "title": "No Deal: U.S.-Iran peace talks in Islamabad collapse",
-      "summary": "The United States and Iran failed to reach an agreement after a day of highly anticipated face-to-face peace talks, Washington's lead negotiator Vice President J.D. Vance announced on Sunday.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 05:40:24 -0400"
-    },
-    {
-      "title": "More than 500 people arrested at London rally for Palestine Action",
-      "summary": "Protest organisers accuse UK government of complicity in Gaza genocide as arrests made at Trafalgar Square rally.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 09:36:42 +0000"
-    },
-    {
-      "title": "What happened in 40 days of war on Iran",
-      "summary": "Who got hit in the war on Iran? The attacks, the damage and the people caught in between.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 08:09:55 +0000"
-    },
-    {
-      "title": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-      "summary": "US-Iran talks in Islamabad end without a deal, with each side blaming the other for the failure.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 08:07:31 +0000"
-    },
-    {
-      "title": "Pakistan urges US and Iran to uphold ceasefire after talks end",
-      "summary": "Pakistani Foreign Minister Ishaq Dar has insisted the US and Iran must uphold their ceasefire agreement.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 05:25:00 +0000"
-    },
-    {
-      "title": "US and Iran fail to reach a deal after marathon talks in Pakistan",
-      "summary": "US VP JD Vance says Iran chose not to accept US terms, while Iran says it did not expect a deal at the first meeting.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 05:19:04 +0000"
-    },
-    {
-      "title": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
-      "summary": "Three supertankers laden with oil exit waterway amid global energy crunch, shipping data shows.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 05:00:33 +0000"
-    },
-    {
-      "title": "Why did US-Iran talks end without an agreement in Pakistan?",
-      "summary": "Despite high-level talks for the first time in years, the US and Iran couldn't reach agreement on terms to end the war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 04:47:32 +0000"
-    },
-    {
-      "title": "‘Everything is gone’: Israel destroys entire villages in Lebanon",
-      "summary": "<p>Rights groups fear tactic of ‘domicide’ trialled in Gaza, where entire areas are made uninhabitable, is being used again </p><p>The Israeli military has demolished entire villages as part of its invasion of south Lebanon, rigging homes with explosives and razing them to the ground in massive remo",
+      "title": "Middle East crisis live: US blockade of Iran’s ports to begin today as Pope Leo says he has ‘no intention to debate’ Trump over war",
+      "summary": "<p>Centcom says blockade to begin at 10am ET; pontiff says he will not respond to US president’s scathing attack</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/12/trump-says-us-will-blockade-strait-of-hormuz-as-iran-peace-talks-fail\">Full report: Trump says US will blockade strait",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destroyed-entire-villages-in-lebanon",
+      "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
       "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 04:00:07 GMT"
+      "pubDate": "Mon, 13 Apr 2026 11:46:30 GMT"
     },
     {
-      "title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
-      "summary": "US Vice President JD Vance is leaving Pakistan, saying Tehran chose not to accept their ‘final and best offer’.",
+      "title": "Why is the US threatening to block Iranian ports and how would it work?",
+      "summary": "<p>Announcement has left markets in yet more uncertainty, with questions over how blockade will be enforced</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates\">Middle Eas",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/apr/13/strait-of-hormuz-blockade-what-why-explained-navy-trump-iran",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 11:38:31 GMT"
+    },
+    {
+      "title": "Tear gas fired at Indian workers demanding higher wage as living costs rise",
+      "summary": "Factory workers protest in national capital's suburb of Noida as living costs across the world rise due to the Iran war.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 03:32:04 +0000"
+      "pubDate": "Mon, 13 Apr 2026 11:35:21 +0000"
     },
     {
-      "title": "US delegation leaves Pakistan without reaching Iran deal",
-      "summary": "US Vice President JD Vance says the US delegation has failed to reach an agreement with Iran.",
+      "title": "How the US-Iran talks in Islamabad unfolded",
+      "summary": "Pakistan has been under the spotlight as it managed what others couldn’t due to its ties with the Gulf, US and China.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 03:28:05 +0000"
+      "pubDate": "Mon, 13 Apr 2026 11:21:05 +0000"
     },
     {
-      "title": "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says",
-      "summary": "In interview with Al Jazeera, International Maritime Organization chief says world should reject tolls in waterway.",
+      "title": "U.S. military to block ships from Iran's ports after peace talks fail",
+      "summary": "The U.S. Central Command said the blockade would be \"enforced impartially against vessels of all nations\" from 10 a.m. EDT, following the breakdown of talks after 21 hours of negotiations.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 07:03:13 -0400"
+    },
+    {
+      "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
+      "summary": "The US restrictions on maritime navigation and transit in international waters are illegal, Iranian military says.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 03:20:23 +0000"
+      "pubDate": "Mon, 13 Apr 2026 10:52:32 +0000"
     },
     {
-      "title": "Netanyahu next to Middle East map: ‘We strangled them and have more to do’",
-      "summary": "Standing by a map, Israeli Prime Minister Benjamin Netanyahu describes how six countries wanted to strangle us’.",
+      "title": "Israeli forces fire tear gas near Palestinian schoolchildren",
+      "summary": "Israeli forces fired tear gas towards a group of children trying to walk to school in the occupied West Bank.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israeli-forces-fire-tear-gas-near-palestinian-schoolchildren?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 02:09:28 +0000"
+      "pubDate": "Mon, 13 Apr 2026 10:50:04 +0000"
     },
     {
-      "title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-      "summary": "Israel has approved 34 new settlements in the occupied West Bank, Palestinians are terrified they will lose their land.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 00:44:43 +0000"
-    },
-    {
-      "title": "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy",
-      "summary": "Israel says it has reprimanded Spain’s top diplomat in Tel Aviv over the blowing up of an effigy of its Prime Minister.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 00:08:28 +0000"
-    },
-    {
-      "title": "Iran war live: Ghalibaf blames US for failure of Pakistan ceasefire talks",
-      "summary": "Iran's Parliamentary ⁠Speaker Mohammad ⁠Baqer Ghalibaf says the US failed to gain the trust ​of Tehran's delegation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
-      "summary": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
+      "title": "How many ships are crossing the Strait of Hormuz?",
+      "summary": "Four vessels have crossed the Strait of Hormuz ahead of a US military blockade of Iranian ports set to begin on Monday.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sat, 11 Apr 2026 23:13:23 GMT"
+      "pubDate": "Mon, 13 Apr 2026 10:18:02 GMT"
     },
     {
-      "title": "Pakistan hosts historic face-to-face talks between the US and Iran",
-      "summary": "In Pakistan's capital, Islamabad, officials from the US and Iran met to discuss a possible end to the war that's engulfed much of the Middle East.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/11/nx-s1-5779725/pakistan-hosts-historic-face-to-face-talks-between-the-us-and-iran",
+      "title": "Starmer says UK will not support US blockade of Strait of Hormuz",
+      "summary": "Other US allies criticise Trump's move, including France, Spain and Turkiye, and China also condemns the plan.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 11 Apr 2026 17:04:49 -0400"
+      "pubDate": "Mon, 13 Apr 2026 10:15:49 +0000"
     },
     {
-      "title": "What's it like to cover the Ukraine war as the world's attention is focused on Iran?",
-      "summary": "In this week's Reporter's Notebook conversation, we take a closer look at what it's like to cover the war in Ukraine, and how the war in Iran is changing that.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/11/nx-s1-5768193/whats-it-like-to-cover-the-ukraine-war-as-the-worlds-attention-is-focused-on-iran",
+      "title": "How a UK military college sought to distance itself from ban on Israelis",
+      "summary": "Head of defence college asked military official to ensure government took ownership of ban, emails reveal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/13/how-a-uk-military-college-sought-to-distance-itself-from-ban-on-israelis?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 11 Apr 2026 17:04:43 -0400"
+      "pubDate": "Mon, 13 Apr 2026 10:14:12 +0000"
     },
     {
-      "title": "US and Iran hold talks in Islamabad as Pakistan seeks to broker peace deal",
-      "summary": "<p>JD Vance leads American delegation while Iran’s negotiators headed up by Iran’s parliamentary speaker</p><p>Peace talks between <a href=\"https://www.theguardian.com/world/iran\">Iran</a> and the <a href=\"https://www.theguardian.com/us-news\">US</a> began in Islamabad this afternoon, with senior neg",
+      "title": "Pope Leo says he does not fear Trump, citing Gospel as he pushes back in feud over Iran war",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/afb903b/2147483647/strip/true/crop/8256x5501+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2Ff2%2F2f7e810d362c73964a371c3f9c2b%2Fc0224bc9b9cf4c23a0fcd9aa289865b1\" width=\"100%\"><small style=\"color: #999;\">Pope Leo XIV speaks t",
+      "source": "AP News",
+      "link": "https://apnews.com/article/trump-pope-leo-xiv-02f6b4554ea4b83af02af15987ae1f2d",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 09:53:02 +0000"
+    },
+    {
+      "title": "US blockade of Iran would worsen global energy crisis, analysts say",
+      "summary": "While US military says it will blockade Iranian ports only, move would have ripples worldwide, according to analysts.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 09:52:16 +0000"
+    },
+    {
+      "title": "What Benjamin Netanyahu and the Israeli right really mean when they invoke ‘Greater Israel’ | Daniel Levy",
+      "summary": "<p>The concept is about much more than acquiring territory, it is also about Netanyahu’s desire for Israel to become a regional superpower</p><p>• Daniel Levy served as an Israeli peace negotiator at the Oslo II talks and is president of the US/Middle East project</p><p>Much remains unclear about th",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/11/us-iran-talks-peace-deal-islamabad-pakistan",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/13/benjamin-netanyahu-middle-east-greater-israel",
       "importance": "medium",
-      "pubDate": "Sat, 11 Apr 2026 19:43:09 GMT"
+      "pubDate": "Mon, 13 Apr 2026 09:00:43 GMT"
     },
     {
-      "title": "Pope Leo says 'delusion of omnipotence' is fueling U.S.-Israeli war in Iran",
-      "summary": "In the first weeks of the war, the Chicago-born Leo was initially reluctant to publicly condemn the violence and limited his comments to muted appeals for peace and dialogue. But Leo stepped up his criticism starting on Palm Sunday.",
+      "title": "What Iran is saying about US plan to blockade ports",
+      "summary": "Iran’s military has called US blockade plans in the Strait of Hormuz an “act of piracy”.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-iran-is-saying-about-us-plan-to-blockade-ports?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 08:54:22 +0000"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "President Trump says U.S. will blockade the Strait of Hormuz, failed U.S.-Iran negotiations cause oil prices to surge, Hungary's Viktor Orbán loses reelection bid.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/11/g-s1-117150/pope-leo-us-iran-war-israel-denounce",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5780733/morning-news-brief",
       "importance": "medium",
-      "pubDate": "Sat, 11 Apr 2026 14:16:11 -0400"
+      "pubDate": "Mon, 13 Apr 2026 04:46:04 -0400"
     },
     {
-      "title": "US state department revokes green cards of three Iranian nationals it links to regime",
-      "summary": "<p>Three arrested by federal agents had family ties to Iranian military general, regime spokesperson or security chief</p><p>United States federal agents arrested three <a href=\"https://www.theguardian.com/world/iran\">Iranian</a> nationals – including the son of a revolutionary at the center of the ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/apr/11/state-department-revokes-green-cards-iran-arrests",
+      "title": "Gaza's ceasefire hasn't brought the surge of aid it promised",
+      "summary": "President Trump's ceasefire in Gaza was supposed to ease Israel's blockade, but restrictions on aid remain tight six months later.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5782662/gazas-ceasefire-hasnt-brought-the-surge-of-aid-it-promised",
       "importance": "medium",
-      "pubDate": "Sat, 11 Apr 2026 16:37:22 GMT"
+      "pubDate": "Mon, 13 Apr 2026 04:44:56 -0400"
+    },
+    {
+      "title": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
+      "summary": "Despite the relentless bombing, Sana refuses to flee Tehran, clinging to resilience and fleeting moments of normalcy.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/4/13/refugee-in-my-own-city-surviving-tehrans-bombing-with-my-cat-for-company?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 08:37:23 +0000"
+    },
+    {
+      "title": "Iran war: What is happening on day 45 of the US-Iran conflict?",
+      "summary": "The move to blockade the Strait of Hormuz is the latest escalation in the war after failure to sign peace deal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 07:30:10 +0000"
+    },
+    {
+      "title": "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?",
+      "summary": "Israel's envoy to the US has far-right ties and has engaged in contentious rhetoric during Lebanese peace negotiations.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/13/who-is-israels-us-envoy-leading-negotiations-with-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 07:24:30 +0000"
+    },
+    {
+      "title": "European leaders celebrate Péter Magyar’s victory in a stunning Hungarian election",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/0694496/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2F7b%2Fdc5b22f3232ff722a678aebb6234%2Fda42706c7f934df98e605685056d8d70\" width=\"100%\"><small style=\"color: #999;\">Peter Magyar, leader ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/magyar-eu-brussels-orban-election-ukraine-ea81cfcc269eea44b6645e35a87bf3c2",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 07:23:02 +0000"
+    },
+    {
+      "title": "Pope Leo says he does not fear Trump after attack over Iran peace appeal",
+      "summary": "Leo, ​who last year became the first US-born pope, has emerged as an outspoken critic of the US-Israeli ⁠war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 05:42:51 +0000"
+    },
+    {
+      "title": "Strikes on alleged drug boats kill 5, leave 1 survivor in eastern Pacific, US military says",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e43d104/2147483647/strip/true/crop/2895x1929+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F47%2Fa289929567f8cc16e0b35d67671c%2F6a756ef4ebe74ea7a11898a9ffd72048\" width=\"100%\"><small style=\"color: #999;\">The Pentagon is seen ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/boat-strikes-drug-cartels-latin-america-trump-cacfc0610c0f3c6c7f07231edef43372",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 05:23:01 +0000"
+    },
+    {
+      "title": "US military says it will blockade Iran’s ports as ship traffic appears to halt in Strait of Hormuz",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/49c7682/2147483647/strip/true/crop/4901x3266+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F83%2Fb75e32383a34e4e8a01a03cefd43%2F947d281493ce41ad875bfe1b26c3cc80\" width=\"100%\"><small style=\"color: #999;\">Oil tankers and cargo",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 05:23:01 +0000"
+    },
+    {
+      "title": "Pope Leo says he does not fear Trump, as he pushes back in feud over Iran war",
+      "summary": "President Donald Trump delivered an extraordinary broadside against Pope Leo XIV on Sunday night, saying he didn't think the U.S.-born global leader of the Catholic Church is \"doing a very good job.\"",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 00:11:53 -0400"
+    },
+    {
+      "title": "Israeli strike kills paramedic, says Lebanese Red Cross – as it happened",
+      "summary": "<p>This blog is now closed. Our live coverage <a href=\"https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates\">continues here</a></p><p>A post about an hour ago on the Israel Defense Forces Telegra",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Apr 2026 02:17:11 GMT"
     }
   ]
 }
