@@ -1,209 +1,209 @@
 {
-  "generated": "2026-04-24T11:52:59.579Z",
-  "date": "Friday, April 24, 2026",
+  "generated": "2026-04-25T11:32:49.750Z",
+  "date": "Saturday, April 25, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal",
-      "summary": "<p>US president orders navy to ‘shoot and kill’ boats laying mines in Hormuz and claims ‘total control’ over the strait</p><p>The EU’s foreign chief has said that talks with Iran should include nuclear experts otherwise “we will end up with a more dangerous Iran.”</p><p>Speaking on Friday ahead of a",
+      "title": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
+      "summary": "<p>Elections taking place in the occupied West Bank and also central area of Gaza </p><p>We have some images coming through the newswires of Iran’s foreign minister, <strong>Abbas Araghchi</strong>, speaking with Pakistan’s army chief, Asim Munir, and other officials in Islamabad this morning.</p><p",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 11:15:04 GMT"
+    },
+    {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 10:52:27 GMT"
+    },
+    {
+      "title": "Iran’s Infowar: Lego, AI and ever tightening control",
+      "summary": "The tools and techniques behind Iran’s push in the battle of narratives.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 10:13:07 +0000"
+    },
+    {
+      "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+      "summary": "Palestinians are voting in Gaza’s first municipal elections in 21 years. Around 70,000 people are registered to vote.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 09:55:08 +0000"
+    },
+    {
+      "title": "Top Iranian and Pakistani officials meet in Islamabad",
+      "summary": "Iran’s FM Abbas Araghchi is in Islamabad for talks with Pakistani officials, as US envoys are also set to arrive.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 08:57:17 +0000"
+    },
+    {
+      "title": "Overnight Russian attacks on Ukraine kill five, injure 30",
+      "summary": "Russia launched more than 600 drones and 47 missiles as it targeted eight regions in Dnipro, authorities say.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 08:44:56 +0000"
+    },
+    {
+      "title": "Polls open in Gaza area in first municipal election in 20 years",
+      "summary": "Gaza officials say Deir el-Balah vote is a 'pilot', while occupied West Bank also goes to first polls since 2023 war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 08:37:39 +0000"
+    },
+    {
+      "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
+      "summary": "Ireland will demand that Israeli authorities repay the cost of a school that was demolished by settlers.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 08:06:36 +0000"
+    },
+    {
+      "title": "West Bank scepticism as Palestinians doubt local elections will change much",
+      "summary": "Frustration with the Palestinian Authority and Israeli occupation fuel voter apathy in local West Bank elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 07:16:54 +0000"
+    },
+    {
+      "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
+      "summary": "The Hengli refinery has generated hundreds of millions of dollars for Iran's military, says US Treasury.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 07:10:19 +0000"
+    },
+    {
+      "title": "Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks",
+      "summary": "Iran's Abbas Araghchi arrived in Islamabad on Friday, as the White House confirmed Steve Witkoff and Jared Kushner will travel there Saturday to try to \"move the ball forward towards a deal.\"",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 02:35:21 -0400"
+    },
+    {
+      "title": "Capture of ships by US, Iran violates international law, shipping body says",
+      "summary": "US and Iran should immediately release crews of captured vessels, says International Chamber of Shipping director.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/4/25/capture-of-ships-by-us-iran-violates-international-law-shipping-body-says?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 06:27:56 +0000"
+    },
+    {
+      "title": "Hanged under the cover of war: letters and videos tell stories of Iran’s death row victims",
+      "summary": "<p>Testimony emerges from Babak Alipour, who spent three years on death row before being taken to gallows in March </p><p>Writing from his cell in the Rajai Shahr prison in the northern Iranian city of Karaj, Babak Alipour wanted to tell his friends about those who had already gone to their executio",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/apr/25/hanged-under-the-cover-of-war-letters-and-videos-tell-stories-of-iran-death-row-victims",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 05:00:36 GMT"
+    },
+    {
+      "title": "What’s at stake for Iran and the US in Islamabad?",
+      "summary": "Iran’s foreign minister is in Islamabad, with US envoys also on the way.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 04:30:43 +0000"
+    },
+    {
+      "title": "Israel escalates attacks in Gaza, killing 12 people",
+      "summary": "Israeli forces have killed 12 Palestinians, including six police officers, in multiple attacks across Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 03:23:14 +0000"
+    },
+    {
+      "title": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
+      "summary": "US envoys Steve Witkoff and Jared Kushner will travel to Pakistan, as Iranian FM Abbas Araghchi arrived in Islamabad.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 02:58:01 +0000"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy holds talks in Azerbaijan, Saudi Arabia on ‘security and energy’",
+      "summary": "<p>Ukraine ‘actively developing’ regional security arrangements for defence, food and energy, Zelenskyy says; Russia and Ukraine swap prisoners. What we know on day 1,522</p><p>Ukrainian President Volodymyr Zelenskyy arrived in Azerbaijan on Friday for <strong>talks on “security and energy”</strong>",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/apr/25/ukraine-war-briefing-zelenskyy-holds-talks-in-azerbaijan-saudi-arabia-on-security-and-energy",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 01:02:52 GMT"
+    },
+    {
+      "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
+      "summary": "Israeli air strikes, tank shelling in Gaza killed at least 12 Palestinians, including six police officers.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "title": "US envoy and Trump’s son-in-law to travel to Pakistan amid hopes for renewed Iran peace talks – as it happened",
+      "summary": "<p>This live blog is now closed. For the latest, read our full report:</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled\">Trump sending Witkoff and Kushner to Pakistan to resume talks on Iran war",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
       "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 11:45:59 GMT"
+      "pubDate": "Fri, 24 Apr 2026 21:48:07 GMT"
     },
     {
-      "title": "Venice Biennale jury will not ‘award artists whose countries face war crimes charges’",
-      "summary": "<p>Jury’s statement, apparently aimed at Russia and Israel, makes clear it is committed to the defence of human rights</p><p>The jury of the Venice Biennale has said it would not give awards to artists from countries whose leaders are facing charges of crimes against humanity, in a statement apparen",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/24/venice-biennale-jury-not-award-artists-countries-face-war-crimes-israel-russia",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 11:33:35 GMT"
-    },
-    {
-      "title": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
-      "summary": "Thousands of amputees cannot access care and are struggling with basic mobility.",
+      "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
+      "summary": "Hamas says the Israeli escalation represents the failure of the international community to uphold the truce in Gaza.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 11:20:46 +0000"
+      "pubDate": "Fri, 24 Apr 2026 21:42:22 +0000"
     },
     {
-      "title": "Pope Leo condemns the killing of protesters in Iran – video",
-      "summary": "<p>Pope Leo XIV has condemned the killing of protesters in Iran, after the US president, Donald Trump, criticised the Catholic leader last week for not doing so. The pontiff, during a press conference after his Africa trip, also urged the US and Iran to return to talks to end the war</p> <a href=\"ht",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/apr/24/pope-leo-condemns-protester-killing-iran-video",
+      "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+      "summary": "Iranian Foreign Minister Abbas Araghchi arrives in Islamabad, but Tehran yet to commit to more talks with US delegation.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 11:15:22 GMT"
+      "pubDate": "Fri, 24 Apr 2026 20:54:28 +0000"
     },
     {
-      "title": "Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules",
-      "summary": "Israel and Lebanon have agreed to extend their ceasefire for three weeks, President Trump says. And, the Trump administration is easing rules on medical marijuana.",
+      "title": "Mass wedding for 300 brides and grooms in central Gaza",
+      "summary": "A festive moment in Gaza as a charity-sponsored mass wedding ceremony for 300 brides and grooms in Deir el-Balah.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Apr 2026 20:53:02 +0000"
+    },
+    {
+      "title": "Vessels seized by the U.S. this week were part of a global 'shadow fleet'",
+      "summary": "NPR's Juana Summers speaks with Elisabeth Braw, senior fellow at the Atlantic Council, about shadow vessels, after the U.S. military's seizure of two Iranian-linked oil tankers.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket",
+      "link": "https://www.npr.org/2026/04/24/nx-s1-5795895/vessels-seized-by-the-u-s-this-week-were-part-of-a-global-shadow-fleet",
       "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 07:08:34 -0400"
+      "pubDate": "Fri, 24 Apr 2026 16:39:08 -0400"
     },
     {
-      "title": "US considers suspending Spain from NATO, reported internal email suggests",
-      "summary": "Pentagon email obtained by Reuters reveals US anger at Spain and the UK as Iran war tensions persist.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 11:06:00 +0000"
-    },
-    {
-      "title": "The Gaza model: is this what war looks like now? | Mohamad Bazzi",
-      "summary": "<p>Before the war on<strong> </strong>Gaza, the seed of Israel’s strategy of wholesale destruction was planted in a 2006 war on Lebanon. Today, the playbook repeats itself</p><p>Shortly after 2pm on 8 April, it seemed that Beirut was hit by an earthquake. Within 10 minutes, multiple apartment buildi",
+      "title": "Trump sending Witkoff and Kushner to Pakistan to resume talks on Iran war",
+      "summary": "<p>White House says its Middle East envoys will meet Tehran’s foreign minister in Islamabad </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce\">Middle East crisis – live updates</a></p></li></ul><p>Donald Trump is",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/24/gaza-israel-lebanon-war",
+      "link": "https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled",
       "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 11:00:39 GMT"
+      "pubDate": "Fri, 24 Apr 2026 18:43:00 GMT"
     },
     {
-      "title": "Explosions by Israeli forces in south Lebanon despite ceasefire",
-      "summary": "Smoke rise above Khiam in southern Lebanon after Israel carries out explosions despite the ceasefire.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 10:58:55 +0000"
-    },
-    {
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "summary": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 10:41:32 GMT"
-    },
-    {
-      "title": "Syria arrests suspected leader of Tadamon massacre",
-      "summary": "<p>Amjad Youssef is one of most-wanted fugitives in relation to slaughter of estimated 288 civilians under Assad</p><p>A Syrian former regime official suspected of leading a notorious civilian massacre <a href=\"https://www.theguardian.com/world/2022/apr/27/massacre-in-tadamon-how-two-academics-hunte",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/24/syria-arrests-suspected-leader-of-tadamon-massacre",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 09:53:25 GMT"
-    },
-    {
-      "title": "'A dangerous standoff' as Strait of Hormuz blockade continues",
-      "summary": "The US and Iran's rival blockades of the Strait of Hormuz have become a \"test of wills\", says Lyse Doucet.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 09:26:14 GMT"
-    },
-    {
-      "title": "Why is there a political deadlock in Lebanon?",
-      "summary": "The Lebanese government wants Hezbollah to disarm as it aims for a state monopoly on weapons.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 08:49:09 +0000"
-    },
-    {
-      "title": "Baby twins attend their father’s funeral after Israeli settler attack",
-      "summary": "Palestinians gathered in the occupied West Bank to bury a 25-year-old father of twins shot dead by Israeli settlers.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/baby-twins-attend-their-fathers-funeral-after-israeli-settler-attack?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 08:34:27 +0000"
-    },
-    {
-      "title": "US says Iran can play at 2026 World Cup but bars those with ‘IRGC ties’",
-      "summary": "US Secretary of State Marco Rubio says the US has not told the Iranian national team that it cannot play.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/4/24/us-says-iran-can-play-at-2026-world-cup-but-bars-those-with-irgc-ties?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 08:00:57 +0000"
-    },
-    {
-      "title": "The story Tehran wants you to read",
-      "summary": "A new narrative about Iran’s leadership mistakes continuity for change - and echoes the regime’s own preferred framing.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/4/24/the-story-tehran-wants-you-to-read?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 07:42:06 +0000"
-    },
-    {
-      "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
-      "summary": "Israel has carved out a military zone inside southern Lebanon, raising fears it is replicating the “Yellow Line” in Gaza",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/does-israels-yellow-line-violate-the-lebanon-ceasefire-2?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 06:56:37 +0000"
-    },
-    {
-      "title": "Q&A: Apollo astronaut Schmitt talks about getting back to the moon and life in the universe",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/49120db/2147483647/strip/true/crop/2875x1916+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2Fda%2F5f736d15cf5ef1f1ea27b044e8b5%2F003ee8660c544e20ad4beae0f97b5074\" width=\"100%\"><small style=\"color: #999;\">Apollo astronaut Harr",
+      "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e9233e6/2147483647/strip/true/crop/3644x2428+0+4/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2Faf%2Fa25e77f59af1052b8c263913894d%2Fab556babce6f4961b991953660350931\" width=\"100%\"><small style=\"color: #999;\">Treasury Secretary Sc",
       "source": "AP News",
-      "link": "https://apnews.com/article/nasa-moon-mission-artemis-apollo-astronaut-schmitt-6c3ca25f689b072afac93e4d93f57325",
+      "link": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
       "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 06:53:01 +0000"
-    },
-    {
-      "title": "In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/fa2f780/2147483647/strip/true/crop/4240x2825+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F70%2F08%2F4295d76c1d7a116aabb5c1f7c808%2F828134b3bce148ec9d2ad14cfcadfeee\" width=\"100%\"><small style=\"color: #999;\">A flight-crew member ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/france-nato-russia-baltic-rafale-romania-5e60f8bb039282aa97fb076cbf1ca073",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 06:53:01 +0000"
-    },
-    {
-      "title": "What to know if your flight is canceled amid rising jet fuel costs",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/51076fb/2147483647/strip/true/crop/6942x4626+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9f%2Fc2%2F80138977b985421ea1552fa40ecb%2F124c000d09df4ef7a953596920d9249b\" width=\"100%\"><small style=\"color: #999;\">Passengers wait in lo",
-      "source": "AP News",
-      "link": "https://apnews.com/article/jet-fuel-flight-canceled-refund-passenger-rights-8fcae5bc8b618ca5b952e91e0672cea3",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 06:53:01 +0000"
-    },
-    {
-      "title": "Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/a731a11/2147483647/strip/true/crop/3375x2249+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2Fb3%2F958aaf73fefc5a1e2bb58ad8b30e%2Fd71066c0da5c498a9a47948f986418d3\" width=\"100%\"><small style=\"color: #999;\">Cargo containers are ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 06:53:01 +0000"
-    },
-    {
-      "title": "Trump’s May 1 deadline: Can he continue war on Iran after that?",
-      "summary": "Trump is obliged under the War Powers Act to limit the conflict after 60 days with congressional approval.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 06:20:23 +0000"
-    },
-    {
-      "title": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
-      "summary": "The Israel-Lebanon ceasefire is extended by three weeks after White House talks with Israeli and Lebanese envoys.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 06:11:36 +0000"
-    },
-    {
-      "title": "How fake AI victims are being used to provide rationale for attacking Iran",
-      "summary": "In the battle of propaganda, fake videos and images of female victims of Iran's government are going viral.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/how-fake-ai-victims-are-being-used-to-provide-rationale-for-attacking-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 05:44:11 +0000"
-    },
-    {
-      "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
-      "summary": "Joe Elias contacted BBC Verify following reports that his village was among several destroyed by Israeli forces.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 02:58:42 GMT"
-    },
-    {
-      "title": "US forces board vessel in Indian Ocean – as it happened",
-      "summary": "<p>This blog is now closed. For the latest Middle East news, see our <a href=\"https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships\">full report here</a></p><p><strong>The Pentagon abruptly announced that the secret",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Apr 2026 02:55:20 GMT"
+      "pubDate": "Fri, 24 Apr 2026 18:23:02 +0000"
     }
   ]
 }
