@@ -1,209 +1,209 @@
 {
-  "generated": "2026-04-27T12:16:43.238Z",
-  "date": "Monday, April 27, 2026",
+  "generated": "2026-04-28T12:21:05.447Z",
+  "date": "Tuesday, April 28, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Iran ‘offers to end chokehold on strait of Hormuz’",
-      "summary": "<p>Sources say country wants US to end its blockade as part of proposal but has not addressed its nuclear programme</p><p><strong>Lebanese president Joseph Aoun said Monday that direct negotiations with Israel were aimed at ending the conflict with Hezbollah, while accusing those who drew Lebanon in",
+      "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
+      "summary": "Israel's foreign minister says it has received no evidence to support the claim that a vessel carrying grain from occupied Ukraine has reached Haifa.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 12:18:18 GMT"
+    },
+    {
+      "title": "Middle East crisis live: IDF orders evacuations in southern Lebanon as it accuses Hezbollah of ceasefire violations",
+      "summary": "<p>Residents in 16 towns and villages are told to evacuate immediately</p><p><a href=\"https://www.theguardian.com/world/2026/apr/27/us-humiliated-iran-leadership-trump-merz\">US is being ‘humiliated’ by Iran’s leadership, says Friedrich Merz</a></p><p>Saudi Arabia is to host a meeting of the Gulf Coo",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/apr/28/middle-east-crisis-live-iran-us-israel-lebanon-hormuz-nuclear-oil-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 12:09:34 GMT"
+    },
+    {
+      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 12:03:39 GMT"
+    },
+    {
+      "title": "Amnesty calls for US strike on Yemen to be investigated as war crime",
+      "summary": "The attack last year on a migrant detention facility killed at least 68 people.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/28/amnesty-calls-for-us-strike-on-yemen-to-be-investigated-as-war-crime?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 11:27:06 +0000"
+    },
+    {
+      "title": "How the US-Israeli war is collapsing the sanctions regime on Iran",
+      "summary": "Circumvention mechanisms already exist and the conflict is encouraging more entities to work with them.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 11:19:22 +0000"
+    },
+    {
+      "title": "Mapping the destruction: How Israel ‘wiped out’ Lebanon’s Bint Jbeil",
+      "summary": "An Al Jazeera visual probe maps the systematic demolition of Lebanon's border towns, mirroring the devastation in Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/28/mapping-the-destruction-how-israel-wiped-out-lebanons-bint-jbeil?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 11:19:00 +0000"
+    },
+    {
+      "title": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
+      "summary": "Even if the strait reopens, shipping insurance could cost 20 times more than before the war, analysts say.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 11:18:09 +0000"
+    },
+    {
+      "title": "Middle East crisis could cost world $1tn while oil firms make ‘obscene’ profit, analysis finds",
+      "summary": "<p>Climate group calls for urgent windfall tax on excess fossil fuel profits, as delegates tell Colombia conference their nations are suffering</p><p>The Middle East oil and gas crunch will impose as much as a trillion dollars of additional costs on the global economy while petroleum companies rake ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/environment/2026/apr/28/middle-east-crisis-oil-firms-profit-colombia-conference",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 11:00:09 GMT"
+    },
+    {
+      "title": "Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts",
+      "summary": "Two months after the U.S.-Israeli attack on Iran started the war, peace talks are on hold, with control of the Strait of Hormuz and the future of Iran's nuclear program as the two main points of contention.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 06:59:44 -0400"
+    },
+    {
+      "title": "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war",
+      "summary": "Gaza’s youngest survivors face lifelong disabilities from toxic gas and burns as the healthcare system collapses.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 10:52:51 +0000"
+    },
+    {
+      "title": "The Process of Uranium Enrichment",
+      "summary": "The Process of Uranium Enrichment",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/the-process-of-uranium-enrichment?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 09:52:43 +0000"
+    },
+    {
+      "title": "Iraq appoints new prime minister-designate",
+      "summary": "Iraq appoints new prime minister-designate",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/iraq-appoints-new-prime-minister-designate?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 09:30:06 +0000"
+    },
+    {
+      "title": "How Iran has changed, and how it hasn’t, in two months of war",
+      "summary": "Common Iranians face job losses and shortages. But key institutions remain in place, with hardliners stronger now.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 09:15:24 +0000"
+    },
+    {
+      "title": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
+      "summary": "Settler violence surges deeper into Palestinian-administered areas, and Gaza's police forces are decimated further.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 08:24:45 +0000"
+    },
+    {
+      "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+      "summary": "Despite setbacks, Hezbollah emerges as a key player, tied to Lebanon’s stability and US-Iran negotiations.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 08:20:45 +0000"
+    },
+    {
+      "title": "‘If your wife asks you to change diapers, change your wife’: Lebanon’s hit show parodying the patriarchy",
+      "summary": "<p>The female-created YouTube sketch series Smatouha Minni<em> </em>(You Heard It From Me) uses satire to confront misogynistic attitudes </p><p>In Beirut’s Gemmayzeh neighbourhood a rented flat has been transformed into a film set: bright studio lights in a cosy living room. At its centre is Maria ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/apr/28/lebanese-women-smatouha-minni-you-heard-it-from-me-feminist-youtube-series-satire",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 08:00:44 GMT"
+    },
+    {
+      "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
+      "summary": "The White House confirms Trump met his national security advisers on Monday to discuss the plan.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 07:55:25 +0000"
+    },
+    {
+      "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
+      "summary": "The diplomatic spat unfolds as Ukrainian drones hit Russia's Tuapse oil refinery, causing a 'massive' fire.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 07:34:11 +0000"
+    },
+    {
+      "title": "Lebanon accuses Israel of committing ‘ecocide’ in country since 2023",
+      "summary": "<p>Claim by environment minister opens new report into profound ecological damage allegedly done by IDF forces </p><p>Lebanon’s minister for the environment has accused Israel’s military of committing “an act of ecocide” in the foreword to <a href=\"https://cnrs.edu.lb/wp-content/uploads/2026/04/FINA",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/apr/28/lebanon-accuses-israel-ecocide",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 06:00:42 GMT"
+    },
+    {
+      "title": "Israel’s direction poses ‘existential threat’ to Judaism, UK’s leading progressive rabbis warn",
+      "summary": "<p>Rabbis Charley Baginsky and Josh Levy say criticising Israeli government is not disloyalty but a Jewish obligation</p><p>The UK’s most senior progressive rabbis have warned that Israel’s current political direction risks becoming “incompatible with Jewish values”, while insisting that criticism o",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/apr/28/israels-direction-poses-existential-threat-to-judaism-uks-leading-progressive-rabbis-warn",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 04:00:40 GMT"
+    },
+    {
+      "title": "Sudan paramilitary leaders acquired £17.7m property portfolio in Dubai, investigation reveals",
+      "summary": "<p>The RSF leadership, accused of committing genocide, used UAE as a ‘safe haven’ for family members and their wealth, records show</p><p>A network linked to the leadership of a militia accused of genocide has amassed a vast property portfolio in Dubai as part of a sprawling “paramilitary-industrial",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/apr/28/sudan-paramilitary-rsf-leaders-property-portfolio-dubai-uae-investigation",
+      "importance": "medium",
+      "pubDate": "Tue, 28 Apr 2026 04:00:39 GMT"
+    },
+    {
+      "title": "Middle East crisis: Iran’s foreign ministry condemns US seizure of Iranian-linked tankers as ‘piracy and armed robbery’ – as it happened",
+      "summary": "<p>Spokesperson Esmail Baghaei says actions of the United States ‘strike at the heart of international law’ as blockade continues in strait of Hormuz</p><p><strong>Iran is proposing that shipping companies should pay charges for specific services when they cross the strait of Hormuz, in a move that ",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/apr/27/middle-east-crisis-iran-us-israel-lebanon-trump-araghchi-putin-hormuz-oil-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 12:02:56 GMT"
+      "pubDate": "Mon, 27 Apr 2026 21:19:06 GMT"
     },
     {
-      "title": "Iran's flurry of diplomacy, as Trump insists U.S. has 'the cards'",
+      "title": "German tourist dies after being bitten at snake show on family holiday in Egypt",
+      "summary": "<p>Man, 57, was watching snake-charming show when reptile crawled into his trousers, say German police</p><p>A German tourist has died after a snake crawled into his trousers and bit him as he watched a show in <a href=\"https://www.theguardian.com/world/egypt\">Egypt</a> on a family holiday, police i",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt",
+      "importance": "medium",
+      "pubDate": "Mon, 27 Apr 2026 17:26:07 GMT"
+    },
+    {
+      "title": "Pro-Palestine activists appear in court over attack on Israeli arms factory in Germany",
+      "summary": "<p>Families say ‘Ulm 5’ have been detained under extreme prison conditions since arrest last September</p><p>Five pro-Palestinian activists have appeared in court over an attack on an Israeli arms company in Germany, charged with causing approximately €1m of damage.</p><p>Prosecutors say the defenda",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
+      "importance": "medium",
+      "pubDate": "Mon, 27 Apr 2026 16:59:37 GMT"
+    },
+    {
+      "title": "Iran's flurry of diplomacy continues in Russia, as Trump reviews Iran's latest proposal",
       "summary": "Iran's foreign minister arrived in Russia on Monday, after a whirlwind weekend of diplomacy, seeking to gain political leverage and foreign backing as peace talks with the U.S. remain on hold.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates",
       "importance": "medium",
       "pubDate": "Mon, 27 Apr 2026 07:32:55 -0400"
-    },
-    {
-      "title": "Iran’s foreign minister in Russia for talks",
-      "summary": "Iran’s foreign minister in Russia for talks",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/irans-foreign-minister-in-russia-for-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 10:23:55 +0000"
-    },
-    {
-      "title": "Why is the US media silent about Israel’s role in Trump’s decision to go to war? | Jason Stanley",
-      "summary": "<p>I suspect the main reason they avoid criticizing Israel is that they believe that would be antisemitic. But this is both dangerous and wrong</p><p>In <a href=\"https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html\">an extraordinary article</a> published on 7 April, the New York Times ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/27/trump-israel-trump-war",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 10:00:07 GMT"
-    },
-    {
-      "title": "‘Israel must change direction’: Netanyahu rivals join forces for next election",
-      "summary": "<p>Rightwing Naftali Bennett and centrist Yair Lapid announce new party before Knesset vote expected later this year</p><p>The Israeli prime minister, Benjamin Netanyahu, is facing the prospect of running against a rightwing-centrist super coalition in elections later this year after two of his most",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/27/netanyahu-opposition-announce-new-party-naftali-bennett-yair-lapid",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 09:58:19 GMT"
-    },
-    {
-      "title": "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant",
-      "summary": "Ukrainian attack on captured Zaporizhzhia nuclear plant kills one worker, according to managers installed by Russia.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 09:16:36 +0000"
-    },
-    {
-      "title": "The war on Iran is eroding nuclear non-proliferation",
-      "summary": "US-Israeli attacks on Iran under the pretext of ending a nuclear weapons programme are damaging confidence in the NPT.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/4/27/the-war-on-iran-is-eroding-nuclear-non-proliferation?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 08:43:37 +0000"
-    },
-    {
-      "title": "Iran’s top diplomat visits Russia as part of efforts to end the war",
-      "summary": "Pakistan and Oman remain involved in backchannel efforts to prevent a return to open US-Israel war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 08:10:43 +0000"
-    },
-    {
-      "title": "ACL injury ends Xavi Simons’ World Cup 2026 dream with the Netherlands",
-      "summary": "Dutch midfielder suffers an ACL injury to his right knee, ending his chances of playing in the FIFA World Cup.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/4/27/acl-injury-ends-xavi-simons-world-cup-2026-dream-with-netherlands?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 07:37:22 +0000"
-    },
-    {
-      "title": "Iran war: What’s happening on day 59 amid diplomatic push to end conflict?",
-      "summary": "Iran discusses diplomatic solutions with regional partners as Trump says Iran could telephone if it wants to talk.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/27/iran-war-whats-happening-on-day-59-amid-diplomatic-push-to-end-conflict?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 07:22:57 +0000"
-    },
-    {
-      "title": "‘I should not have wished for war’: six ordinary Iranians on how the US-Israel conflict has changed them",
-      "summary": "<p>In Tehran, the Guardian spoke to people about how war is transforming their feelings toward the regime and their country’s future</p><p>Behzad has a master’s degree in the humanities and lives with his partner in a rented flat in central Tehran. He says he didn’t take part in <a href=\"https://the",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/global-development/ng-interactive/2026/apr/27/i-should-not-have-wished-for-war-six-ordinary-iranians-on-how-the-us-israel-conflict-has-changed-them",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 07:00:37 GMT"
-    },
-    {
-      "title": "Activists accused of raiding Israeli weapons factory face trial in Germany",
-      "summary": "Five European nationals known as the 'Ulm Five' are said to have targeted a site linked to Elbit Systems.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 06:36:59 +0000"
-    },
-    {
-      "title": "Palestinian officials hail local elections in a Gaza community and the West Bank",
-      "summary": "Palestinian officials say local elections in Gaza and the West Bank mark a step toward a long-delayed presidential election. The Palestinian Authority hasn't held a presidential election in 21 years.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 01:09:03 -0400"
-    },
-    {
-      "title": "From Australia to Vietnam, the Iran war is fuelling demand for EVs",
-      "summary": "Electric vehicle sales are surging in many markets as conflict drives up the cost of running petrol and diesel vehicles.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 04:46:35 +0000"
-    },
-    {
-      "title": "Pro-Palestine activists face trial for attack on Israeli arms factory in Germany",
-      "summary": "<p>Families say ‘Ulm 5’ have been detained under extreme prison conditions since arrest last September</p><p>Five pro-Palestinian activists are due to appear in court over an attack on an Israeli arms company in Germany, in proceedings their families say could become a “show trial”.</p><p>The Berlin",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 04:00:35 GMT"
-    },
-    {
-      "title": "Deadly Israeli attacks worsen Gaza’s water shortage crisis",
-      "summary": "<p>Engineer and two drivers killed in recent weeks as scarcity of clean water fuels spread of preventable diseases</p><p>Israeli forces in Gaza killed a water engineer and two drivers who transported water to displaced families over four days in mid-April, exacerbating severe shortages of clean wate",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/27/israeli-attacks-gaza-clean-water-shortage-crisis-disease-palestine",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 04:00:35 GMT"
-    },
-    {
-      "title": "Satellite images show scale of Israeli destruction of south Lebanon towns",
-      "summary": "Satellite images taken reveal the Israeli military's massive scale of damage to towns in south Lebanon.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 02:29:58 +0000"
-    },
-    {
-      "title": "Oil prices rise amid stalled US-Iran peace talks",
-      "summary": "Brent crude rises more than 2 percent after Washington and Tehran fail to hold second round of talks in Pakistan.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 02:06:46 +0000"
-    },
-    {
-      "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began",
-      "summary": "<p>The Israeli government and Hezbollah have traded blame over breaches to the truce, which is set to run for several more weeks</p><p>Lebanon’s health ministry said Israeli strikes on the country’s south killed 14 people on Sunday, the deadliest day since a ceasefire between Israel and Hezbollah ca",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/27/lebanon-israeli-strikes-deadliest-day-since-ceasefire-began",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 00:26:19 GMT"
-    },
-    {
-      "title": "Iran war live: Araghchi to meet Putin; Strait of Hormuz remains shut",
-      "summary": "Iran's foreign minister heads to Russia as Trump says Iranian leaders can call on the phone if they want to talk.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 27 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Video: Israeli ‘ceasefire’ violations on the rise in Gaza",
-      "summary": "Israel has violated the so-called Gaza “ceasefire” more than 2,400 times. Al Jazeera’s Hala Al Shami explains.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-israeli-ceasefire-violations-on-the-rise-in-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 26 Apr 2026 23:59:43 +0000"
-    },
-    {
-      "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
-      "summary": "The US announced three days ago that the ceasefire was extended by three weeks after talks.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 26 Apr 2026 22:02:45 GMT"
-    },
-    {
-      "title": "No headway in Middle East peace efforts as US and Iran refuse to yield",
-      "summary": "<p>Deepening sense of deadlock despite regional diplomacy as Washington and Tehran show no signs of compromise</p><p>Hopes of a breakthrough in negotiations between Iran and the US faded further on Sunday, amid a deepening sense of deadlock in the nearly two-month-long conflict despite intense regio",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/apr/26/no-headway-in-middle-east-peace-efforts-as-us-and-iran-refuse-to-yield",
-      "importance": "medium",
-      "pubDate": "Sun, 26 Apr 2026 20:37:18 GMT"
-    },
-    {
-      "title": "Did Trump save eight Iranian women from execution?",
-      "summary": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 26 Apr 2026 19:16:58 GMT"
-    },
-    {
-      "title": "How China is responding to the stalling of talks between the U.S. and Iran",
-      "summary": "NPR's Ayesha Rascoe speaks to Zongyuan Zoe Liu, a senior fellow at the Council on Foreign Relations, about how China views the current crisis in the Middle East",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran",
-      "importance": "medium",
-      "pubDate": "Sun, 26 Apr 2026 08:08:51 -0400"
     }
   ]
 }
