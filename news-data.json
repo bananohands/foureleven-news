@@ -1,17 +1,169 @@
 {
-  "generated": "2026-05-02T11:37:47.243Z",
-  "date": "Saturday, May 2, 2026",
+  "generated": "2026-05-03T11:35:51.584Z",
+  "date": "Sunday, May 3, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
-      "summary": "<p>German defence minister responds to US president’s announcement that 5,000 US troops will leave bases in Germany</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/02/landstuhl-german-town-rocked-trump-plan-withdraw-us-troops\">‘We love our Americans’: the German town rocked by Trum",
+      "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+      "summary": "Trump is reviewing Iran's latest proposal to end the war, but the mistrust between the two sides is a big obstacle.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 11:10:48 +0000"
+    },
+    {
+      "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
+      "summary": "Naval blockades are among the oldest weapons of war, using sea control to cut supplies and force an enemy’s surrender.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 10:36:49 +0000"
+    },
+    {
+      "title": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+      "summary": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 10:35:13 +0000"
+    },
+    {
+      "title": "Gaza flotilla activists from Spain and Brazil appear in Israeli court",
+      "summary": "<p>Court extends detention of two men who were among 175 people intercepted in Mediterranean on Thursday</p><p>Two foreign activists from a Gaza-bound flotilla who were brought to Israel for interrogation have appeared before an Israeli court, a rights group defending them has said.</p><p>The flotil",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 09:02:07 GMT"
+    },
+    {
+      "title": "Israel issues new forced displacement orders in southern Lebanon",
+      "summary": "Warning covers more than 10 villages and towns, including several in Nabatieh district that lie north of Litani River.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 08:35:43 +0000"
+    },
+    {
+      "title": "South Korea holds pro-Palestine protest in solidarity with Gaza",
+      "summary": "Protesters in South Korea’s capital, Seoul, were in solidarity with Palestinians in Gaza enduring genocidal attacks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/south-korea-holds-pro-palestine-protest-in-solidarity-with-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 07:39:43 +0000"
+    },
+    {
+      "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 07:02:09 +0000"
+    },
+    {
+      "title": "China blocks US sanctions against five ‘teapot’ refineries",
+      "summary": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 06:57:42 +0000"
+    },
+    {
+      "title": "In Yemen, Starlink internet brings opportunities – for some",
+      "summary": "Despite Houthi resistance and affordability challenges, Starlink fuels growth in Yemen's digital workforce.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 06:21:44 +0000"
+    },
+    {
+      "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+      "summary": "A fragile ceasefire may have paused the US-Israeli war on Iran, but the economic cost is crippling life in Tehran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 04:35:26 +0000"
+    },
+    {
+      "title": "US approves $8.6bn in arms sales to Middle East allies",
+      "summary": "US State Department cites emergency circumstances to fast-track sales without the approval of Congress.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 04:05:28 +0000"
+    },
+    {
+      "title": "Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal",
+      "summary": "<p>Iran says the ‘ball is in the United States’ court’ as Trump says he is likely to reject new proposal from Tehran</p><p>Donald Trump said on Saturday he was going to review a new peace proposal from Tehran but cast doubt over its prospects, saying Iran had not yet “paid a big enough price”.</p><p",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 03:48:09 GMT"
+    },
+    {
+      "title": "UAE lifts all air traffic restrictions introduced since Iran war",
+      "summary": "UAE aviation authority's announcement is the latest sign of the travel sector's recovery across the Middle East.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 03:29:44 +0000"
+    },
+    {
+      "title": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
+      "summary": "US president says he is considering the 14-point peace plan, but warns strikes could resume if Tehran 'misbehaves'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 03 May 2026 02:37:38 +0000"
+    },
+    {
+      "title": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
+      "summary": "Germany's defense minister is playing down the impact of the Pentagon's decision to pull 5,000 troops from the country, but the move has rattled NATO allies and added to growing fears that Europe can no longer rely on Washington.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us",
+      "importance": "medium",
+      "pubDate": "Sat, 02 May 2026 20:57:59 -0400"
+    },
+    {
+      "title": "Iran submits 14-point response to U.S. proposal to end war",
+      "summary": "Iran has presented a 14-point response to the U.S. proposal to end the war, according to Iranian state media.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
+      "importance": "medium",
+      "pubDate": "Sat, 02 May 2026 19:35:01 -0400"
+    },
+    {
+      "title": "Collaboration helps NPR journalists get you the story of the Iran war up close",
+      "summary": "Three NPR journalists talk about the challenge of producing independent, accurate coverage of the war with Iran.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5802996/collaboration-helps-npr-journalists-get-you-the-story-of-the-iran-war-up-close",
+      "importance": "medium",
+      "pubDate": "Sat, 02 May 2026 17:35:15 -0400"
+    },
+    {
+      "title": "ICRC President Mirjana Spoljaric warns of the war's impact on civilians",
+      "summary": "The ICRC president talks about her recent trip to Iran, and warns about the impact of the Iran war on civilians.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5807914/icrc-president-mirjana-spoljaric-warns-of-the-wars-impact-on-civilians",
+      "importance": "medium",
+      "pubDate": "Sat, 02 May 2026 17:22:19 -0400"
+    },
+    {
+      "title": "Top Republicans express concern over withdrawal of US troops from Germany – as it happened",
+      "summary": "<p>Senator Roger Wicker and representative Mike Rogers say move risks undermining deterrence and sending wrong signal to Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence\">Full report: Nato seeks to ‘understand the details’ after US de",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 11:31:52 GMT"
+      "pubDate": "Sat, 02 May 2026 18:06:58 GMT"
+    },
+    {
+      "title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
+      "summary": "<p>German government calls redeployment of 5,000 troops ‘anticipated’ and reminder of Europe’s need to invest in its own defence</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/02/landstuhl-german-town-rocked-trump-plan-withdraw-us-troops\">‘We love our Americans’: the German town r",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+      "importance": "medium",
+      "pubDate": "Sat, 02 May 2026 17:52:31 GMT"
     },
     {
       "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
@@ -19,7 +171,15 @@
       "source": "BBC Middle East",
       "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 11:03:40 GMT"
+      "pubDate": "Sat, 02 May 2026 16:51:18 GMT"
+    },
+    {
+      "title": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
+      "summary": "Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a March heart attack.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition",
+      "importance": "medium",
+      "pubDate": "Sat, 02 May 2026 11:57:43 -0400"
     },
     {
       "title": "‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks",
@@ -38,172 +198,12 @@
       "pubDate": "Sat, 02 May 2026 05:02:00 -0400"
     },
     {
-      "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
-      "summary": "China's UN Ambassador Fu Cong says maintaining the ceasefire and reopening the Strait of Hormuz are “urgent” priorities.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 07:37:49 +0000"
-    },
-    {
-      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
-      "summary": "The UNIFIL mission has faced a growing number of casualties as Israel and Hezbollah continue to fight.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 06:47:18 +0000"
-    },
-    {
       "title": "Australian activists released in Crete allege mistreatment by Israeli forces who intercepted Gaza flotilla",
       "summary": "<p>Three Australians among 175 activists taken by Israel from ships attempting to transport aid to Gaza say they have launched a hunger strike </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\"",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/may/02/gaza-flotilla-australian-activists-released-crete-allege-mistreatment-by-israel-ntwnfb",
       "importance": "medium",
       "pubDate": "Sat, 02 May 2026 06:33:36 GMT"
-    },
-    {
-      "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
-      "summary": "US President Donald Trump says the latest Iranian peace proposal includes demands he 'can’t agree to'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 06:27:32 +0000"
-    },
-    {
-      "title": "U.S. to withdraw 5,000 troops from Germany in next 6-12 months",
-      "summary": "The United States will withdraw about 5,000 troops from Germany, the Pentagon said Friday, fulfilling President Donald Trump's threat as he clashes with the German leader over the U.S. war with Iran.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany",
-      "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 01:33:54 -0400"
-    },
-    {
-      "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
-      "summary": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 04:35:54 +0000"
-    },
-    {
-      "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
-      "summary": "A 45-year old man is occupying the top of Washington’s Frederick Douglass Memorial Bridge to protest the war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 04:17:09 +0000"
-    },
-    {
-      "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-      "summary": "The Cuban government has firmly rejected the recent sanctions levied by US President Donald Trump.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 04:06:01 +0000"
-    },
-    {
-      "title": "Iran war live: Military says conflict with US ‘likely’ to restart",
-      "summary": "Trump has expressed dissatisfaction with Iran’s latest peace proposal saying it's asking for things 'I can’t agree to'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 02 May 2026 00:00:00 +0000"
-    },
-    {
-      "title": "US to withdraw 5,000 troops from Germany over Iran war spat",
-      "summary": "President Donald Trump has feuded with European allies over their reluctance to step up support for war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 22:54:30 +0000"
-    },
-    {
-      "title": "Trump considering option to ‘blast the hell out of’ Iran",
-      "summary": "US President Donald Trump said he is \"not happy\" with the latest peace proposal from Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 22:27:26 +0000"
-    },
-    {
-      "title": "Trump claims hostilities have ended in Iran in letter to congressional leaders",
-      "summary": "<p>President seemed to suggest that legislative deadline to approve war no longer applies as Democrats push back</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/01/trump-iran-war-hostilities-letter",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 22:25:17 GMT"
-    },
-    {
-      "title": "Iran offers new peace proposal to US but Trump ‘not satisfied’",
-      "summary": "<p>Tehran reportedly passed proposal to mediators in Pakistan on Thursday night, though its contents are not yet clear</p><p>Iran has passed a new proposal to Pakistani mediators in the latest effort to end the war with the US, but Donald Trump said he was not “satisfied” by it.</p><p>“Right now, we",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/01/pakistan-backchannel-us-iran-deal-peace",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 21:27:45 GMT"
-    },
-    {
-      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
-      "summary": "Israel's strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 21:10:15 +0000"
-    },
-    {
-      "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
-      "summary": "Mohammadi has lost consciousness twice and suffered a severe cardiac crisis, her foundation has announced.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 20:59:55 +0000"
-    },
-    {
-      "title": "Palestinian football boss refuses Israeli handshake at FIFA event",
-      "summary": "Palestine’s FA President, Jibril Rajoub, explained his refusal to shake hands with Israeli FA representative.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/palestinian-football-boss-refuses-israeli-handshake-at-fifa-event?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 20:40:04 +0000"
-    },
-    {
-      "title": "Israeli police arrest man after nun attacked in Jerusalem",
-      "summary": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 17:03:11 GMT"
-    },
-    {
-      "title": "Attack on French nun in Jerusalem draws widespread condemnation",
-      "summary": "<p>Israeli foreign ministry denounces ‘shameful act’ after video shows man pushing woman to ground and kicking her</p><p>A video of an attack on a French Catholic nun and archeological researcher in Jerusalem has caused widespread revulsion and been denounced as a “shameful act” by Israel’s foreign ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/01/video-attack-french-nun-jerusalem",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 16:38:40 GMT"
-    },
-    {
-      "title": "CCTV captures moment man attacks nun in Jerusalem – video",
-      "summary": "<p>Israeli police released a video on Thursday showing an attack on a French Catholic nun in Jerusalem. The footage shows the man running up behind the nun and pushing her to the ground. After briefly walking away, the attacker, who appears to be Jewish, returns to kick the nun as she lies on the gr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/may/01/cctv-captures-moment-man-attacks-nun-in-jerusalem-video",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 16:36:02 GMT"
-    },
-    {
-      "title": "Why has the world lost sight of the suffering of Palestinians? – The Latest",
-      "summary": "<p>In the six months since a ceasefire was announced in Gaza, more than 800 civilians have been killed and living conditions have remained dire. Meanwhile, Palestinians in the West Bank face a surge in violence from Israeli settlers and soldiers. While the world’s attention has turned to the war in ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/audio/2026/may/01/why-has-the-world-lost-sight-of-the-suffering-of-palestinians-the-latest",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 15:54:02 GMT"
-    },
-    {
-      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
-      "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 01 May 2026 10:12:57 GMT"
     }
   ]
 }
