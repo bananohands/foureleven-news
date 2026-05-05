@@ -1,49 +1,169 @@
 {
-  "generated": "2026-05-04T12:18:04.382Z",
-  "date": "Monday, May 4, 2026",
+  "generated": "2026-05-05T11:58:16.542Z",
+  "date": "Tuesday, May 5, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran",
-      "summary": "<p>US Central Command denies that a ship has been struck after Iran’s Fars news agency claimed two missiles hit a US navy frigate</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal\">Trump says US n",
+      "title": "Middle East crisis live: ‘We have not even begun’, Iran warns US amid escalation in strait of Hormuz",
+      "summary": "<p>Iranian speaker says ‘new equation of the strait of Hormuz is in the process of being solidified’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran\">Donald Trump sends warships to break Iran’s strait of H",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 11:50:53 GMT"
+    },
+    {
+      "title": "U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+      "summary": "The Iran war risked reigniting after the U.S. tried to force open the Strait of Hormuz, though a ceasefire seemed to be holding Tuesday even after the United Arab Emirates said Iran fired missiles and drones at it.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 06:39:41 -0400"
+    },
+    {
+      "title": "What Iran is saying about attack on UAE",
+      "summary": "What Iran is saying about attack on UAE",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 08:29:51 +0000"
+    },
+    {
+      "title": "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
+      "summary": "The incident is the latest test of a fragile ceasefire agreed between the two countries last month.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 08:15:42 +0000"
+    },
+    {
+      "title": "As summer approaches, skin diseases spread through Gaza’s refugee camps",
+      "summary": "Skin conditions have become a serious issue for healthcare workers in Gaza, particularly when temperatures rise.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 08:02:00 +0000"
+    },
+    {
+      "title": "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
+      "summary": "Israeli officials warn that violence threatens state, but attacks, land seizures and blockades continue in West Bank.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 07:44:04 +0000"
+    },
+    {
+      "title": "Thiago Ávila’s letter from Israeli prison to his daughter",
+      "summary": "The Brazilian activist explains to his little girl his motivation to join the Gaza-bound humanitarian flotilla.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/5/5/thiago-avilas-letter-from-israeli-prison-to-his-daughter?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 06:48:20 +0000"
+    },
+    {
+      "title": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
+      "summary": "The UAE says it intercepted Iranian missiles after a suspected drone attack, with no comment from Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 06:31:34 +0000"
+    },
+    {
+      "title": "Iran says US military killed five civilians in attacks on passenger boats",
+      "summary": "Iranian commander says US military attacked two passenger boats, not IRGC vessels, in the Strait of Hormuz on Monday.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 05:52:08 +0000"
+    },
+    {
+      "title": "Russia declares a truce in Ukraine to mark Victory Day",
+      "summary": "Russia declared a unilateral ceasefire in Ukraine for Friday and Saturday to mark the defeat of Nazi Germany in World War II, but threatened to strike back at Kyiv if it tries to disrupt festivities.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 01:47:24 -0400"
+    },
+    {
+      "title": "Concierge firm co-founded by queen’s nephew went on ‘ill-timed’ hiring spree before Iran war",
+      "summary": "<p>Quintessentially almost quadrupled staff in Middle East and Asia less than year before wealthy began to flee Gulf</p><p>The embattled luxury concierge service co-founded by Queen Camilla’s nephew Ben Elliot embarked on what appeared to be an inopportune hiring spree in the Middle East and Asia be",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/business/2026/may/05/concierge-firm-quintessentially-queen-nephew-ben-elliot-hiring-spree-iran-war-middle-east-gulf",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 05:00:44 GMT"
+    },
+    {
+      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+      "summary": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 05 May 2026 04:34:15 GMT"
+    },
+    {
+      "title": "First Russian oil reportedly arrives in Japan since Iran war – as it happened",
+      "summary": "<p>This blog is now closed </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/04/trump-iran-threat-us-vessels\">Trump threatens to blow Iran ‘off the face of the earth’ if it attacks US vessels</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/may/03/trump-says-iran-h",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
       "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 12:13:29 GMT"
+      "pubDate": "Tue, 05 May 2026 04:03:12 GMT"
     },
     {
-      "title": "‘Israel is not implementing the ceasefire agreement in Gaza’",
-      "summary": "‘Israel is not implementing the ceasefire agreement in Gaza’",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/israel-is-not-implementing-the-ceasefire-agreement-in?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 11:44:25 +0000"
-    },
-    {
-      "title": "Winning peace in Lebanon is harder than winning war",
-      "summary": "Resolving the conflict in Lebanon necessitates taking into account its long history and new geopolitical realities.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 11:18:12 +0000"
-    },
-    {
-      "title": "Iran says ships being ‘guided’ by US through Hormuz must work with its armed forces",
-      "summary": "<p>Shipowners wary as Iran says it will attack any foreign military entering waterway under Trump plan</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes\">Middle East crisis – live updates</a></p></li></ul><p>The U",
+      "title": "Donald Trump sends warships to break Iran’s strait of Hormuz blockade",
+      "summary": "<p>US operation announced as ‘Project Freedom’ dramatically raises stakes in conflict</p><p>The US has launched Donald Trump’s operation to open a route through the strait of Hormuz for hundreds of ships trapped with their crews in the Gulf, in a move that brought the region back to the brink of ful",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
       "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 11:09:06 GMT"
+      "pubDate": "Mon, 04 May 2026 19:26:25 GMT"
     },
     {
-      "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
-      "summary": "Iranian state media says two missiles have struck a US navy destroyer to prevent it entering the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss",
+      "title": "Israeli attacks kill dozens within days in Lebanon despite ceasefire",
+      "summary": "The health ministry says 110 people have been killed in Israeli strikes on southern Lebanon since Thursday.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 10:55:19 +0000"
+      "pubDate": "Mon, 04 May 2026 17:18:05 GMT"
+    },
+    {
+      "title": "‘Project Freedom’: a grand humanitarian gesture, or a fast track to more war?",
+      "summary": "<p>After banging his battle drum, Trump is back in Nobel peace prize mode. But the move has dramatically raised the stakes</p><p>“Project Freedom” has all the trappings of a classic episode of the Trump Show, the reality series that the rest of the world does not just have to watch, but live through",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/may/04/project-freedom-marks-a-classic-trump-flip-from-warmonger-to-humanitarian",
+      "importance": "medium",
+      "pubDate": "Mon, 04 May 2026 16:49:42 GMT"
+    },
+    {
+      "title": "U.S. tries to force open the Strait of Hormuz as the UAE comes under attack",
+      "summary": "The U.S. military said it fired on Iranian forces and sank six small boats as it moved to reopen the Strait of Hormuz on Monday. The United Arab Emirates said it had come under attack from Iran.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
+      "importance": "medium",
+      "pubDate": "Mon, 04 May 2026 12:08:35 -0400"
+    },
+    {
+      "title": "British Gaza flotilla activists say they needed hospital care after Israeli forces’ abuse",
+      "summary": "<p>Alice Chapman and Zak Khan say they were beaten, kicked and spat on after detention near Crete last week</p><p>Two British activists have said they were admitted to hospital after being beaten by Israeli forces who <a href=\"https://www.theguardian.com/world/2026/apr/30/israel-intercepts-detains-c",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse",
+      "importance": "medium",
+      "pubDate": "Mon, 04 May 2026 16:00:27 GMT"
+    },
+    {
+      "title": "Iran executes three men in relation to January anti-regime protests",
+      "summary": "<p>Hangings are latest in wave of near-daily killings as authorities seek to instil fear amid war with US and Israel</p><p>Iran has executed three men charged in connection with political protests this January, authorities have said, the latest in a wave of hangings against the backdrop of the war a",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/04/iran-executes-men-january-anti-regime-protests",
+      "importance": "medium",
+      "pubDate": "Mon, 04 May 2026 12:43:23 GMT"
+    },
+    {
+      "title": "Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch",
+      "summary": "President Trump announced that the U.S will \"guide\" stranded ships through the Strait of Hormuz. And, Democrats face an uphill battle to gain Senate control. Here are the key races to watch.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani",
+      "importance": "medium",
+      "pubDate": "Mon, 04 May 2026 08:16:10 -0400"
     },
     {
       "title": "Want a green card? Better make sure you haven’t criticized Israel on social media | Arwa Mahdawi",
@@ -54,62 +174,6 @@
       "pubDate": "Mon, 04 May 2026 10:00:20 GMT"
     },
     {
-      "title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
-      "summary": "The US president has accused some NATO countries of not doing enough to support the US-Israel war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 09:57:05 +0000"
-    },
-    {
-      "title": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
-      "summary": "Al Jazeera visits refugee camp in the occupied West Bank where Israeli soldiers have killed or maimed many young people.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 09:44:41 +0000"
-    },
-    {
-      "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
-      "summary": "Trump orders new Hormuz mission after Iran says it receives US response to its peace proposal.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 09:11:08 +0000"
-    },
-    {
-      "title": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
-      "summary": "Japan’s PM says the effective closure of the Strait of Hormuz is ‘inflicting an ‘enormous impact’ on Asia Pacific.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 08:27:00 +0000"
-    },
-    {
-      "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-      "summary": "President Trump says the US will begin Project Freedom on Monday to guide stranded ships through Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 08:20:54 +0000"
-    },
-    {
-      "title": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
-      "summary": "Twenty-two crew members from the seized Iranian ship MV Touska have been transferred to Pakistan for repatriation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 07:36:41 +0000"
-    },
-    {
-      "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
-      "summary": "Sanae Takaichi makes comments during a visit to Australia, where she signs agreements on energy supplies.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 06:45:13 +0000"
-    },
-    {
       "title": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
       "summary": "<p>War has combined with battered economy to leave Tehran wondering how hardline it can afford to be</p><p>Iran may not be choking like a stuffed pig as Donald Trump predicted, but its economy is in serious difficulty as a combination of a massive war-damages bill, inflation, currency devaluation, u",
       "source": "The Guardian — Middle East",
@@ -118,52 +182,12 @@
       "pubDate": "Mon, 04 May 2026 05:00:15 GMT"
     },
     {
-      "title": "Detained Gaza aid flotilla activists arrive in Netherlands",
-      "summary": "Two activists from the Global Sumud Flotilla arrived in the Netherlands after being released from Israeli custody.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/detained-gaza-aid-flotilla-activists-arrive-in-netherlands?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 04:45:52 +0000"
-    },
-    {
       "title": "Security or justice? Syria faces post-Assad reckoning after string of arrests",
       "summary": "<p>New government accused of ‘performative justice’ and making deals with suspects in 2013 Tadamon massacres</p><p>Ahmad al-Homsi is a deep sleeper, but when he was woken last month and told that Amjad Youssef, a Syrian intelligence officer who killed civilians in the 2013 Tadamon massacres, had bee",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres",
       "importance": "medium",
       "pubDate": "Mon, 04 May 2026 04:30:15 GMT"
-    },
-    {
-      "title": "Trump says the U.S will 'guide' stranded ships from the Strait of Hormuz",
-      "summary": "The United States will launch an effort on Monday to \"guide\" stranded ships from the Iran-gripped Strait of Hormuz, President Donald Trump said, as two ships around the strait reported attacks.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz",
-      "importance": "medium",
-      "pubDate": "Sun, 03 May 2026 23:47:24 -0400"
-    },
-    {
-      "title": "Trump says US to begin ‘guiding’ ships in Strait of Hormuz",
-      "summary": "US President Donald Trump has announced a naval mission to 'guide' stranded ships through the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 03:47:00 +0000"
-    },
-    {
-      "title": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
-      "summary": "Brent crude is largely unmoved by Trump's announcement of the operation, dubbed 'Project Freedom'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 03:37:09 +0000"
-    },
-    {
-      "title": "Iran war live: US denies frigate hit by missiles in Hormuz Strait",
-      "summary": "Reported incident comes after Trump announced 'Project Freedom' to free stranded ships from the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 04 May 2026 00:00:00 +0000"
     },
     {
       "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
@@ -180,30 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
       "importance": "medium",
       "pubDate": "Sun, 03 May 2026 22:27:46 GMT"
-    },
-    {
-      "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
-      "summary": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
-      "importance": "medium",
-      "pubDate": "Sun, 03 May 2026 18:24:37 -0400"
-    },
-    {
-      "title": "Entrepreneurs fight pile-up of garbage in the West Bank",
-      "summary": "Israeli restrictions on movement in the West Bank are impeding garbage trucks from reaching landfills, leaving Palestinians living amid mounds of trash. Two Palestinian entrepreneurs are trying to change this.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/03/nx-s1-5787449/entrepreneurs-fight-pile-up-of-garbage-in-the-west-bank",
-      "importance": "medium",
-      "pubDate": "Sun, 03 May 2026 17:24:05 -0400"
-    },
-    {
-      "title": "Modern economic chokepoints in war and the impact on geopolitics",
-      "summary": "Hoover Institution fellow Eyck Freymann explains what the Iran war and the blockade of the Straight of Hormuz reveals about modern economic chokepoints, geopolitics and war strategies.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/03/nx-s1-5804691/modern-economic-chokepoints-in-war-and-the-impact-on-geopolitics",
-      "importance": "medium",
-      "pubDate": "Sun, 03 May 2026 17:22:36 -0400"
     }
   ]
 }
