@@ -1,209 +1,209 @@
 {
-  "generated": "2026-05-06T12:23:22.368Z",
-  "date": "Wednesday, May 6, 2026",
+  "generated": "2026-05-07T12:25:04.042Z",
+  "date": "Thursday, May 7, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Iran says strait of Hormuz could reopen after US pauses operation",
-      "summary": "<p>IRGC says ‘with the end of threats from aggressors’ safe transit possible, as Trump threatens to escalate bombing if Iran doesn’t agree deal</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/06/trump-project-freedom-strait-of-hormuz-ships-iran-ceasefire\">Trump puts ‘Project Freedo",
+      "title": "Middle East crisis live: Iran reviewing peace proposal as Trump says a deal ‘very possible’",
+      "summary": "<p>The US and Iran have offered conflicting messages over the likelihood of a deal being reached imminently</p><p>Israel’s state attorney’s office said an <strong>Israeli man suspected of violently pushing a nun to the ground in Jerusalem has been charged with assault motivated by religious hostilit",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 11:57:34 GMT"
+    },
+    {
+      "title": "Irish footballers and celebrities urge boycott of Israel matches",
+      "summary": "Irish campaign group accuses Israel of engaging ⁠in 'genocide' in war on Gaza ahead of UEFA Nations League game.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 11:42:03 +0000"
+    },
+    {
+      "title": "Turkiye unveils its first intercontinental ballistic missile: What we know",
+      "summary": "The Yildirimhan ICBM has a range 6,000km, with a maximum speed of Mach 25 and a payload capacity of 3,000kg.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 11:40:38 +0000"
+    },
+    {
+      "title": "Can Asian economies cope with the fallout from the Iran war?",
+      "summary": "Fuel costs, inflation and debt pressures are testing Asian economies.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 11:35:57 +0000"
+    },
+    {
+      "title": "Africa sees winners and losers as Iran war pushes up oil prices",
+      "summary": "Several African countries have sought financial help due to economic uncertainty caused by the war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 11:29:43 +0000"
+    },
+    {
+      "title": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
+      "summary": "Iran is reviewing the Trump administration's latest proposal to end the war. And, Secretary of State Marco Rubio is meeting Pope Leo XIV amid President Trump's harsh criticism of him.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 07:04:29 -0400"
+    },
+    {
+      "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
+      "summary": "The soldier was photographed putting a cigarette in the statue's mouth, in the second incident against a Christian figure in weeks.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 11:01:50 GMT"
+    },
+    {
+      "title": "What are US proposals to end war, and will Iran agree to them?",
+      "summary": "Iran says it is reviewing a US proposal to end the US-Israel war on it that has caused a global crisis.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 10:45:29 +0000"
+    },
+    {
+      "title": "What is China’s anti-sanctions law and how does it work?",
+      "summary": "Beijing's order blocking US sanctions on five oil refineries marks first invocation of 2021 law.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 09:50:50 +0000"
+    },
+    {
+      "title": "Iran’s stance on US war negotiations explained",
+      "summary": "Iran’s stance on US war negotiations explained",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-stance-on-us-war-negotiations-explained?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 09:37:04 +0000"
+    },
+    {
+      "title": "Iran releases video said to show US drone shot down over Hormuz",
+      "summary": "Iranian media has released video purporting to show the wreckage of a US drone that was shot down by Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 09:21:31 +0000"
+    },
+    {
+      "title": "Affected by the Iran war, residents in Southeast Asian countries voice their concerns",
+      "summary": "Southeast Asian countries are voicing concern about President Trump and the war with Iran.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/07/nx-s1-5813503/affected-by-the-iran-war-residents-in-southeast-asian-countries-voice-their-concerns",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 04:41:49 -0400"
+    },
+    {
+      "title": "Ex-spy who sold U.S. secrets to Israel says he's sorry, and will run for parliament",
+      "summary": "Jonathan Pollard, a former U.S. intelligence analyst who served 30 years for spying for Israel, says he will run in upcoming Israeli elections.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/07/nx-s1-5812527/former-u-s-analyst-once-jailed-for-spying-for-israel-to-run-for-israeli-parliament",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 04:40:45 -0400"
+    },
+    {
+      "title": "French warship moves towards Red Sea as Paris eyes Hormuz mission",
+      "summary": "Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 08:36:21 +0000"
+    },
+    {
+      "title": "The Gaza journalist killed on the day his daughter was born",
+      "summary": "Sana's first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 08:12:43 +0000"
+    },
+    {
+      "title": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
+      "summary": "Trump says US-Iran talks are progressing as Tehran reviews a US proposal delivered through Pakistan.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 08:01:07 +0000"
+    },
+    {
+      "title": "Israeli attack on Gaza kills son of Hamas leader Khalil al-Hayya",
+      "summary": "Senior Hamas official Basem Naim confirms death of Azzam Khalil al-Hayya on social media.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 06:37:03 +0000"
+    },
+    {
+      "title": "JM Coetzee declines to attend Jerusalem writers festival over Israel’s ‘genocidal campaign in Gaza’",
+      "summary": "<p>Nobel laureate says he previously considered himself a supporter of Israel, but ‘the campaign of annihilation in Gaza has changed all that’</p><p>Nobel laureate JM Coetzee has declined to attend an upcoming literature festival in Israel, writing a excoriating letter to organisers citing the count",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/books/2026/may/07/jm-coetzee-declines-jerusalem-writers-festival-israels-genocidal-campaign-gaza-ntwnfb",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 05:38:12 GMT"
+    },
+    {
+      "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
+      "summary": "Israel's military launches a probe after photo shows soldier placing a cigarette into the mouth of Virgin Mary statue.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 04:48:38 +0000"
+    },
+    {
+      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 04:06:33 GMT"
+    },
+    {
+      "title": "Macron says ‘all parties must lift the blockades’ – as it happened",
+      "summary": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing\">US fires on Iranian-flagged oil tanker as Trump gives Tehran fresh ultimatum</a></p></li></ul><p>The UK work and pensions secretary, <strong>Pat McFadden,</strong> h",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
       "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 12:21:37 GMT"
+      "pubDate": "Thu, 07 May 2026 00:35:12 GMT"
     },
     {
-      "title": "Brent crude falls below $100 a barrel amid Middle East peace hopes – business live",
-      "summary": "<p>Iran’s Islamic Revolutionary Guard Corps navy has announced the strait of Hormuz could reopen following the end of ‘threats from aggressors’</p><p>Job vacancies in the UK bounced back in March but remained near a five-year low, and openings for graduates slumped more than a third.</p><p>UK job va",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 12:18:59 GMT"
-    },
-    {
-      "title": "Lessons from the war: A call for strategic reckoning in West Asia",
-      "summary": "The Israeli-US war on Iran shattered long-held assumptions about security, deterrence and stability in the region.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/5/6/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 12:01:11 +0000"
-    },
-    {
-      "title": "Has the US accepted Iran’s demand to settle Hormuz first, nuclear later?",
-      "summary": "US pauses Hormuz escorts after Pakistan-led mediation gains traction, signalling shift towards a limited framework deal.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/has-the-us-accepted-irans-demand-to-settle-hormuz-first-nuclear-later?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 12:00:10 +0000"
-    },
-    {
-      "title": "China calls for a ‘complete’ end to war on Iran",
-      "summary": "China calls for a ‘complete’ end to war on Iran",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/china-calls-for-a-complete-end-to-war-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 11:41:49 +0000"
-    },
-    {
-      "title": "Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'",
-      "summary": "Democrats outpace Republicans in voter enthusiasm for the midterm elections, according to NPR's latest poll. And Trump says \"Project Freedom\" is paused because of progress toward an Iran agreement.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 07:32:52 -0400"
-    },
-    {
-      "title": "Oil prices fall below $100 a barrel as Trump hails ‘great progress’ on Iran deal",
-      "summary": "<p>Markets rally as US president announces ‘short’ pause to operation escorting ships through strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates\">Business live – l",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 11:29:52 GMT"
-    },
-    {
-      "title": "‘Operation Epic Fury’ has ended: Is the Iran war over?",
-      "summary": "Experts say Trump's pause of 'Project Freedom' could be the 'beginning of the end' for the war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/operation-epic-fury-has-ended-is-the-iran-war-over?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 11:20:54 +0000"
-    },
-    {
-      "title": "Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales",
-      "summary": "Kingdom announces sharp rise in budget shortfall amid the effective closure of the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/6/saudi-arabia-posts-33-5bn-budget-deficit-amid-drop-in-oil-sales?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 10:17:05 +0000"
-    },
-    {
-      "title": "Israeli attacks on southern, eastern Lebanon kill at least six people",
-      "summary": "Israel issues forced displacement orders for 12 villages in southern Lebanon.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/israeli-attacks-on-southern-eastern-lebanon-kill-at-least-six-people?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 10:12:49 +0000"
-    },
-    {
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "summary": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
+      "title": "Gulf economies face long-term hit from Iran conflict",
+      "summary": "Commentators say it will take years or even decades to repair the damage.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 09:35:39 GMT"
+      "pubDate": "Wed, 06 May 2026 23:06:17 GMT"
     },
     {
-      "title": "Skeletons in their clothing: Recovering bodies from the rubble in Gaza",
-      "summary": "It was one of the deadliest Israeli strikes of the Gaza war, devastating one extended family. A year and a half later, the survivors find their loved ones' remains.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 05:00:00 -0400"
-    },
-    {
-      "title": "US petrol prices 50 percent higher than before war on Iran",
-      "summary": "The average price of petrol in the United States has reached $4.48 per gallon, according to AAA.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 08:52:13 +0000"
-    },
-    {
-      "title": "‘A stress test’: US-Germany rift widens as Iran war drags on",
-      "summary": "German official says US-Europe relationship is being tested as opposition MP says Berlin is 'not neutral'",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 08:35:21 +0000"
-    },
-    {
-      "title": "Shopping centre fire kills at least eight people in Iran",
-      "summary": "Shopping centre fire kills at least eight people in Iran",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/shopping-centre-fire-kills-at-least-eight-people-in-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 08:26:25 +0000"
-    },
-    {
-      "title": "Australian women with alleged ISIL ties returning from Syria, minister says",
-      "summary": "Australian Federal Police Commissioner Krissy Barrett says some individuals will be arrested and charged.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/australian-women-with-alleged-isil-ties-returning-from-syria-minister-says?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 08:21:26 +0000"
-    },
-    {
-      "title": "Syria says it dismantled Hezbollah-linked cell plotting assassinations",
-      "summary": "Authorities say the cell was planning 'targeted assassinations against high-level government officials'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/syrian-authourities-dismantle-hezbollah-linked-cell-plotting-assassinations?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 07:45:51 +0000"
-    },
-    {
-      "title": "US must not insult IRGC during the World Cup: Iran’s football chief",
-      "summary": "Mehdi Taj says cohosts US must ensure the Iranian military and IRGC are not 'insulted' during the FIFA World Cup.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/5/6/us-must-not-insult-irgc-during-the-world-cup-irans-football-chief?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 07:37:22 +0000"
-    },
-    {
-      "title": "Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’",
-      "summary": "Trump pauses US 'Project Freedom' operation in Strait of Hormuz, citing progress towards Iran agreement.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 07:25:53 +0000"
-    },
-    {
-      "title": "Syria’s Suwayda: A new hub for the multibillion-dollar Captagon trade?",
-      "summary": "Suwayda has emerged as a new Captagon hub in Syria, triggering Jordanian strikes and a regional security crisis.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/6/syrias-suwayda-a-new-hub-for-the-multi-billion-dollar-captagon-trade?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 07:16:17 +0000"
-    },
-    {
-      "title": "Iranian Foreign Minister Araghchi arrives in China for talks",
-      "summary": "Iran’s Foreign Minister Abbas Araghchi has arrived in Beijing for talks with his Chinese counterpart, Wang Yi.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iranian-foreign-minister-araghchi-arrives-in-china-for-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 07:12:56 +0000"
-    },
-    {
-      "title": "Airlines hike fares, cut millions of seats as Iran war drives up fuel costs",
-      "summary": "Surging jet fuel prices are prompting carriers to slash their flight schedules, casting a cloud over summer travel rush.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/6/airlines-hike-fares-cut-millions-of-seats-as-iran-war-drives-up-fuel-costs?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 07:04:11 +0000"
-    },
-    {
-      "title": "Watch: The Lebanese neighbourhoods shattered by Israel's ten minute bombing raid",
-      "summary": "The BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s recent history.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 06:39:27 GMT"
-    },
-    {
-      "title": "Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire",
-      "summary": "Zelenskyy rebuked Moscow for what he said was its \"utter cynicism\" in launching the attacks after Russia announced a unilateral ceasefire over two days later this week.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 02:27:48 -0400"
-    },
-    {
-      "title": "Charges flagged as women and children from IS-linked families set to fly from Syria to Australia",
-      "summary": "<p>Home affairs minister Tony Burke says government continues to refuse to help the group of 13</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-res",
+      "title": "US fires on Iranian-flagged oil tanker as Trump gives Tehran fresh ultimatum",
+      "summary": "<p>President tells Iran to accept deal to end war or face new wave of bombing at ‘much higher level and intensity’</p><p>The US military fired on an Iranian-flagged oil tanker on Wednesday, shortly after Donald Trump issued a fresh ultimatum to Tehran, telling it to accept a deal to end the war or f",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/australia-news/2026/may/06/women-children-syria-families-australia-return-ntwnfb",
+      "link": "https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing",
       "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 06:14:11 GMT"
+      "pubDate": "Wed, 06 May 2026 21:03:56 GMT"
+    },
+    {
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 06 May 2026 19:58:04 GMT"
+    },
+    {
+      "title": "Keep quiet ‘so we don’t go to jail’: the Israelis charged with bribery after suspicious bets placed on Iran strikes",
+      "summary": "<p>Authorities allege that Omer Ziv and an unnamed air force major used classified information to bet on the timing of military operations on Polymarket</p><p>Since users of the leading prediction market Polymarket have been able to wager on the outcomes of war, fears have been raised that those bet",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/06/polymarket-israel-iran-war-arrest",
+      "importance": "medium",
+      "pubDate": "Wed, 06 May 2026 18:40:29 GMT"
     }
   ]
 }
