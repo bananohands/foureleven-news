@@ -1,209 +1,209 @@
 {
-  "generated": "2026-05-07T12:25:04.042Z",
-  "date": "Thursday, May 7, 2026",
+  "generated": "2026-05-08T12:05:03.372Z",
+  "date": "Friday, May 8, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Iran reviewing peace proposal as Trump says a deal ‘very possible’",
-      "summary": "<p>The US and Iran have offered conflicting messages over the likelihood of a deal being reached imminently</p><p>Israel’s state attorney’s office said an <strong>Israeli man suspected of violently pushing a nun to the ground in Jerusalem has been charged with assault motivated by religious hostilit",
+      "title": "What we know about Iran’s response to the latest US ceasefire proposal",
+      "summary": "Iran has not formally responded, but officials indicate a large divide remains between the two sides.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 11:47:05 +0000"
+    },
+    {
+      "title": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’",
+      "summary": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’, says analyst",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/sexual-violence-against-palestinians-in-israeli-prisons-is?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 11:45:28 +0000"
+    },
+    {
+      "title": "U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus",
+      "summary": "The U.S. says it intercepted Iranian attacks yesterday targeting three Navy ships. And, what to know about the hantavirus outbreak that started on a cruise ship.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/08/g-s1-121064/up-first-newsletter-iran-us-tennessee-congressional-maps-hantavirus-tariffs",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 07:26:37 -0400"
+    },
+    {
+      "title": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison",
+      "summary": "A Gaza family's nightmare ends after discovering their 'martyred' son alive in an Israeli prison.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 11:15:02 +0000"
+    },
+    {
+      "title": "UAE reports drone and missile attack as Iran war ceasefire is challenged",
+      "summary": "The Iran war's shaky ceasefire was further strained on Friday as the United Arab Emirates responded to a missile and drone strikes.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/08/g-s1-121061/uae-reports-drone-and-missile-attack",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 06:44:36 -0400"
+    },
+    {
+      "title": "Military drills on the edge: U.S. and allies test capabilities near Asia's flash points",
+      "summary": "From drone boats to long-range missiles, the U.S. and its allies tested new military tactics in the Philippines, sharpening deterrence as tensions with China intensify.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/08/g-s1-120681/drills-us-allies-test-capabilities-asia-flash-points",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 06:30:00 -0400"
+    },
+    {
+      "title": "Military force has got the US nowhere with Iran – here is what a realistic negotiation would look like | Christopher S Chivvis",
+      "summary": "<p>Making a deal means the US finding a position that doesn’t threaten the Iranian regime’s survival. The alternative is a prolonged and damaging stalemate</p><p>After months of war, the US has struggled mightily to compel Iran to restore stable passage through the strait of Hormuz, <a href=\"https:/",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/08/military-force-us-iran-regime",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 09:30:39 GMT"
+    },
+    {
+      "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
+      "summary": "The CPJ says the 'lack of concrete progress' in the FBI investigation represents a failure by the US government.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 09:28:31 +0000"
+    },
+    {
+      "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
+      "summary": "A ceasefire between the US and Iran has been in place since April 8. Both sides are yet to agree on a peace deal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 09:22:48 +0000"
+    },
+    {
+      "title": "European countries emerge as NATO leaders as U.S. role recedes",
+      "summary": "President Trump's decision to leave NATO in the dark before launching strikes on Iran has inflamed tensions and is putting new urgency on rethinking the alliance.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Yemen fuel price hikes deepen hardship as transport costs rise",
+      "summary": "Rising fuel costs in Yemen force drivers to raise fares, as passengers struggle with worsening financial burdens.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/5/8/yemen-fuel-price-hikes-deepen-hardship-as-transport-costs-rise?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 08:47:04 +0000"
+    },
+    {
+      "title": "Some people in Iran have kept internet access despite government-imposed blackout",
+      "summary": "Iran is experiencing the longest internet blackout ever recorded with 99% of the population offline. But certain people — with \"white internet\" — have stayed connected this entire time.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/08/nx-s1-5773963/some-people-in-iran-have-kept-internet-access-despite-government-imposed-blackout",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 04:44:26 -0400"
+    },
+    {
+      "title": "Russia, Ukraine trade fire, blame despite Victory Day ceasefire",
+      "summary": "Warring sides accuse each other of violations as attacks continue across front lines.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/8/russia-ukraine-trade-fire-despite-victory-day-ceasefire?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 07:44:15 +0000"
+    },
+    {
+      "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
+      "summary": "Bloc is expected to call for deeper energy cooperation and reopening of the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 07:11:41 +0000"
+    },
+    {
+      "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+      "summary": "Iran accuses US of breaching ceasefire near Hormuz as CENTCOM says forces responded to Iranian attacks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 06:32:57 +0000"
+    },
+    {
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 05:57:08 GMT"
+    },
+    {
+      "title": "Ex-prisoners recount abuse in Israeli detention centres",
+      "summary": "Former Palestinian detainees are speaking out about torture and sexual violence they faced in Israeli detention.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 05:21:22 +0000"
+    },
+    {
+      "title": "UAE says air defences engaging with Iranian attacks – as it happened",
+      "summary": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz\">US-Iran ceasefire under threat after exchange of strikes in strait of Hormuz</a></p></li></ul><p><strong>T",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 11:57:34 GMT"
+      "pubDate": "Fri, 08 May 2026 04:27:51 GMT"
     },
     {
-      "title": "Irish footballers and celebrities urge boycott of Israel matches",
-      "summary": "Irish campaign group accuses Israel of engaging ⁠in 'genocide' in war on Gaza ahead of UEFA Nations League game.",
+      "title": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
+      "summary": "US President Donald Trump says the ceasefire with Iran is still in effect, despite clashes in the Strait of Hormuz.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 11:42:03 +0000"
+      "pubDate": "Fri, 08 May 2026 04:25:03 +0000"
     },
     {
-      "title": "Turkiye unveils its first intercontinental ballistic missile: What we know",
-      "summary": "The Yildirimhan ICBM has a range 6,000km, with a maximum speed of Mach 25 and a payload capacity of 3,000kg.",
+      "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
+      "summary": "Brent crude rises amid clashes in critical waterway.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know?traffic_source=rss",
+      "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 11:40:38 +0000"
+      "pubDate": "Fri, 08 May 2026 03:03:36 +0000"
     },
     {
-      "title": "Can Asian economies cope with the fallout from the Iran war?",
-      "summary": "Fuel costs, inflation and debt pressures are testing Asian economies.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
+      "title": "US-Iran ceasefire under threat after exchange of strikes in strait of Hormuz",
+      "summary": "<p>Donald Trump says ceasefire remains in place despite strikes, with Iranian TV saying situation is ‘back to normal’</p><p>The US and Iran exchanged fire late on Thursday in the most serious test yet of their month-long ceasefire.</p><p>Iran accused the US of violating the ceasefire by targeting tw",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz",
       "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 11:35:57 +0000"
+      "pubDate": "Thu, 07 May 2026 23:38:31 GMT"
     },
     {
-      "title": "Africa sees winners and losers as Iran war pushes up oil prices",
-      "summary": "Several African countries have sought financial help due to economic uncertainty caused by the war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 11:29:43 +0000"
-    },
-    {
-      "title": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
-      "summary": "Iran is reviewing the Trump administration's latest proposal to end the war. And, Secretary of State Marco Rubio is meeting Pope Leo XIV amid President Trump's harsh criticism of him.",
+      "title": "U.S. military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
+      "summary": "The U.S. military also says that it \"targeted Iranian military facilities responsible for attacking U.S. forces.\" The exchange occurred Thursday as U.S. Navy destroyers transited the Strait of Hormuz, U.S. Central Command said in a social media post.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets",
+      "link": "https://www.npr.org/2026/05/07/g-s1-120978/u-s-military-intercepted-iran-attacks-navy-ships-hormuz",
       "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 07:04:29 -0400"
+      "pubDate": "Thu, 07 May 2026 18:32:47 -0400"
     },
     {
-      "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
-      "summary": "The soldier was photographed putting a cigarette in the statue's mouth, in the second incident against a Christian figure in weeks.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 11:01:50 GMT"
-    },
-    {
-      "title": "What are US proposals to end war, and will Iran agree to them?",
-      "summary": "Iran says it is reviewing a US proposal to end the US-Israel war on it that has caused a global crisis.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 10:45:29 +0000"
-    },
-    {
-      "title": "What is China’s anti-sanctions law and how does it work?",
-      "summary": "Beijing's order blocking US sanctions on five oil refineries marks first invocation of 2021 law.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 09:50:50 +0000"
-    },
-    {
-      "title": "Iran’s stance on US war negotiations explained",
-      "summary": "Iran’s stance on US war negotiations explained",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-stance-on-us-war-negotiations-explained?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 09:37:04 +0000"
-    },
-    {
-      "title": "Iran releases video said to show US drone shot down over Hormuz",
-      "summary": "Iranian media has released video purporting to show the wreckage of a US drone that was shot down by Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 09:21:31 +0000"
-    },
-    {
-      "title": "Affected by the Iran war, residents in Southeast Asian countries voice their concerns",
-      "summary": "Southeast Asian countries are voicing concern about President Trump and the war with Iran.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5813503/affected-by-the-iran-war-residents-in-southeast-asian-countries-voice-their-concerns",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 04:41:49 -0400"
-    },
-    {
-      "title": "Ex-spy who sold U.S. secrets to Israel says he's sorry, and will run for parliament",
-      "summary": "Jonathan Pollard, a former U.S. intelligence analyst who served 30 years for spying for Israel, says he will run in upcoming Israeli elections.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5812527/former-u-s-analyst-once-jailed-for-spying-for-israel-to-run-for-israeli-parliament",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 04:40:45 -0400"
-    },
-    {
-      "title": "French warship moves towards Red Sea as Paris eyes Hormuz mission",
-      "summary": "Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 08:36:21 +0000"
-    },
-    {
-      "title": "The Gaza journalist killed on the day his daughter was born",
-      "summary": "Sana's first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 08:12:43 +0000"
-    },
-    {
-      "title": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
-      "summary": "Trump says US-Iran talks are progressing as Tehran reviews a US proposal delivered through Pakistan.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 08:01:07 +0000"
-    },
-    {
-      "title": "Israeli attack on Gaza kills son of Hamas leader Khalil al-Hayya",
-      "summary": "Senior Hamas official Basem Naim confirms death of Azzam Khalil al-Hayya on social media.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 06:37:03 +0000"
-    },
-    {
-      "title": "JM Coetzee declines to attend Jerusalem writers festival over Israel’s ‘genocidal campaign in Gaza’",
-      "summary": "<p>Nobel laureate says he previously considered himself a supporter of Israel, but ‘the campaign of annihilation in Gaza has changed all that’</p><p>Nobel laureate JM Coetzee has declined to attend an upcoming literature festival in Israel, writing a excoriating letter to organisers citing the count",
+      "title": "US and Iran close to temporary truce, Pakistani officials claim",
+      "summary": "<p>Latest briefings float hope of basic deal that would keep peace and free shipping while further negotiations continue</p><ul><li><p><a href=\"https://viewer.gutools.co.uk/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates\">Middle",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/books/2026/may/07/jm-coetzee-declines-jerusalem-writers-festival-israels-genocidal-campaign-gaza-ntwnfb",
+      "link": "https://www.theguardian.com/world/2026/may/07/us-and-iran-close-to-temporary-truce-pakistani-officials-claim",
       "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 05:38:12 GMT"
+      "pubDate": "Thu, 07 May 2026 18:13:05 GMT"
     },
     {
-      "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
-      "summary": "Israel's military launches a probe after photo shows soldier placing a cigarette into the mouth of Virgin Mary statue.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 04:48:38 +0000"
-    },
-    {
-      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 04:06:33 GMT"
-    },
-    {
-      "title": "Macron says ‘all parties must lift the blockades’ – as it happened",
-      "summary": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing\">US fires on Iranian-flagged oil tanker as Trump gives Tehran fresh ultimatum</a></p></li></ul><p>The UK work and pensions secretary, <strong>Pat McFadden,</strong> h",
+      "title": "Trump shelved ‘Project Freedom’ after Saudis refused use of bases and airspace",
+      "summary": "<p>Riyadh told White House it would deny access for operation to provide tankers military escort through strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates\">Middle",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
+      "link": "https://www.theguardian.com/world/2026/may/07/trump-project-freedom-saudi-arabia-strait-of-hormuz",
       "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 00:35:12 GMT"
+      "pubDate": "Thu, 07 May 2026 18:05:03 GMT"
     },
     {
-      "title": "Gulf economies face long-term hit from Iran conflict",
-      "summary": "Commentators say it will take years or even decades to repair the damage.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 23:06:17 GMT"
-    },
-    {
-      "title": "US fires on Iranian-flagged oil tanker as Trump gives Tehran fresh ultimatum",
-      "summary": "<p>President tells Iran to accept deal to end war or face new wave of bombing at ‘much higher level and intensity’</p><p>The US military fired on an Iranian-flagged oil tanker on Wednesday, shortly after Donald Trump issued a fresh ultimatum to Tehran, telling it to accept a deal to end the war or f",
+      "title": "Iran mocks Trump’s ‘Project Freedom’ as adversaries wrestle over talks to end war",
+      "summary": "<p>President indicated that deal had materialised but truth was that Saudi Arabia had stopped US use of its bases</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates\">Middle East cr",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing",
+      "link": "https://www.theguardian.com/world/2026/may/07/iran-mocks-donald-trump-project-freedom",
       "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 21:03:56 GMT"
-    },
-    {
-      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 19:58:04 GMT"
-    },
-    {
-      "title": "Keep quiet ‘so we don’t go to jail’: the Israelis charged with bribery after suspicious bets placed on Iran strikes",
-      "summary": "<p>Authorities allege that Omer Ziv and an unnamed air force major used classified information to bet on the timing of military operations on Polymarket</p><p>Since users of the leading prediction market Polymarket have been able to wager on the outcomes of war, fears have been raised that those bet",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/06/polymarket-israel-iran-war-arrest",
-      "importance": "medium",
-      "pubDate": "Wed, 06 May 2026 18:40:29 GMT"
+      "pubDate": "Thu, 07 May 2026 17:54:36 GMT"
     }
   ]
 }
