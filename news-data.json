@@ -1,25 +1,129 @@
 {
-  "generated": "2026-05-08T12:05:03.372Z",
-  "date": "Friday, May 8, 2026",
+  "generated": "2026-05-09T11:42:15.816Z",
+  "date": "Saturday, May 9, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "What we know about Iran’s response to the latest US ceasefire proposal",
-      "summary": "Iran has not formally responded, but officials indicate a large divide remains between the two sides.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal?traffic_source=rss",
+      "title": "US awaiting response from Iran over proposals for ceasefire deal, says Rubio",
+      "summary": "<p>Diplomatic efforts continue despite fighting in and around contested strait of Hormuz in recent days</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates\">Middle East crisis – live up",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/08/us-iran-war-strait-of-hormuz-negotiations-marco-rubio",
       "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 11:47:05 +0000"
+      "pubDate": "Sat, 09 May 2026 10:42:56 GMT"
     },
     {
-      "title": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’",
-      "summary": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’, says analyst",
+      "title": "Gaza at the Venice Biennale: Where language falls short, threads take over",
+      "summary": "I co-commissioned the Gaza Genocide Tapestry which will be displayed at the Venice Biennale. Here's the story behind it.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/sexual-violence-against-palestinians-in-israeli-prisons-is?traffic_source=rss",
+      "link": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 11:45:28 +0000"
+      "pubDate": "Sat, 09 May 2026 10:19:31 +0000"
+    },
+    {
+      "title": "Moscow marks Victory Day with a Red Square parade under tight security",
+      "summary": "Security was tight in Moscow as Putin and several foreign leaders attended the parade, even as a U.S.-brokered three-day ceasefire eased concerns about possible Ukrainian attempts to disrupt the festivities.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/09/nx-s1-5816876/russia-victory-day",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 05:24:45 -0400"
+    },
+    {
+      "title": "The war on Iran will likely end in American retreat",
+      "summary": "The American empire cannot win the war against Iran at acceptable financial, military, and political costs.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 09:14:33 +0000"
+    },
+    {
+      "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
+      "summary": "Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 07:18:27 +0000"
+    },
+    {
+      "title": "Financial struggles burden Yemen’s army as soldiers wait for wages",
+      "summary": "Yemeni soldiers earn $38 to $116 monthly, but an unstable currency has eroded the value of their salaries.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 07:11:53 +0000"
+    },
+    {
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 06:13:30 GMT"
+    },
+    {
+      "title": "‘They have screwed each other pretty badly’: tensions emerge in Netanyahu-Trump alliance",
+      "summary": "<p>Israeli PM says he has ‘full coordination’ with US president amid reports that Washington no longer consults him</p><p>Benjamin Netanyahu interrupted an uncharacteristically long silence over the Iran conflict this week with a video commentary insisting he had “full coordination” with Donald Trum",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/09/tensions-emerge-bejamin-netanyahu-donald-trump-alliance",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 06:00:49 GMT"
+    },
+    {
+      "title": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire",
+      "summary": "President Volodymyr Zelenskyy and Yuri Ushakov, President Vladimir Putin's foreign affairs adviser, both confirmed the agreement for a three-day ceasefire and an exchange of prisoners.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 00:04:26 -0400"
+    },
+    {
+      "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
+      "summary": "Families displaced by fighting fear new clashes with Thailand, say education among areas most affected by border war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 01:23:18 +0000"
+    },
+    {
+      "title": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
+      "summary": "Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon's National News Agency said.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 09 May 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Pentagon releases video of strikes on Iranian oil tankers",
+      "summary": "Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 22:31:37 +0000"
+    },
+    {
+      "title": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
+      "summary": "Israel has increased its attacks across southern Lebanon. Al Jazeera’s Obaida Hitto reports from Tyre.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 19:20:23 +0000"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "summary": "<p>Femen and Pussy Riot protest in Venice, Israeli strikes in Gaza, the hantavirus outbreak and Emma Chamberlain at the Met Gala – <a href=\"https://www.instagram.com/guardian20photos/\">the past seven days as captured by the world’s leading photojournalists</a></p> <a href=\"https://www.theguardian.co",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/may/08/the-week-around-the-world-in-20-pictures",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 18:35:18 GMT"
+    },
+    {
+      "title": "Several Venice Biennale pavilions shut in protest over inclusion of Israel",
+      "summary": "<p>About a dozen pavilions affected, while some artists backed strike by adding Palestine references to their work</p><p>A strike called in protest over the inclusion of Israel at the 2026 Venice Biennale meant several pavilions closed on the last day of the preview, some for a few hours while other",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/artanddesign/2026/may/08/several-venice-biennale-pavilions-shut-in-protest-over-inclusion-of-israel",
+      "importance": "medium",
+      "pubDate": "Fri, 08 May 2026 15:50:03 GMT"
     },
     {
       "title": "U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus",
@@ -30,18 +134,10 @@
       "pubDate": "Fri, 08 May 2026 07:26:37 -0400"
     },
     {
-      "title": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison",
-      "summary": "A Gaza family's nightmare ends after discovering their 'martyred' son alive in an Israeli prison.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 11:15:02 +0000"
-    },
-    {
-      "title": "UAE reports drone and missile attack as Iran war ceasefire is challenged",
-      "summary": "The Iran war's shaky ceasefire was further strained on Friday as the United Arab Emirates responded to a missile and drone strikes.",
+      "title": "The U.S. fires on Iranian tankers trying to evade its blockade amid a Hormuz standoff",
+      "summary": "U.S. forces fired on two Iranian oil tankers after exchanging fire with Iranian forces in the Strait of Hormuz. And the United Arab Emirates reported another Iranian missile and drone attack.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/08/g-s1-121061/uae-reports-drone-and-missile-attack",
+      "link": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
       "importance": "medium",
       "pubDate": "Fri, 08 May 2026 06:44:36 -0400"
     },
@@ -62,86 +158,6 @@
       "pubDate": "Fri, 08 May 2026 09:30:39 GMT"
     },
     {
-      "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
-      "summary": "The CPJ says the 'lack of concrete progress' in the FBI investigation represents a failure by the US government.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 09:28:31 +0000"
-    },
-    {
-      "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
-      "summary": "A ceasefire between the US and Iran has been in place since April 8. Both sides are yet to agree on a peace deal.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 09:22:48 +0000"
-    },
-    {
-      "title": "European countries emerge as NATO leaders as U.S. role recedes",
-      "summary": "President Trump's decision to leave NATO in the dark before launching strikes on Iran has inflamed tensions and is putting new urgency on rethinking the alliance.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Yemen fuel price hikes deepen hardship as transport costs rise",
-      "summary": "Rising fuel costs in Yemen force drivers to raise fares, as passengers struggle with worsening financial burdens.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/5/8/yemen-fuel-price-hikes-deepen-hardship-as-transport-costs-rise?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 08:47:04 +0000"
-    },
-    {
-      "title": "Some people in Iran have kept internet access despite government-imposed blackout",
-      "summary": "Iran is experiencing the longest internet blackout ever recorded with 99% of the population offline. But certain people — with \"white internet\" — have stayed connected this entire time.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/08/nx-s1-5773963/some-people-in-iran-have-kept-internet-access-despite-government-imposed-blackout",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 04:44:26 -0400"
-    },
-    {
-      "title": "Russia, Ukraine trade fire, blame despite Victory Day ceasefire",
-      "summary": "Warring sides accuse each other of violations as attacks continue across front lines.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/8/russia-ukraine-trade-fire-despite-victory-day-ceasefire?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 07:44:15 +0000"
-    },
-    {
-      "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
-      "summary": "Bloc is expected to call for deeper energy cooperation and reopening of the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 07:11:41 +0000"
-    },
-    {
-      "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
-      "summary": "Iran accuses US of breaching ceasefire near Hormuz as CENTCOM says forces responded to Iranian attacks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 06:32:57 +0000"
-    },
-    {
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 05:57:08 GMT"
-    },
-    {
-      "title": "Ex-prisoners recount abuse in Israeli detention centres",
-      "summary": "Former Palestinian detainees are speaking out about torture and sexual violence they faced in Israeli detention.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 05:21:22 +0000"
-    },
-    {
       "title": "UAE says air defences engaging with Iranian attacks – as it happened",
       "summary": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz\">US-Iran ceasefire under threat after exchange of strikes in strait of Hormuz</a></p></li></ul><p><strong>T",
       "source": "The Guardian — Middle East",
@@ -150,36 +166,12 @@
       "pubDate": "Fri, 08 May 2026 04:27:51 GMT"
     },
     {
-      "title": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
-      "summary": "US President Donald Trump says the ceasefire with Iran is still in effect, despite clashes in the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 04:25:03 +0000"
-    },
-    {
-      "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
-      "summary": "Brent crude rises amid clashes in critical waterway.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 08 May 2026 03:03:36 +0000"
-    },
-    {
       "title": "US-Iran ceasefire under threat after exchange of strikes in strait of Hormuz",
       "summary": "<p>Donald Trump says ceasefire remains in place despite strikes, with Iranian TV saying situation is ‘back to normal’</p><p>The US and Iran exchanged fire late on Thursday in the most serious test yet of their month-long ceasefire.</p><p>Iran accused the US of violating the ceasefire by targeting tw",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz",
       "importance": "medium",
       "pubDate": "Thu, 07 May 2026 23:38:31 GMT"
-    },
-    {
-      "title": "U.S. military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
-      "summary": "The U.S. military also says that it \"targeted Iranian military facilities responsible for attacking U.S. forces.\" The exchange occurred Thursday as U.S. Navy destroyers transited the Strait of Hormuz, U.S. Central Command said in a social media post.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/07/g-s1-120978/u-s-military-intercepted-iran-attacks-navy-ships-hormuz",
-      "importance": "medium",
-      "pubDate": "Thu, 07 May 2026 18:32:47 -0400"
     },
     {
       "title": "US and Iran close to temporary truce, Pakistani officials claim",
@@ -204,6 +196,14 @@
       "link": "https://www.theguardian.com/world/2026/may/07/iran-mocks-donald-trump-project-freedom",
       "importance": "medium",
       "pubDate": "Thu, 07 May 2026 17:54:36 GMT"
+    },
+    {
+      "title": "The Guardian view on ceasefires that aren’t: Israel never stopped killing in Gaza – allies must reject any escalation | Editorial",
+      "summary": "<p>The US is unlikely to pressure Benjamin Netanyahu to comply with truce terms. Europe must take action</p><p>The meaning of the term “ceasefire” should be self‑evident. Yet Israel’s strikes have killed scores of people in Lebanon <a href=\"https://www.theguardian.com/world/2026/apr/27/lebanon-israe",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-ceasefires-that-arent-israel-never-stopped-killing-in-gaza-allies-must-reject-any-escalation",
+      "importance": "medium",
+      "pubDate": "Thu, 07 May 2026 17:36:30 GMT"
     }
   ]
 }
