@@ -1,209 +1,209 @@
 {
-  "generated": "2026-05-19T13:51:40.351Z",
-  "date": "Tuesday, May 19, 2026",
+  "generated": "2026-05-20T13:32:15.164Z",
+  "date": "Wednesday, May 20, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Iran warns it will ‘open new fronts’ against US if attacks resume after Trump suspends strikes",
-      "summary": "<p>The US president said he called off a planned attack on Iran on Tuesday so that peace talks could continue</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\"><strong>Full report: Trump claims planned attack on Iran postponed after Teh",
+      "title": "Israeli lawmakers advance bill to dissolve parliament",
+      "summary": "Netanyahu is under mounting pressure as his fractious right-wing coalition submitted the bill to dissolve parliament.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 13:08:25 +0000"
+    },
+    {
+      "title": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
+      "summary": "Nearly all flotillas over 20 years have been intercepted by Israel. Hundreds remain missing after latest interdiction.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 13:02:06 +0000"
+    },
+    {
+      "title": "British couple on new hunger strike in Iranian jail, family say",
+      "summary": "Lindsay and Craig Foreman, from East Sussex, have each spent several days refusing food, their family says.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c8e890y14r5o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 12:53:26 GMT"
+    },
+    {
+      "title": "In Iran’s capital, weapons demonstrations send a signal at home and abroad as threat of war remains",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/0ba5950/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc0%2F02%2F2b53e28dbbe615f2e8aa4b344232%2F46e90ce9d2f84ad09eb540dc43a21506\" width=\"100%\"><small style=\"color: #999;\">A group of girls stan",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-israel-war-missiles-rifle-training-tehran-df66b19c69074ca4f4195f9eca262020",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 12:53:02 +0000"
+    },
+    {
+      "title": "UK eases sanctions on Russian oil imports as fuel prices soar",
+      "summary": "The move will allow the UK to import Russian crude oil refined in third countries, such as India and Turkiye.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/20/uk-eases-sanctions-on-russian-oil-imports-as-fuel-prices-soar?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 10:46:10 +0000"
+    },
+    {
+      "title": "Lebanon says 21 killed, including children, in Israeli air strikes",
+      "summary": "Twelve people were killed in a single strike on a house, including three children and three women, Lebanon's state-run news agency says.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 10:42:03 GMT"
+    },
+    {
+      "title": "US and Israel planned to install Ahmadinejad as Iranian leader, NYT says",
+      "summary": "The 'audacious plan' quickly unravelled and Ahmadinejad's whereabouts are unknown, US officials told the newspaper",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 10:27:25 +0000"
+    },
+    {
+      "title": "Israeli minister orders West Bank hamlet evicted after hearing he may face arrest warrant overseas",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/40b9274/2147483647/strip/true/crop/8548x5696+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2Fea%2Fda233c05fbb59ce174104f5edf38%2F3bef0bdde6614b429b0d788666b21fc4\" width=\"100%\"><small style=\"color: #999;\">A Bedouin shepherd le",
+      "source": "AP News",
+      "link": "https://apnews.com/article/smotrich-arrest-warrant-khan-al-ahmar-68bffe70027bab508e650641f71324bd",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 09:53:02 +0000"
+    },
+    {
+      "title": "Ukraine ally Britain eases sanctions on Russian oil as fuel prices surge over Iran conflict",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/9b8c193/2147483647/strip/true/crop/4252x2833+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3f%2F22%2Fa4f83999f1f26b556a75b5580e42%2F227e0d527f93484eacf5f67b0fd486d1\" width=\"100%\"><small style=\"color: #999;\">A seized suspected Ru",
+      "source": "AP News",
+      "link": "https://apnews.com/article/uk-russia-oil-sanctions-hormuz-b44c42c1e172302d7d09bc07ee49b49c",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 09:53:02 +0000"
+    },
+    {
+      "title": "Where Trump falters with Republicans — and where he holds steady, according to a new AP-NORC poll",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/dcef04d/2147483647/strip/true/crop/3448x2297+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F6e%2Fbc9639ba7f194ecb878058cdbca5%2Fbd12633a03f24863afa9c8c049fee809\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
+      "source": "AP News",
+      "link": "https://apnews.com/article/poll-trump-republicans-economy-iran-immigration-283a726342b3b41e0b71f2b2941d8484",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 09:53:02 +0000"
+    },
+    {
+      "title": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
+      "summary": "The protest comes after Israeli forces intercepted the last remaining vessel sailing towards the besieged Gaza Strip.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 08:36:58 +0000"
+    },
+    {
+      "title": "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal",
+      "summary": "Oil prices eased after the White House remarks as Iran warned it would expand the war in response to any new attacks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 07:47:55 +0000"
+    },
+    {
+      "title": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+      "summary": "Iran says it learned from past clashes as Trump gives Tehran 'two to three days' to reach a deal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 07:16:18 +0000"
+    },
+    {
+      "title": "Kentucky Rep. Thomas Massie charted his own way, until toppled by Trump",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/7f4d556/2147483647/strip/true/crop/3710x2472+1+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2Fa3%2F4fe149925728f25ff222e5c064f3%2F8ba6220b794e49628a056e702c0042fc\" width=\"100%\"><small style=\"color: #999;\">Rep. Thomas Massie, R",
+      "source": "AP News",
+      "link": "https://apnews.com/article/donald-trump-thomas-massie-9561ac5dcf4dc3af932b2e8f781264da",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 06:23:02 +0000"
+    },
+    {
+      "title": "‘The door to the future of Gaza is still closed’: Trump’s reconstruction promises stall",
+      "summary": "<p>Diplomatic impasse and lack of progress on the ground has left countries that pledged funds to Board of Peace reluctant to pay</p><p>Gaza is in a grim limbo more than seven months after Donald Trump brokered a ceasefire deal: no reconstruction is under way, the so-called Board of Peace is struggl",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/20/donald-trump-gaza-reconstruction-promises-stall",
+      "importance": "medium",
+      "pubDate": "Wed, 20 May 2026 06:00:24 GMT"
+    },
+    {
+      "title": "Israeli strikes on Lebanon kill at least 19 as clashes with Hezbollah continue despite ceasefire",
+      "summary": "<p>Single strike on the village of Deir Qanoun al Nahr in the coastal Tyre province killed 10, including three children and three women, health ministry says</p><p>Israeli airstrikes on southern Lebanon on Tuesday killed at least 19 people, including four women and three children, Lebanon’s health m",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/20/deadly-israeli-strikes-lebanon",
+      "importance": "medium",
+      "pubDate": "Tue, 19 May 2026 23:13:14 GMT"
+    },
+    {
+      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+      "summary": "The Global Sumud Flotilla says commandos have intercepted more than 50 boats trying to breach the Gaza maritime blockade since Monday.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 19 May 2026 20:27:54 GMT"
+    },
+    {
+      "title": "JD Vance says US remains ‘locked and loaded’ to restart military campaign as Iran warns of ‘new fronts’ – as it happened",
+      "summary": "<p>US vice-president says Iran must agree to never have a nuclear weapon; Tehran warns US against resuming hostilities</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/19/trump-threatens-a-big-hit-if-tehran-does-not-make-deal-soon\">Trump threatens ‘a big hit’ if Tehran does not make",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 13:46:35 GMT"
+      "pubDate": "Tue, 19 May 2026 18:46:02 GMT"
     },
     {
-      "title": "Activists say Israel tries to expel a whole Palestinian neighborhood in East Jerusalem",
+      "title": "Trump turns to Middle East allies as deal to end Iran war proves elusive",
+      "summary": "<p>President claims planned Tehran attack postponed to allow talks to continue – but no indication peace plan is imminent</p><p>As he seeks an exit from the Iran war, Donald Trump is increasingly outsourcing his policymaking to US allies in the Middle East, while the White House appears unable to fi",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/19/trump-iran-analysis",
+      "importance": "medium",
+      "pubDate": "Tue, 19 May 2026 18:45:25 GMT"
+    },
+    {
+      "title": "Trump threatens ‘a big hit’ if Tehran does not make deal soon",
+      "summary": "<p>Renewed threat comes after US president said he was ‘an hour away’ from ordering a strike before pulling back</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates\">Middle East crisis – live ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/19/trump-threatens-a-big-hit-if-tehran-does-not-make-deal-soon",
+      "importance": "medium",
+      "pubDate": "Tue, 19 May 2026 18:23:20 GMT"
+    },
+    {
+      "title": "Israeli minister Smotrich says ICC prosecutor seeking warrant for his arrest",
+      "summary": "The Hague-based court declines to comment, saying applications for warrants are classified as secret.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c5y9jq2r907o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 19 May 2026 17:31:54 GMT"
+    },
+    {
+      "title": "Strike near UAE reactor revives concerns over nuclear plant safety in wartime",
+      "summary": "<p>Attack marks first time military action has forced a fully operating nuclear power plant to rely on backup generators</p><p>• <a href=\"https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates\">Middle East crisis – liv",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/19/strike-near-uae-reactor-concerns-nuclear-plant-safety-iran-war-middle-east",
+      "importance": "medium",
+      "pubDate": "Tue, 19 May 2026 14:49:59 GMT"
+    },
+    {
+      "title": "Far-right Israeli minister Bezalel Smotrich says ICC is seeking his arrest",
+      "summary": "<p>Smotrich vows to retaliate by waging ‘war’ on Palestinian Authority and orders evacuation of a West Bank village</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates\">Middle East crisis – li",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/law/2026/may/19/far-right-israeli-minister-bezalel-smotrich-icc-seeking-arrest",
+      "importance": "medium",
+      "pubDate": "Tue, 19 May 2026 14:02:26 GMT"
+    },
+    {
+      "title": "Sally Rooney on a new Hebrew translation of Intermezzo: ‘The Israeli culture sector is complicit in apartheid’",
+      "summary": "<p>Four years after Rooney cited BDS in declining a different Israeli publisher, she speaks with activist Samir Eskanda about the artist’s role in the boycott movement</p><ul><li><p><a href=\"https://www.theguardian.com/books/2026/may/19/sally-rooney-intermezzo-hebrew-tranlsation\">Sally Rooney to pub",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/ng-interactive/2026/may/19/sally-rooney-new-hebrew-translation-intermezzo",
+      "importance": "medium",
+      "pubDate": "Tue, 19 May 2026 14:00:06 GMT"
+    },
+    {
+      "title": "Israel's trying to expel a whole Palestinian district in East Jerusalem, activists say",
       "summary": "Israeli authorities are issuing Palestinians demolition orders in East Jerusalem at an accelerated rate since Israel launched war with Iran, human rights groups and U.N. experts say.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/05/19/nx-s1-5823861/israel-palestinians-east-jerusalem",
       "importance": "medium",
       "pubDate": "Tue, 19 May 2026 09:20:36 -0400"
-    },
-    {
-      "title": "Suspected car bomb explodes in Syrian capital Damascus",
-      "summary": "Plumes of smoke from a suspected car bomb explosion outside an armament management centre in Damascus.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/suspected-car-bomb-explodes-in-syrian-capital-damascus?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 12:57:56 +0000"
-    },
-    {
-      "title": "Israeli far-right minister Smotrich says ICC seeks his arrest",
-      "summary": "Smotrich is the third Israeli official targeted by the ICC, after Netanyahu and Gallant, for war crimes in Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 12:26:06 +0000"
-    },
-    {
-      "title": "Romanian jet shoots down what’s believed to have been a Ukrainian drone over Estonia",
-      "summary": "<p>2026-05-19T12:10:02Z</p> <p>TALLINN, Estonia (AP) — A Romanian F-16 jet belonging to NATO air policing forces in the Baltics on Tuesday shot down what is believed to have been a Ukrainian drone over southern Estonia, authorities said.</p><p>Given the trajectory of the drone, “we decided that we n",
-      "source": "AP News",
-      "link": "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 12:23:03 +0000"
-    },
-    {
-      "title": "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
-      "summary": "Tehran said its demands for peace include lifting sanctions against Iran but other sticking points likely to remain.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 12:06:34 +0000"
-    },
-    {
-      "title": "Israeli forces intercept another boat with activists seeking to challenge the blockage of Gaza",
-      "summary": "<p>2026-05-19T11:44:07Z</p> <p>JERUSALEM (AP) — Israeli forces intercepted one of the remaining Gaza flotilla boats, stopping the vessel when it was about 82 nautical miles (around 150 kilometers or 95 miles) from Gaza, according to the flotilla’s website tracker.</p><p>A livestream on the website s",
-      "source": "AP News",
-      "link": "https://apnews.com/article/gaza-israel-flotilla-intercepted-andros-40ef5c9b668c381448b871c384d2927e",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 11:53:02 +0000"
-    },
-    {
-      "title": "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing",
-      "summary": "Foreign ministers of 10 countries say Israel's storming of the aid flotilla is a blatant violation of international law.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 11:24:19 +0000"
-    },
-    {
-      "title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
-      "summary": "With Iran's local football league suspended since March, most players in the squad have not been in action for months.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 10:00:36 +0000"
-    },
-    {
-      "title": "The US, Israel and the normalisation of scandal",
-      "summary": "Thanks to Netanyahu and Trump, scandal is now our new normal - call it 'Everythinggate'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/5/19/the-us-israel-and-the-normalisation-of-scandal?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 09:46:18 +0000"
-    },
-    {
-      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
-      "summary": "The Global Sumud Flotilla says commandos have intercepted more than 40 boats trying to breach the Gaza maritime blockade since Tuesday.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 09:38:27 GMT"
-    },
-    {
-      "title": "One Palestinian man's life of survival",
-      "summary": "A 90-year-old Palestinian man in Gaza says his life has never felt safe as he recalls displacements and wars",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/19/nx-s1-5825865/one-palestinian-mans-life-of-survival",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 04:00:51 -0400"
-    },
-    {
-      "title": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
-      "summary": "Damascus and Beirut focus on sovereignty and cooperation, moving away from decades of Syrian dominance over Lebanon.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 07:38:32 +0000"
-    },
-    {
-      "title": "Timeline of recent US-Cuba relations amid heightened tensions in Trump’s second term",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f7c017d/2147483647/strip/true/crop/2922x1947+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2Fed%2Fe8c41f1602fba4039950325f926d%2Fab481e4ac0e947c78241962a723f2ac2\" width=\"100%\"><small style=\"color: #999;\">Raul Castro waves a C",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-us-cuba-relations-raul-castro-6e7b7ade3bf347cb2f1ff0e3984e3b91",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 06:23:02 +0000"
-    },
-    {
-      "title": "Israel Defense Forces intercept Global Sumud Flotilla en route to Gaza – video",
-      "summary": "<p>Footage posted to social media allegedly shows the Israel Defense Forces boarding the Global Sumud Flotilla boats. The ships, carrying 319 activists from dozens of nations, were about 250 nautical miles from the coast of Gaza when they were surrounded, organisers say</p><ul><li><p><a href=\"https:",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/may/19/israel-intercepts-gaza-flotilla-idf-watch",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 05:50:06 GMT"
-    },
-    {
-      "title": "Trump says he's called off Iran strike at request of Gulf allies",
-      "summary": "President Donald Trump says he is holding off on a military strike on Iran planned for Tuesday because \"serious negotiations\" are underway to end the war.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 01:27:58 -0400"
-    },
-    {
-      "title": "Dfat officials ‘urgently seeking’ status of 11 Australian Gaza flotilla activists detained by Israel",
-      "summary": "<p>Global Sumud Flotilla organisers say 38 ships holding 319 activists were about 250 nautical miles from the coast of Gaza when they were intercepted</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-i",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/19/government-urgently-seeking-status-of-11-australian-gaza-flotilla-activists-detained-by-israel-ntwnfb",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 04:54:37 GMT"
-    },
-    {
-      "title": "‘Come in for one minute’: exhibition showing horrors of 7 October attacks opens in London",
-      "summary": "<p>Commemoration of atrocity at Nova music festival confronts those who deny its gravity, says Elkana Bohbot</p><p>Two police vans waited expectantly near the front entrance. Officers patrolled the pavements while suited security men with ear pieces stood stern-faced, casting suspicious looks at tho",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/uk-news/2026/may/19/israel-survivor-appeal-7-october-nova-exhibition-london",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 04:00:01 GMT"
-    },
-    {
-      "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
-      "summary": "<p>This blog is now closed. See our latest full report: <a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\">Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war</a></p><p><a href=\"https://www.theguardian.com/world/fr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
-      "importance": "medium",
-      "pubDate": "Tue, 19 May 2026 02:06:01 GMT"
-    },
-    {
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 18 May 2026 22:30:58 GMT"
-    },
-    {
-      "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
-      "summary": "<p>The US president says plans for a US military strike on Iran have been paused because ‘serious negotiations are now taking place’</p><p>Iran has made a new proposal for a deal to definitively end the war in the Middle East, officials in the region said on Monday, with Donald Trump claiming he had",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
-      "importance": "medium",
-      "pubDate": "Mon, 18 May 2026 21:07:58 GMT"
-    },
-    {
-      "title": "Israeli Navy intercepts activists trying to break Gaza blockade with aid ships",
-      "summary": "On Monday, the Israeli navy intercepted a flotilla of 54 boats of activists headed to Gaza with humanitarian aid.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/18/nx-s1-5825816/israeli-navy-intercepts-activist-trying-to-break-gaza-blockade-with-aid-ships",
-      "importance": "medium",
-      "pubDate": "Mon, 18 May 2026 16:25:14 -0400"
-    },
-    {
-      "title": "‘Disposable’ operatives for hire are a new menace for western countries",
-      "summary": "<p>A court case in New York has highlighted how Iran is using technology to recruit agents who may not even be regime supporters</p><p>When on Friday a 32-year-old Iraqi was brought before a court in New York to be <a href=\"https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arreste",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
-      "importance": "medium",
-      "pubDate": "Mon, 18 May 2026 17:30:25 GMT"
-    },
-    {
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 18 May 2026 16:16:38 GMT"
-    },
-    {
-      "title": "How realistic is threat of Iran charging to use internet cables under strait of Hormuz?",
-      "summary": "<p>Plan floated in Iranian media to extract revenues from US tech firms would rely on intimidation and is legally dubious</p><p>Could undersea cables – the sinews of the global internet – become the next frontier in the <a href=\"https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-pr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/18/iran-threat-internet-cables-strait-hormuz",
-      "importance": "medium",
-      "pubDate": "Mon, 18 May 2026 15:58:47 GMT"
     }
   ]
 }
