@@ -1,209 +1,209 @@
 {
-  "generated": "2026-05-23T11:54:37.685Z",
-  "date": "Saturday, May 23, 2026",
+  "generated": "2026-05-24T11:57:47.009Z",
+  "date": "Sunday, May 24, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Israeli bombardment reduces buildings to craters in southern Lebanon",
-      "summary": "<p>People killed in strikes across multiple locations after child and six paramedics die in attacks a day earlier</p><p>Israel has carried out overnight strikes on Lebanon’s Bekaa valley and the southern province of Tyre, killing at least four people and reducing buildings to craters.</p><p>The stri",
+      "title": "Iran’s leader and security council ‘still need to approve’ peace deal with US",
+      "summary": "<p>One or two clauses yet to be clarified, Iran officials tell Pakistani mediators, after US says deal ‘largely negotiated’</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live\">Middle East crisis: live updates</a></p></li",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/23/israel-lebanon-strikes-deaths-paramedics-health-ministry-says",
+      "link": "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us",
       "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 11:11:27 GMT"
+      "pubDate": "Sun, 24 May 2026 11:44:01 GMT"
     },
     {
-      "title": "Ukrainian drone attack triggers fire at a Russian oil terminal",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/bccf78a/2147483647/strip/true/crop/5785x3855+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdf%2Fe5%2F2d1a2f37b5f3578812280e0c5521%2F325ea4ef6ee24d6f891a999854cb3c46\" width=\"100%\"><small style=\"color: #999;\">Farmers collect fragm",
+      "title": "Israeli attack on Gaza kills three family members, including infant",
+      "summary": "Mohammad Abu Mallouh, ​Alaa Zaqlan and their child, Osama, killed in the attack on Nuseirat refugee camp, medics say.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 11:41:58 +0000"
+    },
+    {
+      "title": "Middle East crisis live: Rubio sees initial progress on reopening Hormuz after Trump claims Iran deal ‘largely negotiated’",
+      "summary": "<p>The US secretary of state suggested a deal could be announced ‘in the next few hours’ but cautioned it wouldn’t be a ‘final’ agreement</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/23/trump-ceasefire-iran-strait-of-hormuz\">Full report: Trump says peace deal with Iran ‘largely ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 11:38:30 GMT"
+    },
+    {
+      "title": "With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart",
+      "summary": "<p>Global prices are approaching a tipping point that could trigger inflation, shortages and, over time, recession</p><p>If a US-Iran deal is about to be reached, three months on from the launch of Donald Trump’s Operation Epic Fury, it will not be a day too soon for oil markets, which are approachi",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 11:31:38 GMT"
+    },
+    {
+      "title": "The GCC should insure itself against the next Strait of Hormuz crisis",
+      "summary": "For that, collective action will be needed now.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/5/24/the-gcc-should-insure-itself-against-the-next-strait-of-hormuz-crisis?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 11:07:26 +0000"
+    },
+    {
+      "title": "What may be included in proposed Iran ceasefire deal?",
+      "summary": "<p>Proposed framework hinges on a 60-day truce, reopening strait of Hormuz, and revived talks on limiting Iran nuclear programme</p><p><strong>• </strong><a href=\"https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live\"><strong>Middle East crisis: ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/24/iran-ceasefire-deal-us-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 10:31:40 GMT"
+    },
+    {
+      "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
+      "summary": "Trump announces progress on Iran peace deal, signalling the Strait of Hormuz, vital for global trade, could reopen soon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 10:25:43 +0000"
+    },
+    {
+      "title": "Marco Rubio says 'significant' progress made in talks with Iran – video",
+      "summary": "<p>US secretary of state tells reporters peace talks with Iran have progressed but cautions that a deal not 'final' at this stage </p> <a href=\"https://www.theguardian.com/us-news/video/2026/may/24/marco-rubio-says-significant-progress-made-in-talks-with-iran-video\">Continue reading...</a>",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/video/2026/may/24/marco-rubio-says-significant-progress-made-in-talks-with-iran-video",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 10:14:35 GMT"
+    },
+    {
+      "title": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
+      "summary": "Iranian news agency says deal could see shipping levels through Strait of Hormuz return to pre-war levels within weeks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 10:01:44 +0000"
+    },
+    {
+      "title": "US, Iran inch closer to deal to end the war: What to know",
+      "summary": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 09:37:52 +0000"
+    },
+    {
+      "title": "Russia pounds Ukraine’s capital with hypersonic missile",
+      "summary": "Russia pounded Ukraine’s capital overnight on Saturday with drones and ballistic missiles.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 09:20:47 +0000"
+    },
+    {
+      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said Sunday Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv on Sunday that killed at least two people.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 05:12:28 -0400"
+    },
+    {
+      "title": "Trump says US and Iran deal to end war is ‘largely negotiated’",
+      "summary": "US President Trump announced that a Memorandum of Understanding on a peace deal with Iran has been ‘largely negotiated'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 09:10:45 +0000"
+    },
+    {
+      "title": "Rubio says ‘significant progress’ made in US-Iran negotiations",
+      "summary": "US Secretary of State Marco Rubio says ‘significant progress’ made in US-Iran negotiations.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 08:51:09 +0000"
+    },
+    {
+      "title": "Yemen war sees scramble for scant resources between displaced and locals",
+      "summary": "Reduced aid to Yemen and a domestic economic crisis see extreme suffering among the displaced at the Maryamah camp.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 08:47:45 +0000"
+    },
+    {
+      "title": "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
+      "summary": "Russia and Iran have been locked in a centuries-long rivalry and pragmatism.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 08:10:30 +0000"
+    },
+    {
+      "title": "Trump claims peace deal with Iran ‘largely negotiated’ with strait of Hormuz to open",
+      "summary": "<p>President’s claim is tempered by Pakistani PM’s hopes of hosting more talks ‘very soon’, and Iran’s Fars news agency saying strait of Hormuz will remain under Iranian control</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-cri",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/23/trump-ceasefire-iran-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 06:16:13 GMT"
+    },
+    {
+      "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+      "summary": "US president makes announcement after mediator Pakistan holds 'highly productive' talks in Tehran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 05:35:02 +0000"
+    },
+    {
+      "title": "Iranian sources lay out Iran-US deal details",
+      "summary": "Al Jazeera’s Ali Hashem reveals details of Iran's position on the potential peace agreement with the US.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 24 May 2026 02:16:42 +0000"
+    },
+    {
+      "title": "Secret Service shoots person near White House, bystander also shot, law enforcement official says",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4298ddb/2147483647/strip/true/crop/5524x3681+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F6f%2F25ae115beb1bc3518ac9a7bb9d90%2Fcb082be091be4b49b04fc30cc9503f79\" width=\"100%\"><small style=\"color: #999;\">Police and members of",
       "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-drones-oil-refinery-9e5b15b9cf8cf80882da6f7a23b88848",
+      "link": "https://apnews.com/article/white-house-gunshots-lockdown-secret-service-trump-204c429ab3888b3d0921cf724e0c0474",
       "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 10:53:02 +0000"
+      "pubDate": "Sat, 23 May 2026 23:53:02 +0000"
     },
     {
-      "title": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
-      "summary": "People in southern Lebanon are living under \"psychological terror\" from Israeli air attacks and displacement orders.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 09:30:24 +0000"
-    },
-    {
-      "title": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
-      "summary": "Parts of the Puebla stadium for high-profile warm-up for 2026 edition were closed to spectators due to FIFA sanctions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 09:26:21 +0000"
-    },
-    {
-      "title": "Missiles to munitions: Does the US risk running out of key weapons?",
-      "summary": "The US projects confidence in weapons stockpiles, but analysts say dwindling munitions are shaping its war decisions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 09:22:58 +0000"
-    },
-    {
-      "title": "An ever-expanding catastrophe over Iran is not inevitable. Trump can and must be stopped | Simon Tisdall",
-      "summary": "<p>Millions are being dragged into starvation, while people everywhere pay a Trump war tax. But there are plenty of powers who could bring him to heel</p><p>With the deadlocked war in Iran about to enter its fourth month, loose comparisons with previous US quagmires in Iraq, Afghanistan and <a href=",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/may/23/ever-expanding-global-catastrophe-inevitable-donald-trump",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 09:00:23 GMT"
-    },
-    {
-      "title": "Board of Peace focus on Hamas risks return to war in Gaza, critics say",
-      "summary": "<p>US-backed board has put sole blame for stalled ceasefire on militant group despite Israel not fulfilling its obligations, analysts say</p><p>The top diplomat from the Board of Peace has blamed Hamas for the <a href=\"https://www.theguardian.com/world/2026/may/20/donald-trump-gaza-reconstruction-pr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 09:00:13 GMT"
-    },
-    {
-      "title": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
-      "summary": "A visit by Pakistan’s army chief to Tehran is seen as a sign of significant progress in negotiations.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 08:16:38 +0000"
-    },
-    {
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 08:10:51 GMT"
+      "pubDate": "Sat, 23 May 2026 23:24:03 GMT"
     },
     {
-      "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
-      "summary": "Despite ICJ genocide warnings, 51 nations kept arming Israel, even after pledging to halt support.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 07:56:12 +0000"
-    },
-    {
-      "title": "Iran war day 85: Tehran says major gaps remain in US talks",
-      "summary": "Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 06:51:45 +0000"
-    },
-    {
-      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
-      "summary": "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 06:40:10 +0000"
-    },
-    {
-      "title": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
-      "summary": "<p>Australia joins the UK, Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlements</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 06:03:37 GMT"
-    },
-    {
-      "title": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
-      "summary": "Overcrowded camps in Gaza see a surge in skin diseases. Children are most affected as healthcare services collapse.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 05:46:36 +0000"
-    },
-    {
-      "title": "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax",
-      "summary": "<p>Iran has threatened to impose tolls on shipping, while US demands that Iran hand over its highly enriched uranium may be deferred. Is there an end in sight?</p><p>Qatar has rushed a team of mediators to Tehran in a sign that talks to open the strait of Hormuz, in return for the lifting of US sanc",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
-      "importance": "medium",
-      "pubDate": "Sat, 23 May 2026 01:14:00 GMT"
-    },
-    {
-      "title": "Hunger grows in Gaza as food aid is cut due to higher costs caused by war in Iran",
-      "summary": "The U.S.-Israeli war against Iran is driving up the cost of food, leading to funding shortfalls and higher expenses for critical food aid in Gaza.",
+      "title": "Trump touts Iran breakthrough but details remain unclear",
+      "summary": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. Iran did not officially confirm the deal, and state media contradicted parts of it.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5827011/hunger-grows-in-gaza-as-food-aid-is-cut-due-to-higher-costs-caused-by-war-in-iran",
+      "link": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
       "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 17:46:18 -0400"
+      "pubDate": "Sat, 23 May 2026 19:00:02 -0400"
     },
     {
-      "title": "The week around the world in 20 pictures",
-      "summary": "<p>The Ebola outbreak, Israeli strikes in Gaza, Putin in Beijing and Arsenal win the Premier League – <a href=\"https://www.instagram.com/theguardian20photos/?hl=en-gb\">the past seven days as captured by the world’s leading photojournalists</a></p> <a href=\"https://www.theguardian.com/artanddesign/ga",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/may/22/the-week-around-the-world-in-20-pictures",
-      "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 18:31:47 GMT"
-    },
-    {
-      "title": "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit",
-      "summary": "<p>Secretary of state suggests July meeting of alliance will be fraught as US demands help in strait of Hormuz</p><p>Donald Trump is disappointed that Nato allies refused to become more actively involved in attacking Iran, the US secretary of state has said, setting up what could become a fraught su",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/22/marco-rubio-trump-disappointment-with-nato-will-be-discussed-at-summit",
-      "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 16:29:09 GMT"
-    },
-    {
-      "title": "Gaza flotilla activists allege sexual assault and rape in Israeli detention",
-      "summary": "<p>Israeli prison service denies claims of abuse during detention of 430 people trying to take aid to Palestinians</p><p>Activists <a href=\"https://www.theguardian.com/world/2026/may/21/uk-israel-video-itama-ben-gvir\">released from Israeli custody</a> after being detained on a flotilla trying to tak",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/22/gaza-flotilla-activists-allege-sexual-assault-and-in-israeli-detention",
-      "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 15:36:16 GMT"
-    },
-    {
-      "title": "Nobody better represents Israeli politics today than Itamar Ben-Gvir | Ben Reiff",
-      "summary": "<p>He may be the most brazen of the nation’s leaders, but his ideological spirit is found throughout its government, and beyond</p><p>No, you’re not hallucinating: western governments really are condemning Israel, one-by-one, without equivocation. Not because of the <a href=\"https://www.amnesty.org/",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/may/22/israel-politics-itamar-ben-gvir",
-      "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 15:36:08 GMT"
-    },
-    {
-      "title": "Flotilla video: Ben-Gvir’s template of televised abuse was honed on Palestinians",
-      "summary": "<p>Targeting of foreign activists drew global outrage from governments that have not acted on violence against Palestinian detainees</p><p>Israel’s far-right national security minister, Itamar Ben-Gvir, has made abuse of detained Palestinians something of a macabre calling card, celebrating cruelty ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/22/flotilla-video-ben-gvir-template-televised-abuse-honed-palestinians",
-      "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 12:16:03 GMT"
-    },
-    {
-      "title": "Meta and Snapchat blocking Saudi dissidents’ accounts",
-      "summary": "<p>US social media firms acting on orders from Middle East kingdom accused of being ‘instruments of repression’</p><p>Major US social media companies including Meta’s Facebook and Instagram platforms have blocked the accounts of Saudi Arabian dissidents so they are no longer visible inside the kingd",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/media/2026/may/22/instagram-x-social-media-platforms-blocking-saudi-dissidents-accounts",
-      "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 12:12:07 GMT"
-    },
-    {
-      "title": "Italy's prime minister wants Israel to apologize for treatment of flotilla activists",
-      "summary": "Italy's Prime Minister Giorgia Meloni wants an apology from Israel over the treatment of Italian citizens on a flotilla bound for Gaza.",
+      "title": "Severe global food crisis could come within the year, says UN agency",
+      "summary": "Maximo Torero, Chief Economist at The Food and Agriculture Organization of the United Nations, warns that the war in Iran is choking the global supply of fertilizer and a food crisis could follow within a year.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5830108/italys-prime-minister-wants-israel-to-apologize-for-treatment-of-flotilla-activists",
+      "link": "https://www.npr.org/2026/05/23/nx-s1-5829924/severe-global-food-crisis-could-come-within-the-year-says-un-agency",
       "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 04:43:01 -0400"
+      "pubDate": "Sat, 23 May 2026 17:30:11 -0400"
     },
     {
-      "title": "Friday briefing: ​As Israel’s coalition collapses, can its prime minister hang on to power?",
-      "summary": "<p>In today’s newsletter: As ​the polls tighten a​​round Benjamin Netanyahu, the coming months may redefine Israel’s political order without resolving its most entrenched conflicts</p><p>Good morning. On Wednesday, Israeli legislators took the first steps towards dissolving parliament and calling fr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/22/friday-briefing-as-israels-coalition-collapses-can-its-prime-minister-hang-on-to-power",
+      "title": "Video shows Israeli 'double-tap strike' killed medics and a toddler in Lebanon",
+      "summary": "In Lebanon, an Israeli 'double tap' killed three medics and four others including a two-year-old girl. A neighbor's video shows what happened.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/23/nx-s1-5832504/video-shows-israeli-double-tap-strike-killed-medics-and-a-toddler-in-lebanon",
       "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 05:44:28 GMT"
+      "pubDate": "Sat, 23 May 2026 17:24:01 -0400"
     },
     {
-      "title": "In France, pro-Palestinian solidarity is being silenced and criminalised | Rokhaya Diallo",
-      "summary": "<p>The government’s deeply illiberal ‘Yadan bill’ may be dead. But the threat to legitimate protest certainly is not</p><p>Tensions in France over how to respond to a rise in antisemitism have been running high. A government-backed bill that aimed to deal with the problem was rightly denounced as an",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/may/22/france-pro-palestinian-solidarity-silenced-criminalised",
+      "title": "Iran’s soccer federation says team’s World Cup base camp has been moved to Mexico from the US",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/8c8361b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F1f%2F75818115a08a1fdbe1ad44f56bbb%2F7ab787f882bd46218d7a84ffa054a6ed\" width=\"100%\"><small style=\"color: #999;\">Iran&#x27;s national ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-world-cup-mexico-d787422e4f946a25a2a25f45a87b21e8",
       "importance": "medium",
-      "pubDate": "Fri, 22 May 2026 04:00:49 GMT"
+      "pubDate": "Sat, 23 May 2026 20:23:02 +0000"
     }
   ]
 }
