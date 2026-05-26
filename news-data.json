@@ -1,209 +1,209 @@
 {
-  "generated": "2026-05-25T13:55:08.086Z",
-  "date": "Monday, May 25, 2026",
+  "generated": "2026-05-26T13:49:07.914Z",
+  "date": "Tuesday, May 26, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal",
-      "summary": "<p>Writing on social media, US president says countries should make settlement with Iran ‘a far more Historic Event’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz\">Iran denies deal with US is imminent, despite some prog",
+      "title": "Middle East crisis live: Iran’s foreign ministry says US broke ceasefire with overnight strikes",
+      "summary": "<p>The US military said it carried out strikes on Monday against targets including boats attempting to lay mines and missile launch sites</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/26/us-strikes-iran-missile-sites-vessels-trump-peace-deal-elusive\">US strikes Iran missile sites",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 13:47:27 GMT"
+    },
+    {
+      "title": "Prospects fade for imminent end to Iran war as attacks restart",
+      "summary": "Israel says it will intensify attacks against Hezbollah in Lebanon and U.S. military struck Iranian boats and missile launch sites as envoys continued negotiations for a deal that would end the three-month war.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 09:32:50 -0400"
+    },
+    {
+      "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
+      "summary": "Findings show Israel holds 1,000sq km of Gaza, Lebanon and Syria under direct military rule.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 13:26:40 +0000"
+    },
+    {
+      "title": "Iran condemns US strikes as a show of ‘bad faith’ and warns of consequences",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/24ee2b0/2147483647/strip/true/crop/3423x2281+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F60%2F6ba5a9e1fc1ca8b9999a17e8b92c%2F1c0da89622a94a2b86ce8c1a1c38ea81\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-war-negotiations-ceasefire-trump-47980a4d87c63c0adb873d306f9b932c",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 13:23:02 +0000"
+    },
+    {
+      "title": "Protester confronts Canadian politician over ‘Gaza complicity’",
+      "summary": "Protester confronts Canadian politician over ‘Gaza complicity’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/protester-confronts-canadian-politician-over-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 12:58:00 +0000"
+    },
+    {
+      "title": "End to Iran’s 88-day internet blackout stalled by legal challenge",
+      "summary": "<p>Delay, reportedly due to hardliners, comes amid worsening economic crisis and fears of mass unemployment </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks\">Middle East crisis – live update",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/26/iran-internet-blackout",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 12:54:05 GMT"
+    },
+    {
+      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 12:44:57 GMT"
+    },
+    {
+      "title": "Israeli air attacks kill seven Palestinians in Gaza",
+      "summary": "At least five Palestinians killed in Israeli attack on a refugee camp in central Gaza, officials said.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 12:34:20 +0000"
+    },
+    {
+      "title": "Libyan forces detain Gaza land convoy activists at Sirte checkpoint",
+      "summary": "Forces loyal to Libyan commander Khalifa Haftar have detained members of a land convoy trying to bring aid to Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/libyan-forces-detain-gaza-land-convoy-activists-at-sirte-checkpoint?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 11:37:07 +0000"
+    },
+    {
+      "title": "Israeli attacks on eastern Lebanon village kill at least 11 people",
+      "summary": "Attacks hit the village of Mashghara in the Bekaa Valley late Monday as Israel intensified its assault across Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 11:35:05 +0000"
+    },
+    {
+      "title": "Russia maintains attacks on Ukraine as Kyiv warned to brace for possible major barrage",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/770872e/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F79%2F44ac3e8e20bbc4421fc4011bb65c%2F04cf79ea42b84672bbef119cb2b9580e\" width=\"100%\"><small style=\"color: #999;\">A Ukrainian servicema",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-diplomats-lavrov-rubio-2abde640e27e7b320715d74358ba28f3",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 11:23:02 +0000"
+    },
+    {
+      "title": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
+      "summary": "The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 07:20:21 -0400"
+    },
+    {
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 10:48:55 GMT"
+    },
+    {
+      "title": "Israel’s labour force transformed since October 7",
+      "summary": "Israel's labour force transformed since October 7",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/money-works/2026/5/26/israels-labour-force-transformed-since-october-7?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 10:34:56 +0000"
+    },
+    {
+      "title": "Anticipation in Iran as talks with US continue amid attacks, war of words",
+      "summary": "The markets in Iran predict a breakthrough, but sentiments on the street and among the leadership are divided.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/26/anticipation-in-iran-as-talks-with-us-continue-amid-attacks-war-of-words?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 10:08:28 +0000"
+    },
+    {
+      "title": "Trump will see doctors for his annual physical. What the public finds out is up to him",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f33407f/2147483647/strip/true/crop/6900x4598+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F83%2F6b%2F7f6d39499891617c93033c7cb4fc%2F9cc1e7a78df54d5886e732f2150f6af7\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
+      "source": "AP News",
+      "link": "https://apnews.com/article/us-trump-health-doctor-annual-exam-dff4cdb714d42ef860531d345c54e7aa",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 09:53:02 +0000"
+    },
+    {
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "summary": "US Central Command says the strikes were taken in \"self-defence\", while Iran reports it downed a US drone that entered its airspace.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 09:44:58 GMT"
+    },
+    {
+      "title": "Palestine weekly wrap: Ben-Gvir’s abuse of flotilla detainees causes outcry",
+      "summary": "Israel's president condemns settler violence as international outrage mounts over treatment of Gaza aid activists.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/26/palestine-weekly-wrap-ben-gvirs-abuse-of-flotilla-detainees-causes-outcry?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 09:29:58 +0000"
+    },
+    {
+      "title": "Ecuadorian survivors of suspected drone strike seek answers and restitution",
+      "summary": "Survivors of a suspected drone strike while fishing in the Eastern Pacific seek restitution after claiming they were forced onto a boat and handed over to Salvadoran officials, with no charges filed.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/26/nx-s1-5828756/ecuadorian-survivors-of-suspected-drone-strike-seek-answers-and-restitution",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 04:48:19 -0400"
+    },
+    {
+      "title": "Russia threatens more strikes against Kyiv after drone and missile attack",
+      "summary": "As Kyiv recovers from a Russian attack that hit every district in the Ukrainian capital, Ukraine continues long-range strikes on Russia's war machine even as the Kremlin threatens more strikes.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/26/nx-s1-5833816/russia-threatens-more-strikes-against-kyiv-after-drone-and-missile-attack",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 04:47:43 -0400"
+    },
+    {
+      "title": "UAE accused of training Colombian mercenaries for Sudan’s war",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/a492c18/2147483647/strip/true/crop/2161x1440+199+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2e%2Ffc%2F99b7e03394dd9df93458eec02678%2F69b8a77362cc4d6db3c8808f5d99b32a\" width=\"100%\"><small style=\"color: #999;\">This grab from vide",
+      "source": "AP News",
+      "link": "https://apnews.com/article/sudan-war-military-rsf-uae-colombian-mercenaries-5c02e3b580f01b840251c206673123a7",
+      "importance": "medium",
+      "pubDate": "Tue, 26 May 2026 07:53:02 +0000"
+    },
+    {
+      "title": "Tehran expresses ‘resolute support’ for Hezbollah – as it happened",
+      "summary": "<p>This blog is now closed – our live coverage of the Middle East crisis <a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks\">continues here</a></p><p>Ebrahim Rezaei, the spokesperson of the Iranian parliamen",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
       "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 13:36:29 GMT"
+      "pubDate": "Tue, 26 May 2026 04:13:41 GMT"
     },
     {
-      "title": "Could Israel sabotage US-Iran deal?",
-      "summary": "As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 13:29:34 +0000"
-    },
-    {
-      "title": "Iran says deal with US ‘not imminent’ despite progress",
-      "summary": "Iran’s FM spokesman Baghaei says a ‘large portion’ of issues with the US have been resolved, but a deal is not imminent.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 13:19:02 +0000"
-    },
-    {
-      "title": "Shock of Iran war unites Middle East rivals in pushing Trump towards peace",
-      "summary": "<p>Region adapting to diminished US power after Washington fails to land knockout blow on Tehran or safeguard allies</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz\">Middle East crisis – liv",
+      "title": "US strikes Iran missile sites and mine laying vessels as Trump’s promised peace deal remains elusive",
+      "summary": "<p>Negotiators from Iran travelled to Qatar on Monday, with the fate of the country’s nuclear programme and access to frozen assets under discussion</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/25/shock-iran-war-middle-east-rivals-trump-peace-deal",
+      "link": "https://www.theguardian.com/world/2026/may/26/us-strikes-iran-missile-sites-vessels-trump-peace-deal-elusive",
       "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 13:06:10 GMT"
+      "pubDate": "Tue, 26 May 2026 03:28:18 GMT"
     },
     {
-      "title": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
-      "summary": "China and India are among those ramping up imports of Brazilian crude amid Strait of Hormuz disruptions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss",
+      "title": "Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah",
+      "summary": "<p>Hezbollah and Israel launch attacks amid increasingly imperilled ceasefire and stalling talks between US and Iran</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks\">Middle East crisis: live",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/26/israel-escalates-strikes-in-lebanon-as-netanyahu-vows-to-crush-hezbollah",
       "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 13:00:15 +0000"
+      "pubDate": "Tue, 26 May 2026 00:01:52 GMT"
     },
     {
       "title": "Iran denies deal with US is imminent despite some progress",
-      "summary": "<p>Tehran says ‘contradictory statements’ from US and Israeli interference hindering negotiations</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz\">Middle East crisis – live updates</a></p></",
+      "summary": "<p>Tehran says ‘contradictory statements’ from US and Israeli interference hindering negotiations</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks\">Middle East crisis – live updates</a></p></",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
       "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 12:47:12 GMT"
-    },
-    {
-      "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
-      "summary": "President Trump says that a deal with Iran to end the war is largely negotiated. And, Pope Leo XIV weighed in today on the rise of AI during his first encyclical.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 08:31:08 -0400"
-    },
-    {
-      "title": "The world urgently needs a US-Iran deal now",
-      "summary": "Without a deal between Washington and Tehran, the fallout from Strait of Hormuz closure could deepen global crises.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/5/25/the-world-urgently-needs-a-us-iran-deal-now?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 11:28:24 +0000"
-    },
-    {
-      "title": "Deal with US not imminent, Iran says",
-      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 11:17:49 GMT"
-    },
-    {
-      "title": "Trump’s war loop: Escalate, retreat, repeat",
-      "summary": "Stuck in a quagmire of a war, Trump chafes at negative coverage while Iran digs its heels in.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 11:12:45 +0000"
-    },
-    {
-      "title": "U.S.-Iran peace deal emerging, while war threats still loom",
-      "summary": "President Trump and other administration officials are tempering expectations raised of an imminent agreement to end the war in Iran while Iranian officials have signaled there are still disagreements on key issues.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 06:16:45 -0400"
-    },
-    {
-      "title": "Israel kills three in attacks on Lebanon, issues more displacement orders",
-      "summary": "Israel carries out attacks on multiple villages and towns in southern Lebanon.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 10:10:16 +0000"
-    },
-    {
-      "title": "In Beirut, refugee girls and women learn more than self-defense in martial arts class",
-      "summary": "In the male-dominated world of Palestinian refugee camps in Lebanon, a martial arts teacher offers women a way to empowerment.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/25/g-s1-120826/lebanon-women-martial-arts",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 06:00:00 -0400"
-    },
-    {
-      "title": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
-      "summary": "A small boat believed to be part of the Global Sumud Flotilla that was carrying aid for Gaza has washed ashore in Egypt",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 09:14:27 +0000"
-    },
-    {
-      "title": "Australian flotilla activists arrive home alleging sexual assault and beatings in Israeli detention",
-      "summary": "<p>Activists detained by Israel after attempting to deliver aid to Gaza as part of Global Sumud Flotilla arrive in Australia</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/25/stripped-naked-and-beaten-australian-flotilla-activists-arrive-home-after-alleged-torture-in-israeli-detention-ntwnfb",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 09:12:54 GMT"
-    },
-    {
-      "title": "Opposition divided: battle among Iranian regime’s opponents plays out on London streets",
-      "summary": "<p>Supporters of Reza Pahlavi, exiled son of the late shah, are clashing with those who oppose a return of monarchy</p><p>Wearing a bucket hat, a blue Adidas hoodie and khaki shorts, Tony Mohraz, also known as 021kid, chest-bumps a friend in front of a memorial wall in Golders Green, in north London",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/25/iran-regime-opponents-london-shah-pahlavi-mek",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 08:00:20 GMT"
-    },
-    {
-      "title": "What we know and don’t know about the emerging deal to end the Iran war",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/5eaf975/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F66%2F7802ef2d8addf50fdab3ff7142e2%2Fd9ef41da8a1e4afc9c75c337befb23e6\" width=\"100%\"><small style=\"color: #999;\">Women hold portraits ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-united-states-deal-explainer-war-b1659232611edc10808612e30647c17d",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 07:53:02 +0000"
-    },
-    {
-      "title": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
-      "summary": "Iranian media are reporting that a deal may not be reached amid disagreements on some key issues.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 07:50:18 +0000"
-    },
-    {
-      "title": "Trump says any deal with Iran will be ‘great and meaningful’",
-      "summary": "An agreement with Iran will be 'great and meaningful' or there will be 'no deal', US president says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 07:33:05 +0000"
-    },
-    {
-      "title": "Gaza flotilla activists return to Australia, describing abuse",
-      "summary": "Australian activists from the Gaza-bound aid flotilla have arrived back in Sydney, reuniting with loved ones.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/gaza-flotilla-activists-return-to-australia-describing-abuse?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 07:16:14 +0000"
-    },
-    {
-      "title": "'Hopefully we can pull it off' - Rubio on Iran deal",
-      "summary": "The deal reportedly includes a 60-day ceasefire extension and the reopening of the Strait of Hormuz.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 07:13:16 GMT"
-    },
-    {
-      "title": "Muslims begin the annual Hajj against a backdrop of war concerns",
-      "summary": "More than 1.5 million pilgrims have arrived in Saudi Arabia for the annual Hajj pilgrimage, one of the Five Pillars of Islam, against the backdrop of a tenuous ceasefire in the Iran war and related regional tensions.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 03:05:02 -0400"
-    },
-    {
-      "title": "Listen to the stories of Gaza's women to fully grasp the horrors Israel is inflicting on us | Olfat al-Kurd",
-      "summary": "<p>I survived months of bombardment before escaping. The systematic dismantling of our home has harmed every aspect of women’s lives</p><ul><li><p>Olfat al-Kurd is a field researcher for B’Tselem, the Israeli Information Centre for Human Rights in the occupied territories</p></li></ul><p>Since Israe",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/may/25/stories-gaza-women-horrors-israel",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 07:00:20 GMT"
-    },
-    {
-      "title": "Written under collapsing ceilings, typed on phones: the poetry bringing Palestine to the world",
-      "summary": "<p>Two new poetry collections tackle themes of trauma, exile, resistance and love amid conflict in Gaza </p><p></p><p>Poetry may not be the best response to aerial bombardment, but for many Palestinians it has become a line of defence amid the rubble and ongoing killings in Gaza.</p><p>“Poetry keeps",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/global-development/2026/may/25/poetry-students-gaza-palestine-glasgow-university-alison-phipps",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 07:00:19 GMT"
-    },
-    {
-      "title": "Singapore’s economy beats expectations as gov’t warns of Iran war fallout",
-      "summary": "GDP grows 6 percent year-on-year in first quarter as AI boom outweighs rising energy costs.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 25 May 2026 06:40:08 +0000"
+      "pubDate": "Mon, 25 May 2026 23:26:26 GMT"
     }
   ]
 }
