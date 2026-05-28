@@ -1,209 +1,209 @@
 {
-  "generated": "2026-05-27T14:20:53.265Z",
-  "date": "Wednesday, May 27, 2026",
+  "generated": "2026-05-28T14:29:51.663Z",
+  "date": "Thursday, May 28, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Iran says draft US deal would reopen strait of Hormuz",
-      "summary": "<p>Country’s state TV says Iran would allow shipping in waterway and US would lift naval blockade under draft memorandum</p><p>Donald Trump will host the 12th cabinet meeting of his second term on Wednesday as talks on ending the nearly three-month war with Iran reach a crucial stage amid conflictin",
+      "title": "British Museum postpones Jewish culture month lecture over protest fears",
+      "summary": "<p>Decision draws criticism from some commentators and free speech advocates as well as Tory leader, Kemi Badenoch</p><p>The British Museum has postponed a lecture for <a href=\"https://www.theguardian.com/world/2026/may/16/jewish-culture-month-festival-uk-green-pickle\">Jewish culture month</a> over ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/culture/2026/may/28/british-museum-postpones-jewish-culture-month-lecture-over-protest-fears",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 14:27:13 GMT"
+    },
+    {
+      "title": "Middle East crisis live: Iran says Trump’s threats to ‘blow up’ Oman ‘dangerous and bullying’",
+      "summary": "<p>US president said ally would be at risk if it did not ‘behave just like everybody else’</p><p><strong>Hezbollah has claimed dozens of drone and rocket attacks that it said targeted Israeli troops</strong> in southern Lebanon and northern Israel.</p><p>The group said it launched <strong>several at",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 14:23:36 GMT"
+    },
+    {
+      "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+      "summary": "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 12:54:26 +0000"
+    },
+    {
+      "title": "Republicans’ recent stumbles in Congress highlight the difficult road ahead for their agenda",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/6451698/2147483647/strip/true/crop/3272x2180+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faa%2Fd2%2F26d19c6ffb6a5db0e3a7441dbcd3%2Fe5e114cd5b474898a988ab9c1659951f\" width=\"100%\"><small style=\"color: #999;\">Speaker of the House ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/republicans-agenda-trump-government-funding-defense-reconciliation-dc4fb5d060ce6f46dfc09cec9cebb95b",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 11:53:02 +0000"
+    },
+    {
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 11:52:10 GMT"
+    },
+    {
+      "title": "Iran says US must issue multiple-entry visas for its World Cup squad",
+      "summary": "Iran's delegation will be based in Tijuana, Mexico, and will travel to the US for all three group stage matches.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 11:43:36 +0000"
+    },
+    {
+      "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
+      "summary": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 11:31:59 GMT"
+    },
+    {
+      "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
+      "summary": "The U.S. says it has struck Iran again as peace talks continue to end the conflict. And, the federal government has charged a Google staffer for allegedly using insider information in Polymarket trades.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/28/g-s1-124621/up-first-newsletter-iran-lebanon-israel-us-war-ebola-congo-food-insecurity-google-polymarket",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 07:19:50 -0400"
+    },
+    {
+      "title": "For Gaza, Eid joy is now a form of resistance",
+      "summary": "Six were killed in Remal on Eid night. Minutes later, the stalls reopened.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 11:18:21 +0000"
+    },
+    {
+      "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
+      "summary": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 10:58:12 +0000"
+    },
+    {
+      "title": "Israel kills children in strikes on Gaza as fear taints Eid joy",
+      "summary": "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 10:47:19 +0000"
+    },
+    {
+      "title": "Ireland football coach urges players to ‘win this war’ against Israel",
+      "summary": "Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 10:42:25 +0000"
+    },
+    {
+      "title": "Zelenskyy heads to Sweden as Ukraine touts drone expertise honed in war with Russia",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/2a4ad9e/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2F22%2Ff640a26d4eb4b8de4d8fc04863b0%2Fbd70acaac7c34b8ab5ec754ce94f14bb\" width=\"100%\"><small style=\"color: #999;\">A Ukrainian soldier p",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-drones-missiles-sweden-63efe7b5482de04a4fda9884f3bf7ebe",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 10:23:02 +0000"
+    },
+    {
+      "title": "Gamification and memes lure young people to sports wagering apps, prediction markets",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/70115c4/2147483647/strip/true/crop/6184x4121+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2F42%2F8ccecec9a1413b226aa6e7cd97c7%2Fcc5dd10ba0ca4b009c7d0e9291395303\" width=\"100%\"><small style=\"color: #999;\">A phone displays cryp",
+      "source": "AP News",
+      "link": "https://apnews.com/article/sports-betting-prediction-markets-memes-gamification-59e79f3f85800e1301fa71f235cf0cf8",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 10:23:02 +0000"
+    },
+    {
+      "title": "Iran says it has a new air defence system. How significant is it?",
+      "summary": "Iran’s claimed drone interception has renewed attention on Tehran’s military capabilities after months of bombardment.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 09:56:57 +0000"
+    },
+    {
+      "title": "Children with Down syndrome struggle with devastation of war in Gaza",
+      "summary": "Children with Down syndrome struggle with devastation of war in Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/children-with-down-syndrome-struggle-with-devastation-of-war-in-gaza-2?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 09:35:55 +0000"
+    },
+    {
+      "title": "Israel’s defence minister says large-scale Palestinian migration from Gaza will go ahead",
+      "summary": "<p>Human rights groups and lawyers say policy amounts to ethnic cleansing</p><p>Israel’s defence minister has said he is committed to the ethnic cleansing of Gaza through large-scale migration of Palestinians as part of Israel’s long-term plans for the territory.</p><p>Israel Katz said the governmen",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/28/israels-defence-minister-says-large-scale-palestinian-migration-from-gaza-will-go-ahead",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 09:00:02 GMT"
+    },
+    {
+      "title": "Official in Kenya says 16 students killed in an overnight fire at a girls’ school",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/219e3f7/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd5%2F7e%2F1b930c3da53f472c5e152da78d45%2Fc010778c18f142898882e6993154cf30\" width=\"100%\"><small style=\"color: #999;\">Rescue workers search",
+      "source": "AP News",
+      "link": "https://apnews.com/article/kenya-school-fire-6f22a871876a8b99c2ded08e14ef53a9",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 08:53:02 +0000"
+    },
+    {
+      "title": "Israeli strikes kill at least 8 in Lebanon’s fourth largest city ahead of Washington talks",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/219e3f7/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd5%2F7e%2F1b930c3da53f472c5e152da78d45%2Fc010778c18f142898882e6993154cf30\" width=\"100%\"><small style=\"color: #999;\">Rescue workers search",
+      "source": "AP News",
+      "link": "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-tyre-washington-talks-9ee3d769ae672c1a64dae905797a73da",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 08:53:02 +0000"
+    },
+    {
+      "title": "The possible return of Somali pirates poses a new problem for the shipping industry",
+      "summary": "As the global economy focuses on the Strait of Hormuz crisis, another shipping crisis looms in the region -- the return of Somali pirates.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5815335/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 04:46:28 -0400"
+    },
+    {
+      "title": "Iranians are back online after a monthslong shutdown but face heavy restrictions",
+      "summary": "Iranians began to regain internet access after authorities ended a monthslong shutdown. Users said service was slow and spotty in some areas, with apps like YouTube and Instagram heavily restricted.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 02:07:38 -0400"
+    },
+    {
+      "title": "US and Iran exchange strikes as Israel intensifies attacks on southern Lebanon",
+      "summary": "<p>US forces down drones near strait of Hormuz, sparking attack on American airbase in Kuwait </p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/may/27/trump-cabinet-camp-david-washington-iran\">Trump accuses Iran of stalling peace deal to ‘outwait’ him until US midterms</a></p></li></u",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/28/us-new-strikes-iran-israel-intensifies-attacks-southern-lebanon",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 04:17:29 GMT"
+    },
+    {
+      "title": "‘This isn’t freedom’: anger, anxiety and tears as Iran’s internet flickers back",
+      "summary": "<p>After 88 days of near-total blackout, first reactions to the return of partial connectivity were not celebratory</p><p>After 88 days of near-total internet blackout in Iran, long-delayed messages, images and poems flooded phones and social media feeds at about 5pm on Tuesday, when <a href=\"https:",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/may/28/iran-internet-blackout-return-partial-connectivity",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 04:00:55 GMT"
+    },
+    {
+      "title": "Human rights lawyer Francesca Albanese on life under US sanctions - podcast",
+      "summary": "<p>The UN’s special rapporteur for Palestine, <strong>Francesca Albanese, </strong>on the war in Gaza, living under US sanctions and accusations of antisemitism</p><p>For a brief period this month, the human rights lawyer <strong>Francesca Albanese</strong> seemed to have some relief.</p><p>In an ex",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/news/audio/2026/may/28/human-rights-lawyer-francesca-albanese-on-life-under-us-sanctions-podcast",
+      "importance": "medium",
+      "pubDate": "Thu, 28 May 2026 02:00:51 GMT"
+    },
+    {
+      "title": "Middle East crisis: Rubio says ‘some progress’ on US-Iran deal after Trump says ‘maybe we’ll just have to finish the job’ – as it happened",
+      "summary": "<p>This live blog is now closed. For the latest on Trump’s Iran comments from his cabinet meeting, read our full report:</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/may/27/trump-cabinet-camp-david-washington-iran\">Trump accuses Iran of stalling peace deal to ‘out-wait’ him until ",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/may/27/iran-war-us-update-live-israel-lebanon-strikes-latest-news-ceasefire-peace-talks-middle-east-live-updates",
       "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 14:02:47 GMT"
-    },
-    {
-      "title": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
-      "summary": "The International Monetary Fund warns that Iran war could trigger a spike in global debt levels.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 13:53:13 +0000"
-    },
-    {
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "summary": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 13:15:26 GMT"
-    },
-    {
-      "title": "Israel fires more than 120 airstrikes at Lebanon as anti-Hezbollah offensive escalates",
-      "summary": "<p>One of heaviest days of bombing in weeks complicates US-Iran peace talks as Israel targets sites linked to group</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/27/iran-war-us-update-live-israel-lebanon-strikes-latest-news-ceasefire-peace-talks-middle-east-live-updates\">Mid",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/27/israel-fires-airstrikes-lebanon-escalating-offensive",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 12:55:21 GMT"
-    },
-    {
-      "title": "World shares are mostly higher, tracking Wall Street’s fresh records, and oil prices fall",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/9f75128/2147483647/strip/true/crop/8088x5389+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fcd%2F8b5e9f663db387d560362ab850ee%2Fe562ed9d61144997a5b0063093d07a10\" width=\"100%\"><small style=\"color: #999;\">A dealer stands near ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/stocks-markets-ai-iran-trump-8191917f4f1d7ebc54584dd3c3265032",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 12:53:01 +0000"
-    },
-    {
-      "title": "‘Eid does not enter tents’: Palestinians in Gaza face grim holiday",
-      "summary": "Rising costs and displacement erase Eid traditions, leaving Gaza residents struggling with sorrow and economic hardship.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/27/eid-does-not-enter-tents-palestinians-in-gaza-face-grim-holiday?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 12:50:01 +0000"
-    },
-    {
-      "title": "Israeli authorities filmed treating Palestinians with aggression on Eid",
-      "summary": "Israeli authorities have been filmed acting aggressively against Palestinians under occupation during Eid al-Adha.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israeli-authorities-filmed-treating-palestinians-with-aggression-on-eid?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 12:48:59 +0000"
-    },
-    {
-      "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
-      "summary": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outside world.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 12:27:12 GMT"
-    },
-    {
-      "title": "Israel says it killed new Hamas military leader in Gaza",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1844913/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fbe%2F1f0a8041cdd82fe5ba50ceed20ba%2F5cbf9d7998cd40d096ab0975507bd278\" width=\"100%\"><small style=\"color: #999;\">Palestinians mourn ov",
-      "source": "AP News",
-      "link": "https://apnews.com/article/israel-palestinians-gaza-hamas-war-eid-news-05-27-2026-4861f7c0c9cfda914007dfff975bae7a",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 12:23:03 +0000"
-    },
-    {
-      "title": "‘It’s the West Bank’: Lebanese villagers on life inside Israel’s ‘yellow line’",
-      "summary": "<p>Residents live in fear of nightly raids and daytime bombings from the Israeli military occupying their land </p><p>For hours, Hussein Abdel al-El and his wife, Um Alaa, did not move. They sat in the bathroom in the dark, not daring to touch their phones; the faint glow of the screen might give th",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/27/lebanese-villagers-life-southern-lebanon-israel-yellow-line",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 11:24:17 GMT"
-    },
-    {
-      "title": "US, Iran have launched multiple attacks during ceasefire: A timeline",
-      "summary": "Washington carried out new strikes on southern Iran, while Tehran downed a US drone and fired at a fighter jet.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 10:47:55 +0000"
-    },
-    {
-      "title": "The chaotic, unique, beautiful Lebanon I knew has been reduced to rubble. When will it end?",
-      "summary": "<p>Suspected war crimes happen almost daily as Israel continues its bombardment, which Unicef estimates is killing nearly 14 children a day. We cannot write this off as just another war in a war-torn region</p><p>There are various reasons why, at 43, I still don’t know how to drive a car. Clumsiness",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/commentisfree/2026/may/27/chaotic-unique-beautiful-lebanon-reduced-rubble-israel-bombardment",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 10:00:24 GMT"
-    },
-    {
-      "title": "Spanish police search headquarters of PM Sánchez’s ruling Socialist party",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e548911/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F7b%2F5eb8c561916a08446a563b1aa148%2F09a09798f1ff4678950267eef82f5da7\" width=\"100%\"><small style=\"color: #999;\">Journalists gather ou",
-      "source": "AP News",
-      "link": "https://apnews.com/article/spain-socialist-headquarters-police-raid-043e048333ea415a6ece0a6bf02fe6da",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 09:53:01 +0000"
-    },
-    {
-      "title": "Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/25b6b55/2147483647/strip/true/crop/4384x2921+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2Fca%2Fc682581f2b9d09160469e4f2af29%2F716b118ebd1f482eb9ebafdf40f899cd\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-iran-nuclear-cabinet-meeting-af77d581873bfeec32d7342b56841244",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 09:53:01 +0000"
-    },
-    {
-      "title": "Sanctions fears as Krygyzstan shutters companies suspected of aiding Russia",
-      "summary": "Crackdown on 50 firms is rooted in Bishkek's own worries of being sanctioned, say analysts.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/5/27/kyrgyzstan-russia-tensions?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 09:47:36 +0000"
-    },
-    {
-      "title": "For one Ukrainian war amputee, rebuilding is painful after a Russian strike killed her husband",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/93eb287/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2Fdb%2F4e615e24a7ca1c5386b838dab75b%2Fec4bbeefc59644dfa95c3f16cc250fa3\" width=\"100%\"><small style=\"color: #999;\">Iryna Nakonechna knit",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-amputee-f26589c2c04e36ef8de25c7d2dbcc76f",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 07:23:02 +0000"
-    },
-    {
-      "title": "Trump gathers Cabinet as he looks to seal deal to end war",
-      "summary": "President Trump will meet with his Cabinet on Wednesday at a precarious moment for talks aimed at ending the war with Iran. The emerging deal has already exposed the president to fierce criticism.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 01:37:20 -0400"
-    },
-    {
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 27 May 2026 04:07:27 GMT"
-    },
-    {
-      "title": "Middle East crisis: Iran’s foreign ministry says US broke ceasefire with overnight strikes – as it happened",
-      "summary": "<p>This live blog is now closed. For the latest, read our full report:</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz\">Iran remains in peace talks despite first US strikes since ceasefire</a></p></li></ul><p>Iranian supre",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks",
-      "importance": "medium",
-      "pubDate": "Tue, 26 May 2026 20:41:51 GMT"
-    },
-    {
-      "title": "Iran remains in peace talks despite ‘bad faith’ US bombings of Iranian targets",
-      "summary": "<p>Tehran condemns ‘definitive violation’ but announces no specific reprisals as negotiations near decisive stage</p><p>A proposed peace agreement between Iran and the US seemed to remain on the table on Tuesday despite US bombings of Iranian targets.</p><p>The Iranian foreign ministry denounced the",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz",
-      "importance": "medium",
-      "pubDate": "Tue, 26 May 2026 20:18:31 GMT"
-    },
-    {
-      "title": "Internet starts coming back in Iran after months-long blackout",
-      "summary": "Internet access has been cut off in the country since the start of the war in late February.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 26 May 2026 16:38:05 GMT"
-    },
-    {
-      "title": "US strikes Iran as Trump faces backlash over ‘disastrous’ peace deal plan - The Latest",
-      "summary": "<p>The US has launched fresh strikes on Iran despite suggestions that a peace deal could be within reach. Donald Trump faces growing criticism from Republicans over the proposed plan to end the war, which reportedly contained major concessions from Washington. But could an agreement still be imminen",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/video/2026/may/26/us-strikes-iran-as-trump-faces-backlash-over-disastrous-peace-deal-plan-the-latest",
-      "importance": "medium",
-      "pubDate": "Tue, 26 May 2026 16:11:54 GMT"
-    },
-    {
-      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-      "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 26 May 2026 15:15:29 GMT"
-    },
-    {
-      "title": "US launches new strikes on Iran, targeting missile sites and boats",
-      "summary": "US Central Command says the strikes were taken in \"self-defence\", while Iran reports it downed a US drone that entered its airspace.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 26 May 2026 15:04:45 GMT"
-    },
-    {
-      "title": "Iran’s access to global internet starts to resume after 88-day blackout",
-      "summary": "<p>End of shutdown comes despite interim court order questioning authority of body overseeing the move</p><p>Iran’s access to the global internet slowly restarted on Tuesday, ending a record 88-day blackout that has contributed to thousands of Iranians losing their jobs and provided cover for the Ir",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/may/26/iran-internet-blackout",
-      "importance": "medium",
-      "pubDate": "Tue, 26 May 2026 14:28:53 GMT"
+      "pubDate": "Wed, 27 May 2026 18:28:47 GMT"
     }
   ]
 }
