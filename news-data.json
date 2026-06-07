@@ -1,209 +1,209 @@
 {
-  "generated": "2026-06-06T12:03:23.365Z",
-  "date": "Saturday, June 6, 2026",
+  "generated": "2026-06-07T12:16:02.581Z",
+  "date": "Sunday, June 7, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
+      "title": "One killed, five wounded in shooting attack in Israel: Medics",
+      "summary": "Israeli police say the suspect is a Palestinian with Israeli citizenship.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 11:14:34 +0000"
+    },
+    {
+      "title": "1 killed and 5 injured in Israel shootings",
+      "summary": "Multiple shooting attacks in Israel have killed 1 person and injured five others, Israeli police say.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 10:53:51 +0000"
+    },
+    {
+      "title": "Kosovo voters return to the polls after parties fail to agree on a new president",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/475583d/2147483647/strip/true/crop/4709x3138+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F14%2Fc1b63563d044ff92321a21985683%2Fd0603672ba6a4ef69ef73bdabb62d540\" width=\"100%\"><small style=\"color: #999;\">Kosovo&#x27;s acting ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/kosovo-election-political-crisis-kurti-8e834897c0577af2e163929349bfa89a",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 10:53:02 +0000"
+    },
+    {
+      "title": "Pakistan’s interior minister is in Tehran as the US downs more Iranian drones over Hormuz",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/c741a9b/2147483647/strip/true/crop/8015x5341+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F9a%2F51a0f7354312af3ac194edb3c600%2F9d10ebd120064553bfe60d592c74eb8b\" width=\"100%\"><small style=\"color: #999;\">People walk under a b",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 10:53:02 +0000"
+    },
+    {
+      "title": "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
+      "summary": "A Palestinian farmer recounts the moment a large group of Israeli settlers hit him and harassed his livestock.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israeli-settlers-threaten-to-kill-palestinian-farmer-and-harass-sheep?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 10:52:50 +0000"
+    },
+    {
+      "title": "1 dead and 5 wounded in shootings near the West Bank, Israel’s rescue services say",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e628363/2147483647/strip/true/crop/7628x5083+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2F84%2F36d99b0cb074e44485ecf81e8779%2F6d4a96932b0b4f0ea6c10f28d05d2c8f\" width=\"100%\"><small style=\"color: #999;\">Israeli security forc",
+      "source": "AP News",
+      "link": "https://apnews.com/article/israel-palestinians-west-bank-shooting-217b7d7ef034c99b091e01462357f296",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 10:23:01 +0000"
+    },
+    {
+      "title": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
+      "summary": "Israel's continued attacks on homes in Gaza are contributing to the ongoing genocide in the enclave.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 10:17:59 +0000"
+    },
+    {
+      "title": "How have countries around the world responded to the US-Israel war on Iran?",
+      "summary": "The war, which has entered its 100th day, has triggered global energy crisis, drawing concerns from world leaders.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 09:35:31 +0000"
+    },
+    {
+      "title": "Hundred days of the US-Israel war on Iran",
+      "summary": "As the war on Iran marks 100 days, a complete truce still seems elusive, with the loss of life mounting in the region.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 09:34:16 +0000"
+    },
+    {
+      "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
+      "summary": "Iran’s ambassador to Mexico expressed concern over the reported denial of US visas to the World Cup delegation.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 09:19:58 +0000"
+    },
+    {
+      "title": "The accomplishments of 100 days of war on Iran are undeniable",
+      "summary": "The US has not just decimated Iran's nuclear programme and military, it has also degraded the power of its regime.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 08:55:20 +0000"
+    },
+    {
+      "title": "Iran after 100 days of war: The triumph of survival",
+      "summary": "Tehran sees its ability to preserve its governing system amid a regime-change war as a clear victory.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 08:52:20 +0000"
+    },
+    {
+      "title": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
+      "summary": "Mediator Pakistan ramps up diplomatic efforts to end US-Iran war as Gulf countries warn of escalation.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 08:45:01 +0000"
+    },
+    {
+      "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
+      "summary": "Lebanon's army chief Rodolphe Haykal left for Pakistan in a surprise visit as relentless fighting continues.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 07:59:02 +0000"
+    },
+    {
+      "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+      "summary": "Tensions rise as US shoots down Iranian drones over Strait of Hormuz, vital for international maritime traffic.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 07:33:38 +0000"
+    },
+    {
+      "title": "Outrage over Palestinian ‘dog rape’ joke at Tribeca Film Festival",
+      "summary": "A US influencer and actor have caused outrage after mocking Palestinians subject to rape in Israeli prisons.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_outrage-over-palestinian-dog-rape-joke-at-tribeca-070626?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 06:01:48 +0000"
+    },
+    {
+      "title": "Iran war 100 days: How the conflict impacted Iran and the world",
+      "summary": "From the human cost to the economy, Al Jazeera visualises how the US-Israel war on Iran has unfolded since February 28.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 05:30:52 +0000"
+    },
+    {
+      "title": "Trump’s failure to maintain ceasefires is part of the new world disorder – and ordinary people pay the price | Simon Tisdall",
+      "summary": "<p>The US president brags about ending wars but look at Ukraine, Gaza, Iran and Lebanon to see what his casual disregard for diplomacy and obsession with instant results have achieved</p><p>There are visionary statesmen and high-minded negotiators, pragmatic mediators and professional diplomats – an",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/07/donald-trump-ceasefire-failure-ukraine-iran-gaza-lebanon-gaza",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 05:00:25 GMT"
+    },
+    {
+      "title": "Could this one man have been behind terrorist attacks on Jewish communities across Europe?",
+      "summary": "<p>Legal papers, expert investigations and social media posts tell story of how a 32-year-old Iraqi appeared to run ‘proxy’ campaign</p><p>On Monday, a slightly dishevelled Iraqi man, shackled and dressed in beige prison overalls, was ushered into a Manhattan courtroom.</p><p>Mohammad Baqer Saad Daw",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/07/could-this-one-man-have-been-behind-terrorist-attacks-on-jewish-communities-across-europe",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 05:00:24 GMT"
+    },
+    {
+      "title": "How many times were the US and Iran on the verge of a deal?",
+      "summary": "One hundred days into the US-Israel war on Iran, we look at the number of times a deal seemed close.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 04:51:02 +0000"
+    },
+    {
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 06 Jun 2026 22:38:36 GMT"
+    },
+    {
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 06 Jun 2026 21:23:03 GMT"
+    },
+    {
       "title": "Palestinian baby shot dead by Israeli troops in occupied West Bank",
-      "summary": "<p>The seven-month-old, Sam Fahd Abu Haikal, was in his mother’s arms when soldiers fired on family in Hebron</p><p>Israeli troops killed a seven-month-old Palestinian baby in the occupied West Bank and injured one of the child’s parents after opening fire on the family’s car, despite it having comp",
+      "summary": "<p>The seven-month-old, Sam Fahd Abu Haikal, was in his mother’s arms when soldiers fired on family in Hebron</p><p>Israeli troops killed a seven-month-old Palestinian baby in the occupied West Bank and injured his parents after opening fire on the family’s car, despite it having complied with an or",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
       "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 11:25:41 GMT"
+      "pubDate": "Sat, 06 Jun 2026 20:15:18 GMT"
     },
     {
-      "title": "Kuwait and Bahrain targeted by Iran after exchange of fire with US",
-      "summary": "<p>Iran attacks American bases in Gulf states after Washington shoots down drones and strikes Iranian radar sites</p><p>Bahrain has said Iran fired ballistic missiles and drones at it and Kuwait, hours after the US and Iran exchanged strikes over the Gulf, the latest in a series of flare-ups that th",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/06/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 11:09:31 GMT"
-    },
-    {
-      "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
-      "summary": "The Israeli military confirmed hitting a vehicle and said the incident is being reviewed. Lebanon's President Joseph Aoun called the strike \"a flagrant violation to Lebanese sovereignty and international law.\"",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 06:54:34 -0400"
-    },
-    {
-      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
-      "summary": "Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 10:52:07 +0000"
-    },
-    {
-      "title": "The pope is in secularized, polarized Spain, where the Catholic Church has a complex legacy",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/11a5a73/2147483647/strip/true/crop/4132x2753+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F58%2F22%2Fc0d6758933c8183ecb31d3a4feac%2F3718db396fea465abb612fc1bed4cb0f\" width=\"100%\"><small style=\"color: #999;\">Pope Leo XIV is welco",
-      "source": "AP News",
-      "link": "https://apnews.com/article/pope-spain-migration-sagrada-familia-650b269286ecf851ed51ebb0e7f5980c",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 09:53:02 +0000"
-    },
-    {
-      "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
-      "summary": "Activists claim sanctions fail to reflect either the depth of violence or state complicity in settler attacks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 09:18:39 +0000"
-    },
-    {
-      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
-      "summary": "<p>Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages</p><p>Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviation leaders will converge in Brazil this weekend for the",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 09:00:05 GMT"
-    },
-    {
-      "title": "Air raid sirens in Bahrain as Iranian missiles and drones head for Gulf neighbors",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/30734e8/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F89%2F64%2F9357bf233066e5e46bdb415b0f3e%2F4b76811d09b440338dd5586b89655e8d\" width=\"100%\"><small style=\"color: #999;\">People gather on padd",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 08:53:02 +0000"
-    },
-    {
-      "title": "An Israeli airstrike on southern Lebanon kills Lebanese troops days after ceasefire",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/efaa51a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Fc9%2F3674d0e03a32a3170eddfbdf854c%2F459c616f07ac46b5be2e3292187880a4\" width=\"100%\"><small style=\"color: #999;\">A view of Beaufort Ca",
-      "source": "AP News",
-      "link": "https://apnews.com/article/lebanon-israel-hezbollah-airstrike-soldiers-killed-iran-6150614827e9f932807527799b50f5d0",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 08:53:02 +0000"
-    },
-    {
-      "title": "Armenia prepares for an election that could reshape ties with Moscow and the West",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/a5f7e02/2147483647/strip/true/crop/8192x5459+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2F40%2Fe4ebaf12cad5c6e79e9c477a05f8%2F18bb0a672c41429e873ab049ed544c13\" width=\"100%\"><small style=\"color: #999;\">Supporters of Russian",
-      "source": "AP News",
-      "link": "https://apnews.com/article/armenia-russia-parliament-elections-pashinyan-putin-2304d3b606c77108495486c977e49726",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 08:23:02 +0000"
-    },
-    {
-      "title": "Ukraine targets St. Petersburg again after Putin rejects Zelenskyy’s offer for direct talks",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e3f2604/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F20%2F74127bddc3a254f4fe8feb7695c9%2F3f47bef3128a40dfb505dce334ee238d\" width=\"100%\"><small style=\"color: #999;\">A plume of black smok",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-drones-st-petersburg-economic-forum-5d437293b65c413f231054bb1b04ce04",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 08:23:02 +0000"
-    },
-    {
-      "title": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
-      "summary": "<p>Conditions that led to bloody prewar protests have been made worse, commentators say </p><p>Iran is already preparing for the perilous transition from wartime unity to a fractious peace marked by hyperinflation, a 10% contraction in the economy, power cuts and calls for a triumphalist government ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/06/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 08:00:04 GMT"
-    },
-    {
-      "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-      "summary": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 07:51:28 +0000"
-    },
-    {
-      "title": "US says Iranian radar sites hit in Goruk and Qeshm Island",
-      "summary": "The US military released footage showing what they say are military strikes on Iranian radar sites.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 07:03:14 +0000"
-    },
-    {
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+      "summary": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 06:16:28 GMT"
+      "pubDate": "Sat, 06 Jun 2026 19:57:42 GMT"
     },
     {
-      "title": "Israeli soldier shoots Palestinian baby dead near Hebron",
-      "summary": "An Israeli soldier has shot and killed seven-month-old Palestinian infant Sam Abu Haikal.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 04:58:38 +0000"
-    },
-    {
-      "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
-      "summary": "The exchange of strikes comes as the Trump administration ramps up pressure on Iran to make a deal to end the conflict.",
+      "title": "Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?",
+      "summary": "White phosphorus is not banned under international law, but can \"create cruel injuries\" and indiscriminate harm in civilian areas.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
+      "link": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
       "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 00:15:26 -0400"
-    },
-    {
-      "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
-      "summary": "Fishermen in Gaza are using dinghies made of reclaimed fiberglass, wood, and doorframes salvaged from rubble.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 01:13:29 +0000"
-    },
-    {
-      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
-      "summary": "Israel kills two Lebanese army officers, one soldier, and issues more forced displacement orders for southern Lebanon.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
-      "summary": "Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 05 Jun 2026 21:02:52 +0000"
-    },
-    {
-      "title": "Iran footballers issued US visas for World Cup, says White House",
-      "summary": "Iran players get visas 10 days before their opening ‌World Cup match against New Zealand in Los Angeles on June 15.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 05 Jun 2026 20:49:40 +0000"
-    },
-    {
-      "title": "Trump hails jobs surge, says Iran talks ‘going well’",
-      "summary": "Trump hailed jobs growth before pivoting to Iran, saying negotiations with Tehran \"seem to be going quite well\".",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 05 Jun 2026 20:36:28 +0000"
-    },
-    {
-      "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
-      "summary": "A drone attack killed a young woman and injured 15 others near Khan Younis, reported the Wafa news agency.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 05 Jun 2026 20:17:35 +0000"
-    },
-    {
-      "title": "Xi Jinping will travel to North Korea next week in first visit since 2019",
-      "summary": "The announcement was made by both countries Friday a day after North Korea unveiled a new facility to produce nuclear fuel.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019",
-      "importance": "medium",
-      "pubDate": "Fri, 05 Jun 2026 13:03:13 -0400"
-    },
-    {
-      "title": "Israel strikes southern Lebanon after ordering evacuations of nine villages",
-      "summary": "<p>Thousands flee including from village hosting at least 2,500 displaced people, one day after Hezbollah rejects ceasefire</p><p>Thousands fled their homes after Israel issued forced evacuation orders for nine villages in southern Lebanon before strikes that killed six people on Friday, a day after",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/05/israel-strikes-southern-lebanon-evacuations-nine-villages",
-      "importance": "medium",
-      "pubDate": "Fri, 05 Jun 2026 15:56:29 GMT"
+      "pubDate": "Sat, 06 Jun 2026 14:48:35 -0400"
     }
   ]
 }
