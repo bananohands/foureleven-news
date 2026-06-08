@@ -1,209 +1,209 @@
 {
-  "generated": "2026-06-07T12:16:02.581Z",
-  "date": "Sunday, June 7, 2026",
+  "generated": "2026-06-08T14:41:44.409Z",
+  "date": "Monday, June 8, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "One killed, five wounded in shooting attack in Israel: Medics",
-      "summary": "Israeli police say the suspect is a Palestinian with Israeli citizenship.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 11:14:34 +0000"
-    },
-    {
-      "title": "1 killed and 5 injured in Israel shootings",
-      "summary": "Multiple shooting attacks in Israel have killed 1 person and injured five others, Israeli police say.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 10:53:51 +0000"
-    },
-    {
-      "title": "Kosovo voters return to the polls after parties fail to agree on a new president",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/475583d/2147483647/strip/true/crop/4709x3138+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F14%2Fc1b63563d044ff92321a21985683%2Fd0603672ba6a4ef69ef73bdabb62d540\" width=\"100%\"><small style=\"color: #999;\">Kosovo&#x27;s acting ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/kosovo-election-political-crisis-kurti-8e834897c0577af2e163929349bfa89a",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 10:53:02 +0000"
-    },
-    {
-      "title": "Pakistan’s interior minister is in Tehran as the US downs more Iranian drones over Hormuz",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/c741a9b/2147483647/strip/true/crop/8015x5341+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F9a%2F51a0f7354312af3ac194edb3c600%2F9d10ebd120064553bfe60d592c74eb8b\" width=\"100%\"><small style=\"color: #999;\">People walk under a b",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 10:53:02 +0000"
-    },
-    {
-      "title": "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
-      "summary": "A Palestinian farmer recounts the moment a large group of Israeli settlers hit him and harassed his livestock.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israeli-settlers-threaten-to-kill-palestinian-farmer-and-harass-sheep?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 10:52:50 +0000"
-    },
-    {
-      "title": "1 dead and 5 wounded in shootings near the West Bank, Israel’s rescue services say",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e628363/2147483647/strip/true/crop/7628x5083+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2F84%2F36d99b0cb074e44485ecf81e8779%2F6d4a96932b0b4f0ea6c10f28d05d2c8f\" width=\"100%\"><small style=\"color: #999;\">Israeli security forc",
-      "source": "AP News",
-      "link": "https://apnews.com/article/israel-palestinians-west-bank-shooting-217b7d7ef034c99b091e01462357f296",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 10:23:01 +0000"
-    },
-    {
-      "title": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
-      "summary": "Israel's continued attacks on homes in Gaza are contributing to the ongoing genocide in the enclave.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 10:17:59 +0000"
-    },
-    {
-      "title": "How have countries around the world responded to the US-Israel war on Iran?",
-      "summary": "The war, which has entered its 100th day, has triggered global energy crisis, drawing concerns from world leaders.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 09:35:31 +0000"
-    },
-    {
-      "title": "Hundred days of the US-Israel war on Iran",
-      "summary": "As the war on Iran marks 100 days, a complete truce still seems elusive, with the loss of life mounting in the region.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 09:34:16 +0000"
-    },
-    {
-      "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
-      "summary": "Iran’s ambassador to Mexico expressed concern over the reported denial of US visas to the World Cup delegation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 09:19:58 +0000"
-    },
-    {
-      "title": "The accomplishments of 100 days of war on Iran are undeniable",
-      "summary": "The US has not just decimated Iran's nuclear programme and military, it has also degraded the power of its regime.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 08:55:20 +0000"
-    },
-    {
-      "title": "Iran after 100 days of war: The triumph of survival",
-      "summary": "Tehran sees its ability to preserve its governing system amid a regime-change war as a clear victory.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 08:52:20 +0000"
-    },
-    {
-      "title": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
-      "summary": "Mediator Pakistan ramps up diplomatic efforts to end US-Iran war as Gulf countries warn of escalation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 08:45:01 +0000"
-    },
-    {
-      "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
-      "summary": "Lebanon's army chief Rodolphe Haykal left for Pakistan in a surprise visit as relentless fighting continues.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 07:59:02 +0000"
-    },
-    {
-      "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
-      "summary": "Tensions rise as US shoots down Iranian drones over Strait of Hormuz, vital for international maritime traffic.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 07:33:38 +0000"
-    },
-    {
-      "title": "Outrage over Palestinian ‘dog rape’ joke at Tribeca Film Festival",
-      "summary": "A US influencer and actor have caused outrage after mocking Palestinians subject to rape in Israeli prisons.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_outrage-over-palestinian-dog-rape-joke-at-tribeca-070626?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 06:01:48 +0000"
-    },
-    {
-      "title": "Iran war 100 days: How the conflict impacted Iran and the world",
-      "summary": "From the human cost to the economy, Al Jazeera visualises how the US-Israel war on Iran has unfolded since February 28.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 05:30:52 +0000"
-    },
-    {
-      "title": "Trump’s failure to maintain ceasefires is part of the new world disorder – and ordinary people pay the price | Simon Tisdall",
-      "summary": "<p>The US president brags about ending wars but look at Ukraine, Gaza, Iran and Lebanon to see what his casual disregard for diplomacy and obsession with instant results have achieved</p><p>There are visionary statesmen and high-minded negotiators, pragmatic mediators and professional diplomats – an",
+      "title": "Middle East crisis live: Iran announces end of attacks against Israel as Trump claims both sides want ‘immediate ceasefire’",
+      "summary": "<p>US president says ‘final peace negotiations’ under way, with reports that the IDF has also halted strikes on Iran</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump\">Israel strikes Iran despite Trump plea as Middle East c",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/07/donald-trump-ceasefire-failure-ukraine-iran-gaza-lebanon-gaza",
+      "link": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
       "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 05:00:25 GMT"
+      "pubDate": "Mon, 08 Jun 2026 14:29:41 GMT"
     },
     {
-      "title": "Could this one man have been behind terrorist attacks on Jewish communities across Europe?",
-      "summary": "<p>Legal papers, expert investigations and social media posts tell story of how a 32-year-old Iraqi appeared to run ‘proxy’ campaign</p><p>On Monday, a slightly dishevelled Iraqi man, shackled and dressed in beige prison overalls, was ushered into a Manhattan courtroom.</p><p>Mohammad Baqer Saad Daw",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/07/could-this-one-man-have-been-behind-terrorist-attacks-on-jewish-communities-across-europe",
-      "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 05:00:24 GMT"
-    },
-    {
-      "title": "How many times were the US and Iran on the verge of a deal?",
-      "summary": "One hundred days into the US-Israel war on Iran, we look at the number of times a deal seemed close.",
+      "title": "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
+      "summary": "US Representative Massie set to honour the crew of the vessel on the House floor, bringing attention to the 1967 attack.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/6/8/why-was-israel-spared-scrutiny-for-the-1967-uss-liberty-attack?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 07 Jun 2026 04:51:02 +0000"
+      "pubDate": "Mon, 08 Jun 2026 14:20:05 +0000"
     },
     {
-      "title": "Iran says staff blocked from entering US after players given World Cup visas",
-      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "title": "Iranian strike on Israel suggests Tehran's sense of resilience is growing",
+      "summary": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 22:38:36 GMT"
+      "pubDate": "Mon, 08 Jun 2026 14:11:22 GMT"
     },
     {
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Meta to take legal action against Israeli spyware company NSO",
+      "summary": "WhatsApp disrupted phishing attempts linked to NSO, blacklisted by the US for security concerns.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/8/meta-to-take-legal-action-against-israeli-spyware-company-nso?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 21:23:03 GMT"
+      "pubDate": "Mon, 08 Jun 2026 14:05:28 +0000"
     },
     {
-      "title": "Palestinian baby shot dead by Israeli troops in occupied West Bank",
-      "summary": "<p>The seven-month-old, Sam Fahd Abu Haikal, was in his mother’s arms when soldiers fired on family in Hebron</p><p>Israeli troops killed a seven-month-old Palestinian baby in the occupied West Bank and injured his parents after opening fire on the family’s car, despite it having complied with an or",
+      "title": "Will Iran give up on ceasefire talks as strait of Hormuz blockade continues?",
+      "summary": "<p>Chokehold on shipping route draws Houthis in Yemen back into conflict as commenters see ‘no turning back’</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu\">Middle East crisis – live updates</a></p></l",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
+      "link": "https://www.theguardian.com/world/2026/jun/08/iran-ceasefire-talks-us-israel-strait-of-hormuz-blockade-houthis-yemen",
       "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 20:15:18 GMT"
+      "pubDate": "Mon, 08 Jun 2026 14:04:20 GMT"
     },
     {
-      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
-      "summary": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Smoke rises in illegal Israeli settlement after Iranian missile attack",
+      "summary": "Smoke was seen in an illegal Israeli settlement in the occupied West Bank after Iran launched launched missiles.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/smoke-rises-in-illegal-israeli-settlement-after-iranian-missile-attack?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 19:57:42 GMT"
+      "pubDate": "Mon, 08 Jun 2026 11:56:31 +0000"
     },
     {
-      "title": "Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?",
-      "summary": "White phosphorus is not banned under international law, but can \"create cruel injuries\" and indiscriminate harm in civilian areas.",
+      "title": "Video: Israel claims strike on Iranian petrochemical complex",
+      "summary": "Video shows plumes of smoke rising from Mahshahr Petrochemical Complex in Iran’s Khuzestan Province on Monday.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/video-israel-claims-strike-on-iranian-petrochemical-complex?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 11:50:00 +0000"
+    },
+    {
+      "title": "Israel-Iran strikes threaten truce. And, Ebola is spreading at an unprecedented rate",
+      "summary": "Israel and Iran's recent exchange of fire is threatening the truce in the Middle East. And, the Ebola outbreak in the Democratic Republic of Congo is spreading at an unprecedented rate, officials say.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
+      "link": "https://www.npr.org/2026/06/08/g-s1-126858/up-first-newsletter-iran-lebanon-israel-trump-meet-the-press-interview-congo-ebola",
       "importance": "medium",
-      "pubDate": "Sat, 06 Jun 2026 14:48:35 -0400"
+      "pubDate": "Mon, 08 Jun 2026 07:26:58 -0400"
+    },
+    {
+      "title": "Could ex-ISIL fighters be used against Iran, as a Russian official claimed?",
+      "summary": "Russia’s Federal Security Service chief said Western powers could weaponise ex-fighters, but analysts doubt the claim.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/8/bortnikov-russia-iran-isil?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 10:46:26 +0000"
+    },
+    {
+      "title": "Iran official says US to blame for resumption of hostilities",
+      "summary": "Iran’s FM spokesman Esmaeil Baghaei said Israel’s ally the US is responsible for ‘whatever happens in the region'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-spokesman-says-us-to-blame-for-resumption-of-hostilities?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 10:40:51 +0000"
+    },
+    {
+      "title": "Iran and Israel bomb each other: Is the ceasefire over?",
+      "summary": "Analysts say both sides are pushing the ceasefire to its limits while seeking greater leverage.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/8/iran-and-israel-bomb-each-other-is-the-ceasefire-over?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 10:38:36 +0000"
+    },
+    {
+      "title": "Israel kills 14 people in attacks across Gaza",
+      "summary": "Israel killed at least 14 people in Gaza on Sunday in strikes across Khan Younis, Gaza City, and Deir el-Balah.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 10:23:27 +0000"
+    },
+    {
+      "title": "Israel and Iran exchange strikes as Middle East crisis threatens to escalate",
+      "summary": "<p>Attacks raise fears of return to full-scale regional war and come after Trump says ‘I call all the shots’, not Netanyahu</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates\"><strong>Middle East c",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 09:22:15 GMT"
+    },
+    {
+      "title": "Israel’s strikes on Iran expose Trump’s failure to restrain Netanyahu",
+      "summary": "Israel’s strikes on Iran expose Trump’s failure to restrain Netanyahu.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israels-strikes-on-iran-expose-trumps-failure-to-restrain-netanyahu?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 09:16:54 +0000"
+    },
+    {
+      "title": "Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters",
+      "summary": "South Korea’s main index plunges nearly 9 percent, while stocks in Japan, Taiwan and Hong Kong also see sharp falls.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 08:49:41 +0000"
+    },
+    {
+      "title": "Yemen’s Houthis declare ban on Israeli ships sailing the Red Sea",
+      "summary": "Yemen’s Houthis have declared a ‘total ban’ on Israeli vessels wanting to pass through the Red Sea.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/yemens-houthis-declare-ban-on-israeli-ships-sailing-the-red-sea?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 08:38:42 +0000"
+    },
+    {
+      "title": "China’s Xi given lavish welcome in North Korea ahead of closely watched talks with Kim",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f6cc064/2147483647/strip/true/crop/5091x3392+112+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2Fae%2Ff8b5bdf9b0b1333ac7bda74a9775%2F1c652d4b35594ac2a95453d0d9984210\" width=\"100%\"><small style=\"color: #999;\">A building is decor",
+      "source": "AP News",
+      "link": "https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 07:53:01 +0000"
+    },
+    {
+      "title": "Asian shares drop after plunge in Big Tech stocks gives Wall St its worst day in months",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/60f29ff/2147483647/strip/true/crop/5278x3517+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2Fe9%2Fc0d8d76c3ec4f499f105b011882b%2F9a992483df704f0d88c5ec55afff3151\" width=\"100%\"><small style=\"color: #999;\">Specialist Anthony Ma",
+      "source": "AP News",
+      "link": "https://apnews.com/article/stock-markets-rates-iran-economy-a4b9336d67a15d19d9aa5394e5a30be6",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 07:53:01 +0000"
+    },
+    {
+      "title": "As Ukraine fights off Russia’s invasion, some regions see a rise in premature births",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/29db783/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff7%2F74%2F63dcdbacdb123d0893291bf140d6%2F1664a5a990af49ab9207aa484f1b74fd\" width=\"100%\"><small style=\"color: #999;\">Nurse Victoria Bohdan",
+      "source": "AP News",
+      "link": "https://apnews.com/article/ukraine-russia-war-premature-babies-685d6055e1db73722154bb33789e2222",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 07:23:02 +0000"
+    },
+    {
+      "title": "My Memory Is Full of Ghosts review – deeply moving visual hymn for the bombed-out Syrian city of Homs",
+      "summary": "<p>Anas Zawahri’s documentary lays heart-wrenching testimony over languorous shots of bullet-ridden ruins and deserted streets</p><p>The western Syrian city of Homs is only a husk of its former self. Previously a major industrial centre, the region became a key battleground between 2011 and 2014, fo",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/jun/08/my-memory-is-full-of-ghosts-review-deeply-moving-visual-hymn-for-the-bombed-out-syrian-city-of-homs",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 06:00:19 GMT"
+    },
+    {
+      "title": "Trump reportedly tells Netanyahu not to retaliate against Iran - as it happened",
+      "summary": "<p>This blog is now closed – our live coverage of the Middle East crisis <a href=\"https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu\">continues here</a></p><p><strong>Donald Trump also aggressively pushed back against claims tha",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 05:54:15 GMT"
+    },
+    {
+      "title": "Israel and Iran exchange missile fire threatening Middle East truce",
+      "summary": "The exchange marked a major escalation in the already tense region. It came on the 100th day of a war that began on Feb. 28, further complicating efforts to end Middle East fighting.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+      "importance": "medium",
+      "pubDate": "Mon, 08 Jun 2026 00:23:36 -0400"
+    },
+    {
+      "title": "Iran launches missiles at Israel in response to strikes on Beirut",
+      "summary": "<p>Tehran official had promised ‘decisive and painful’ reply to Israeli bombing of apartment buildings in Beirut’s southern suburbs</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates\">Middle East c",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 21:49:58 GMT"
+    },
+    {
+      "title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 20:56:09 GMT"
+    },
+    {
+      "title": "Trump is remaking U.S. policy in Latin America",
+      "summary": "Military strikes, sanctions and political pressure are becoming hallmarks of Trump's Latin America policy. NPR's Adrian Florido speaks with historian Greg Grandin about what's driving the shift.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/07/nx-s1-5845137/trump-is-remaking-u-s-policy-in-latin-america",
+      "importance": "medium",
+      "pubDate": "Sun, 07 Jun 2026 16:53:20 -0400"
     }
   ]
 }
