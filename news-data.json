@@ -1,209 +1,209 @@
 {
-  "generated": "2026-06-09T13:38:24.753Z",
-  "date": "Tuesday, June 9, 2026",
+  "generated": "2026-06-10T14:18:09.973Z",
+  "date": "Wednesday, June 10, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "After long waits at the Social Security Administration, its chief says things are getting better",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f9a0967/2147483647/strip/true/crop/5391x3592+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff8%2F4e%2F623ac5a37b82972ee1f49bb116d7%2F61dcc052a9364d71a5a41b8caad5dfea\" width=\"100%\"><small style=\"color: #999;\">IRS CEO Frank Bisigna",
-      "source": "AP News",
-      "link": "https://apnews.com/article/social-security-administration-frank-bisignano-978eebb1649f05bb18184cf8c1fffa5b",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 13:23:02 +0000"
-    },
-    {
-      "title": "Christian leaders in Lebanese city of Tyre call for quick international action after Israeli warning",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/574369b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F1d%2F1ce2c2a494501aa45d648f70f971%2Ff9d02f00570e4b72aec1bdd88834da49\" width=\"100%\"><small style=\"color: #999;\">People swim on a publ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/lebanon-israel-hezbollah-tyre-christian-district-a1282418d807aca60f0893d1f1b39684",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 13:23:02 +0000"
-    },
-    {
-      "title": "Wall Street points to modest gains in a rebound from last week as oil prices slip",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/a0ac9f4/2147483647/strip/true/crop/7013x4673+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F70%2F7a360e0c4fa2e697a1c76fc57a9d%2Fcc598483772240f5aec29e885055796e\" width=\"100%\"><small style=\"color: #999;\">Trader John Bowers wo",
-      "source": "AP News",
-      "link": "https://apnews.com/article/stocks-markets-ai-tech-iran-0446d424c0bf722dd5b09d70b8a1da3d",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 12:53:01 +0000"
-    },
-    {
-      "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
-      "summary": "Surveillance camera video captured the moment a Russian drone strike caused a blast in Zaporizhzhia, Ukraine.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 12:05:19 +0000"
-    },
-    {
-      "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
-      "summary": "The row erupted after Italy said it was investigating the far-right minister over treatment of Gaza flotilla activists.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/9/italys-foreign-minister-slams-israels-ben-gvir-over-flip-flop-comments?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 12:00:18 +0000"
-    },
-    {
-      "title": "Israel attacks Tyre in Lebanon, tells all residents to leave",
-      "summary": "Israel attacks Tyre in Lebanon, tells all residents to leave",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israel-attacks-tyre-in-lebanon-tells-all-residents-to-leave?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 11:51:06 +0000"
-    },
-    {
-      "title": "Analysis: Chinese President Xi’s silence on nuclear arms is a gift to North Korea’s Kim Jong Un",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f28e5ee/2147483647/strip/true/crop/3107x2070+9+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2Fb0%2F150c63e910c1e686ec5053aa4ebe%2Feb4090baf48e42f5bbe889f21a67184d\" width=\"100%\"><small style=\"color: #999;\">In this photo provide",
-      "source": "AP News",
-      "link": "https://apnews.com/article/north-korea-china-kim-jong-un-xi-jinping-30108b084677525181a82a217829bc03",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 11:23:02 +0000"
-    },
-    {
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 10:51:24 GMT"
-    },
-    {
-      "title": "Hundred days of Israel’s latest war on Lebanon",
-      "summary": "Israel's second intensification of its war on Lebanon within two years has reached 100 days, killing thousands.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 10:37:40 +0000"
-    },
-    {
-      "title": "‘Historic’ wave of Palestinian solidarity grows at universities in Germany",
-      "summary": "Calls for universities to cut ties with Israeli institutions are rising in the country that condemns the BDS movement.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/9/historic-wave-of-palestinian-solidarity-grows-at-universities-in-germany?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 10:20:29 +0000"
-    },
-    {
-      "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
-      "summary": "The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 09:17:42 +0000"
-    },
-    {
-      "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
-      "summary": "Iranian players and support staff got US visas and landed in Mexico on Sunday for the World Cup, but now fans in doubt.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/9/iran-says-us-have-revoked-world-cup-ticket-allocation-for-their-supporters?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 08:58:20 +0000"
-    },
-    {
-      "title": "Ranking the Middle East and North African teams at World Cup 2026",
-      "summary": "Breaking down the eight Middle East and North African teams' chances at the World Cup in North America.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/9/ranking-the-middle-east-and-north-african-teams-at-world-cup-2026?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 08:52:21 +0000"
-    },
-    {
-      "title": "World Cup 2026: What time can fans in Europe, Middle East and Africa watch?",
-      "summary": "Are you a football fan in Europe, Africa or the Middle East? Scroll down to find out World Cup timings in your region.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/9/world-cup-2026-what-time-can-fans-in-europe-middle-east-and-africa-watch?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 08:16:25 +0000"
-    },
-    {
-      "title": "‘They were laughing’: Israel’s use of rape and sexual abuse in prisons",
-      "summary": "Former detainees detail systematic torture and sexual violence, including rape, while in Israeli custody.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 08:13:54 +0000"
-    },
-    {
-      "title": "Trump says Iran deal in ‘final throes’",
-      "summary": "Donald Trump said that he's in the 'final throes' of a deal with Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-says-iran-deal-in-final?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 08:13:46 +0000"
-    },
-    {
-      "title": "Israel puts Palestinian doctor in solitary confinement after 17 months held without charge",
-      "summary": "<p>Dr Hussam Abu Safiya now in cell barely big enough to sit in, says son, after UN experts demanded his release in March</p><p>The son of a prominent Palestinian doctor who was <a href=\"https://www.theguardian.com/global-development/2024/dec/30/gaza-hospital-director-israeli-prison\">detained by Isr",
+      "title": "Video shows family’s car slowing before Israeli troops shot dead Palestinian baby",
+      "summary": "<p>Footage appears to contradict Israeli military’s account of killing of seven-month-old Sam Abu Haikal in West Bank</p><p>New footage appears to contradict the Israeli military’s account of the shooting that killed seven-month-old Sam Abu Haikal in his mother’s arms, showing the family’s car slowi",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/09/israel-palestinian-doctor-hussam-abu-safiya-solitary-confinement-held-without-charge",
+      "link": "https://www.theguardian.com/world/2026/jun/10/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank-new-footage",
       "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 07:16:48 GMT"
+      "pubDate": "Wed, 10 Jun 2026 14:05:23 GMT"
     },
     {
-      "title": "Trump says pilots are fine after U.S. helicopter crashes near Strait of Hormuz",
-      "summary": "A U.S. Army Apache attack helicopter crashed near the Strait of Hormuz, with President Trump saying the two crew members on board were \"fine\" after the incident. Trump also expressed optimism over negotiations with Iran.",
+      "title": "Middle East crisis live: Trump accuses Iran of taking too long to make a deal and says ‘it will now pay a price’",
+      "summary": "<p>New social media threat comes as US military has been striking Iranian targets, including air defences and radar sites</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/09/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond\"><strong>Trump launches strikes a",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 13:59:05 GMT"
+    },
+    {
+      "title": "More drops for tech stocks weigh on Wall Street",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/c4362c3/2147483647/strip/true/crop/7850x5231+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fe4%2Fd5c9d59f08f61550e35ac461773b%2Faae3249a36ae468f90968b34e2c1a761\" width=\"100%\"><small style=\"color: #999;\">Options traders Steve",
+      "source": "AP News",
+      "link": "https://apnews.com/article/stocks-markets-ai-tech-iran-us-716c67bff3b68ff08503d7fc4adef0f9",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 13:53:02 +0000"
+    },
+    {
+      "title": "US bombs Iran’s water facilities: Why that’s so significant",
+      "summary": "The US struck several sites in Iran, saying it retaliated against the downing of a US helicopter in the Strait of Hormuz",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-irans-water-facilities-why-thats-so-significant?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 13:27:27 +0000"
+    },
+    {
+      "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
+      "summary": "Israel uses war crimes to accelerate 'annexation agenda and settlement expansion' in occupied land, rights group says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 12:55:23 +0000"
+    },
+    {
+      "title": "7-month-old baby shot by Israeli soldier in Hebron",
+      "summary": "An Israeli soldier fired at a Palestinian family’s car in Hebron, fatally shooting a seven‑month‑old in the head.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/7-month-old-baby-shot-by-israeli-soldier-in-hebron?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 12:44:39 +0000"
+    },
+    {
+      "title": "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
+      "summary": "Video shows a Ukrainian-made ‘FP-5 Flamingo’ cruise missile flying deep inside Russia.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 12:44:09 +0000"
+    },
+    {
+      "title": "Middle East peace talks in doubt as Iran says it needs to ‘reassess’ after overnight strikes",
+      "summary": "<p>US launches strikes in retaliation for downing of US army helicopter, while White House source says deal could still be close</p><p>The future of peace talks in the Middle East have been thrown into question after Iran’s foreign ministry said it needed to “reassess” its participation, while Donal",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 12:22:01 GMT"
+    },
+    {
+      "title": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
+      "summary": "As elections near, Israel's PM finds himself squeezed between his voters, his allies, and his opponents.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 11:57:49 +0000"
+    },
+    {
+      "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
+      "summary": "Analysts say Iran seeks to deter US patrols on the Strait of Hormuz by attacking its assets across the Gulf.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 11:50:48 +0000"
+    },
+    {
+      "title": "Satellite images show Israel’s destruction of historical city of Tyre",
+      "summary": "Satellite data shows damage to residential areas, UNESCO Heritage buffer zones and Palestinian camps in Israeli attacks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/10/satellite-images-show-israels-destruction-of-historical-city-of-tyre?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 11:46:50 +0000"
+    },
+    {
+      "title": "What’s happening at the World Cup one day before tournament starts?",
+      "summary": "Political issues continue to dominate the build-up, with the US-Israel war on Iran overshadowing the World Cup.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/6/10/whats-happening-at-the-world-cup-one-day-before-tournament-starts?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 11:40:15 +0000"
+    },
+    {
+      "title": "U.S. and Iran exchange strikes. And, House passes ICE and Border Patrol funding",
+      "summary": "The U.S. and Iran have exchanged strikes after a helicopter was downed Monday near the Strait of Hormuz. And, House Republicans have passed a bill to fund ICE and Border Patrol through Trump's term.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5851482/trump-pilots-us-helicopter-crash",
+      "link": "https://www.npr.org/2026/06/10/g-s1-127216/up-first-newsletter-iran-us-war-primary-results-ice-funding-bill-gates",
       "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 01:48:30 -0400"
+      "pubDate": "Wed, 10 Jun 2026 07:26:08 -0400"
     },
     {
-      "title": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
-      "summary": "The Pentagon has added several prominent Chinese businesses to its list of Chinese military companies. The move prevents them from securing U.S. defense contracts.",
+      "title": "China re‑centers North Korea ties as nuclear silence reshapes balance",
+      "summary": "Xi's silence on North Korea's nuclear program came as Kim tried to convince the world of the irreversibility of his country's status as a nuclear power.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military",
+      "link": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
       "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 01:18:46 -0400"
+      "pubDate": "Wed, 10 Jun 2026 06:30:00 -0400"
     },
     {
-      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-      "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+      "title": "Ukraine launches long-range strikes on military and energy sites in Russia",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/278c7e3/2147483647/strip/true/crop/5500x3665+0+230/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc0%2Ffa%2Fdf91ef687cc9200e5e824d365964%2F64c34e46d67e4fafa94b599ec9d2eb40\" width=\"100%\"><small style=\"color: #999;\">In this photo provi",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 10:23:02 +0000"
+    },
+    {
+      "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
+      "summary": "Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 10:09:41 +0000"
+    },
+    {
+      "title": "Iran fires missiles at US bases carrying images of killed commanders",
+      "summary": "Iranian state media released video showing the launch of missiles towards US bases in the Middle East.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 09:45:33 +0000"
+    },
+    {
+      "title": "US strikes Iran in response to downing of military helicopter",
+      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Tue, 09 Jun 2026 05:07:44 GMT"
+      "pubDate": "Wed, 10 Jun 2026 09:39:35 GMT"
     },
     {
-      "title": "Trump tells BBC Netanyahu did not defy him",
-      "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Defying Trump ended some Republicans’ careers. It could help Susan Collins win reelection in Maine",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/c0a4637/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2Fab%2F6379e159001ac66430833204811b%2Ff0bd1a25e89940d6822f96b227d3fe84\" width=\"100%\"><small style=\"color: #999;\">Sen. Susan Collins, R",
+      "source": "AP News",
+      "link": "https://apnews.com/article/trump-collins-maine-senate-republicans-reelection-5333d177cb972102d1d87c0124ef76d5",
       "importance": "medium",
-      "pubDate": "Mon, 08 Jun 2026 22:34:25 GMT"
+      "pubDate": "Wed, 10 Jun 2026 09:23:02 +0000"
     },
     {
-      "title": "Lebanon’s president refuses to meet Netanyahu until war ends – as it happened",
-      "summary": "<p>This live blog is now closed. For the latest, read more of our coverage on the Middle East conflict <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\"><strong>here</strong></a>. </p><p>Iranian media is reporting that there were no immediate casualties following apparent Israeli str",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
-      "importance": "medium",
-      "pubDate": "Mon, 08 Jun 2026 22:04:23 GMT"
-    },
-    {
-      "title": "Israel and Iran step back from renewed conflict after Trump calls for halt",
-      "summary": "<p>Netanyahu acknowledges pause in fighting in TV speech but vows forceful response to future attacks</p><p>Fears of a return to a full-scale regional war in the Middle East eased on Monday as Israel and Iran said they had halted attacks on each other after an appeal from Donald Trump to “immediatel",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/08/israel-and-iran-attacks-pause-after-trump-calls-to-stop-shooting",
-      "importance": "medium",
-      "pubDate": "Mon, 08 Jun 2026 20:59:38 GMT"
-    },
-    {
-      "title": "The Strait of Hormuz's 3-month closure could set a dangerous precedent, experts worry",
-      "summary": "Has the closure of the Strait of Hormuz set a new — and dangerous — precedent for international shipping lanes?",
+      "title": "China and North Korea renew ties, complicating U.S. response to Kim's nuclear program",
+      "summary": "With Xi Jinping and Kim Jong Un reaffirming ties while sidestepping nuclear tensions, the U.S. faces a growing challenge in responding to an increasingly confident, nuclear-armed North Korea.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/08/nx-s1-5848001/the-strait-of-hormuzs-3-month-closure-could-set-a-dangerous-precedent-experts-worry",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5851837/china-and-north-korea-renew-ties-complicating-u-s-response-to-kims-nuclear-program",
       "importance": "medium",
-      "pubDate": "Mon, 08 Jun 2026 16:50:00 -0400"
+      "pubDate": "Wed, 10 Jun 2026 04:42:39 -0400"
     },
     {
-      "title": "Trump claims he ‘didn’t guarantee’ no US wars. Here’s what he’s actually said",
-      "summary": "<p>US president for years has repeatedly suggested – and said outright – that he would not take the country to war</p><p>Donald Trump has forcefully denied he ever promised not to draw the US into war, having spent years pledging to avoid doing just that.</p><p>The US president’s <a href=\"https://ww",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/jun/08/what-trump-actually-said-no-war-promise",
+      "title": "Israeli leader who pulled out of Lebanon warns against getting stuck again",
+      "summary": "Ehud Barak withdrew Israeli forces from Lebanon in 2000, ending an occupation that lasted nearly two decades. He says that was a quagmire Israel shouldn't repeat.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/10/g-s1-126791/israeli-leader-who-pulled-out-of-lebanon-warns-against-getting-stuck-again",
       "importance": "medium",
-      "pubDate": "Mon, 08 Jun 2026 19:19:04 GMT"
+      "pubDate": "Wed, 10 Jun 2026 04:40:59 -0400"
+    },
+    {
+      "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+      "summary": "Israel's war on Gaza has decimated the tech sector, killing experts and destroying incubators that offered opportunity.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 08:27:28 +0000"
+    },
+    {
+      "title": "Alleged spy’s mysterious disappearance spotlights Israel’s intelligence networks in Lebanon",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/dcbf52b/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F85%2Fcdb7e8eba54c3f6accb8bc601011%2Fb75bb6907c834397805a0a5e31c54a47\" width=\"100%\"><small style=\"color: #999;\">People gather at the ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/hezbollah-lebanon-israel-spying-alaydi-7e2bf9f137f994e742d49ec1621225e3",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 07:53:02 +0000"
+    },
+    {
+      "title": "AP Interview: Albania’s leader defends Kushner-linked luxury development",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/421956d/2147483647/strip/true/crop/4735x3155+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2F34%2F6d0d9a0a879d43602ec7c866fc6a%2F0e1cf6e05b534132ab0b0a079bb72254\" width=\"100%\"><small style=\"color: #999;\">Albanian Prime Minist",
+      "source": "AP News",
+      "link": "https://apnews.com/article/albania-rama-trump-kushner-development-protests-767df9dc0a359c0357a502b5c49f2aa5",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 06:23:02 +0000"
+    },
+    {
+      "title": "Inflation likely reached 3-year high last month as Iran war spikes gas prices",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/34a4f57/2147483647/strip/true/crop/3888x2591+0+1621/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F8c%2Fd4744bdb5d662f0f3b5045a30631%2Fc592ece7dcc0439696b7d081127ab5b6\" width=\"100%\"><small style=\"color: #999;\">As the daytime hig",
+      "source": "AP News",
+      "link": "https://apnews.com/article/consumer-prices-inflation-war-gas-878f6759c93fcb078aeefffe19d4dfa5",
+      "importance": "medium",
+      "pubDate": "Wed, 10 Jun 2026 06:23:02 +0000"
     }
   ]
 }
