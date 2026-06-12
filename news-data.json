@@ -1,209 +1,209 @@
 {
-  "generated": "2026-06-11T14:30:51.009Z",
-  "date": "Thursday, June 11, 2026",
+  "generated": "2026-06-12T13:58:09.764Z",
+  "date": "Friday, June 12, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Middle East crisis live: Trump threatens ‘very hard’ attack on Iran tonight and says US will seize Kharg island",
-      "summary": "<p>President says US will take vital fuel hub ‘in not too distant future’ and will ‘assume total control of their oil and gas markets’ </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes\"><strong>US strikes Iran for second day, as ceasefire appe",
+      "title": "Middle East crisis live: Tehran would not cede control of Hormuz in deal with US, Iran state media report",
+      "summary": "<p>Iran and the US said the countries are discussing draft text to a deal but there are still some key differences to overcome</p><p><a href=\"https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire\">Full report: Trump claims US and Iran on verge of signing peace agre",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 13:41:38 GMT"
+    },
+    {
+      "title": "Are Iran, US really close to a breakthrough ‘deal’?",
+      "summary": "Trump says a deal with Iran could be signed in Europe over the weekend. Tehran cautions against speculation.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 13:16:30 +0000"
+    },
+    {
+      "title": "London mayor slams event touting illegal Israeli settlement land sales",
+      "summary": "'Great Israeli Real Estate Event' promotes the sale of stolen Palestinian land in settlements in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 13:01:19 +0000"
+    },
+    {
+      "title": "Iran to become first World Cup team to play in country with which it is at war",
+      "summary": "<p>Belligerent backdrop to tournament tests Fifa’s ‘football unites the world’ slogan</p><p>Iran will present a major challenge to Fifa’s “football unites the world” slogan on Monday by becoming the first country in World Cup history to compete on the soil of a host nation <a href=\"https://www.thegu",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 13:00:45 GMT"
+    },
+    {
+      "title": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
+      "summary": "The struggle over military service is stoking protests, threatening Israel's coalition and reshaping political debate.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 12:08:33 +0000"
+    },
+    {
+      "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
+      "summary": "The attacks come as Iranian media reports that a draft peace deal with the US would include ending the war in Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 12:02:56 +0000"
+    },
+    {
+      "title": "As UFOs go mainstream, the jury is out on what the existence of alien life might mean for religion",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/08adac2/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Fcc%2F24f66a249938548d9c2baa11639c%2Fdd2c80c52e504ede8cafe9cbc840a14a\" width=\"100%\"><small style=\"color: #999;\">Deputy Director of Na",
+      "source": "AP News",
+      "link": "https://apnews.com/article/ufo-religion-aliens-demons-disclosure-day-500c2280dbdbcedfa09f3d2aa298f338",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 11:23:01 +0000"
+    },
+    {
+      "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
+      "summary": "Trump canceled new Iran strikes and signaled that a peace deal could come soon, but Iran says it hasn't been finalized. And, the U.S. men's soccer team plays its first 2026 World Cup match today.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 06:42:59 -0400"
+    },
+    {
+      "title": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
+      "summary": "Powerful Shia leader Muqtada al-Sadr among those who say their groups will integrate into the state.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 09:55:11 +0000"
+    },
+    {
+      "title": "Where Trump has lost support with independents, according to AP-NORC polling",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/ded6417/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2F04%2Fa97532920c9ac4fcc90d2d9e3451%2F7660451736854242b328ff3f21e3614b\" width=\"100%\"><small style=\"color: #999;\">A man wears an \"I vot",
+      "source": "AP News",
+      "link": "https://apnews.com/article/poll-independents-trump-approval-c44ab6c775fba86de739353217108673",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 09:53:02 +0000"
+    },
+    {
+      "title": "‘Torture isn’t new to Palestinians’: How Israel learned from colonialism",
+      "summary": "A chain of sexual violence that Britain built, France refined and Israel inherited is being used against Palestinians.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/6/12/torture-isnt-new-to-palestinians-how-israel-learned-from-colonialism?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 09:40:26 +0000"
+    },
+    {
+      "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
+      "summary": "Israeli zone extends into Lebanon's maritime territory, raising fears that it could become a long-term 'resource grab'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 09:35:08 +0000"
+    },
+    {
+      "title": "Video: What Iran’s football fans think about the World Cup",
+      "summary": "What’s it like supporting your team in a World Cup hosted by a country that’s at war with yours?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-what-irans-football-fans-think-about-the-world-cup?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 09:34:33 +0000"
+    },
+    {
+      "title": "Disaster drills helped prevent more deaths when powerful quake hit the southern Philippines",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/5b2c0d2/2147483647/strip/true/crop/3648x2431+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F17%2Fde%2F40c2996de689312a6c112e66add8%2F85aecca1d9e5485cbba884236a69f83b\" width=\"100%\"><small style=\"color: #999;\">People on motorcycles",
+      "source": "AP News",
+      "link": "https://apnews.com/article/philippines-earthquake-disaster-drills-67839c36befc5c73bc9ef93acef98792",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 08:23:01 +0000"
+    },
+    {
+      "title": "From Goop to ‘Gwynocide’: why is Gwyneth Paltrow starring in a luxury Israeli real estate ad? | Arwa Mahdawi",
+      "summary": "<p>Paltrow went viral this week for her commercial for 51 Park – a building just miles from where Palestinians are being killed and displaced</p><p>Gwyneth Paltrow has built a wellness empire by encouraging people to put questionable things in their mouths and up their orifices. Over the years the G",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/12/gwyneth-paltrow-51-park-israeli-real-estate-ad",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 08:00:39 GMT"
+    },
+    {
+      "title": "Asian shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/2c208d6/2147483647/strip/true/crop/7569x5043+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Fc2%2F771727406ddabe0ff94bf9509622%2F26df53ae687f4a49b053645c9257c71d\" width=\"100%\"><small style=\"color: #999;\">Currency traders watc",
+      "source": "AP News",
+      "link": "https://apnews.com/article/stocks-markets-ai-iran-oil-rates-47f9fecd934706362104cd92514122fe",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 06:23:02 +0000"
+    },
+    {
+      "title": "Pro-Palestine activists believe ‘sea change’ coming in Labour’s approach to Middle East",
+      "summary": "<p>Green surge in local elections and recent polling of Labour members may cause government to toughen stance on Israel</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/politics/2026/jun/12/pro-palestine-activists-believe-sea-change-labour-approach-middle-east-israel",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 05:00:35 GMT"
+    },
+    {
+      "title": "Oil prices fall after Trump says he is cancelling strikes – as it happened",
+      "summary": "<p>This blog is now closed – see our <a href=\"https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire\">latest full report</a> on the Middle East crisis</p><p><strong>Three Indian seafarers were killed in a US attack on an oil tanker earlier this week,</strong> India’",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
       "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 14:22:32 GMT"
+      "pubDate": "Fri, 12 Jun 2026 04:12:08 GMT"
     },
     {
-      "title": "Trump threatens to seize control of Iranian oil and gas facilities as tensions escalate",
-      "summary": "<p>US president warns of further military action as both sides accuse each other of breaching temporary ceasefire</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis\">Middle East crisis – live updates<",
+      "title": "Video of visually impaired Palestinian boy crying over broken glasses draws global attention",
+      "summary": "<p>Ayoub Junaid, seven, given new pair but needs surgery as Gaza’s children remain unable to access treatment</p><p>A video of a seven-year-old Palestinian boy in Gaza who suffers from a severe visual impairment crying over his shattered glasses has drawn widespread attention across social and inter",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/12/video-visually-impaired-palestinian-boy-gaza-ayoub-junaid-crying-broken-glasses",
+      "importance": "medium",
+      "pubDate": "Fri, 12 Jun 2026 04:00:37 GMT"
+    },
+    {
+      "title": "Trump claims US and Iran on verge of signing peace agreement, but Tehran says no final decision made",
+      "summary": "<p>Iranian leadership has not confirmed claim, after the US president announced that planned strikes on Iran had been cancelled </p><p>Donald Trump claimed on Thursday that Washington and Tehran were on the verge of signing a peace agreement, and announced that he was cancelling fresh missile strike",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
       "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 14:20:18 GMT"
+      "pubDate": "Fri, 12 Jun 2026 00:57:39 GMT"
     },
     {
-      "title": "UK defense secretary quits, says government isn’t willing to spend enough on military",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/2c1ed91/2147483647/strip/true/crop/2649x1765+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F76%2Fb53f5df581832edbd4c7ed462495%2F5b94629290a8466db1f91711889595a4\" width=\"100%\"><small style=\"color: #999;\">John Healey, Britain&",
-      "source": "AP News",
-      "link": "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
+      "title": "Military strikes on water facilities in Iran may constitute a war crime, experts say",
+      "summary": "<p>Strikes on Bemani damaged key water reservoir for 20,000 people living in area amid a historic drought in the country</p><p>Military strikes that damaged two water storage facilities in southern Iran may constitute a war crime, military and legal experts say, after reviewing media reports and vis",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts",
       "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 13:23:02 +0000"
+      "pubDate": "Thu, 11 Jun 2026 20:30:15 GMT"
     },
     {
-      "title": "Japan reactor restart sparks fresh fears over nuclear waste storage",
-      "summary": "The reboot highlights a dire problem for the country's nuclear program. Japan is running out of space to store spent nuclear fuel and lacks plans for radioactive waste disposal.",
+      "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
+      "summary": "President Trump had previously been amping up his rhetoric against Iran.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/11/g-s1-127439/japan-reactor-restart-sparks-fresh-fears-over-nuclear-waste-storage",
+      "link": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
       "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 09:02:43 -0400"
+      "pubDate": "Thu, 11 Jun 2026 16:04:52 -0400"
     },
     {
-      "title": "Iran shuts Hormuz strait: But wasn’t it already closed?",
-      "summary": "The strait is a crucial maritime route, through which 20 percent of global oil and natural gas is shipped in peacetime.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 12:57:11 +0000"
-    },
-    {
-      "title": "Video shows aftermath of Iranian attack in Bahrain",
-      "summary": "Iranian strikes on Bahrain left cars, homes and buildings damaged in Hamad Town and Manama.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-aftermath-of-iranian-attack-in-bahrain?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 12:39:06 +0000"
-    },
-    {
-      "title": "US and Iran exchange strikes across Middle East for second day in a row",
-      "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 12:09:44 GMT"
-    },
-    {
-      "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
-      "summary": "Mohammad Abu Giab was a 15-year-old fisherman from Gaza that was shot dead by Israeli forces off Deir el-Balah.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 11:23:18 +0000"
-    },
-    {
-      "title": "117.8 Million fled their homes worldwide: Lebanon’s shelter crisis worsens",
-      "summary": "117.8 Million people fled their homes worldwide: Lebanon’s shelter crisis escalates.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/117-8-million-fled-their-homes-worldwide-lebanons-shelter-crisis-worsens?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 11:14:53 +0000"
-    },
-    {
-      "title": "U.S. launches second day of Iran strikes. And, World Cup facts to know before kickoff",
-      "summary": "The U.S. launched air strikes on Iran for a second consecutive day. And, the World Cup kicks off today in Mexico City, where tensions threaten to disrupt events.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/11/g-s1-127423/up-first-newsletter-us-iran-war-inflation-rates-world-cup",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 07:09:33 -0400"
-    },
-    {
-      "title": "Detained Gaza doctor Hussam Abu Safia shows signs of torture, family says",
-      "summary": "Gaza paediatrician appears by video link in Israeli court, as lawyer and family demand release, fearing for his life.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 11:08:14 +0000"
-    },
-    {
-      "title": "Lebanon: Life in Tripoli as War Displaces Over a Million",
-      "summary": "In Lebanon, a young woman is forced to face her own vulnerabilities while helping those displaced by war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 11:07:56 +0000"
-    },
-    {
-      "title": "Iran says 18 targets hit across US bases, Strait of Hormuz closed",
-      "summary": "Iran’s Revolutionary Guard Corps says it hit 18 targets at US bases in Kuwait, Bahrain and Jordan.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-says-18-targets-hit-across-us-bases-strait-of-hormuz-closed?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 11:02:59 +0000"
-    },
-    {
-      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
-      "summary": "The US vice-president says the Israeli leader \"aggressively asserts\" his country's interests, but they do not always align with those of the US.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 10:26:59 GMT"
-    },
-    {
-      "title": "Three Indian sailors killed in US strike on oil tanker",
-      "summary": "A US strike on an oil tanker accused of transporting Iranian oil has killed three Indian sailors.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/three-indian-sailors-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 10:02:03 +0000"
-    },
-    {
-      "title": "Asian shares mixed after another sell-off of AI stocks on Wall St, while oil prices ease",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/c6455f6/2147483647/strip/true/crop/7939x5290+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F26%2F8f%2F541185525e54ce86209ccf28df79%2F48a1c9c190614af7976a0df8a1472f9a\" width=\"100%\"><small style=\"color: #999;\">A screen shows foreig",
-      "source": "AP News",
-      "link": "https://apnews.com/article/stocks-markets-ai-iran-oil-rates-87c831451197beedb3e29771de1e0a92",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 08:23:02 +0000"
-    },
-    {
-      "title": "Is the Iran ceasefire over? What the latest US attacks tell us",
-      "summary": "<p>A wave of US strikes represents the gravest test yet of the fragile truce. Here’s what happened, what officials are saying and whether the deal can survive</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-ea",
+      "title": "Delhi issues ‘strong protest’ after US strikes kill three Indian seafarers in Gulf",
+      "summary": "<p>Washington claims vessel was violating its blockade of Iranian ports and failed to comply with instructions</p><p>The Indian government has voiced a “strong protest” after three Indian seafarers were killed in US military strikes against oil tankers travelling through the strait of Hormuz.</p><p>",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/11/iran-ceasefire-us-attacks-strikes-deal",
+      "link": "https://www.theguardian.com/world/2026/jun/11/delhi-issues-strong-protest-after-us-fire-kills-three-indian-seafarers-in-gulf",
       "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 08:09:41 GMT"
+      "pubDate": "Thu, 11 Jun 2026 18:11:10 GMT"
     },
     {
-      "title": "Trump has a new, surprising take on the higher cost of living: ‘I love the inflation’",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1bc9939/2147483647/strip/true/crop/5411x3605+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2Fdf%2Fbd4fd5ce3d1f35a3dd72615bc4f6%2F2cb7ded20bb8421ab6a5ff67980e22f6\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-love-inflation-democrats-affordability-midterms-603791c93c785221dae8be6df14d807d",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 06:23:02 +0000"
-    },
-    {
-      "title": "FISA spy program at risk over Trump’s pick of Pulte for director of national intelligence",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/93c8d41/2147483647/strip/true/crop/1944x1295+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2F3a%2F01275ac0cf4805667b88717073df%2F155be6f5e41b494680cc3b78488cad94\" width=\"100%\"><small style=\"color: #999;\">Director of the Feder",
-      "source": "AP News",
-      "link": "https://apnews.com/article/fisa-bill-pulte-trump-democrats-spy-powers-066052a8521d68215497c1162f3dbd6c",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 06:23:02 +0000"
-    },
-    {
-      "title": "Amnesty accuses Israel's government of 'ethnic cleansing' of West Bank Palestinians",
-      "summary": "The London-based rights group says the Israeli government is deliberately trying to annex the Palestinian territory.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/11/g-s1-127411/amnesty-israel-west-bank",
-      "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 02:13:40 -0400"
-    },
-    {
-      "title": "US and Iran exchange strikes for second day, as ceasefire appears close to collapse",
-      "summary": "<p>Explosions reported across Iran after Donald Trump vowed to ‘hit them hard again’, with Bahrain, Kuwait and Jordan targeted by Tehran</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis\">Middle East",
+      "title": "Ben Jennings on the World Cup and the US war on Iran – cartoon",
+      "summary": "<ul><li><p><a href=\"https://guardianprintshop.com/collections/ben-jennings\"><strong>Discover and buy more of Ben’s cartoons here</strong></a></p></li><li><p><a href=\"https://guardianprintshop.com/collections/ben-jennings/products/12th-june-2026\"><strong>Order your own print of this cartoon from the ",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jun/11/ben-jennings-world-cup-us-war-iran-cartoon",
       "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 05:45:46 GMT"
+      "pubDate": "Thu, 11 Jun 2026 17:32:25 GMT"
     },
     {
-      "title": "US says second day of strikes ‘completed’ – as it happened",
-      "summary": "<p>This blog has now closed – our coverage of this crisis in the Middle East continues <a href=\"https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis\">here</a></p><p><strong>If the US genuinely wants a deal it will have to eng",
+      "title": "Helen Mirren speaks out about being called ‘evil Zionist’ on the street in London",
+      "summary": "<p>Responding to an incident in which she was verbally abused, the actor said that ‘evil forces are rising everywhere’, as well as expressing support for MobLand co-star Tom Hardy</p><p>Helen Mirren <a href=\"https://variety.com/2026/film/festivals/helen-mirren-speaks-out-israel-zionist-bitch-attack-",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
+      "link": "https://www.theguardian.com/film/2026/jun/11/helen-mirren-called-evil-zionist-london-response-tom-hardy-mobland",
       "importance": "medium",
-      "pubDate": "Thu, 11 Jun 2026 04:24:44 GMT"
-    },
-    {
-      "title": "Trump vows to hit Iran 'very hard tonight' and later take over its oil and gas sectors",
-      "summary": "The latest threat comes after a second day of intensified strikes between the U.S and Iran, pushing the Middle East closer to the resumption of a full-scale war.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
-      "importance": "medium",
-      "pubDate": "Wed, 10 Jun 2026 18:46:56 -0400"
-    },
-    {
-      "title": "Pro-Palestinian activists accused of intimidation campaign against University of Michigan officials",
-      "summary": "<p>Federal prosecutors unsealed indictment against activists trying to force the school to cut financial ties to Israel</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STA",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/jun/10/pro-palestinian-activists-accused-intimidation-campaign-university-michigan",
-      "importance": "medium",
-      "pubDate": "Wed, 10 Jun 2026 20:46:48 GMT"
-    },
-    {
-      "title": "Trump the unreliable narrator fails to force reality to match his story on Iran",
-      "summary": "<p>A cycle of threat, detente and deadlock repeats itself wearisomely as the president’s war in Iran drags on</p><p>As the story of the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">US-Iran war</a> is written direct to social media, <a href=\"https://www.theguardian.com/us-news/do",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/jun/10/trump-iran-war-analysis",
-      "importance": "medium",
-      "pubDate": "Wed, 10 Jun 2026 17:00:33 GMT"
+      "pubDate": "Thu, 11 Jun 2026 16:57:08 GMT"
     }
   ]
 }
