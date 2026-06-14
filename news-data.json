@@ -1,17 +1,193 @@
 {
-  "generated": "2026-06-13T12:19:49.542Z",
-  "date": "Saturday, June 13, 2026",
+  "generated": "2026-06-14T12:57:24.337Z",
+  "date": "Sunday, June 14, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-      "summary": "Funeral ceremonies will take place in Tehran and Qom before a burial in his home town of Mashhad.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
+      "title": "Middle East crisis live: Iran says Israeli attack on Beirut suburbs show lack of US willing after Trump says peace deal will be signed today",
+      "summary": "<p>Tehran’s top negotiator says the strikes showed the ⁠US ‌either lacked ‌the will to ‌fulfil its commitments or the ability to do so</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/13/preliminary-peace-deal-could-be-signed-within-days-says-us-iran-and-mediators\"><strong>Trump say",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 12:11:25 +0000"
+      "pubDate": "Sun, 14 Jun 2026 12:56:18 GMT"
+    },
+    {
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 11:23:36 GMT"
+    },
+    {
+      "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+      "summary": "Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah ‘infrastructure’.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 11:15:23 +0000"
+    },
+    {
+      "title": "Downtown Geneva boards up as drastic security tightens ahead of anti-G7 protests",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/0800d62/2147483647/strip/true/crop/7008x4670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F38%2F1b%2F0bfe9e55701742318e7352bbeb83%2F526186eac98c44539c9947e0c579df59\" width=\"100%\"><small style=\"color: #999;\">Construction workers ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/switzerland-france-g7-protests-trump-17a5c9c179914e58acecfdb791b824c4",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 10:53:01 +0000"
+    },
+    {
+      "title": "Ukrainian drone strikes kill 1 and spark fire at oil facility in Russia",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/37b51fe/2147483647/strip/true/crop/6648x4430+145+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F52%2F75c03e36b341eb4bd02cfc7a41f8%2Fba5aba6741d4464d9c440fabe2b2123c\" width=\"100%\"><small style=\"color: #999;\">Servicemen of Ukrai",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-drones-oil-tanker-2e289b307a65ea3ad2f51d91d3feafe4",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 10:53:01 +0000"
+    },
+    {
+      "title": "Early results show Swiss voters reject right-wing’s bid to cap population at 10 million",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/6626527/2147483647/strip/true/crop/7105x4734+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2F81%2F6a519b0339a01e59492fcee78ac2%2F236b4e8d304f4dfa802d05968c159fb3\" width=\"100%\"><small style=\"color: #999;\">A poster reading \"Iso",
+      "source": "AP News",
+      "link": "https://apnews.com/article/switzerland-referendum-population-10-million-03b42363567cfa9ff29c0995bb4ff711",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 10:53:01 +0000"
+    },
+    {
+      "title": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
+      "summary": "Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 10:25:45 +0000"
+    },
+    {
+      "title": "Qatari mediators travel to Tehran for final touches on a possible deal to end war",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/8519a63/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd5%2F3e%2F018adcd6aeb86fd190013892dc9c%2Fb2ba78cc2b6e4e0e906a8fa75598b44f\" width=\"100%\"><small style=\"color: #999;\">A woman walks past an",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-war-ceasefire-deal-e0a9e4e1152ea8da10ea066ad174a23a",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 10:23:02 +0000"
+    },
+    {
+      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
+      "summary": "US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 09:18:22 +0000"
+    },
+    {
+      "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
+      "summary": "Britain is investigating a sanctioned tanker that is suspected of being part of the Russian \"shadow fleet,\" shipping oil in violation of international sanctions over Moscow's war on Ukraine.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 04:45:23 -0400"
+    },
+    {
+      "title": "Growing risk that thousands buried in Gaza’s rubble may never be identified, says Red Cross",
+      "summary": "<p>Exclusive: Recovery efforts remain slow and passing of time makes it more likely they will be skeletonised</p><p>The International Committee of the Red Cross has said the risk that the thousands of Palestinians buried beneath Gaza’s rubble may never be identified is increasing by the day, as reco",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/14/growing-risk-thousands-buried-gaza-rubble-never-identified-red-cross",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 08:00:37 GMT"
+    },
+    {
+      "title": "Signing of US-Iran deal not on Trump’s public schedule",
+      "summary": "Signing of US-Iran deal not on Trump’s public schedule.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 07:56:10 +0000"
+    },
+    {
+      "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+      "summary": "Trump says a deal to stop the Iran war could be signed as early as Sunday, but Tehran downplays his optimism.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 07:24:02 +0000"
+    },
+    {
+      "title": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
+      "summary": "Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 06:40:28 +0000"
+    },
+    {
+      "title": "Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/0935524/2147483647/strip/true/crop/8439x5623+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F13%2Fed%2Fc9d0ec9f2efd5aa96d2a2c4527bc%2Fbb30e7c43b6943fcbd443ef9989141ca\" width=\"100%\"><small style=\"color: #999;\">The arena for the UFC",
+      "source": "AP News",
+      "link": "https://apnews.com/article/trump-80th-birthday-ufc-biden-e14d1bbccc1cbaaad42fd541b1fe833d",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 05:53:01 +0000"
+    },
+    {
+      "title": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
+      "summary": "Pakistan's prime minister, a key mediator in U.S.-Iran talks to end the war, said Saturday that a peace deal was closer \"than ever before,\" and could be finalized \"in the next 24 hours.\"",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
+      "importance": "medium",
+      "pubDate": "Sat, 13 Jun 2026 23:46:07 -0400"
+    },
+    {
+      "title": "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
+      "summary": "Iraq’s ‘most expensive footballer’, striker who scored Iraq’s qualifying goal against Bolivia, retraces his journey.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/6/14/lion-of-mesopotamia-how-aymen-hussein-beat-tragedy-to-reach-world-cup?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 03:28:30 +0000"
+    },
+    {
+      "title": "Two killed in Israeli strike on Gaza",
+      "summary": "An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 01:11:06 +0000"
+    },
+    {
+      "title": "Why is the price of gold trending down?",
+      "summary": "Gold has been under pressure since the US and Israel launched a war against Iran in late February.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 14 Jun 2026 00:56:36 +0000"
+    },
+    {
+      "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
+      "summary": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
+      "importance": "medium",
+      "pubDate": "Sat, 13 Jun 2026 17:02:53 -0400"
+    },
+    {
+      "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
+      "summary": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 13 Jun 2026 20:38:09 GMT"
+    },
+    {
+      "title": "Trump says Iran peace deal could be signed by Sunday, with strait of Hormuz to open shortly after",
+      "summary": "<p>US president says in online post he reserves ‘ultimate alternative’ if Tehran refuses to sign agreement</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> said on Saturday that the US is set to sign a new agreement with Iran the following day, claiming that the deal ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/13/preliminary-peace-deal-could-be-signed-within-days-says-us-iran-and-mediators",
+      "importance": "medium",
+      "pubDate": "Sat, 13 Jun 2026 17:50:27 GMT"
+    },
+    {
+      "title": "MPs call for end to real estate event over fear it pushes sale of Israeli settlements",
+      "summary": "<p>More than 100 UK lawmakers urge government to cancel London event, warning it is linked to land ‘stolen from Palestinians’</p><p>More than 100 UK lawmakers have called for the cancellation of an Israeli real estate event scheduled to take place in London on Sunday, which had appeared to advertise",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/13/uk-london-real-estate-west-bank-israel-settlements",
+      "importance": "medium",
+      "pubDate": "Sat, 13 Jun 2026 16:06:00 GMT"
     },
     {
       "title": "Trump travels to France for the 52nd G7 Summit",
@@ -28,182 +204,6 @@
       "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Sat, 13 Jun 2026 11:15:18 GMT"
-    },
-    {
-      "title": "Yemen’s ‘Spider-Man’ dies while scaling volcanic crater",
-      "summary": "Yemen’s 'Spider-Man' dies while scaling volcanic crater",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/yemens-spider-man-dies-while-scaling-volcanic-crater?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 11:08:34 +0000"
-    },
-    {
-      "title": "Israel attacks Lebanon despite being included in potential peace deal",
-      "summary": "Israel has continued to attack Lebanon, despite Iran saying it was included in a potential memorandum of understanding.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 10:13:54 +0000"
-    },
-    {
-      "title": "AP Was There: 1975 summit at French castle plants seed for future G7 club of wealthy nations",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/d1679a7/2147483647/strip/true/crop/3014x2008+0+7/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2F5f%2F37ffbe1c2a24e5dec75869d9e20c%2Fe23e4037b24f4499956c01883f80b8a9\" width=\"100%\"><small style=\"color: #999;\">From left: Premier Al",
-      "source": "AP News",
-      "link": "https://apnews.com/article/g7-summit-ap-was-there-ford-26d5b71d571157117b3f5519024192d2",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 09:23:02 +0000"
-    },
-    {
-      "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
-      "summary": "US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 09:12:30 +0000"
-    },
-    {
-      "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
-      "summary": "Smokers in Gaza turn to toxic molokhia nicotine cigarettes as tobacco prices surge, causing serious health risks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 09:01:02 +0000"
-    },
-    {
-      "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-      "summary": "Shady al-Areer, 38, was smuggled from Israel into the occupied West Bank after October 7, 2023. This is his story.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 08:04:03 +0000"
-    },
-    {
-      "title": "Lebanon war victims among 117M people displaced worldwide",
-      "summary": "A new UNHCR report reveals that 117.8 million people worldwide were forcibly displaced by the end of 2025.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/lebanon-war-victims-among-117m-people-displaced-worldwide?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 07:56:36 +0000"
-    },
-    {
-      "title": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
-      "summary": "The Israeli military has threatened residents of 20 Lebanese towns and villages to leave their homes immediately.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 07:33:14 +0000"
-    },
-    {
-      "title": "Trump seeks ‘off-ramp’ from war in ‘Iran deal’",
-      "summary": "As reports emerge of a possible US-Iran agreement, President Donald Trump is looking for an ‘off-ramp’ from Iran war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 07:23:26 +0000"
-    },
-    {
-      "title": "AP exclusive: Doctors Without Borders report found cases of abuse and exploitation by staff in Chad",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/8b913b4/2147483647/strip/true/crop/4132x2753+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2F5c%2Fb33ac4a88e207ede49fd6d2c84c9%2F2fc8242f66964327bcc81123f5300296\" width=\"100%\"><small style=\"color: #999;\">The sun sets on a ref",
-      "source": "AP News",
-      "link": "https://apnews.com/article/chad-sudan-civil-war-sexual-abuse-refugees-036f69088cd3a96cb3c970ddbfd00696",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 06:23:02 +0000"
-    },
-    {
-      "title": "US military says it downed Iranian attack drones – as it happened",
-      "summary": "<p>This blog is now closed – see our <a href=\"https://www.theguardian.com/world/2026/jun/12/us-iran-peace-deal-remains-elusive-as-trump-and-tehran-trade-conflicting-claims\">latest full report</a> on the Middle East crisis</p><p>Iran’s official Islamic Republic News Agency (IRNA) has cautioned agains",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 03:42:30 GMT"
-    },
-    {
-      "title": "Trump says US military strike killed leader of Tren de Aragua gang with help from Venezuela",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/eaba601/2147483647/strip/true/crop/3936x2623+0+5/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2F27%2F93d2e39f6bed7c1026f4ef5aa468%2F2e4c048431b14ae38fd627a1447ed1d1\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-tren-de-aragua-gang-venezuela-344db66dfac87df7ca93d57ea77cd520",
-      "importance": "medium",
-      "pubDate": "Sat, 13 Jun 2026 01:53:02 +0000"
-    },
-    {
-      "title": "US-Iran peace deal remains elusive as Trump and Tehran trade conflicting claims",
-      "summary": "<p>US president dismisses Iranian media reports agreement is close, despite earlier suggesting a deal could be signed this weekend</p><p>Prospects for an immediate end to the war between Iran and the US remained uncertain on Friday amid a <a href=\"https://www.theguardian.com/world/2026/jun/12/trump-",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/12/us-iran-peace-deal-remains-elusive-as-trump-and-tehran-trade-conflicting-claims",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 18:23:58 GMT"
-    },
-    {
-      "title": "Chaotic talks on a US-Iran deal continue on the Trump rollercoaster",
-      "summary": "<p>Amid rhetoric, market uncertainty and tit-for-tat exchanges, the two sides are still trying to find a way out of the impasse</p><p>Great news! Donald Trump has said the US and Iran are on the <a href=\"https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire\">verge ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/12/trump-rollercoaster-deal-us-iran",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 18:05:19 GMT"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "summary": "<p>Disorder in Belfast, Israeli airstrikes in Gaza, the Ebola outbreak, and the New York Knicks and San Antonio Spurs in the NBA finals – <a href=\"https://www.instagram.com/theguardian20photos/?hl=en-gb\">the past seven days as captured by the world’s leading photojournalists</a></p> <a href=\"https:/",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jun/12/the-week-around-the-world-in-20-pictures",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 17:16:38 GMT"
-    },
-    {
-      "title": "Palestinian and Israeli civil society groups urge G7 to take action on Gaza",
-      "summary": "<p>Paris meeting draws up proposals and calls for urgent diplomacy towards two-state solution at summit next week</p><p>Palestinian and Israeli civil society groups meeting in Paris on Friday have urged G7 leaders to act at their summit in the French spa town of Évian-les-Bains next week to save the",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/12/palestinian-israeli-civil-society-groups-g7-summit-gaza",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 16:00:49 GMT"
-    },
-    {
-      "title": "‘I only had this father, and he’s gone’: Wafa Mustafa’s fight for truth and justice for Syria’s missing",
-      "summary": "<p>With more than 177,000 people forcibly disappeared since 2011, short doc Maybe Tomorrow captures ‘the violence of waiting’ experienced by family</p><p>When Wafa Mustafa was a child, she remembers her father playing the music of Umm Kulthum non-stop at home in Syria, humming along to the legendary",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/jun/12/wafa-mustafa-maybe-tomorrow",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 14:09:59 GMT"
-    },
-    {
-      "title": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
-      "summary": "<p>Flag bans, travel headaches and a religious regime video among bumps in road, as team prepares to be first to play in country with which it is at war</p><p>Iran will present a major challenge to Fifa’s “football unites the world” slogan on Monday by becoming the first country in World Cup history",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 13:00:45 GMT"
-    },
-    {
-      "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
-      "summary": "Trump canceled new Iran strikes and signaled that a peace deal could come soon, but Iran says it hasn't been finalized. And, the U.S. men's soccer team plays its first 2026 World Cup match today.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 06:42:59 -0400"
-    },
-    {
-      "title": "From Goop to ‘Gwynocide’: why is Gwyneth Paltrow starring in a luxury Israeli real estate ad? | Arwa Mahdawi",
-      "summary": "<p>Paltrow went viral this week for her commercial for 51 Park – a building just miles from where Palestinians are being killed and displaced</p><p>Gwyneth Paltrow has built a wellness empire by encouraging people to put questionable things in their mouths and up their orifices. Over the years the G",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/12/gwyneth-paltrow-51-park-israeli-real-estate-ad",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 08:00:39 GMT"
-    },
-    {
-      "title": "Pro-Palestine activists believe ‘sea change’ coming in Labour’s approach to Middle East",
-      "summary": "<p>Green surge in local elections and recent polling of Labour members may cause government to toughen stance on Israel</p><p>Pro-Palestine activists believe there could be a “sea change” in the Labour party’s approach to the crisis in the Middle East which could result in the government taking a to",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/politics/2026/jun/12/pro-palestine-activists-believe-sea-change-labour-approach-middle-east-israel",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 05:00:35 GMT"
-    },
-    {
-      "title": "Oil prices fall after Trump says he is cancelling strikes – as it happened",
-      "summary": "<p>This blog is now closed – see our <a href=\"https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire\">latest full report</a> on the Middle East crisis</p><p><strong>Three Indian seafarers were killed in a US attack on an oil tanker earlier this week,</strong> India’",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
-      "importance": "medium",
-      "pubDate": "Fri, 12 Jun 2026 04:12:08 GMT"
     }
   ]
 }
