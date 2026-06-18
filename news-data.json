@@ -1,209 +1,209 @@
 {
-  "generated": "2026-06-17T14:23:17.759Z",
-  "date": "Wednesday, June 17, 2026",
+  "generated": "2026-06-18T13:57:11.296Z",
+  "date": "Thursday, June 18, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Israeli settlers set fire to a mosque in the occupied West Bank",
-      "summary": "Israeli settlers have vandalised and burned a mosque in the occupied West Bank village of Jaljulia, north of Ramallah.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/israeli-settlers-set-fire-to-a-mosque-in-the-occupied-west-bank?traffic_source=rss",
+      "title": "Middle East crisis live: US will restart military action if Iran does not uphold deal, says Hegseth",
+      "summary": "<p>Pete Hegseth said the US is prepared to reimpose a blockade against Iran if it fail to fulfil its commitments under the agreement</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/18/donald-trump-iran-deal-reactions-anger-relief-incredulity\">Reaction: Donald Trump’s Iran deal met ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel",
       "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 14:04:10 +0000"
+      "pubDate": "Thu, 18 Jun 2026 13:43:03 GMT"
     },
     {
-      "title": "Middle East crisis live: Trump warns US will ‘go back to shooting’ if Iran ‘don’t behave’, as G7 leaders call for Lebanon ceasefire",
-      "summary": "<p>US president says the deal is ‘not final’ and backs leaders’ calls for wider talks on Tehran’s missile programme</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/17/trump-g7-leaders-iran-missile-programme-ukraine\">Trump backs G7 leaders’ call for wider talks on Iranian missile pr",
+      "title": "Rial rebounds and stocks soar, but Iranians still grapple with high prices",
+      "summary": "After an initial US-Iran agreement is reached, Iranians still await relief at the grocery checkout.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/6/18/rial-rebounds-and-stocks-soar-but-iranians-still-grapple-with-high-prices?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 13:27:20 +0000"
+    },
+    {
+      "title": "US gas prices fall below $4 for 1st time since March, but still 25% higher than last year",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/83861b6/2147483647/strip/true/crop/4712x3140+435+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F49%2Ff9dac4aad0a15cb9feb4ded214dd%2F397723d9328442d896867c855df76178\" width=\"100%\"><small style=\"color: #999;\">A customer readies ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/gas-iran-trump-aaa-72d8e7d7c9dcd0795c37a51864fce8a6",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 13:23:02 +0000"
+    },
+    {
+      "title": "Israel seized more land from neighbors since 2023 than it has in decades",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/549aa3a/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2Fd3%2F129a1761e00c92f1c0a75ee93dea%2F6f159ce945e04b1abe6e75249f443099\" width=\"100%\"><small style=\"color: #999;\">An Israeli soldier oc",
+      "source": "AP News",
+      "link": "https://apnews.com/article/israel-expansion-syria-lebanon-gaza-5b677801f5daae02b3bc892e6d57f7ad",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 13:23:02 +0000"
+    },
+    {
+      "title": "Residents return to war-ravaged southern Lebanon with hope and sorrow after the US-Iran deal",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/ebfeeea/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F28%2F98aa522349a488c1aec8b8eac1e6%2Fdb588541723746acb8af9ffe758bff78\" width=\"100%\"><small style=\"color: #999;\">Resident Samih Haidar",
+      "source": "AP News",
+      "link": "https://apnews.com/article/lebanon-israel-hezbollah-iran-us-deal-b8fe65c97e30afc1424b8f00c3bfc377",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 13:23:02 +0000"
+    },
+    {
+      "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
+      "summary": "Israeli attacks in southern Lebanon continue in spite of a US-Iran deal that would mean ceasing military operations.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 13:04:54 +0000"
+    },
+    {
+      "title": "Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+      "summary": "MIT researchers think they've worked out exactly how Russia's Burevestnik nuclear-powered missile flies. \"It's almost certainly a terrible idea,\" one analyst said. \"But it's not an impossible idea.\"",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 09:00:00 -0400"
+    },
+    {
+      "title": "Pentagon chief announces review of US forces in Europe, slams NATO allies",
+      "summary": "Pete Hegseth says the review would last for up to six months and include consultations with Congress.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/18/pentagon-chief-announces-review-of-us-forces-in-europe-slams-nato-allies?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 12:52:17 +0000"
+    },
+    {
+      "title": "Iran says it will charge a ‘payment for services’ in the Strait of Hormuz",
+      "summary": "Iran says it will charge a ‘payment for services’ in the Strait of Hormuz",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 12:23:19 +0000"
+    },
+    {
+      "title": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium",
+      "summary": "The memorandum of understanding covers 14 points but leaves many crucial questions unanswered.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 11:50:22 +0000"
+    },
+    {
+      "title": "Trump signs agreement with Iran. And, the president's approval hits record lows",
+      "summary": "Trump signed a preliminary agreement with Iran yesterday to end the war and open the Strait of Hormuz. And, the president's approval rating has hit a record low, according to a new NPR poll.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 07:11:34 -0400"
+    },
+    {
+      "title": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
+      "summary": "Several countries welcome deal, as IAEA chief says 'now the technical work starts' on Iran's nuclear programme.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 11:06:40 +0000"
+    },
+    {
+      "title": "Trump signs 14-point peace agreement with Iran - video",
+      "summary": "<p>Donald Trump has agreed a peace plan with Iran to end hostilities. The memorandum of understanding was signed at the Palace of Versailles shortly before a dinner hosted by the French president. Trump has suggested that if he had not struck a deal, the strait of Hormuz would never have opened, tri",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/video/2026/jun/18/trump-signs-14-point-peace-agreement-with-iran-video",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 10:22:42 GMT"
+    },
+    {
+      "title": "Trump’s war accomplished nothing – the Iran deal is proof | Kenneth Roth",
+      "summary": "<p>The agreement shows the US is in a weaker position than before the war</p><p>No one gets a Nobel peace prize for ending a war he started, let alone for a pointless war of <a href=\"https://www.theguardian.com/commentisfree/2026/mar/01/trump-and-netanyahus-attack-on-iran-is-an-act-of-aggression\">ag",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/18/trump-iran-war-deal",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 09:00:01 GMT"
+    },
+    {
+      "title": "Pentagon chief urges Europe to take the lead as he pushes a ‘NATO 3.0“ reboot",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e0bd86e/2147483647/strip/true/crop/6199x4131+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2F42%2Fb2945d155da9669a8defe1d1ffd0%2F378fd93d71144b64ad13fc0852150fed\" width=\"100%\"><small style=\"color: #999;\">United States Defense",
+      "source": "AP News",
+      "link": "https://apnews.com/article/nato-trump-hegseth-forces-europe-security-3a550c72f0470de26b619d22b17935b6",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 07:53:02 +0000"
+    },
+    {
+      "title": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
+      "summary": "Iran and the US say a deal to end the conflict is in force, but questions remain over its implementation.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 07:38:41 +0000"
+    },
+    {
+      "title": "Mamdani tests his political clout in New York’s primary as he looks to reshape the Democratic Party",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4d75ce9/2147483647/strip/true/crop/4560x3038+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2Fe7%2Fe39fbd18d11bf78eb0d3c78e7f77%2F545325378b1f405bb1a0ae27910d2290\" width=\"100%\"><small style=\"color: #999;\">New York City Mayor Z",
+      "source": "AP News",
+      "link": "https://apnews.com/article/mamdani-sanders-new-york-primary-b1a13eaf0d7e634b6805fc80b3372cf8",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 06:53:01 +0000"
+    },
+    {
+      "title": "Asian shares shrug off Wall St blues following signing of US-Iran deal on ending the war",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/880105e/2147483647/strip/true/crop/7052x4699+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F79%2F48abe41e0dbaad43ec5a191fc46e%2F41683f5b537640a3b306179474c0e148\" width=\"100%\"><small style=\"color: #999;\">A TV cameraman films ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/stocks-rates-markets-iran-warsh-trump-dc678fb5647a136f75caf2d1fbaa2092",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 06:53:01 +0000"
+    },
+    {
+      "title": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
+      "summary": "Israeli operations in the Gaza Strip have killed 1,005 Palestinians since a ceasefire was reached between Israel and the militant group Hamas last October, according to Gaza Health Ministry.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 01:56:49 -0400"
+    },
+    {
+      "title": "Dubai property sales have fallen ‘off a cliff’ since start of Middle East war",
+      "summary": "<p>Sellers of luxury villas have wiped tens of millions of pounds off asking prices, with sales down 19% in May from the previous month</p><p>Property sales in Dubai have fallen “off a cliff”, a leading market watcher has said, after war in the Middle East forced a dramatic slowdown in one of the wo",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/business/2026/jun/18/dubai-property-sales-fall-since-middle-east-war-say-experts",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 05:00:04 GMT"
+    },
+    {
+      "title": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
+      "summary": "Activist praises Algeria’s support for Gaza orphans following World Cup defeat",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 04:35:18 +0000"
+    },
+    {
+      "title": "US must ‘force’ Israel to change its policy on Lebanon",
+      "summary": "Rami Khouri says real policy change will only happen when the US forces Israel’s hand in Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-must-force-israel-to-change-its-policy-on-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 18 Jun 2026 04:15:29 +0000"
+    },
+    {
+      "title": "Oil prices fall after peace deal signed – as it happened",
+      "summary": "<p>This blog is now closed – see our <a href=\"https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal\">full report on the latest</a> in the Middle East crisis</p><p>Trump also addressed media reports of a leaked US-Iran deal (see post at <a href=\"https://www.theguardian.com/world/li",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
       "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 13:56:39 GMT"
+      "pubDate": "Thu, 18 Jun 2026 03:55:07 GMT"
     },
     {
-      "title": "Iran sends tankers loaded with oil past US military blockade",
-      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 13:27:47 GMT"
-    },
-    {
-      "title": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
-      "summary": "US President Donald Trump has accused his predecessor Barack Obama of ‘bribing’ Iran to agree to the 2015 nuclear deal.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 13:21:19 +0000"
-    },
-    {
-      "title": "Israeli air strikes on Lebanon continue despite US-Iran deal",
-      "summary": "There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 13:15:42 +0000"
-    },
-    {
-      "title": "I’ll resume bombing if Iran acts up, Trump warns after criticism of deal",
-      "summary": "<p>At G7 meeting in France, president angrily rejects suggestions US will contribute to $300bn fund for Iran</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates\">Europe live – latest updates</a></p></li><",
+      "title": "Donald Trump’s Iran deal met with anger, relief and incredulity",
+      "summary": "<p>G7 leaders and mediator Pakistan hailed the release of the memorandum of understanding, views that were not widely shared in Israel and among US Republicans</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-tru",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/17/trump-g7-leaders-iran-missile-programme-ukraine",
+      "link": "https://www.theguardian.com/world/2026/jun/18/donald-trump-iran-deal-reactions-anger-relief-incredulity",
       "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 13:01:21 GMT"
+      "pubDate": "Thu, 18 Jun 2026 03:32:15 GMT"
     },
     {
-      "title": "Construction equipment multinationals may be aiding Israeli war crimes, experts say",
-      "summary": "<p>Images show Israeli military using six companies’ bulldozers and excavators to demolish south Lebanon villages</p><p>Human rights experts have alleged that six multinational construction equipment conglomerates may be aiding and abetting war crimes by supplying excavators and bulldozers to Israel",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 13:00:32 GMT"
-    },
-    {
-      "title": "China pledges new humanitarian aid packages for Lebanon and Iran",
-      "summary": "China pledges new humanitarian aid packages for Lebanon and Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 12:26:57 +0000"
-    },
-    {
-      "title": "Israel takes control of Hebron’s Ibrahimi Mosque: What this means",
-      "summary": "Palestinians controlled planning and construction in the entire West Bank city under the 1997 Hebron Agreement.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/17/israel-takes-control-of-hebrons-ibrahimi-mosque-what-next?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 11:41:47 +0000"
-    },
-    {
-      "title": "Trump to face questions at G7 press conference. And, Tuesday's primary results",
-      "summary": "Trump has touted his tentative agreement with Iran at the G7 summit. Today, he is expected to field questions at a press conference as the summit wraps up. And, a look at Tuesday's primary election results.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 07:14:16 -0400"
-    },
-    {
-      "title": "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
-      "summary": "Manchester-born midfielder Zidane Iqbal becomes the first player of Pakistani heritage to feature at a World Cup.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 10:57:30 +0000"
-    },
-    {
-      "title": "Iran will reopen Strait of Hormuz and can sell oil freely under deal with US, according to leaks",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4d1e670/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2Ff7%2F7323179d89b5c67d513c106ef4c0%2F55387668c5324109bb6ca6eaa2afdce8\" width=\"100%\"><small style=\"color: #999;\">A woman waves an Iran",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-israel-war-oil-deal-june-17-2026-19652f4611b704c0a991bf1f5bc9a4b9",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 10:23:02 +0000"
-    },
-    {
-      "title": "Real estate event in London ‘advertised sale of land in illegal Israeli settlements’",
-      "summary": "<p>Pamphlets from event featured projects in West Bank and East Jerusalem despite previous denials by organisers</p><p>An Israeli real estate event in north London appears to have advertised the sale of land in Israeli settlements in East Jerusalem and the occupied West Bank, <a href=\"https://www.th",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/2026/jun/17/real-estate-event-london-illegal-israeli-settlements-land-west-bank",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 10:18:02 GMT"
-    },
-    {
-      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-      "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+      "title": "US and Iranian presidents sign deal aiming to end war",
+      "summary": "The fate of Iran's nuclear programme, a key reason cited by the US for starting the conflict, is still to be negotiated.",
       "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 10:01:42 GMT"
-    },
-    {
-      "title": "Inside the ‘unacceptable’ UK fair selling property in Israeli settlements",
-      "summary": "There was no mention of Palestinians at the 'Great Israeli Real Estate Event', say activists who accessed the fair.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/17/unacceptable-london-property-fair?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 09:22:31 +0000"
-    },
-    {
-      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-      "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 09:13:34 GMT"
-    },
-    {
-      "title": "Trump's Iran agreement dominates G7 but big questions remain",
-      "summary": "The U.S.-Israel-led war in Iran has rocked the global economy and decimated Trump's standing at home",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/17/nx-s1-5860782/trumps-iran-agreement-dominates-g7-but-big-questions-remain",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Iranian tankers exit US blockade zone before talks to end war",
-      "summary": "As US, Iran prepare to sign MoU and start more talks, TankerTrackers monitor says Iran exports first oil in two months.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 08:57:25 +0000"
-    },
-    {
-      "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
-      "summary": "A statement from the G7 summit in France says leaders are united in their 'unwavering support for Ukraine'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 08:50:31 +0000"
-    },
-    {
-      "title": "Trump expected to face questions about Iran war as he wraps up G7 summit",
-      "summary": "President Trump's G7 summit meetings with world leaders conclude in a news conference, with questions likely to address an uncertain agreement to end war with Iran and U.S. support for Ukraine.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/17/nx-s1-5860655/trump-expected-to-face-questions-about-iran-war-as-he-wraps-up-g7-summit",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 04:42:50 -0400"
-    },
-    {
-      "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
-      "summary": "Brent crude drops to lowest price since early March, before signing of framework deal to end US-Israel war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 07:44:52 +0000"
-    },
-    {
-      "title": "US strike on an alleged drug boat kills 1, leaves 2 survivors in the eastern Pacific Ocean",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/40e452b/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Ff1%2Fdd1b8a42dc0395acd34631838369%2F650a690e80e14bc1825160b9a2efedcb\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
-      "source": "AP News",
-      "link": "https://apnews.com/article/boat-strikes-drug-trafficking-us-military-4ca37443dc67a3fc69b7d6f53ea64156",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 06:23:02 +0000"
-    },
-    {
-      "title": "Shares are mixed and oil trades below $80 on optimism over interim US-Iran war deal",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/33a4a36/2147483647/strip/true/crop/5268x3510+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F1c%2F7bb2738c84a5b086dc0855344ff9%2F5e180780846b41448afb5f437f919101\" width=\"100%\"><small style=\"color: #999;\">A currency trader str",
-      "source": "AP News",
-      "link": "https://apnews.com/article/stocks-markets-rates-oil-us-iran-02e500f15edc505cedd8a8428197744c",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 06:23:02 +0000"
-    },
-    {
-      "title": "Interim US-Iran deal leaves the thorniest issue still to be negotiated: Tehran’s nuclear program",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/3e99114/2147483647/strip/true/crop/6300x4198+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Fdf%2Fe3abf15bce5f40a46de511e11419%2Fa5b4383e7608480eac7f73f6020dbcbe\" width=\"100%\"><small style=\"color: #999;\">Vice President JD Van",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-iran-war-nuclear-talks-d8e5c8ada80c35446d4194201d9a7502",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 05:23:02 +0000"
-    },
-    {
-      "title": "A person is in custody in a Chicago cross burning investigation, police say",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e4e24c5/2147483647/strip/true/crop/1621x1080+150+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F47%2F4d5912af15a903b584c264e13bd8%2F64310a134ac644f18c72c78e1b2ae4b5\" width=\"100%\"><small style=\"color: #999;\">This framegrab from",
-      "source": "AP News",
-      "link": "https://apnews.com/article/cross-burning-chicago-a167837882c94569b5267c29eb25e86a",
-      "importance": "medium",
-      "pubDate": "Wed, 17 Jun 2026 04:23:02 +0000"
+      "pubDate": "Thu, 18 Jun 2026 03:03:29 GMT"
     }
   ]
 }
