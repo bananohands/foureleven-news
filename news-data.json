@@ -1,10 +1,202 @@
 {
-  "generated": "2026-06-26T13:03:43.385Z",
-  "date": "Friday, June 26, 2026",
+  "generated": "2026-06-27T12:04:51.781Z",
+  "date": "Saturday, June 27, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "No school, living in a tent, but it’s exam time in Gaza",
+      "summary": "Dana Shabat, 18, has to walk an hour every day to go to a cafe to take her high school exams in the Gaza Strip.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 11:29:30 +0000"
+    },
+    {
+      "title": "Trump’s Board of Peace plans to grant itself sweeping immunity, documents show",
+      "summary": "<p>Draft resolution seeks to shield board members and security forces from potential prosecution for work in Gaza</p><p>The <a href=\"https://www.theguardian.com/world/unitednations\">UN</a>-sanctioned Board of Peace announced by <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 11:00:04 GMT"
+    },
+    {
+      "title": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 10:40:38 GMT"
+    },
+    {
+      "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+      "summary": "Israel's Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 10:35:08 +0000"
+    },
+    {
+      "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+      "summary": "As the latest confrontations are aimed at control of the Strait of Hormuz, analysts say the deal is at risk of collapse.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 10:32:24 +0000"
+    },
+    {
+      "title": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
+      "summary": "Egyptians hail historic qualification as Iranians voice appreciation to Team Melli who may still make it to next round.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/joy-disappointment-protests-a-view-from-egypt-iran-world-cup-tie?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 10:02:35 +0000"
+    },
+    {
+      "title": "The scars of war among survivors in Sudan",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/870c115/2147483647/strip/true/crop/8221x5478+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2F86%2Faf5a45752cdf0bf6769f4c0a2194%2F04e60beb2a1d4f87a71434bedfcc30d3\" width=\"100%\"><small style=\"color: #999;\">Omer al-Toum, 33, who",
+      "source": "AP News",
+      "link": "https://apnews.com/article/sudan-war-portraits-scars-photos-00b62ce38b574045a9860d9b3e9701b9",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 09:53:03 +0000"
+    },
+    {
+      "title": "Tanker struck in the Strait of Hormuz as Iran and US launch attacks in region",
+      "summary": "<p>2026-06-27T09:24:26Z</p> <p>DUBAI, United Arab Emirates (AP) — A tanker came under attack in the Strait of Hormuz on Saturday, just after Bahrain said that Iran launched an attack targeting it.</p><p>The British military’s United Kingdom Maritime Trade Operations center reported the attack, sayin",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-27-2026-dca83ec0b72f498eea7146df5311b39c",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 09:53:03 +0000"
+    },
+    {
+      "title": "FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions",
+      "summary": "Six World Cup games, knockout places on the line, Cape Verde make history and Iran wait for a place in the Round of 32.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/fifa-world-cup-2026-saturday-schedule-round-of-32-standings-predictions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 09:35:01 +0000"
+    },
+    {
+      "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+      "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 05:02:00 -0400"
+    },
+    {
+      "title": "Fear grips Haitian communities after Supreme Court ruling unwinds protection from deportation",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1ac8f7f/2147483647/strip/true/crop/3412x2274+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2F20%2F9f66053ac837afa87cabf72ea6fe%2F42a4ab0b92a54236a63a1112f43f3c3a\" width=\"100%\"><small style=\"color: #999;\">People hold hands and",
+      "source": "AP News",
+      "link": "https://apnews.com/article/immigration-temporary-protected-status-haiti-syria-trump-3c76d4ea1a1c9c8287a0029a8fc76ac0",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 07:23:01 +0000"
+    },
+    {
+      "title": "Andy Burnham distanced himself from UK Prime Minister Starmer, but may be stuck with his policies",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/7c1e9b7/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2F09%2F37733cd85c31ba24606539a978ee%2F9cba65b3c4ee41a19cfadc93065ead5a\" width=\"100%\"><small style=\"color: #999;\">Andy Burnham with col",
+      "source": "AP News",
+      "link": "https://apnews.com/article/andy-burnham-prime-minister-starmer-uk-politics-3a7418c6bac69d631a3b25faa83936d9",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 07:23:01 +0000"
+    },
+    {
+      "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+      "summary": "US says it targeted Iranian missile and drone storage locations while IRGC said it hit US military sites in the region.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 07:20:15 +0000"
+    },
+    {
+      "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+      "summary": "Vance warned 'violence will be met with violence' while the IRGC says future responses to aggression will be 'broader'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 07:00:13 +0000"
+    },
+    {
+      "title": "Iran wait on World Cup progress after late goal disallowed in Egypt draw",
+      "summary": "Egypt finish second with five points in Group G, while Iran finish third with three points.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-wait-on-world-cup-progress-after-late-goal-disallowed-in-egypt-draw?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 05:46:41 +0000"
+    },
+    {
+      "title": "Older buildings and substandard construction left Venezuela vulnerable to earthquakes",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/0d5e9b8/2147483647/strip/true/crop/5103x3400+1+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2F07%2Ffb41f51115556472a4ceb0ce4b66%2Fd7fc4ac0adc049b687ca0025b6dff10d\" width=\"100%\"><small style=\"color: #999;\">Venezuelan police sea",
+      "source": "AP News",
+      "link": "https://apnews.com/article/earthquake-venezuela-shoddy-construction-old-buildings-6ef83f995a311c03dbbbba413d046fa5",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 04:53:02 +0000"
+    },
+    {
+      "title": "US strikes on Iran test fragile ceasefire",
+      "summary": "The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 04:13:53 +0000"
+    },
+    {
+      "title": "U.S. strikes Iran in response to a drone attack on a ship",
+      "summary": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+      "importance": "medium",
+      "pubDate": "Sat, 27 Jun 2026 00:12:23 -0400"
+    },
+    {
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "summary": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 26 Jun 2026 22:55:28 GMT"
+    },
+    {
+      "title": "US says it struck Iran targets after attack on cargo ship in the strait of Hormuz",
+      "summary": "<p>Strikes against military facilities were in response to drone attack a day earlier on a cargo vessel</p><p>The US has struck Iran in a tit-for-tat response to a drone strike on a cargo ship, as the ceasefire between the US and Iran that reopened the strait of Hormuz undergoes its greatest test ye",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Fri, 26 Jun 2026 22:21:03 GMT"
+    },
+    {
+      "title": "‘You’ll find out’: Trump hints at US response to Iranian strikes on cargo ship – video",
+      "summary": "<p>President Donald Trump hinted at a US response to an Iranian attack on a cargo ship, saying ‘you’ll find out’ when asked if there would be consequences for Tehran</p> <a href=\"https://www.theguardian.com/us-news/video/2026/jun/26/youll-find-out-trump-hints-us-response-iran-cargo-ship-strikes-vide",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/video/2026/jun/26/youll-find-out-trump-hints-us-response-iran-cargo-ship-strikes-video",
+      "importance": "medium",
+      "pubDate": "Fri, 26 Jun 2026 21:15:56 GMT"
+    },
+    {
+      "title": "Trump blames Iran for drone strike on cargo ship in strait of Hormuz",
+      "summary": "<p>US president calls it ‘foolish violation’ of ceasefire agreement after drone damaged ship’s upper deck</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.thegu",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/jun/26/trump-iran-drone-strike-strait-hormuz",
+      "importance": "medium",
+      "pubDate": "Fri, 26 Jun 2026 19:08:22 GMT"
+    },
+    {
+      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 26 Jun 2026 18:03:32 GMT"
+    },
+    {
+      "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
+      "summary": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
+      "importance": "medium",
+      "pubDate": "Fri, 26 Jun 2026 11:45:25 -0400"
+    },
     {
       "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
       "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
@@ -12,198 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Fri, 26 Jun 2026 11:27:59 GMT"
-    },
-    {
-      "title": "Egypt vs Iran at World Cup 2026 – Salah, prediction, lineups, how to watch",
-      "summary": "Mohamed Salah's Egypt and Mehdi Taremi's Iran are both in the hunt for the FIFA World Cup knockouts in Group G.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/26/egypt-vs-iran-world-cup-2026-prediction-kickoff-schedule-teams?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 11:25:13 +0000"
-    },
-    {
-      "title": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
-      "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 11:20:11 GMT"
-    },
-    {
-      "title": "Trump finds partner in supreme court in his war against immigration",
-      "summary": "<p>Recent rulings have bolstered president’s pitiless campaign against people of colour fleeing violence and disaster</p><p>In the US supreme court, it seems <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has found loyalists in his crusade against <a href=\"https://www.the",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/jun/26/trump-supreme-court-immigration",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 11:00:14 GMT"
-    },
-    {
-      "title": "IAEA demands verification of Iran nuclear ambitions amid ‘statement war’",
-      "summary": "Watchdog's call for 'strong system' comes as US and Iran issue conflicting claims over ceasefire negotiations.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 10:38:38 +0000"
-    },
-    {
-      "title": "Who has profited most from the war on Iran?",
-      "summary": "Defence contractors, energy companies and investment banks saw profits soar as war and uncertainty upended markets.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 10:25:20 +0000"
-    },
-    {
-      "title": "Russia reports one of the biggest Ukrainian drone attacks on its soil and annexed Crimea",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/da830fa/2147483647/strip/true/crop/4364x2908+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F01%2F182d8daedf4b428d48b42c85d340%2Fd212ccc6dbc846feb223013783cf0bfd\" width=\"100%\"><small style=\"color: #999;\">A woman holds her cat",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-biggest-drone-attack-a356e2a119f3cb9422ede6acbedf56f3",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 07:53:02 +0000"
-    },
-    {
-      "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-      "summary": "Israeli and Lebanese delegations will continue their talks on Friday.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 07:07:47 +0000"
-    },
-    {
-      "title": "Asian shares plunge as traders sell to lock in profits after recent rallies driven by AI",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/b38f9b8/2147483647/strip/true/crop/3678x2451+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2F13%2F78de292b65009c2279d0c708027f%2F0ef9453182ad48ed99e81ac323e44656\" width=\"100%\"><small style=\"color: #999;\">A currency trader pas",
-      "source": "AP News",
-      "link": "https://apnews.com/article/stocks-markets-ai-chips-oil-rates-e356760ec69cab916e53a9804336b845",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 06:23:02 +0000"
-    },
-    {
-      "title": "The Mission review – a surgeon saves lives in war-torn Gaza in a visceral portrait of human endurance",
-      "summary": "<p>Mohammad Tahir and his colleagues operate through bombing and blackouts in barely functional hospitals – but there are moments of relief amid the documentary’s tragedy and gore</p><p>What this documentary might lack in film-making finesse it makes up for with sheer visceral and emotional impact. ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/jun/26/the-mission-review-a-surgeon-saves-lives-in-war-torn-gaza-in-a-visceral-portrait-of-human-endurance",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 06:00:11 GMT"
-    },
-    {
-      "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
-      "summary": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 01:36:59 -0400"
-    },
-    {
-      "title": "US ends deportation protections (TPS) for Haitians and Syrians",
-      "summary": "The US Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS).",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 05:25:44 +0000"
-    },
-    {
-      "title": "UN agency pauses ship evacuations through strait of Hormuz after vessel struck",
-      "summary": "<p>International Maritime Organization says safety guarantees must be confirmed before ships can move again</p><p>A United Nations agency has paused the evacuation of ships through the strait of Hormuz after the British military said a vessel was hit by a projectile off the coast of Oman following t",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack",
-      "importance": "medium",
-      "pubDate": "Fri, 26 Jun 2026 04:41:16 GMT"
-    },
-    {
-      "title": "Iran rejects UN-backed plan to free ships trapped in strait of Hormuz",
-      "summary": "<p>Blocking of proposal backed by Oman signals new threat to free passage through strait vital to world economy</p><p>Iran has rejected UN-backed plans for the mass evacuation of ships through the strait of Hormuz, creating a new threat to the free passage of commercial ships through the strait.</p>",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/25/un-backed-plan-ships-trapped-strait-of-hormuz-rejected-iran",
-      "importance": "medium",
-      "pubDate": "Thu, 25 Jun 2026 16:44:56 GMT"
-    },
-    {
-      "title": "Israeli forces arrest Palestinian ‘doctor of the poor’",
-      "summary": "<p>Dr Mazen Al-Rantisi, a 71-year-old physician well known for providing care to low-income Palestinians, was arrested in the occupied West Bank</p><p>Israeli forces on Sunday arrested a prominent 71-year-old Palestinian physician known as the “doctor of the poor” in a pre-dawn raid on his home in t",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/25/israeli-forces-arrest-palestinian-doctor-of-the-poor",
-      "importance": "medium",
-      "pubDate": "Thu, 25 Jun 2026 16:25:34 GMT"
-    },
-    {
-      "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
-      "summary": "<p>Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shock</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Business live – latest updat",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-      "importance": "medium",
-      "pubDate": "Thu, 25 Jun 2026 15:41:17 GMT"
-    },
-    {
-      "title": "Archbishop of Canterbury calls for end to Israeli occupation of Palestine",
-      "summary": "<p>Sarah Mullally ends visit to region with call for two-state solution that allows Israelis and Palestinians to live in peace</p><p>The archbishop of Canterbury has called for an end to the Israeli occupation of Palestine after a pilgrimage in which she met Palestinians attacked by settlers and oth",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/25/archbishop-of-canterbury-calls-for-end-to-israeli-occupation-of-palestine",
-      "importance": "medium",
-      "pubDate": "Thu, 25 Jun 2026 14:55:33 GMT"
-    },
-    {
-      "title": "To protect the Iran peace talks, will Trump finally restrain Netanyahu? | Mohamad Bazzi",
-      "summary": "<p>As long as Israel continues its attacks on Lebanon, any deal between the US and Iran will be at risk</p><p>On 18 June, JD Vance stood in the White House press briefing room and<a href=\"https://www.theguardian.com/us-news/2026/jun/19/jd-vance-israel-iran-deal-critics\"> tore into</a> Israeli critic",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/25/netanyahu-trump-iran-war",
-      "importance": "medium",
-      "pubDate": "Thu, 25 Jun 2026 12:00:13 GMT"
-    },
-    {
-      "title": "JD Vance is the face of the beleaguered Iran deal – is he its fall guy?",
-      "summary": "<p>Vice-president, leading a foundering peace deal to end the kind of war he’s opposed in the past, is left holding the bag</p><p><a href=\"https://www.theguardian.com/us-news/jd-vance\">JD Vance</a> has taken the greatest gamble of his vice-presidency by making himself the face of the <a href=\"https:",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/jun/25/jd-vance-iran-peace-deal",
-      "importance": "medium",
-      "pubDate": "Thu, 25 Jun 2026 09:46:07 GMT"
-    },
-    {
-      "title": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
-      "summary": "President Trump met with NATO Secretary General Mark Rutte Wednesday, where he shared his frustrations with the lack of support he's received from allies on the Iran war.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support",
-      "importance": "medium",
-      "pubDate": "Thu, 25 Jun 2026 04:44:55 -0400"
-    },
-    {
-      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
-      "summary": "<p>Defence minister says troops not withdrawing though Tehran sees end to war in Lebanon as part of deal with US</p><p>The Israeli defence minister, Israel Katz, has said that Israeli troops would not withdraw from southern Lebanon, further complicating Iran peace talks as fighting in Lebanon contin",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-      "importance": "medium",
-      "pubDate": "Wed, 24 Jun 2026 21:49:44 GMT"
-    },
-    {
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 24 Jun 2026 17:31:48 GMT"
-    },
-    {
-      "title": "Here's how Rubio's Mideast trip could affect the Iran deal",
-      "summary": "The BBC’s Daniel Bush is traveling with Secretary of State Marco Rubio as he seeks to reassure Gulf allies over the Iran deal aimed at ending the war.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
-    },
-    {
-      "title": "Israeli former leaders and security chiefs threaten legal action over ‘Jewish terrorism’",
-      "summary": "<p>Leaked letter to PM and military demands action to stop violence against Palestinians in occupied West Bank</p><p>Dozens of Israelis from the country’s security, political and cultural elite have threatened legal action against their government over support for Jewish terrorism and an “ideology o",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/24/israeli-former-leaders-security-chiefs-legal-action-jewish-terrorism-west-bank",
-      "importance": "medium",
-      "pubDate": "Wed, 24 Jun 2026 10:53:26 GMT"
-    },
-    {
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 23 Jun 2026 21:04:11 GMT"
     }
   ]
 }
