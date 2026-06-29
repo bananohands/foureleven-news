@@ -1,129 +1,169 @@
 {
-  "generated": "2026-06-28T12:12:23.242Z",
-  "date": "Sunday, June 28, 2026",
+  "generated": "2026-06-29T14:42:06.221Z",
+  "date": "Monday, June 29, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Humor laurels for comedian Bill Maher as the Kennedy Center navigates Trump-era upheaval",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/d1bc94c/2147483647/strip/true/crop/3981x2653+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2Fb9%2Fc18a7f152e99b92ac8d07c6a0267%2F29a266c015f547ef82b647c49c9b801f\" width=\"100%\"><small style=\"color: #999;\">Bill Maher arrives at",
-      "source": "AP News",
-      "link": "https://apnews.com/article/kennedy-center-maher-trump-mark-twain-prize-acb16f64d8ec2ea2c2904e9d8e30bb75",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 11:53:01 +0000"
-    },
-    {
-      "title": "World Cup 2026: Most controversial VAR officiating decisions in group stage",
-      "summary": "From Iran's stoppage-time winner ruled out by VAR, to Ghana denied a penalty against England - all the controversies.",
+      "title": "Trump announces meeting with Iran in Qatar despite military skirmishes",
+      "summary": "US president says talks will take place on Tuesday, but Tehran has not confirmed the negotiations in Doha.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-most-controversial-var-officiating-decisions-in-group-stage?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 11:46:04 +0000"
+      "pubDate": "Mon, 29 Jun 2026 14:12:32 +0000"
     },
     {
-      "title": "Inside country legend Alan Jackson’s triumphant finale concert",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/327f878/2147483647/strip/true/crop/7372x4912+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F9c%2F265da6a0df2502d354847a4ee1ec%2F8589c01fb40c4c9fb310eab921c08ca1\" width=\"100%\"><small style=\"color: #999;\">Alan Jackson performs",
-      "source": "AP News",
-      "link": "https://apnews.com/article/alan-jackson-final-concert-george-strait-72ebb2f87fdca2c2ae8a7308278c9b9b",
+      "title": "Is the Israeli military deliberately targeting children in Gaza?",
+      "summary": "A UN inquiry found that children in Gaza are being shot with a single bullet.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 11:23:01 +0000"
+      "pubDate": "Mon, 29 Jun 2026 13:55:36 +0000"
     },
     {
-      "title": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz – Middle East crisis live",
-      "summary": "<p>Iran attacked Bahrain and Kuwait after US strikes, and threatened a ‘complete halt’ to talks</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes\">US and Iran trade strikes as both sides accuse the other of endangering ceasefire</a></p></li></ul><p><strong>Hassan",
+      "title": "Russian missile and drone attacks kill at least eight in Ukraine",
+      "summary": "President Volodymyr Zelenskyy condemns the 'horrific attacks' and urges allies to boost Ukraine's air defences.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 13:54:35 +0000"
+    },
+    {
+      "title": "Brazil supporters in Indonesia grab Israeli flag off motorcyclist",
+      "summary": "A video of an Israeli flag being grabbed off two young men in Indonesia has gone viral.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/brazil-supporters-in-indonesia-grab-israeli-flag-off-motorcyclist?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 13:38:10 +0000"
+    },
+    {
+      "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
+      "summary": "Pakistan says it targeted militant hideouts along the Pakistan-Afghanistan border in response to militant attacks across Pakistan. Afghanistan condemned the strikes as acts of aggression.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 08:58:24 -0400"
+    },
+    {
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 12:51:58 GMT"
+    },
+    {
+      "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
+      "summary": "China and Sudan signed off on a waiver of $50m as Sudan’s military-led government seeks support amid Western sanctions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 12:51:57 +0000"
+    },
+    {
+      "title": "Israeli attack in Gaza kills three, including a child",
+      "summary": "The strike in Deir el-Balah is the latest Israeli attack amid ongoing 'ceasefire' violations.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 12:02:35 +0000"
+    },
+    {
+      "title": "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
+      "summary": "The U.S. and Iran exchanged strikes over the weekend, putting their latest ceasefire in jeopardy. And, Trump has nominated a former Oklahoma state trooper to head Immigration and Customs Enforcement.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/29/g-s1-130793/up-first-newsletter-iran-war-ceasefire-venezuela-earthquakes-ice-lance-schroyer",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 07:42:37 -0400"
+    },
+    {
+      "title": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
+      "summary": "President Trump said talks with Iran would resume Tuesday in Qatar, despite the two sides trading attacks in the Gulf over the weekend. Iran did not confirm whether it will participate.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 07:14:41 -0400"
+    },
+    {
+      "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
+      "summary": "The White House denied a split between the two officials who have historically held diverging foreign policy positions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 11:05:47 +0000"
+    },
+    {
+      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+      "summary": "Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 09:58:26 +0000"
+    },
+    {
+      "title": "Escalating US-Iran strikes threaten interim peace agreement",
+      "summary": "<p>Tehran attacks Bahrain and Kuwait amid efforts to open strait of Hormuz without Iran’s direct oversight</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz\">Fresh hostilities in Gulf sugg",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 09:55:14 GMT"
+    },
+    {
+      "title": "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
+      "summary": "The Labour Party has the chance to review its policy on Israel, but observers say it will opt for continuity.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 08:37:59 +0000"
+    },
+    {
+      "title": "How children in West Bank are being killed by Israel ‘without accountability’",
+      "summary": "<p>IDF has killed 235 children in territory since 7 October 2023 with no indictments in what activists say is ‘licence to kill’</p><p>On the day he died, Mohammad al-Halaq had been jubilant about a new school bag he had been given in class, printed with the logo of the UN child protection and advoca",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/29/is-it-israels-aim-to-kill-our-children-west-bank-parents-implore-end-to-idfs-child-killings-with-impunity",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 08:00:33 GMT"
+    },
+    {
+      "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
+      "summary": "Israel's Cabinet approved a proposal to designate violence against Armenians by the Ottoman Empire during World War I as a genocide. The step reflects deteriorating ties between Israel and Turkey.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 03:04:50 -0400"
+    },
+    {
+      "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
+      "summary": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
+      "importance": "medium",
+      "pubDate": "Sun, 28 Jun 2026 14:01:07 -0400"
+    },
+    {
+      "title": "Israel’s actions are fuelling antisemitism around the world | Letters",
+      "summary": "<p><strong>Dr Anthony Isaacs </strong>on an intervention by prominent Israelis threatening legal action against their government over an ‘ideology of ethnic cleansing’ in the West Bank</p><p>The leaked letter signed by significant figures in the Israeli political and cultural establishments, includi",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/28/israels-actions-are-fuelling-antisemitism-around-the-world",
+      "importance": "medium",
+      "pubDate": "Sun, 28 Jun 2026 16:58:11 GMT"
+    },
+    {
+      "title": "Fresh hostilities in Gulf suggest US-Iran memorandum was too broadly worded",
+      "summary": "<p>Document appears to have been subject to conflicting interpretations on key issues of Lebanon ceasefire and strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates\">M",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Sun, 28 Jun 2026 15:02:53 GMT"
+    },
+    {
+      "title": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz – as it happened",
+      "summary": "<p>Iran attacked Bahrain and Kuwait after US strikes, and threatened a ‘complete halt’ to talks</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes\">US and Iran trade strikes as both sides accuse the other of endangering ceasefire</a></p></li></ul><p>We will soon b",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 11:07:30 GMT"
-    },
-    {
-      "title": "Iran narrowly knocked out of tumultuous World Cup on Austria’s last-second goal",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/5f9f809/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3c%2Fd7%2F1322592618541b0424af378fdd77%2F17c4896e3faf4550812a1082b0b588a0\" width=\"100%\"><small style=\"color: #999;\">Iran&#x27;s team stan",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-world-cup-2026-3d644f91e648232e2a407eab23748afd",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 10:53:02 +0000"
-    },
-    {
-      "title": "Meet 3 members of Albania’s ‘Flamingo Revolution’ trying to torpedo a Kushner-linked development",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/7a2ea49/2147483647/strip/true/crop/3500x2332+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2Fe4%2F35b0e5d5a8436e9f4b5e17b774b7%2F9e11881485dc4b80a460359ae00c335f\" width=\"100%\"><small style=\"color: #999;\">Designer Fatma Paja h",
-      "source": "AP News",
-      "link": "https://apnews.com/article/albania-kushner-trump-rallies-narta-resort-development-3762c3a19d75ed9221fffbe4a3d5bc8f",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 10:53:02 +0000"
-    },
-    {
-      "title": "LGBTQ+ Pride parades set for Sunday in NYC and San Francisco",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/3c63b0c/2147483647/strip/true/crop/3402x2267+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2Fc2%2Fb240335876ae0b86861cf4023a79%2F4b1542f675894bd9aad8205f3af8ae30\" width=\"100%\"><small style=\"color: #999;\">New York politicians ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/lgbtq-pride-parades-new-york-san-francisco-c2301920c8f656a7ee231e49ff5a08a9",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 10:53:02 +0000"
-    },
-    {
-      "title": "Ukrainian strike sets fire to an oil refinery in southern Russia",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/74386cc/2147483647/strip/true/crop/1280x853+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F7b%2Fe695a983ed9c46a2b23cfbb0eb1d%2F642cac867b5e41efa9ca84533a75a238\" width=\"100%\"><small style=\"color: #999;\">In this photo provided",
-      "source": "AP News",
-      "link": "https://apnews.com/article/ukraine-russia-war-oil-refinery-drones-88370faa1a49504438388f2854d7afd3",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 10:53:02 +0000"
-    },
-    {
-      "title": "A new law could create a list of immigrants illegally living in Mississippi. Advocates are alarmed",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4c7b7f7/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff7%2F02%2F31d2680faacf3097de28f3deb87d%2Fef9f83a137764346a501a5250876725f\" width=\"100%\"><small style=\"color: #999;\">Yaritza Herrera, left",
-      "source": "AP News",
-      "link": "https://apnews.com/article/illegal-immigration-mississippi-trump-2404fbdd42d8ad0d7b96e4b37d9c480b",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 10:53:02 +0000"
-    },
-    {
-      "title": "‘US trying to find its way out of MoU with Iran’",
-      "summary": "Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a second day of US strikes on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 10:30:45 +0000"
-    },
-    {
-      "title": "Iraq security forces arrest several officials in anticorruption crackdown",
-      "summary": "Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 10:05:16 +0000"
-    },
-    {
-      "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
-      "summary": "Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 09:33:43 +0000"
-    },
-    {
-      "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
-      "summary": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 08:39:48 +0000"
-    },
-    {
-      "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-      "summary": "Suffering of Gaza's children continues unabated due to Israeli attacks despite 'ceasefire' reached in October 2025.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 07:39:08 +0000"
-    },
-    {
-      "title": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
-      "summary": "Austria's 3-3 draw with Algeria ultimately decides Iran's fate as Team Melli crash out of the 2026 World Cup.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/late-drama-ends-irans-hopes-of-reaching-world-cup-knockouts-for-first-time?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 07:23:46 +0000"
+      "pubDate": "Sun, 28 Jun 2026 14:34:56 GMT"
     },
     {
       "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
@@ -134,44 +174,12 @@
       "pubDate": "Sun, 28 Jun 2026 07:00:03 GMT"
     },
     {
-      "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-      "summary": "US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 06:14:45 +0000"
-    },
-    {
-      "title": "World Cup: Messi sends Argentina top, England to face DR Congo, Iran out",
-      "summary": "Lionel Messi scored his sixth goal of the 2026 World Cup, Harry Kane sent England top of their group, and Iran exited.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 05:09:04 +0000"
-    },
-    {
-      "title": "Gulf countries attacked after US launches second round of strikes on Iran",
-      "summary": "Gulf countries attacked after US launches second round of strikes on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 03:40:58 +0000"
-    },
-    {
-      "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
-      "summary": "President Trump threatens to 'militarily complete the job' as the US strikes Sirik and Qeshm Island over ship attacks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "title": "US launches second night of strikes on Iran after ship hit by drone",
-      "summary": "The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 27 Jun 2026 22:07:03 +0000"
+      "pubDate": "Sun, 28 Jun 2026 04:54:50 GMT"
     },
     {
       "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
@@ -180,14 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Sat, 27 Jun 2026 21:35:40 GMT"
-    },
-    {
-      "title": "New strikes test the Iran ceasefire",
-      "summary": "The ceasefire between the U.S. and Iran is being tested after new attacks in the Strait of Hormuz. Mideast expert Paul Salem explains what's happened and whether the deal can still hold.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5869562/new-strikes-test-the-iran-ceasefire",
-      "importance": "medium",
-      "pubDate": "Sat, 27 Jun 2026 17:05:57 -0400"
     },
     {
       "title": "Bahrain condemns Iranian tit-for-tat drone attack as ‘flagrant threat’",
