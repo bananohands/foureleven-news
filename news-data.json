@@ -1,41 +1,97 @@
 {
-  "generated": "2026-06-29T14:42:06.221Z",
-  "date": "Monday, June 29, 2026",
+  "generated": "2026-06-30T13:04:11.142Z",
+  "date": "Tuesday, June 30, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Trump announces meeting with Iran in Qatar despite military skirmishes",
-      "summary": "US president says talks will take place on Tuesday, but Tehran has not confirmed the negotiations in Doha.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes?traffic_source=rss",
+      "title": "A generational shift is transforming the US-Israel relationship | Kenneth Roth",
+      "summary": "<p>The Iran war has accelerated the fraying of ties. An end to unconditional US support would force a reckoning with reality</p><p>A generational shift is under way in the relationship between the United States and Israel. Tensions were already palpable because of Israel’s <a href=\"https://www.thegu",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/30/us-israel-relationship-shift",
       "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 14:12:32 +0000"
+      "pubDate": "Tue, 30 Jun 2026 12:00:05 GMT"
     },
     {
-      "title": "Is the Israeli military deliberately targeting children in Gaza?",
-      "summary": "A UN inquiry found that children in Gaza are being shot with a single bullet.",
+      "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+      "summary": "Trump says Iran wants to meet in Qatar after attacks, but Tehran says it is sending a delegation only over frozen funds.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 13:55:36 +0000"
+      "pubDate": "Tue, 30 Jun 2026 11:57:22 +0000"
     },
     {
-      "title": "Russian missile and drone attacks kill at least eight in Ukraine",
-      "summary": "President Volodymyr Zelenskyy condemns the 'horrific attacks' and urges allies to boost Ukraine's air defences.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine?traffic_source=rss",
+      "title": "China is a clear winner from Trump’s war in Middle East, report concludes",
+      "summary": "<p>Beijing, whose stockpiles and renewables industry allowed it to withstand energy shock, is now gaining from global solar and EV push</p><p>China has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to <a href=\"https://straitofhormuz.theasiagroup.com/about/\">a report<",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
       "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 13:54:35 +0000"
+      "pubDate": "Tue, 30 Jun 2026 11:11:58 GMT"
     },
     {
-      "title": "Brazil supporters in Indonesia grab Israeli flag off motorcyclist",
-      "summary": "A video of an Israeli flag being grabbed off two young men in Indonesia has gone viral.",
+      "title": "Man in Gaza survives double tap Israeli strike on vehicle",
+      "summary": "Man in Gaza survives double tap Israeli strike on vehicle",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/brazil-supporters-in-indonesia-grab-israeli-flag-off-motorcyclist?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 13:38:10 +0000"
+      "pubDate": "Tue, 30 Jun 2026 10:09:27 +0000"
+    },
+    {
+      "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
+      "summary": "An Israeli attack on the al-Mawasi camp in Khan Younis has killed several people, including a mother and her child.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 30 Jun 2026 09:10:10 +0000"
+    },
+    {
+      "title": "Iran war supercharges pivot to renewable energy",
+      "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs across the world. Some experts wonder if this year could be the peak of oil demand.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
+      "importance": "medium",
+      "pubDate": "Tue, 30 Jun 2026 04:46:26 -0400"
+    },
+    {
+      "title": "‘I hadn’t seen people smiling until I arrived in the UK’: one man’s harrowing journey from Yemen to safety",
+      "summary": "<p>After being arrested, beaten and targeted for conscription, Amal Sahel realised he needed to leave his country. But his journey to Europe was fraught with danger</p><p>When Amal Sahel* was 15, he and his friends found a long length of metal lying abandoned in the street. The boys thought immediat",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/jun/30/yemen-europe-killing-of-three-boys-unexploded-bomb-conscription",
+      "importance": "medium",
+      "pubDate": "Tue, 30 Jun 2026 05:00:38 GMT"
+    },
+    {
+      "title": "Gabriel Martinelli scores late in injury time to help Brazil beat Japan 2-1 at World Cup",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f527e06/2147483647/strip/true/crop/6607x4402+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Ffb%2Fb2981bbc6bec2c10ddc545f49b46%2F8fa3cdccfe88483c9f9bcac760a72891\" width=\"100%\"><small style=\"color: #999;\">Brazil&#x27;s Casemir",
+      "source": "AP News",
+      "link": "https://apnews.com/article/world-cup-brazil-japan-score-d5c025da2efeaf08a6b7c694b8e6534e",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 20:23:02 +0000"
+    },
+    {
+      "title": "Trump claims Iran has agreed to hold peace talks in Doha after recent clashes",
+      "summary": "<p>US president posts that meeting will take place on Tuesday in Qatari capital after exchange of fire in strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/29/oman-safe-reopening-strait-hormuz-iran-us-middle-east\">Iran is jealously competing with Oman as decision-mak",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 18:36:24 GMT"
+    },
+    {
+      "title": "Iran is jealously competing with Oman as decision-maker over strait of Hormuz",
+      "summary": "<p>Tehran believes it should control the shipping route but its neighbour has its own plans for reopening it</p><p>The strait of Hormuz is Iran’s chief bargaining tool in the negotiations with the US and so it was always likely to be the greatest point of contention. Every inch of the 24-mile-wide w",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jun/29/oman-safe-reopening-strait-hormuz-iran-us-middle-east",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 16:20:16 GMT"
+    },
+    {
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 29 Jun 2026 14:52:10 GMT"
     },
     {
       "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
@@ -44,30 +100,6 @@
       "link": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say",
       "importance": "medium",
       "pubDate": "Mon, 29 Jun 2026 08:58:24 -0400"
-    },
-    {
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 12:51:58 GMT"
-    },
-    {
-      "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
-      "summary": "China and Sudan signed off on a waiver of $50m as Sudan’s military-led government seeks support amid Western sanctions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 12:51:57 +0000"
-    },
-    {
-      "title": "Israeli attack in Gaza kills three, including a child",
-      "summary": "The strike in Deir el-Balah is the latest Israeli attack amid ongoing 'ceasefire' violations.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 12:02:35 +0000"
     },
     {
       "title": "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
@@ -86,20 +118,12 @@
       "pubDate": "Mon, 29 Jun 2026 07:14:41 -0400"
     },
     {
-      "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-      "summary": "The White House denied a split between the two officials who have historically held diverging foreign policy positions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
+      "title": "Former Iran nuclear deal negotiator on what U.S.-Iran 'new normal' looks like",
+      "summary": "NPR's Leila Fadel asks former national security adviser and 2015 Iran deal negotiator Jake Sullivan about ceasefire talks amid new strikes by the U.S. and Iran.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/06/29/nx-s1-5873990/us-iran-ceasefire-new-normal-gulf-flareups",
       "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 11:05:47 +0000"
-    },
-    {
-      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
-      "summary": "Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 09:58:26 +0000"
+      "pubDate": "Mon, 29 Jun 2026 06:42:48 -0400"
     },
     {
       "title": "Escalating US-Iran strikes threaten interim peace agreement",
@@ -110,36 +134,12 @@
       "pubDate": "Mon, 29 Jun 2026 09:55:14 GMT"
     },
     {
-      "title": "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
-      "summary": "The Labour Party has the chance to review its policy on Israel, but observers say it will opt for continuity.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 08:37:59 +0000"
-    },
-    {
       "title": "How children in West Bank are being killed by Israel ‘without accountability’",
       "summary": "<p>IDF has killed 235 children in territory since 7 October 2023 with no indictments in what activists say is ‘licence to kill’</p><p>On the day he died, Mohammad al-Halaq had been jubilant about a new school bag he had been given in class, printed with the logo of the UN child protection and advoca",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/jun/29/is-it-israels-aim-to-kill-our-children-west-bank-parents-implore-end-to-idfs-child-killings-with-impunity",
       "importance": "medium",
       "pubDate": "Mon, 29 Jun 2026 08:00:33 GMT"
-    },
-    {
-      "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
-      "summary": "Israel's Cabinet approved a proposal to designate violence against Armenians by the Ottoman Empire during World War I as a genocide. The step reflects deteriorating ties between Israel and Turkey.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 03:04:50 -0400"
-    },
-    {
-      "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
-      "summary": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
-      "importance": "medium",
-      "pubDate": "Sun, 28 Jun 2026 14:01:07 -0400"
     },
     {
       "title": "Israel’s actions are fuelling antisemitism around the world | Letters",
@@ -199,7 +199,7 @@
     },
     {
       "title": "JD Vance claims US holds all the cards in Iran and will win ‘either way’",
-      "summary": "<p>Vice-president appeared on Bill Maher’s show hours before more military strikes were exchanged in strait of Hormuz</p><p><a href=\"https://www.theguardian.com/us-news/jd-vance\">JD Vance</a> said on Friday that the US wins “either way” regarding negotiations with <a href=\"https://www.theguardian.co",
+      "summary": "<p>Vice-president appeared on Bill Maher’s show hours before more military strikes were exchanged in strait of Hormuz</p><p><a href=\"https://www.theguardian.com/us-news/jd-vance\">JD Vance</a> has said that the US wins “either way” regarding negotiations with <a href=\"https://www.theguardian.com/worl",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war",
       "importance": "medium",
