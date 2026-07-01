@@ -1,10 +1,82 @@
 {
-  "generated": "2026-06-30T13:04:11.142Z",
-  "date": "Tuesday, June 30, 2026",
+  "generated": "2026-07-01T13:31:21.873Z",
+  "date": "Wednesday, July 1, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "As the World Cup grows more global, many fans still struggle to get there",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/64fbe70/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F2c%2Feed7a558c3d64bb67cffbb11242e%2Fb3bd677d69a2422a931fde5e606cb203\" width=\"100%\"><small style=\"color: #999;\">A Senegalese fan reac",
+      "source": "AP News",
+      "link": "https://apnews.com/article/world-cup-access-visas-inequality-9d9156323197936679cce74d0dfa2e7c",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 13:23:02 +0000"
+    },
+    {
+      "title": "Judge orders Pentagon to lift policy that New York Times journalists be accompanied by an escort",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/ca32e88/2147483647/strip/true/crop/5232x3486+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2F14%2Fcb0fce3f05f4e43355aba20ec708%2F982c33e4eb004df39cb9f3084f57d021\" width=\"100%\"><small style=\"color: #999;\">The Pentagon is viewe",
+      "source": "AP News",
+      "link": "https://apnews.com/article/pentagon-media-restrictions-new-york-times-escort-51aa91ec706c5866bf1f6ac542a65f7b",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 13:23:02 +0000"
+    },
+    {
+      "title": "Zelenskyy says Ukraine hits a Russian oil refinery for the second time in a week",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/10834e3/2147483647/strip/true/crop/4641x3092+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2F52%2Fbaf6a14739132b7719efc96a6cbf%2Ff1d0f8f1a53b468b9b0d0bca8e6165b0\" width=\"100%\"><small style=\"color: #999;\">In this image made fr",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-ufa-refinery-oil-8f85eea709f58365c42ec3b29e5d1d6d",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 12:23:02 +0000"
+    },
+    {
+      "title": "Syria’s first post-Assad Parliament takes shape as interim president names 70 lawmakers",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4b2d0a0/2147483647/strip/true/crop/7153x4766+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F71%2Ff4b0831a257f20bee34738dbf2ce%2F30ddb831130c4546aa8fa39f32cf804e\" width=\"100%\"><small style=\"color: #999;\">Syrian President Ahma",
+      "source": "AP News",
+      "link": "https://apnews.com/article/syria-parliament-elections-president-sharaa-lawmakers-84d5d2a90ab321eeb34ada6f0a153412",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 12:23:02 +0000"
+    },
+    {
+      "title": "US-Iran negotiations: What’s the latest?",
+      "summary": "Iranian officials are expected in Doha for talks with Qatari mediators, a day after US negotiators arrived there.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 08:38:25 +0000"
+    },
+    {
+      "title": "The Lebanon-Israel agreement is paving the way for the next war",
+      "summary": "And the agreement has ensured that Lebanon will be blamed for it.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 08:03:40 +0000"
+    },
+    {
+      "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+      "summary": "Former lawyer Melat Kiros, 29, has criticised Democrats for support of Israel during its genocidal war on Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 05:56:54 +0000"
+    },
+    {
+      "title": "‘Get away from there – run!’ The stunning film about love blossoming amid the carnage of Aleppo",
+      "summary": "<p>Birds of War is an award-winning docudrama in which its own directors fall in love while reporting the horrors in Syria. They explain why they needed a psychotherapist to complete it</p><p>The air is thick with smoke and dust, the ground littered with the twisted remains of burning vehicles. Chil",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/jul/01/birds-of-war-aleppo-syria-love-carnage",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 04:00:25 GMT"
+    },
+    {
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 30 Jun 2026 23:41:11 GMT"
+    },
     {
       "title": "A generational shift is transforming the US-Israel relationship | Kenneth Roth",
       "summary": "<p>The Iran war has accelerated the fraying of ties. An end to unconditional US support would force a reckoning with reality</p><p>A generational shift is under way in the relationship between the United States and Israel. Tensions were already palpable because of Israel’s <a href=\"https://www.thegu",
@@ -12,14 +84,6 @@
       "link": "https://www.theguardian.com/commentisfree/2026/jun/30/us-israel-relationship-shift",
       "importance": "medium",
       "pubDate": "Tue, 30 Jun 2026 12:00:05 GMT"
-    },
-    {
-      "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-      "summary": "Trump says Iran wants to meet in Qatar after attacks, but Tehran says it is sending a delegation only over frozen funds.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 30 Jun 2026 11:57:22 +0000"
     },
     {
       "title": "China is a clear winner from Trump’s war in Middle East, report concludes",
@@ -30,24 +94,8 @@
       "pubDate": "Tue, 30 Jun 2026 11:11:58 GMT"
     },
     {
-      "title": "Man in Gaza survives double tap Israeli strike on vehicle",
-      "summary": "Man in Gaza survives double tap Israeli strike on vehicle",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 30 Jun 2026 10:09:27 +0000"
-    },
-    {
-      "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-      "summary": "An Israeli attack on the al-Mawasi camp in Khan Younis has killed several people, including a mother and her child.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 30 Jun 2026 09:10:10 +0000"
-    },
-    {
       "title": "Iran war supercharges pivot to renewable energy",
-      "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs across the world. Some experts wonder if this year could be the peak of oil demand.",
+      "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs worldwide. Global investors say these technologies make financial sense and increase energy security.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
       "importance": "medium",
@@ -55,19 +103,11 @@
     },
     {
       "title": "‘I hadn’t seen people smiling until I arrived in the UK’: one man’s harrowing journey from Yemen to safety",
-      "summary": "<p>After being arrested, beaten and targeted for conscription, Amal Sahel realised he needed to leave his country. But his journey to Europe was fraught with danger</p><p>When Amal Sahel* was 15, he and his friends found a long length of metal lying abandoned in the street. The boys thought immediat",
+      "summary": "<p>After being arrested, beaten and targeted for conscription, Amal Sahel realised he needed to leave his country. But his journey to Europe was fraught with danger</p><p>When Amal Sahel* was 15, he and his friends found a length of metal lying abandoned in the street. The boys thought immediately o",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/global-development/2026/jun/30/yemen-europe-killing-of-three-boys-unexploded-bomb-conscription",
       "importance": "medium",
       "pubDate": "Tue, 30 Jun 2026 05:00:38 GMT"
-    },
-    {
-      "title": "Gabriel Martinelli scores late in injury time to help Brazil beat Japan 2-1 at World Cup",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f527e06/2147483647/strip/true/crop/6607x4402+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Ffb%2Fb2981bbc6bec2c10ddc545f49b46%2F8fa3cdccfe88483c9f9bcac760a72891\" width=\"100%\"><small style=\"color: #999;\">Brazil&#x27;s Casemir",
-      "source": "AP News",
-      "link": "https://apnews.com/article/world-cup-brazil-japan-score-d5c025da2efeaf08a6b7c694b8e6534e",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 20:23:02 +0000"
     },
     {
       "title": "Trump claims Iran has agreed to hold peace talks in Doha after recent clashes",
@@ -100,30 +140,6 @@
       "link": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say",
       "importance": "medium",
       "pubDate": "Mon, 29 Jun 2026 08:58:24 -0400"
-    },
-    {
-      "title": "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
-      "summary": "The U.S. and Iran exchanged strikes over the weekend, putting their latest ceasefire in jeopardy. And, Trump has nominated a former Oklahoma state trooper to head Immigration and Customs Enforcement.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/29/g-s1-130793/up-first-newsletter-iran-war-ceasefire-venezuela-earthquakes-ice-lance-schroyer",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 07:42:37 -0400"
-    },
-    {
-      "title": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
-      "summary": "President Trump said talks with Iran would resume Tuesday in Qatar, despite the two sides trading attacks in the Gulf over the weekend. Iran did not confirm whether it will participate.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 07:14:41 -0400"
-    },
-    {
-      "title": "Former Iran nuclear deal negotiator on what U.S.-Iran 'new normal' looks like",
-      "summary": "NPR's Leila Fadel asks former national security adviser and 2015 Iran deal negotiator Jake Sullivan about ceasefire talks amid new strikes by the U.S. and Iran.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5873990/us-iran-ceasefire-new-normal-gulf-flareups",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 06:42:48 -0400"
     },
     {
       "title": "Escalating US-Iran strikes threaten interim peace agreement",
@@ -188,22 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Sat, 27 Jun 2026 21:35:40 GMT"
-    },
-    {
-      "title": "Bahrain condemns Iranian tit-for-tat drone attack as ‘flagrant threat’",
-      "summary": "<p>No immediate reports of damage after Bahrain hit by ‘number of drones’ as ship in strait of Hormuz also targeted</p><p>Bahrain has said it was attacked by Iran with drones on Saturday, apparently in response to <a href=\"https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/27/bahrain-iran-drone-attack-overnight-us-strikes-strait-hormuz",
-      "importance": "medium",
-      "pubDate": "Sat, 27 Jun 2026 16:49:24 GMT"
-    },
-    {
-      "title": "JD Vance claims US holds all the cards in Iran and will win ‘either way’",
-      "summary": "<p>Vice-president appeared on Bill Maher’s show hours before more military strikes were exchanged in strait of Hormuz</p><p><a href=\"https://www.theguardian.com/us-news/jd-vance\">JD Vance</a> has said that the US wins “either way” regarding negotiations with <a href=\"https://www.theguardian.com/worl",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war",
-      "importance": "medium",
-      "pubDate": "Sat, 27 Jun 2026 15:34:10 GMT"
     }
   ]
 }
