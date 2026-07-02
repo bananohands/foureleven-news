@@ -1,65 +1,89 @@
 {
-  "generated": "2026-07-01T13:31:21.873Z",
-  "date": "Wednesday, July 1, 2026",
+  "generated": "2026-07-02T12:53:03.039Z",
+  "date": "Thursday, July 2, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "As the World Cup grows more global, many fans still struggle to get there",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/64fbe70/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F2c%2Feed7a558c3d64bb67cffbb11242e%2Fb3bd677d69a2422a931fde5e606cb203\" width=\"100%\"><small style=\"color: #999;\">A Senegalese fan reac",
+      "title": "Trump and Republicans return to communist attacks against Democrats ahead of the midterm elections",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f8b8629/2147483647/strip/true/crop/7288x4856+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2F87%2Fdccc864b682aed50acfca596fe14%2Fbc99ffe7a6ec4f0d913b937a5920e5de\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
       "source": "AP News",
-      "link": "https://apnews.com/article/world-cup-access-visas-inequality-9d9156323197936679cce74d0dfa2e7c",
+      "link": "https://apnews.com/article/trump-republicans-democrats-communism-election-2026-5381c24e8eb4235ae993e812ad45ffbd",
       "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 13:23:02 +0000"
+      "pubDate": "Thu, 02 Jul 2026 10:53:02 +0000"
     },
     {
-      "title": "Judge orders Pentagon to lift policy that New York Times journalists be accompanied by an escort",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/ca32e88/2147483647/strip/true/crop/5232x3486+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2F14%2Fcb0fce3f05f4e43355aba20ec708%2F982c33e4eb004df39cb9f3084f57d021\" width=\"100%\"><small style=\"color: #999;\">The Pentagon is viewe",
+      "title": "South Korea disputes US congressional report claiming discrimination against Seattle-based Coupang",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f6454b0/2147483647/strip/true/crop/1405x936+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F9e%2F2749cb0f6b6eeb31156bf0406e92%2F4b34ce175bdd41f29d31049b8c77c471\" width=\"100%\"><small style=\"color: #999;\">A logo of Coupang is s",
       "source": "AP News",
-      "link": "https://apnews.com/article/pentagon-media-restrictions-new-york-times-escort-51aa91ec706c5866bf1f6ac542a65f7b",
+      "link": "https://apnews.com/article/south-korea-coupang-data-breach-house-committee-b4da0647a0cdf0c9dd9be9e820e3e4bb",
       "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 13:23:02 +0000"
+      "pubDate": "Thu, 02 Jul 2026 10:23:02 +0000"
     },
     {
-      "title": "Zelenskyy says Ukraine hits a Russian oil refinery for the second time in a week",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/10834e3/2147483647/strip/true/crop/4641x3092+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2F52%2Fbaf6a14739132b7719efc96a6cbf%2Ff1d0f8f1a53b468b9b0d0bca8e6165b0\" width=\"100%\"><small style=\"color: #999;\">In this image made fr",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-ufa-refinery-oil-8f85eea709f58365c42ec3b29e5d1d6d",
-      "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 12:23:02 +0000"
-    },
-    {
-      "title": "Syria’s first post-Assad Parliament takes shape as interim president names 70 lawmakers",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4b2d0a0/2147483647/strip/true/crop/7153x4766+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F71%2Ff4b0831a257f20bee34738dbf2ce%2F30ddb831130c4546aa8fa39f32cf804e\" width=\"100%\"><small style=\"color: #999;\">Syrian President Ahma",
-      "source": "AP News",
-      "link": "https://apnews.com/article/syria-parliament-elections-president-sharaa-lawmakers-84d5d2a90ab321eeb34ada6f0a153412",
-      "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 12:23:02 +0000"
-    },
-    {
-      "title": "US-Iran negotiations: What’s the latest?",
-      "summary": "Iranian officials are expected in Doha for talks with Qatari mediators, a day after US negotiators arrived there.",
+      "title": "A Palestinian home inside a cage",
+      "summary": "This Palestinian family's home is sealed inside an Israeli settlement and the separation wall. Al Jazeera's Leila Warah",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 08:38:25 +0000"
+      "pubDate": "Thu, 02 Jul 2026 10:19:56 +0000"
     },
     {
-      "title": "The Lebanon-Israel agreement is paving the way for the next war",
-      "summary": "And the agreement has ensured that Lebanon will be blamed for it.",
+      "title": "US-Iran talks in Doha: What were the outcomes and what’s next?",
+      "summary": "Qatar says the next meeting will take place after funeral processions for Iran's former supreme leader.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 08:03:40 +0000"
+      "pubDate": "Thu, 02 Jul 2026 09:06:14 +0000"
     },
     {
-      "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
-      "summary": "Former lawyer Melat Kiros, 29, has criticised Democrats for support of Israel during its genocidal war on Gaza.",
+      "title": "Billions flow between EU institutions and Israel, despite Gaza genocide",
+      "summary": "EU departments and some universities, including in Spain, are still spending on Israeli companies.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/7/2/billions-flow-between-eu-institutions-and-israel-despite-gaza-genocide?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 05:56:54 +0000"
+      "pubDate": "Thu, 02 Jul 2026 09:05:23 +0000"
+    },
+    {
+      "title": "Russia attacks Ukraine's capital, killing more than a dozen people",
+      "summary": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people",
+      "importance": "medium",
+      "pubDate": "Thu, 02 Jul 2026 04:47:15 -0400"
+    },
+    {
+      "title": "Birds of War review – war journalists find love among the ruins",
+      "summary": "<p>This documentary tells the story of the long-distance relationship between a BBC correspondent in London and a photographer on the ground in Syria with charm and humanity</p><p>Politics is to some degree set aside here in favour of matters of the heart; this is a story of romantic love among the ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/jul/02/birds-of-war-review-war-journalists-find-love-among-the-ruins",
+      "importance": "medium",
+      "pubDate": "Thu, 02 Jul 2026 06:00:05 GMT"
+    },
+    {
+      "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+      "summary": "U.S. and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators, with \"positive progress made,\" and they agreed to continue discussions, host Qatar said.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
+      "importance": "medium",
+      "pubDate": "Thu, 02 Jul 2026 01:57:33 -0400"
+    },
+    {
+      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 02 Jul 2026 04:59:55 GMT"
+    },
+    {
+      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
+      "summary": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 01 Jul 2026 16:44:58 GMT"
     },
     {
       "title": "‘Get away from there – run!’ The stunning film about love blossoming amid the carnage of Aleppo",
@@ -94,14 +118,6 @@
       "pubDate": "Tue, 30 Jun 2026 11:11:58 GMT"
     },
     {
-      "title": "Iran war supercharges pivot to renewable energy",
-      "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs worldwide. Global investors say these technologies make financial sense and increase energy security.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
-      "importance": "medium",
-      "pubDate": "Tue, 30 Jun 2026 04:46:26 -0400"
-    },
-    {
       "title": "‘I hadn’t seen people smiling until I arrived in the UK’: one man’s harrowing journey from Yemen to safety",
       "summary": "<p>After being arrested, beaten and targeted for conscription, Amal Sahel realised he needed to leave his country. But his journey to Europe was fraught with danger</p><p>When Amal Sahel* was 15, he and his friends found a length of metal lying abandoned in the street. The boys thought immediately o",
       "source": "The Guardian — Middle East",
@@ -134,14 +150,6 @@
       "pubDate": "Mon, 29 Jun 2026 14:52:10 GMT"
     },
     {
-      "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
-      "summary": "Pakistan says it targeted militant hideouts along the Pakistan-Afghanistan border in response to militant attacks across Pakistan. Afghanistan condemned the strikes as acts of aggression.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say",
-      "importance": "medium",
-      "pubDate": "Mon, 29 Jun 2026 08:58:24 -0400"
-    },
-    {
       "title": "Escalating US-Iran strikes threaten interim peace agreement",
       "summary": "<p>Tehran attacks Bahrain and Kuwait amid efforts to open strait of Hormuz without Iran’s direct oversight</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz\">Fresh hostilities in Gulf sugg",
       "source": "The Guardian — Middle East",
@@ -167,7 +175,7 @@
     },
     {
       "title": "Fresh hostilities in Gulf suggest US-Iran memorandum was too broadly worded",
-      "summary": "<p>Document appears to have been subject to conflicting interpretations on key issues of Lebanon ceasefire and strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates\">M",
+      "summary": "<p>Document appears to have been subject to conflicting interpretations on key issues of Lebanon ceasefire and strait of Hormuz</p><p>The <a href=\"https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes\">sudden eruption of fresh hostilities</a> in the Gulf – just 10 days after Iran and the U",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
       "importance": "medium",
@@ -196,14 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Sun, 28 Jun 2026 04:54:50 GMT"
-    },
-    {
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 27 Jun 2026 21:35:40 GMT"
     }
   ]
 }
