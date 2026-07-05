@@ -1,33 +1,129 @@
 {
-  "generated": "2026-07-04T12:01:17.053Z",
-  "date": "Saturday, July 4, 2026",
+  "generated": "2026-07-05T12:09:25.929Z",
+  "date": "Sunday, July 5, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
+      "title": "Where Iran stands on the memorandum it signed with the U.S",
+      "summary": "NPR's Ayesha Rascoe speaks to Sanam Vakil, director of the Middle East & North Africa Program at Chatham House, about how Iran sees the memorandum it signed with the U.S. as well as the ongoing talks.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5879423/where-iran-stands-on-the-memorandum-it-signed-with-the-u-s",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 08:04:28 -0400"
+    },
+    {
+      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+      "summary": "Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 11:24:18 +0000"
+    },
+    {
+      "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
+      "summary": "<p>New supreme leader Mojtaba Khamenei still absent from public view as his three brothers stand beside father’s coffin</p><p>Beside the coffin of the assassinated former Iranian supreme leader Ali Khamenei at a packed prayer hall in Tehran on Sunday there were calls for the killing of Donald Trump.",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 10:40:23 GMT"
+    },
+    {
+      "title": "British military says cargo ship reports being under attack in the Red Sea off the coast of Yemen",
+      "summary": "<p>2026-07-05T09:02:51Z</p> <p>DUBAI, United Arab Emirates (AP) — A cargo ship came under attack Sunday off the coast of Yemen in the Red Sea, the British military said Sunday.</p><p>The United Kingdom Maritime Trade Operations center reported the attack off Yemen, saying the ship reported being “un",
+      "source": "AP News",
+      "link": "https://apnews.com/article/yemen-cargo-ship-attack-9309858ca99481bb7c058ba2fa099036",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 09:23:02 +0000"
+    },
+    {
+      "title": "AP photographer captures the aftermath of two earthquakes in Venezuela",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/98fe266/2147483647/strip/true/crop/1024x682+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2Ffc%2Ff092c5f041428abe3488acbdbba0%2Fap26178119034731.jpg\" width=\"100%\"><small style=\"color: #999;\">A person stands in an apartment of",
+      "source": "AP News",
+      "link": "https://apnews.com/article/one-photo-0000019f2864d8c5afbf297f56ee0000",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 08:53:02 +0000"
+    },
+    {
+      "title": "Paraguay gets physical in a heated World Cup loss to France in steamy Philadelphia",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/5ef6961/2147483647/strip/true/crop/4451x2966+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F08%2F6c%2Ff1d799cb432fb2cbd76faacf71d0%2F94f7bf08400d468b8770f4de59fec91f\" width=\"100%\"><small style=\"color: #999;\">France&#x27;s Kylian ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/world-cup-paraguay-physical-france-fouls-mbappe-f573f9c9b1c004cc11c4951b3ccbb060",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 08:53:02 +0000"
+    },
+    {
+      "title": "World Cup what to know: Co-host Mexico seeks to reach quarterfinals for first time in 40 years",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/ed45f61/2147483647/strip/true/crop/6982x4652+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Fdb%2F63ec559c831812297d839cb1dd0b%2F4eee8499736a4050b0755321ac169a4a\" width=\"100%\"><small style=\"color: #999;\">A Mexico soccer fan r",
+      "source": "AP News",
+      "link": "https://apnews.com/article/world-cup-schedule-scores-news-3b115208163906d3e15f2477c1af8471",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 08:53:02 +0000"
+    },
+    {
+      "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
+      "summary": "Palestinians in Gaza celebrate Morocco's World Cup victory",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 08:25:00 +0000"
+    },
+    {
+      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+      "summary": "Despite US objections, ambassador insists new fees to be charged to vessels transiting Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 08:09:44 +0000"
+    },
+    {
+      "title": "This immigrant served in the US military. Now he faces deportation",
+      "summary": "Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 00:49:14 +0000"
+    },
+    {
+      "title": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
+      "summary": "Late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike on February 28.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 05 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Iran begins week of funeral celebrations for Khamenei",
+      "summary": "Foreign dignitaries are gathering in Iran for a week of funeral ceremonies for Ayatollah Ali Khamenei, more than four months after he was killed in U.S.-Israeli airstrikes.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/04/nx-s1-5877738/iran-begins-week-of-funeral-celebrations-for-khamenei",
+      "importance": "medium",
+      "pubDate": "Sat, 04 Jul 2026 17:03:46 -0400"
+    },
+    {
+      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+      "summary": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 04 Jul 2026 16:49:36 GMT"
+    },
+    {
+      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "summary": "<p>Up to 30 million people expected to attend delayed events for Ali Khamenei, killed at start of war with US and Israel</p><p>Huge crowds have gathered at the funeral of the former Iranian supreme leader after the gates of the sprawling Grand Mosalla mosque in central Tehran let in thousands of mou",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
+      "importance": "medium",
+      "pubDate": "Sat, 04 Jul 2026 12:51:41 GMT"
+    },
+    {
       "title": "Mourners gather in Tehran for funeral of former Iranian supreme leader, Ali Khamenei – video",
-      "summary": "<p>Thousands gathered at the gates of the Grand Mosalla mosque in central Tehran for the funeral of the former Iranian supreme leader. Iran is staging mass funeral processions for Ali Khamenei, whose ⁠37-year reign was brought ⁠to an ​end in February by the first airstrike of the war launched by the",
+      "summary": "<p>Thousands gathered at the gates of the Grand Mosalla mosque in Tehran for the funeral of the former Iranian supreme leader. Iran is staging mass funeral processions for Ali Khamenei, whose ⁠37-year reign was brought ⁠to an ​end in February by the first airstrike of the war launched by the US and ",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/video/2026/jul/04/mourners-gather-tehran-funeral-former-iranian-supreme-leader-ali-khamenei-video",
       "importance": "medium",
       "pubDate": "Sat, 04 Jul 2026 11:15:20 GMT"
-    },
-    {
-      "title": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/032ca81/2147483647/strip/true/crop/8024x5347+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2Fda%2F607cd9f6d18e5f0db05ffa064b82%2F17b99fd466574949ba7616afe86b6a42\" width=\"100%\"><small style=\"color: #999;\">The First Deputy Chie",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-oil-st-petersburg-c95b97c0ab5ca8d06050f09e54ea69a9",
-      "importance": "medium",
-      "pubDate": "Sat, 04 Jul 2026 10:23:02 +0000"
-    },
-    {
-      "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
-      "summary": "Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 04 Jul 2026 10:16:31 +0000"
     },
     {
       "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
@@ -38,48 +134,8 @@
       "pubDate": "Sat, 04 Jul 2026 09:45:55 GMT"
     },
     {
-      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
-      "summary": "<p>Up to 30 million people expected to attend delayed events for Ali Khamenei, killed at start of war with US and Israel</p><p>The funeral of the former Iranian supreme leader has begun as the gates of the sprawling Grand Mosalla mosque in central Tehran let in thousands of mourners who had been wai",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
-      "importance": "medium",
-      "pubDate": "Sat, 04 Jul 2026 09:43:04 GMT"
-    },
-    {
-      "title": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
-      "summary": "Thousands of mourners attended the public grand procession of Iran’s late Supreme Leader Khamenei in Tehran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 04 Jul 2026 09:35:45 +0000"
-    },
-    {
-      "title": "Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats",
-      "summary": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 04 Jul 2026 08:59:17 +0000"
-    },
-    {
-      "title": "What is the 2026 song of the summer? We offer some predictions",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/3894534/2147483647/strip/true/crop/1920x1279+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F2d%2Fc2d9c496add044d6e279c78720e0%2F412f73e5d80749b494817a24be4cfd9e\" width=\"100%\"><small style=\"color: #999;\">(AP Illustration / Pe",
-      "source": "AP News",
-      "link": "https://apnews.com/article/what-is-song-of-summer-2026-0d2c000ccce4ea35a74baa3e6cc34090",
-      "importance": "medium",
-      "pubDate": "Sat, 04 Jul 2026 05:53:02 +0000"
-    },
-    {
-      "title": "Could Israel really build settlements in Gaza?",
-      "summary": "After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 04 Jul 2026 05:41:23 +0000"
-    },
-    {
-      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
-      "summary": "Iran began a dayslong funeral Saturday for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war. He was 86.",
+      "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
+      "summary": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
       "importance": "medium",
@@ -92,14 +148,6 @@
       "link": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
       "importance": "medium",
       "pubDate": "Fri, 03 Jul 2026 16:51:04 -0400"
-    },
-    {
-      "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
-      "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
-      "importance": "medium",
-      "pubDate": "Fri, 03 Jul 2026 15:45:24 -0400"
     },
     {
       "title": "The week around the world in 20 pictures",
@@ -142,14 +190,6 @@
       "pubDate": "Fri, 03 Jul 2026 06:42:14 GMT"
     },
     {
-      "title": "Are the wars in Ukraine and Iran showing the limits of global powers?",
-      "summary": "We look at the Russian attacks on Kyiv and the overall state of the wars between Russia and Ukraine and the U.S. and Iran.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5877615/are-the-wars-in-ukraine-and-iran-showing-the-limits-of-global-powers",
-      "importance": "medium",
-      "pubDate": "Thu, 02 Jul 2026 16:13:37 -0400"
-    },
-    {
       "title": "Birds of War review – war journalists find love among the ruins",
       "summary": "<p>This documentary tells the story of the long-distance relationship between a BBC correspondent in London and a photographer on the ground in Syria with charm and humanity</p><p>Politics is to some degree set aside here in favour of matters of the heart; this is a story of romantic love among the ",
       "source": "The Guardian — Middle East",
@@ -164,46 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Thu, 02 Jul 2026 04:59:55 GMT"
-    },
-    {
-      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
-      "summary": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 16:44:58 GMT"
-    },
-    {
-      "title": "‘Get away from there – run!’ The stunning film about love blossoming amid the carnage of Aleppo",
-      "summary": "<p>Birds of War is an award-winning docudrama in which its own directors fall in love while reporting the horrors in Syria. They explain why they needed a psychotherapist to complete it</p><p>The air is thick with smoke and dust, the ground littered with the twisted remains of burning vehicles. Chil",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/jul/01/birds-of-war-aleppo-syria-love-carnage",
-      "importance": "medium",
-      "pubDate": "Wed, 01 Jul 2026 04:00:25 GMT"
-    },
-    {
-      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-      "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 30 Jun 2026 23:41:11 GMT"
-    },
-    {
-      "title": "A generational shift is transforming the US-Israel relationship | Kenneth Roth",
-      "summary": "<p>The Iran war has accelerated the fraying of ties. An end to unconditional US support would force a reckoning with reality</p><p>A generational shift is under way in the relationship between the United States and Israel. Tensions were already palpable because of Israel’s <a href=\"https://www.thegu",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/30/us-israel-relationship-shift",
-      "importance": "medium",
-      "pubDate": "Tue, 30 Jun 2026 12:00:05 GMT"
-    },
-    {
-      "title": "China is a clear winner from Trump’s war in Middle East, report concludes",
-      "summary": "<p>Beijing, whose stockpiles and renewables industry allowed it to withstand energy shock, is now gaining from global solar and EV push</p><p>China has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to <a href=\"https://straitofhormuz.theasiagroup.com/about/\">a report<",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
-      "importance": "medium",
-      "pubDate": "Tue, 30 Jun 2026 11:11:58 GMT"
     }
   ]
 }
