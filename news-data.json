@@ -1,73 +1,177 @@
 {
-  "generated": "2026-07-06T14:22:11.654Z",
-  "date": "Monday, July 6, 2026",
+  "generated": "2026-07-07T13:11:57.025Z",
+  "date": "Tuesday, July 7, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
+      "summary": "Israel has devastated 95 percent of Gaza's farms, engineering starvation and aid dependency, experts warn.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 12:56:19 +0000"
+    },
+    {
+      "title": "Violence escalates in South Sudan as a government commissioner is killed",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/fce68ff/2147483647/strip/true/crop/2914x1942+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2F11%2Ff092081120f1e517622ccef2f700%2F598bfb3012684ca6bbc44f7da0d16a2b\" width=\"100%\"><small style=\"color: #999;\">United Nations peacek",
+      "source": "AP News",
+      "link": "https://apnews.com/article/south-sudan-fighting-akobo-8b66c7499edfa755f4b41bb6fdd9413e",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 12:53:01 +0000"
+    },
+    {
+      "title": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks",
+      "summary": "While marine traffic in Hormuz has steadily risen, vague provisions on the strait remain contentious in peace talks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 12:19:42 +0000"
+    },
+    {
+      "title": "Rahm Emanuel will assail Netanyahu in Tel Aviv speech as American politics shift against Israel",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/700c029/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F16%2F5a07fc31e58e1907fb9b62f5eba4%2Feaee5bfe240544b08b46986fbbca7975\" width=\"100%\"><small style=\"color: #999;\">Former White House Ch",
+      "source": "AP News",
+      "link": "https://apnews.com/article/rahm-emanuel-israel-speech-criticism-netanyahu-60357c348e611a93a70949f5e69fce6e",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 11:23:03 +0000"
+    },
+    {
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 11:16:30 GMT"
+    },
+    {
+      "title": "Tehran teemed with Khamenei mourners, but divisions – and demands for change – remain",
+      "summary": "<p>Many of the millions who turned out for funeral wanted to show their opposition the killing of their leader, regardless of their broader views of the regime</p><p>As the multipurpose, multinational <a href=\"https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/07/millions-mourners-iran-regime-social-base",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 11:10:30 GMT"
+    },
+    {
+      "title": "What is the new Gaza administration as Hamas dissolves government?",
+      "summary": "The NCAG will oversee civilian affairs such as health and education, as well as security.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 10:38:03 +0000"
+    },
+    {
+      "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
+      "summary": "<p>Blasts did not interrupt French president’s visit but are setback for Syrian leaders’ attempt to project stability</p><p>Explosions rocked Damascus near the hotel where French president, Emmanuel Macron, was staying on Tuesday, wounding at least 18 people, Syrian authorities said.</p><p>Macron wa",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 10:37:32 GMT"
+    },
+    {
+      "title": "Explosions in Damascus during Macron visit to Syria: What we know",
+      "summary": "Blasts occurred near hotel French president was reportedly staying in shortly after he departed for presidential palace.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 10:32:51 +0000"
+    },
+    {
+      "title": "Israeli officer shown throwing stun grenade into car during West Bank raid",
+      "summary": "<p>Border police officer under investigation after CCTV footage shows him shouting at car’s occupants and throwing device</p><p>Israeli police have opened an investigation after CCTV footage showed a border police officer throwing a stun grenade into a car carrying young Palestinians during a raid o",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/07/israeli-officer-stun-grenade-car-west-bank",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 10:23:05 GMT"
+    },
+    {
+      "title": "Syria’s capital rocked by blasts during Macron visit",
+      "summary": "Syria’s capital rocked by blasts during Macron visit",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/syrias-capital-rocked-by-blasts-during-macron-visit?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 10:15:44 +0000"
+    },
+    {
+      "title": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
+      "summary": "The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 04:59:44 -0400"
+    },
+    {
+      "title": "After Iran war upheaval, global shipping eyes return to status quo",
+      "summary": "Industry known for its resilience is likely to emerge from war relatively unchanged, analysts say.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/7/7/after-iran-war-upheaval-global-shipping-eyes-return-to-status-quo?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 08:31:05 +0000"
+    },
+    {
+      "title": "Life Support review – quietly devastating medics’ eye view of the war in Gaza",
+      "summary": "<p>In the absence of foreign media, doctors are valuable witnesses to the Israel-Hamas conflict in Daniele Rugo’s documentary</p><p>Dying children and grieving parents are a fact of her work says Canadian paediatric intensive care doctor Tanya Haj-Hassan. “But Gaza is that continuously,” she adds, w",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/jul/07/life-support-review-medics-gaza-documentary",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 08:00:34 GMT"
+    },
+    {
+      "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
+      "summary": "At least 18 people, including four police officers, were wounded in the blasts, Syria's Interior Ministry says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 07:32:04 +0000"
+    },
+    {
+      "title": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
+      "summary": "The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 01:29:03 -0400"
+    },
+    {
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz",
+      "summary": "Iranian state television said the tanker came under attack after ignoring warnings but did not directly claim the assault.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 01:28:45 -0400"
+    },
+    {
+      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+      "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
+    },
     {
       "title": "UK charity funding school at heart of illegal Israeli settlement expansion",
       "summary": "<p>Friends of Yeshivat Shavei Hevron sent nearly £200,000 to school in Hebron – where Israel has been accused of imposing apartheid – between 2019 and 2024</p><p>A British charity is funding a religious school at the heart of expansion plans for the illegal Israeli settlement in the Palestinian city",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron",
       "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 14:10:08 GMT"
+      "pubDate": "Mon, 06 Jul 2026 21:37:11 GMT"
     },
     {
-      "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
-      "summary": "<p>Millions join funeral procession in capital of Tehran to mourn Khamenei who was kiled in US-Israel airstrikes in February</p><p><strong>Lebanese state media said an Israeli strike on a car in the country’s south on Monday killed four people, including three women, despite a fragile ceasefire betw",
+      "title": "‘We are Iran’s true missiles’: millions gather in Tehran for day four of Ali Khamenei’s funeral",
+      "summary": "<p>Drums, chants and much talk of revenge fills the air as ‘voice of the Iranian nation’ marches in temperatures of 36C</p><p>Iranians poured in vast numbers on to the central thoroughfare of Tehran on the fourth day of mourning for the assassinated former supreme leader, Ali Khamenei, claiming thei",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
+      "link": "https://www.theguardian.com/world/2026/jul/06/iran-tehran-ali-khamenei-funeral-day-four",
       "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 13:57:35 GMT"
+      "pubDate": "Mon, 06 Jul 2026 18:54:35 GMT"
     },
     {
-      "title": "Hamas dissolves its government in Gaza to transfer power to a UN-backed committee",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1ea9a26/2147483647/strip/true/crop/4886x3256+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2F34%2F3f9d607ad364a9d062f3b1ec7a54%2F923a4cbbea4248cb88d73e1f2e91672a\" width=\"100%\"><small style=\"color: #999;\">Ismail al-Thawabta, g",
-      "source": "AP News",
-      "link": "https://apnews.com/article/israel-gaza-palestinians-hamas-war-government-146f9a609580d4c8c42ab35fbe60d5b3",
+      "title": "Israeli police officer filmed throwing stun grenade into car in West Bank",
+      "summary": "Israel's police force says the officer acted \"not in accordance with procedure\" and that it has opened an investigation.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 13:53:03 +0000"
-    },
-    {
-      "title": "Hamas announces dissolution of Gaza governing body",
-      "summary": "A Palestinian technocratic committee will take its place to manage the enclave's day-to-day governance.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 13:36:52 +0000"
-    },
-    {
-      "title": "Detained Gaza doctor almost unrecognisable after injuries in Israeli jail, lawyer says",
-      "summary": "<p>Hussam Abu Safiya faces ‘tangible danger to his life’ following 18 months in prison without charge or trial</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates\">Middle East crisis live – l",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/06/detained-gaza-doctor-almost-unrecognisable-injuries-israeli-jail-hussam-abu-safiya",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 13:33:38 GMT"
-    },
-    {
-      "title": "UK sanctions Russian labs and people over chemical weapons used on Navalny and Skripal",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f624a63/2147483647/strip/true/crop/7564x5040+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Fe2%2Fd2e5266ee6cb5a39362f595d0a20%2F6728e51a72f64e7ab41631b5a9be2c7f\" width=\"100%\"><small style=\"color: #999;\">Royal Navy F-35B figh",
-      "source": "AP News",
-      "link": "https://apnews.com/article/uk-russia-sanctions-chemical-weapons-90d45542e9f13bc3f5ddf419ce3224f7",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 13:23:03 +0000"
-    },
-    {
-      "title": "Baby dies after Israeli troops block emergency journey to hospital",
-      "summary": "A baby died after his family’s attempt to reach hospital was blocked by Israel at a checkpoint in the occupied West Bank",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 13:13:53 +0000"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
-      "summary": "Israeli attacks on Gaza City and Khan Younis also wounded more than 20 people, medical sources say.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 12:15:52 +0000"
+      "pubDate": "Mon, 06 Jul 2026 18:52:48 GMT"
     },
     {
       "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
@@ -75,135 +179,31 @@
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 12:07:44 GMT"
+      "pubDate": "Mon, 06 Jul 2026 18:50:44 GMT"
     },
     {
-      "title": "Scorching heat worsens suffering in Gaza’s displacement camps",
-      "summary": "Scorching heat worsens suffering in Gaza's displacement camps",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/scorching-heat-worsens-suffering-in-gazas-displacement-camps?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 11:44:04 +0000"
-    },
-    {
-      "title": "Sean Duffy’s son-in-law divides Trump-backing Republicans in a Wisconsin congressional race",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/5792cc6/2147483647/strip/true/crop/4059x2705+0+98/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2F85%2Fe9fc4d76f8f1ba1c49b3d320d3b1%2F7d7a4801cffe4207a6dd20f9ae029884\" width=\"100%\"><small style=\"color: #999;\">Michael Alfonso, a H",
-      "source": "AP News",
-      "link": "https://apnews.com/article/wisconsin-house-race-duffy-alfonso-76b0af2f6a1497939129294a8535a22d",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 11:23:02 +0000"
-    },
-    {
-      "title": "Trump rings Wall Street’s opening bells as he ties his presidency to stock market gains",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/5bcc51a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Fcf%2F314e81ae13d13b9faa9638c3d0c0%2F5831e19307e14e7e913b7125993e1fff\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-wall-street-opening-bells-stock-market-e55efa6c06e6eef8feb9049a7800c136",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 11:23:02 +0000"
-    },
-    {
-      "title": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
-      "summary": "Enormous crowds gather in Tehran for third day to mourn amid calls for revenge against the US and Israel.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 10:52:55 +0000"
-    },
-    {
-      "title": "Millions walk with Ali Khamenei's coffin in Tehran funeral procession – video",
-      "summary": "<p>A crowd of millions assembled on Monday for the funeral procession of Iran’s assassinated supreme leader, Ali Khamenei.</p><p>The throng moved through Tehran from Revolution Square to Azadi Square surrounding trucks carrying the caskets of Khamenei and those of relatives killed in US and Israeli ",
+      "title": "Hamas offers to hand over authority in Gaza to US-backed administration",
+      "summary": "<p>Militant group’s statement makes no promise to disarm unilaterally as Israel and the US have demanded</p><p>Hamas has announced its intention to hand over governing authority in <a href=\"https://www.theguardian.com/world/gaza\">Gaza</a> after two decades in power, and has invited a US-backed inter",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/jul/06/millions-walk-ali-khamenei-coffin-tehran-funeral-procession-video",
+      "link": "https://www.theguardian.com/world/2026/jul/06/hamas-offers-hand-over-authority-gaza-us-backed-administration",
       "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 09:25:19 GMT"
+      "pubDate": "Mon, 06 Jul 2026 17:47:39 GMT"
     },
     {
-      "title": "Israeli command system identified 850,000 targets in Gaza and Lebanon wars, says supplier",
-      "summary": "<p>Elbit Systems supplied Tzayad digital army programme to map people, vehicles and other objects in real time</p><p>Israel identified about 1,000 potential targets a day during the first two years of the wars in Gaza and Lebanon with its command and control system, according to a presentation by th",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
+      "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire",
+      "summary": "Three women and one man were travelling in a car after visiting their family home, Lebanese state media reported.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 08:00:05 GMT"
-    },
-    {
-      "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
-      "summary": "Russia launched waves of missiles and drones at Kyiv early Monday, killing at least 12 people in an attack that exposed widening gaps in Ukraine's air defenses, authorities said.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 03:41:08 -0400"
+      "pubDate": "Mon, 06 Jul 2026 17:44:57 GMT"
     },
     {
       "title": "Millions join funeral procession for Iran’s supreme leader Ali Khamenei",
-      "summary": "<p>Crowds swelled through Tehran as mourners dressed in black carried flags proclaiming: ‘We will rise’</p><p>A crowd of millions assembled on Monday for the funeral procession of Iran’s assassinated supreme leader, <a href=\"https://www.theguardian.com/world/2026/mar/01/ayatollah-ali-khamenei-obitua",
+      "summary": "<p>Crowds swelled through Tehran as mourners dressed in black carried flags proclaiming: ‘We will rise’</p><p>A crowd of “millions” assembled on Monday for the funeral procession of Iran’s assassinated supreme leader, <a href=\"https://www.theguardian.com/world/2026/mar/01/ayatollah-ali-khamenei-obit",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
       "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 07:28:58 GMT"
-    },
-    {
-      "title": "My nine-year-old son Mohammad, killed by Israeli soldiers, is not just another number | Alia Abdel Majid Al-Hallaq",
-      "summary": "<p>Mohammad was shot after going to play football – and we joined the 54 families in the occupied West Bank whose children were killed by Israel in 2025 alone</p><p>My name is Aliyah Abdel Majid al-Halaq. I am 33 years old, from the village of ar-Rihiya, south of Hebron, and the mother of five child",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/06/children-killed-israeli-soldiers-occupied-west-bank",
-      "importance": "medium",
-      "pubDate": "Mon, 06 Jul 2026 05:00:03 GMT"
-    },
-    {
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Jul 2026 17:58:01 GMT"
-    },
-    {
-      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-      "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Jul 2026 17:54:47 GMT"
-    },
-    {
-      "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
-      "summary": "<p>New supreme leader Mojtaba Khamenei still absent from public view as his three brothers stand beside father’s coffin</p><p>Beside the coffin of the assassinated former Iranian supreme leader Ali Khamenei at a packed prayer hall in Tehran on Sunday there were calls for the killing of Donald Trump.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Jul 2026 17:39:40 GMT"
-    },
-    {
-      "title": "We must protect Palestinian children from being killed | Letter",
-      "summary": "<p>The world should be outraged about escalating violence in the West Bank, particularly against children, writes <strong>Dr Philip Goodwin </strong>of Unicef UK</p><p>Your report (<a href=\"https://www.theguardian.com/world/2026/jun/29/is-it-israels-aim-to-kill-our-children-west-bank-parents-implore",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/05/we-must-protect-palestinian-children-from-being-killed",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Jul 2026 16:04:54 GMT"
-    },
-    {
-      "title": "Gaza’s musicians reopen bomb-shattered conservatory – in tents",
-      "summary": "<p>Even though most of their instruments have been destroyed, teachers are restarting classes, using music to give relief to traumatised people</p><p>The three tents line a stretch of overcrowded, windswept sand, their windows open on to a view of the breaking waves of the Mediterranean. From inside",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/05/gazas-musicians-reopen-bomb-shattered-conservatory-in-tents",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Jul 2026 15:00:31 GMT"
-    },
-    {
-      "title": "Iran seeks to tighten control over strait of Hormuz alongside Khamenei funeral",
-      "summary": "<p>IRGC warnings force ships to turn back as Tehran uses passages from Qur’an to send messages to Gulf delegations</p><p>The diplomatic and military contest for control of the strait of Hormuz has intensified alongside the <a href=\"https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-fune",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Jul 2026 14:50:09 GMT"
-    },
-    {
-      "title": "Gaza protests against two Democrats spark outcry and debate on tactics",
-      "summary": "<p>Incidents involving California state senator Scott Wiener and New York congressman Dan Goldman underscore Israel-Palestine conflict’s role in US elections</p><p>Two recent incidents involving US congressional candidates on opposite coasts have blown up into major controversies, underscoring how t",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/jul/05/gaza-protests-democrats-debate-on-tactics",
-      "importance": "medium",
-      "pubDate": "Sun, 05 Jul 2026 13:00:29 GMT"
+      "pubDate": "Mon, 06 Jul 2026 17:25:12 GMT"
     }
   ]
 }
