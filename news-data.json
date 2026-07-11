@@ -1,33 +1,81 @@
 {
-  "generated": "2026-07-10T13:04:24.252Z",
-  "date": "Friday, July 10, 2026",
+  "generated": "2026-07-11T11:44:58.040Z",
+  "date": "Saturday, July 11, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "NATO leaders came to Turkey to discuss security. Erdogan gave them each an engraved revolver",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/05f84c0/2147483647/strip/true/crop/8308x5536+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2Ffd%2F8531ad2e59277d12f78e570037cb%2Fcecfc26a66ce4f8995ede453a8a57d7d\" width=\"100%\"><small style=\"color: #999;\">Leaders including NAT",
-      "source": "AP News",
-      "link": "https://apnews.com/article/erdogan-nato-summit-revolvers-unusual-gift-d495fce9e3630a9452bf505b0f1957eb",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 12:53:03 +0000"
-    },
-    {
-      "title": "Wildfires across Europe have killed hundreds over the last decade",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/b72e328/2147483647/strip/true/crop/4322x2880+399+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2F13%2F3c8f0e9e924a4f19dc38046f9ca1%2F063e52374023442fab27779d0ce012bf\" width=\"100%\"><small style=\"color: #999;\">This image made fro",
-      "source": "AP News",
-      "link": "https://apnews.com/article/wildfires-europe-spain-turkey-bf4593aa20b4a8d8d6a113f4f8740728",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 11:53:02 +0000"
-    },
-    {
-      "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
-      "summary": "Sources suggest that the ceasefire can be revived amid a lull in fighting and backroom diplomacy.",
+      "title": "Russian missile attacks wound 11 in Kyiv",
+      "summary": "In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 11:51:06 +0000"
+      "pubDate": "Sat, 11 Jul 2026 08:53:23 +0000"
+    },
+    {
+      "title": "Multiple New York Times reporters issued subpoenas over Air Force One reporting",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/2f51a82/2147483647/strip/true/crop/8256x5501+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2F4d%2F9c2e712610b2598b51f6f6c4d267%2F89fc03702e69407487875a33927cf4ea\" width=\"100%\"><small style=\"color: #999;\">Air Force One carryin",
+      "source": "AP News",
+      "link": "https://apnews.com/article/trump-nyt-air-force-one-qatari-jet-e2c798a95a1e41077d2cae969774df91",
+      "importance": "medium",
+      "pubDate": "Sat, 11 Jul 2026 08:53:03 +0000"
+    },
+    {
+      "title": "10 injured in overnight Russian missile and drone strikes on Kyiv",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/fa9f5bd/2147483647/strip/true/crop/7885x5254+2+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2Fb6%2F352e2a301e15ebe89f2d55cd5921%2F5b48235007c0443599703aed3bac8038\" width=\"100%\"><small style=\"color: #999;\">A sapper examines the",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-missiles-drones-kyiv-578044d589f94cc985b699ffcf301297",
+      "importance": "medium",
+      "pubDate": "Sat, 11 Jul 2026 08:23:02 +0000"
+    },
+    {
+      "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+      "summary": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 11 Jul 2026 08:04:57 +0000"
+    },
+    {
+      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+      "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
+      "importance": "medium",
+      "pubDate": "Sat, 11 Jul 2026 02:34:09 -0400"
+    },
+    {
+      "title": "Are the US and Iran at war again?",
+      "summary": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 11 Jul 2026 04:51:20 +0000"
+    },
+    {
+      "title": "Europe considering proposals to allow navigational fees in strait of Hormuz",
+      "summary": "<p>Plans specify tolls must not be compulsory, as US officials urge Iran to make public statement that strait is open and that shipping can safely pass</p><p>Europe is studying proposals that may allow the charging of navigational fees in the strait of Hormuz so long as the tolls are not compulsory ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us",
+      "importance": "medium",
+      "pubDate": "Sat, 11 Jul 2026 04:32:15 GMT"
+    },
+    {
+      "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
+      "summary": "US president says orders given to 'decimate and destroy all areas of Iran' if he is assassinated",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 11 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "summary": "<p>The US’s 250th anniversary, the funeral of Ali Khamenei, another brutal heatwave in Europe and the World Cup – <a href=\"https://www.instagram.com/theguardian20photos/?hl=en-gb\">the past seven days as captured by the world’s leading photojournalists</a></p> <a href=\"https://www.theguardian.com/art",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/10/the-week-around-the-world-in-20-pictures",
+      "importance": "medium",
+      "pubDate": "Fri, 10 Jul 2026 18:22:53 GMT"
     },
     {
       "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
@@ -38,22 +86,6 @@
       "pubDate": "Fri, 10 Jul 2026 07:43:38 -0400"
     },
     {
-      "title": "US-Iran war: Will peace talks resume, and when?",
-      "summary": "While Trump said the MoU with Iran is 'over', US officials have reaffirmed Washington's commitment to continue talks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 11:43:28 +0000"
-    },
-    {
-      "title": "Mysterious airstrikes target Iran after US attacks, raising questions of who launched them",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/afcfa24/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F98%2F8370c527e7760aa7749c542d9b93%2F6243dbd684d0459fa0e6533453712e59\" width=\"100%\"><small style=\"color: #999;\">A man waves an Irania",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-israel-war-hormuz-july-10-2026-4bf4fdd1f4d782ff08f60d152909faee",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 11:23:02 +0000"
-    },
-    {
       "title": "‘They made us say he was a martyr’: families at Iran’s largest cemetery mourn those killed in the January protests",
       "summary": "<p>Six months on from the bloody crackdown on anti-regime protesters, families remembering loved ones at their graves at Behesht-e Zahra in Tehran tell their stories</p><p>Family members gather to mourn Sepehr, who was 25 when he was killed in the January protests</p><p>A woman at Behesht-e Zahra pr",
       "source": "The Guardian — Middle East",
@@ -62,68 +94,12 @@
       "pubDate": "Fri, 10 Jul 2026 11:00:18 GMT"
     },
     {
-      "title": "Egypt’s soccer team gets a warm welcome home after World Cup loss",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4c50fce/2147483647/strip/true/crop/3137x2090+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2F0b%2Fe4a0ea26b918febeac3968218125%2F0e67d003afc34e65a28bd6e5ace2f243\" width=\"100%\"><small style=\"color: #999;\">Egypt&#x27;s Mohamed ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/world-cup-egypt-soccer-team-return-salah-2bf6f8957b4857193d3295f752a2fd2c",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 10:53:03 +0000"
-    },
-    {
-      "title": "How Hamas Governed Gaza",
-      "summary": "Hamas is dissolving its government and handing power over to a new technocratic administration.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/how-hamas-governed-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 10:11:33 +0000"
-    },
-    {
-      "title": "EU states do not need ‘consensus’ to hold Israel accountable",
-      "summary": "As foreign ministers meet on Gaza and the West Bank, national governments cannot hide behind EU paralysis.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 09:28:32 +0000"
-    },
-    {
-      "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
-      "summary": "The Damascus attacks appeared to be attempts to cause instability, but don't signal total security breakdown in Syria.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 09:21:22 +0000"
-    },
-    {
-      "title": "Shelling at night, gunfire by day in Israel's expanding zone of control in Gaza",
+      "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
       "summary": "When the U.S. brokered a ceasefire last year, Israel controlled half of Gaza. Now Israeli forces have pushed deeper, and Palestinians are paying a deadly price.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
       "importance": "medium",
       "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Degree but no job: The battle against unemployment in Gaza",
-      "summary": "Gaza's young graduates face sky-high unemployment as Israel's war devastates job market.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 08:48:59 +0000"
-    },
-    {
-      "title": "Administration without sovereignty will not free Palestine",
-      "summary": "The end of Hamas governance in Gaza may change who administers it, but not who holds power over Palestinian life.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 08:03:44 +0000"
-    },
-    {
-      "title": "The US is building a new pressure architecture against Iran",
-      "summary": "Trump’s NATO diplomacy is part of a wider effort to weaken Tehran by reshaping the region around it.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 10 Jul 2026 07:29:09 +0000"
     },
     {
       "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
@@ -204,6 +180,30 @@
       "link": "https://www.theguardian.com/news/audio/2026/jul/09/us-iran-strikes-trump-peace-deal-over-the-latest",
       "importance": "medium",
       "pubDate": "Thu, 09 Jul 2026 15:50:55 GMT"
+    },
+    {
+      "title": "‘It was back-to-back explosions’: Iranians recall 48 hours of terror after US attack on port cities",
+      "summary": "<p>Residents in Bandar Abbas and Sirik regions describe communities in fear and ‘feeling abandoned’ after US strikes </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates\">Middle East c",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/09/iran-residents-terror-us-fresh-strikes-port-cities",
+      "importance": "medium",
+      "pubDate": "Thu, 09 Jul 2026 15:02:25 GMT"
+    },
+    {
+      "title": "Trump is bombing Iran again and blundering again. He has no grasp of his enemy | Sina Toossi",
+      "summary": "<p>The president is behaving as if the battleground is the same, but it isn’t. Iran has leverage and knows it</p><p>And so to war. Again. After a ceasefire and a hiatus, Donald Trump is now into the <a href=\"https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/09/trump-is-bombing-iran-again-and-blundering-again-he-has-no-grasp-of-his-enemy",
+      "importance": "medium",
+      "pubDate": "Thu, 09 Jul 2026 09:17:34 GMT"
+    },
+    {
+      "title": "‘Here I can live a good life’: inside the Syrian commune where men are banned",
+      "summary": "<p>The gates of Jinwar are guarded but inside is a peaceful refuge created by women escaping war and hardship. Photographer Matteo Trevisan documents life here and at other female-led communities in the country’s north-east</p><p>A mother carrying a rifle on her shoulder and gripping a walkie-talkie",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/jul/09/women-syria-female-led-communities-photographer-matteo-trevisan-communes-collectives-escaping-war",
+      "importance": "medium",
+      "pubDate": "Thu, 09 Jul 2026 05:00:53 GMT"
     }
   ]
 }
