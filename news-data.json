@@ -1,17 +1,193 @@
 {
-  "generated": "2026-07-13T13:11:55.871Z",
-  "date": "Monday, July 13, 2026",
+  "generated": "2026-07-14T12:05:26.548Z",
+  "date": "Tuesday, July 14, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Traffic through strait of Hormuz plummets after US and Iran trade strikes – Middle East crisis live",
-      "summary": "<p>Trump claims US will become ‘the guardian of the strait’ after reportedly the lowest levels of crossings in a month </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz\">US launches new attack wave on Iran as Tehran says d",
+      "title": "Explosions heard across Iran, state media reports, after UAE oil tankers hit in Hormuz strait – Middle East crisis live",
+      "summary": "<p>UAE says Iranian cruise missiles hit two oil tankers in strait, killing a crew member and wounding eight</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade\">US launches third night of strikes on Iran a",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 12:00:13 GMT"
+    },
+    {
+      "title": "Iran targets Bahrain and Jordan in retaliation as US strikes continue",
+      "summary": "<p>US hits targets in port cities of Bushehr and Bandar Abbas while Iran attacks two tankers in strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">Middle East crisis live –",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 11:38:10 GMT"
+    },
+    {
+      "title": "How new Yemen tensions could complicate the global energy crisis",
+      "summary": "If the fighting in Yemen expands, and the Houthis try to block the Bab al-Mandeb, the world economy faces a new shock.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 11:22:29 +0000"
+    },
+    {
+      "title": "Lebanon, Israel hold talks in Rome on implementing framework deal",
+      "summary": "Beirut is hoping for progress towards securing an Israeli withdrawal from southern Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 11:00:58 +0000"
+    },
+    {
+      "title": "Can Gulf countries defend themselves against renewed Iranian attacks?",
+      "summary": "Expensive interceptor missiles are facing mounting pressure from Iran's cheaply produced drones.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 10:59:02 +0000"
+    },
+    {
+      "title": "Schumer slams Trump over Iran war",
+      "summary": "Schumer slams Trump over Iran war",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 10:34:14 +0000"
+    },
+    {
+      "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
+      "summary": "Tensions escalate as the US president threatens to destroy Iran's fortified nuclear site in the south of Tehran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 10:11:22 +0000"
+    },
+    {
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "summary": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 10:02:43 GMT"
+    },
+    {
+      "title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+      "summary": "The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 05:56:45 -0400"
+    },
+    {
+      "title": "Iranian flights to Yemen are violation of sovereignty, says Yemeni official",
+      "summary": "<p>Plane bringing Houthi delegation home from Tehran had to divert after Yemeni government bombed Sana’a airport</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">Middle East crisis live –",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/14/iran-flight-sanaa-yemen-houthis-saudi",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 09:43:54 GMT"
+    },
+    {
+      "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+      "summary": "While Trump has threatened to hit targets in Iran including Pickaxe Mountain, he has said a deal is possible.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 08:52:22 +0000"
+    },
+    {
+      "title": "US military releases video of its latest strikes on Iran",
+      "summary": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 08:23:29 +0000"
+    },
+    {
+      "title": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+      "summary": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 06:41:51 +0000"
+    },
+    {
+      "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
+      "summary": "US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 05:15:40 +0000"
+    },
+    {
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 14 Jul 2026 04:50:48 GMT"
+    },
+    {
+      "title": "Trump says US reinstating blockade on Iranian ports – as it happened",
+      "summary": "<p>This blog is closed – our live coverage <a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">continues here</a></p><p>Bahrain’s military has accused Iran of targeting civilians with its latest attacks o",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 13:03:38 GMT"
+      "pubDate": "Tue, 14 Jul 2026 03:27:16 GMT"
+    },
+    {
+      "title": "US launches third night of strikes on Iran as Trump announces Hormuz blockade",
+      "summary": "<p>American president says ships will be charged for safe passage through strait in apparent policy reversal</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">Middle East crisis live – lat",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Jul 2026 22:43:12 GMT"
+    },
+    {
+      "title": "Pakistan urges restraint as its Mideast deal unravels",
+      "summary": "Pakistan urges restraint as Iran and the U.S. clash and a memorandum of understanding unravels.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/13/nx-s1-5891718/pakistan-urges-restraint-as-its-mideast-deal-unravels",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Jul 2026 16:55:21 -0400"
+    },
+    {
+      "title": "Trump renews Iran blockade and again threatens to take control of strait of Hormuz",
+      "summary": "<p>US president declares waterway open and demands tariff as both sides engage in heavy drone and missile exchanges</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates\">Middle East crisis live – latest up",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Jul 2026 18:26:41 GMT"
+    },
+    {
+      "title": "Israel sets October date for first elections since Hamas attacks in 2023",
+      "summary": "<p>Vote will allow Israelis to pass judgment on Benjamin Netanyahu and his handling of conflicts in Gaza and Iran</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">Middle East crisis live ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/13/israel-sets-october-date-first-elections-since-hamas-attacks-2023",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Jul 2026 18:08:18 GMT"
+    },
+    {
+      "title": "Israel courted Iran’s former hardline president for post-regime role, reports claim",
+      "summary": "<p>Mahmoud Ahmadinejad reportedly wooed by Mossad agents after distancing himself from Khamenei</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">Middle East crisis live – latest updates</",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/13/israel-courted-mahmoud-ahmadinejad-iran-former-hardline-president-post-regime-role-reports-claim",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Jul 2026 17:36:49 GMT"
+    },
+    {
+      "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
+      "summary": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Jul 2026 12:53:40 -0400"
+    },
+    {
+      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "summary": "Within hours of the latest US attacks, Iran said it had struck US military assets in Kuwait, Jordan, Bahrain and Oman.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 13 Jul 2026 15:16:09 GMT"
     },
     {
       "title": "UK bans support for Iran's Islamic Revolutionary Guard Corps",
@@ -22,188 +198,12 @@
       "pubDate": "Mon, 13 Jul 2026 12:50:19 GMT"
     },
     {
-      "title": "March to July: What’s different as US-Iran fighting escalates again?",
-      "summary": "With ceasefire in shambles and both sides exchanging tit-for-tat attacks, is the region again plunging into all-out war?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 12:12:46 +0000"
-    },
-    {
       "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
       "summary": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
       "importance": "medium",
       "pubDate": "Mon, 13 Jul 2026 08:02:33 -0400"
-    },
-    {
-      "title": "UK to list Iran’s Islamic Revolutionary Guard Corps as terrorist organisation",
-      "summary": "<p>Home Office announces ban on support for Iranian military group in escalation of diplomatic tensions with Tehran</p><p>The UK will list Iran’s Islamic Revolutionary Guard Corps as a terrorist organisation, ministers have announced, in a major escalation of the diplomatic tensions with Tehran.</p>",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/politics/2026/jul/13/uk-list-iran-islamic-revolutionary-guard-corps-irgc-terrorist-organisation",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 11:42:28 GMT"
-    },
-    {
-      "title": "Yemen government says its forces attacked Sanaa airport",
-      "summary": "Gov't says its forces carried out a strike at Sanaa airport to prevent an Iranian aircraft from landing there.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 11:38:03 +0000"
-    },
-    {
-      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 11:36:18 GMT"
-    },
-    {
-      "title": "US launches new wave of strikes against Iran as Tehran says diplomacy has proven ‘futile’",
-      "summary": "<p>American and Iranian forces exchange heavy missile and drone attacks over control of strait of Hormuz, increasing pressure on truce</p><p>• <a href=\"https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates\">Middle East crisis liv",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 11:35:55 GMT"
-    },
-    {
-      "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
-      "summary": "Pressure from EU member states to impose sanctions has increased in recent months amid escalating settler violence.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 10:32:25 +0000"
-    },
-    {
-      "title": "Zaghari-Ratcliffe condemns Iran’s ‘cruel’ rearrest of wildlife activist couple",
-      "summary": "<p>Nazanin Zaghari-Ratcliffe was in prison with Sepideh Kashani, who worked with husband Houman Jokar to save Asiatic cheetah</p><p>Nazanin Zaghari-Ratcliffe has described the rearrest of two Iranian environmentalists, one of whom she met at Evin prison, as “unimaginably cruel and alarming”.</p><p>H",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/13/nazanin-zaghari-ratcliffe-condemns-iran-rearrest-of-wildlife-activists-houman-jokar-sepideh-kashani",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 09:59:13 GMT"
-    },
-    {
-      "title": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
-      "summary": "Damascus residents say state-supplied power has noticeably improved recently but complain about the cost of energy.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 09:34:50 +0000"
-    },
-    {
-      "title": "New Iran strikes on Gulf as US attacks escalate: What we know",
-      "summary": "Iran targets its Gulf neighbours in third round of tit-for-tat attacks with US in a week.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 09:16:08 +0000"
-    },
-    {
-      "title": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
-      "summary": "Diana Williams embroiders names of 300 babies killed by Israel on gown, an evocative work she hopes will reach New York.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 09:05:54 +0000"
-    },
-    {
-      "title": "US and Iran trade strikes as ceasefire comes under growing strain",
-      "summary": "Iran's IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 09:01:48 +0000"
-    },
-    {
-      "title": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
-      "summary": "Retired US General Mark Kimmitt warns renewed attacks in the Strait of Hormuz could push the US and Iran",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 07:41:59 +0000"
-    },
-    {
-      "title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
-      "summary": "Putting all the blame on the Iranian president covers up tensions between competing factions in Tehran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 07:24:57 +0000"
-    },
-    {
-      "title": "US releases footage of strikes on Iran",
-      "summary": "US Central Command says it attacked military targets in Iran and at sea.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/c8628y50508o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 07:07:50 GMT"
-    },
-    {
-      "title": "Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza",
-      "summary": "A look at Sheikh Hamad bin Khalifa Al Thani's enduring legacy of solidarity and support for the Palestinian people.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 05:39:53 +0000"
-    },
-    {
-      "title": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
-      "summary": "Iran launches attacks on Gulf states, targeting US military assets in Bahrain, Kuwait, and Jordan.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 05:15:54 +0000"
-    },
-    {
-      "title": "In Israel’s prisons, torture and death have become a norm that it barely tries to hide | Nesrine Malik",
-      "summary": "<p>The suffering of Dr Hussam Abu Safiya is no isolated case. The abuse of Palestinian detainees is happening in plain sight, yet nothing changes</p><p>“This is the end. I don’t see myself surviving. They brought me here to kill me.” These <a href=\"https://www.theguardian.com/world/2026/jul/06/detai",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/13/israel-prison-torture-death-hussam-abu-safiya-palestine",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 05:00:38 GMT"
-    },
-    {
-      "title": "Iran launches retaliatory attacks after fresh US strikes – as it happened",
-      "summary": "<p>This live blog has now closed – you can read our latest report from the Middle East <a href=\"https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz\">here</a></p><p><strong>Bahrain’s interior ministry instructed residents to take shelter after attac",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/jul/13/middle-east-crisis-live-us-launches-new-wave-of-strikes-on-iran-tehran-says-attacks-render-diplomacy-futile",
-      "importance": "medium",
-      "pubDate": "Mon, 13 Jul 2026 04:39:50 GMT"
-    },
-    {
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Jul 2026 22:17:40 GMT"
-    },
-    {
-      "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles?",
-      "summary": "NPR's Don Gonyea speaks with Seth Jones from the Center for Strategic and International Studies about President Trump granting Ukraine permission to produce Patriot missiles.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5887435/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Jul 2026 17:08:18 -0400"
-    },
-    {
-      "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
-      "summary": "<p>Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham Platner</p><p>Ro Khanna accused the Israeli government and military of “lying” on Sunday about the US congressman’s <a href=\"https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detain",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Jul 2026 20:25:43 GMT"
-    },
-    {
-      "title": "Trump rejects Iran’s strait of Hormuz closure claim as fight for control goes on",
-      "summary": "<p>Ceasefire at the point of collapse after almost a week of tit-for-tat exchanges escalate tensions across Gulf region </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/13/middle-east-crisis-live-us-launches-new-wave-of-strikes-on-iran-tehran-says-attacks-render-diplomacy-futi",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-      "importance": "medium",
-      "pubDate": "Sun, 12 Jul 2026 18:49:08 GMT"
     }
   ]
 }
