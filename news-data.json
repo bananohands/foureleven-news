@@ -1,17 +1,145 @@
 {
-  "generated": "2026-07-16T12:14:11.476Z",
-  "date": "Thursday, July 16, 2026",
+  "generated": "2026-07-17T12:02:07.891Z",
+  "date": "Friday, July 17, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Iran claims strikes on US bases, warns of wider attacks on region",
-      "summary": "Iran claims strikes on US bases, warns of wider attacks on region",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss",
+      "title": "Iranian airport and bridges hit as US forces board ship amid ports blockade – Middle East crisis live",
+      "summary": "<p>Southern rail station also attacked, Iranian media says, as IRGC claims to have destroyed US fighter jets stationed in Jordan</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran\">US marines board tanker amid blockade of Ira",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 12:00:45 +0000"
+      "pubDate": "Fri, 17 Jul 2026 11:57:55 GMT"
+    },
+    {
+      "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
+      "summary": "Analysts say the goals range from targeting Iran's supply lines to curbing its influence in the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 11:26:39 +0000"
+    },
+    {
+      "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+      "summary": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 07:13:58 -0400"
+    },
+    {
+      "title": "Knesset dissolves: How will Israel vote in October’s general election?",
+      "summary": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 10:10:25 +0000"
+    },
+    {
+      "title": "Israel headed for October election as parliament dissolved",
+      "summary": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 09:42:05 +0000"
+    },
+    {
+      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "summary": "Berlin warns against a 'security vacuum' in Lebanon's south once UNIFIL mandate expires at year's end.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 09:24:03 +0000"
+    },
+    {
+      "title": "US strikes destroy key bridges, tower in southern Iran",
+      "summary": "US strikes destroy key bridges, tower in southern Iran",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 08:57:56 +0000"
+    },
+    {
+      "title": "Gulf states come under Iranian fire as US strikes intensify",
+      "summary": "Tehran targets multiple countries across the region as the wave of US strikes on Iran steps up.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 08:18:13 +0000"
+    },
+    {
+      "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
+      "summary": "Iran struck Bahrain, Qatar, Oman, Jordan and Syria in retaliation for US strikes.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 07:56:06 +0000"
+    },
+    {
+      "title": "US bombards Iran in sixth-straight night of attacks",
+      "summary": "The US has made good on threats to bomb civilian infrastructure in Iran in its sixth-straight night of attacks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 04:57:08 +0000"
+    },
+    {
+      "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+      "summary": "Clashes erupted after Israeli settlers attacked the outskirts of the occupied West Bank town of Sinjil.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 04:39:08 +0000"
+    },
+    {
+      "title": "Marines board tanker amid blockade of Iranian ports as US expands strikes with attacks on bridges",
+      "summary": "<p>Boarding of M/T Wen Yao in Gulf of Oman comes as expanded airstrike campaign hits five bridges in southern Iran</p><p>American forces boarded a ship in the Gulf of Oman on Thursday as part of the renewed blockade of Iran’s ports that began earlier this week, the US military said.</p><p>US Marines",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
+      "importance": "medium",
+      "pubDate": "Fri, 17 Jul 2026 03:50:21 GMT"
+    },
+    {
+      "title": "Iran reports fresh strikes near Qeshm Island and accuses US over ‘barbaric’ hospital attack – as it happened",
+      "summary": "<p>This live blog has been paused</p><p>The Lebanese foreign minister, <strong>Youssef Raggi,</strong> said Lebanon has made a decision to <strong>“end Hezbollah’s military presence”</strong> and that decisions on war and foreign policy are the “exclusive prerogative of the Lebanese state”.</p><p>Th",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Thu, 16 Jul 2026 16:47:55 GMT"
+    },
+    {
+      "title": "US intensifies attacks on Iran as Tehran hits back at Gulf states",
+      "summary": "<p>Sixth day of fighting threatens to turn into all-out war and casts serious doubt on peace deal struck last month</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/15/chaos-confusion-no-closer-resolution-strait-hormuz-us-iran-donald-trump\">Chaos and confusion bring US no closer to ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/16/us-intensifies-attacks-on-iran-as-tehran-hits-back-at-gulf-states",
+      "importance": "medium",
+      "pubDate": "Thu, 16 Jul 2026 16:32:18 GMT"
+    },
+    {
+      "title": "Trump’s Board of Peace drops full Gaza recovery plan in favour of tiny pilot scheme",
+      "summary": "<p>Revised plan aims to ‘keep something going’ amid fears Netanyahu may gamble on new all-out offensive before Israeli elections</p><p>The Gaza recovery plan being pursued by Donald Trump’s Board of Peace (BoP) has shrunk dramatically from <a href=\"https://www.theguardian.com/world/2026/jan/22/trump",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/16/trumps-board-of-peace-drops-full-gaza-recovery-plan-for-tiny-pilot-scheme",
+      "importance": "medium",
+      "pubDate": "Thu, 16 Jul 2026 13:58:29 GMT"
+    },
+    {
+      "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
+      "summary": "<p>Diesel tops $5 a gallon as regular gas reaches almost $4, nearly a dollar and a quarter more than a year ago</p><p>The average price of diesel fuel in the US has increased again to more than $5 a gallon, <a href=\"https://gasprices.aaa.com/\">according to the AAA</a>, and the average price of gas i",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Thu, 16 Jul 2026 12:26:57 GMT"
+    },
+    {
+      "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
+      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 16 Jul 2026 12:09:26 GMT"
     },
     {
       "title": "Iran targets military bases as US launches wave of strikes",
@@ -22,38 +150,6 @@
       "pubDate": "Thu, 16 Jul 2026 11:48:49 GMT"
     },
     {
-      "title": "US intensifies attacks on Iran as Tehran hits back at Gulf states",
-      "summary": "<p>Sixth day of fighting threatens to turn into all-out war and casts serious doubt on peace deal struck last month</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/15/chaos-confusion-no-closer-resolution-strait-hormuz-us-iran-donald-trump\">Chaos and confusion bring US no closer to ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/16/us-intensifies-attacks-on-iran-as-tehran-hits-back-at-gulf-states",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 11:47:12 GMT"
-    },
-    {
-      "title": "US strikes expand to northern Iran as Tehran fires on Bahrain, Kuwait and Jordan – Middle East crisis live",
-      "summary": "<p>Iran reports explosions in several cities including capital while US military says it also hit and disabled tanker in strait of Hormuz </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes\">US attacks oil tanker in strait ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 11:45:01 GMT"
-    },
-    {
-      "title": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
-      "summary": "Hussein Saleh describes an Israeli air attack in Tyre that killed his family, including his wife and his only child.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 11:40:05 +0000"
-    },
-    {
-      "title": "Palestinians fight fires after settler attacks in the occupied West Bank",
-      "summary": "Overnight Israeli settler attacks set farmlands ablaze in Masafer Yatta and burned vehicles near Tulkarem.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-fight-fires-after-settler-attacks-in-the-occupied-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 11:36:47 +0000"
-    },
-    {
       "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
       "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term.",
       "source": "NPR World",
@@ -62,60 +158,12 @@
       "pubDate": "Thu, 16 Jul 2026 07:29:01 -0400"
     },
     {
-      "title": "‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU",
-      "summary": "The vague language of the US-Iran MoU made the present escalation in the Strait of Hormuz all but inevitable.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/16/safe-passage-the-fatal-ambiguity-at-the-heart-of-the-hormuz-mou?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 10:27:59 +0000"
-    },
-    {
-      "title": "Yemen is edging closer to renewed confrontation",
-      "summary": "The Iranian aircraft incident has exposed a fragile calm that may not survive a wider regional escalation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/16/yemen-is-edging-closer-to-renewed-confrontation?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 09:36:38 +0000"
-    },
-    {
       "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
       "summary": "As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism",
       "importance": "medium",
       "pubDate": "Thu, 16 Jul 2026 04:44:04 -0400"
-    },
-    {
-      "title": "Vance says Epstein had connections to US, Israeli intelligence",
-      "summary": "The US vice president says Epstein 'seemed' to be connected to elements of the 'Israeli deep state'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 08:37:54 +0000"
-    },
-    {
-      "title": "US releases video of strikes on Iran",
-      "summary": "US releases video of strikes on Iran",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/us-releases-video-of-strikes-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 08:26:24 +0000"
-    },
-    {
-      "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
-      "summary": "Strikes have hit closer to Tehran for the first time since the latest wave of attacks started.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 08:23:40 +0000"
-    },
-    {
-      "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
-      "summary": "Iran's Health Ministry has said at least 35 people have been killed and more than 300 injured since fighting resumed.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 16 Jul 2026 08:18:23 +0000"
     },
     {
       "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
@@ -150,60 +198,12 @@
       "pubDate": "Thu, 16 Jul 2026 02:40:19 GMT"
     },
     {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "summary": "The U.S. has fought three major wars in the past quarter-century, in Iran, Iraq and Afghanistan. None has gone as planned.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5844921/why-is-it-so-hard-for-the-u-s-to-win-wars",
-      "importance": "medium",
-      "pubDate": "Wed, 15 Jul 2026 18:05:12 -0400"
-    },
-    {
-      "title": "Sen. Shaheen discusses new Russia sanctions bill",
-      "summary": "A conversation with Jeanne Shaheen, Democratic Senator from New Hampshire, about a bipartisan bill she put together with the late Senator Lindsey Graham that slaps new sanctions on Russia.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5893688/sen-shaheen-discusses-new-russia-sanctions-bill",
-      "importance": "medium",
-      "pubDate": "Wed, 15 Jul 2026 17:23:00 -0400"
-    },
-    {
-      "title": "The crews stuck at sea as the Strait of Hormuz crisis grows",
-      "summary": "The Strait of Hormuz crisis is leaving thousands of crew members on commercial ships stranded. Arsenio Dominguez, head of the UN's International Maritime Organization, explains.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5894731/the-crews-stuck-at-sea-as-the-strait-of-hormuz-crisis-grows",
-      "importance": "medium",
-      "pubDate": "Wed, 15 Jul 2026 16:54:15 -0400"
-    },
-    {
       "title": "Chaos and confusion bring US no closer to resolution on strait of Hormuz",
       "summary": "<p>Five months of U-turns and false boasts leave Donald Trump in worse position than when he started</p><p>Donald Trump has taken the war with Iran into a new, murkier phase as the two sides move further and further from the <a href=\"https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gu",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/jul/15/chaos-confusion-no-closer-resolution-strait-hormuz-us-iran-donald-trump",
       "importance": "medium",
       "pubDate": "Wed, 15 Jul 2026 17:32:52 GMT"
-    },
-    {
-      "title": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
-      "summary": "<p>Tehran shuts strait of Hormuz and carries out retaliatory strikes as Trump threatens to attack site linked to Iran’s nuclear programme</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-ne",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
-      "importance": "medium",
-      "pubDate": "Wed, 15 Jul 2026 17:01:59 GMT"
-    },
-    {
-      "title": "‘They want to break our will’: Gaza flotilla activist tells of rape in Israeli detention",
-      "summary": "<p>Anna Liedtke files criminal complaint in Israel over alleged attack by female guards and says abuse was intended to silence campaigners</p><p>The third time Anna Liedtke was subjected to an illegal strip-search in Israeli detention, female prison guards forced her on to her knees, covered her mou",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/15/gaza-flotilla-activist-rape-complaint-israel-anna-liedtke",
-      "importance": "medium",
-      "pubDate": "Wed, 15 Jul 2026 13:00:55 GMT"
-    },
-    {
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 15 Jul 2026 09:06:52 GMT"
     }
   ]
 }
