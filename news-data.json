@@ -1,33 +1,169 @@
 {
-  "generated": "2026-07-19T11:48:46.693Z",
-  "date": "Sunday, July 19, 2026",
+  "generated": "2026-07-20T13:00:31.897Z",
+  "date": "Monday, July 20, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Iranians suffer from power blackouts during war and heatwave",
-      "summary": "Collapsing grid, battered by military strikes and chronic underinvestment, leaves Iranians sweltering in the dark.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
+      "title": "US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live",
+      "summary": "<p>US military says it is ‘holding Iran accountable’ as maritime agency reports a vessel on fire in strait </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices\">US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
       "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 11:16:20 +0000"
+      "pubDate": "Mon, 20 Jul 2026 12:51:19 GMT"
     },
     {
-      "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
-      "summary": "<p>Fresh attacks comes after Iran’s supreme leader warned Washington would pay for ‘seeking to escalate’ the conflict</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict\">Two US troops killed and one missing in",
+      "title": "Don’t believe Andy Burnham’s PR machine",
+      "summary": "As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/7/20/dont-believe-andy-burnhams-pr-machine?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 12:15:05 +0000"
+    },
+    {
+      "title": "Iran says Spain World Cup win brings joy to critics of US, Israel",
+      "summary": "Iran praises Spain's win over Argentina after Spanish government's condemnation of policies on Gaza and war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 11:50:40 +0000"
+    },
+    {
+      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+      "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 07:40:28 -0400"
+    },
+    {
+      "title": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
+      "summary": "Analysts say Iran is using Gulf states to pressure Washington while avoiding direct confrontation with US forces.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 11:35:02 +0000"
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
+      "summary": "Al-Hayya was previously one of the five-member leadership council after previous Hamas chief Yahya Sinwar was killed.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 11:27:04 +0000"
+    },
+    {
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 11:18:40 GMT"
+    },
+    {
+      "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+      "summary": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 10:08:00 +0000"
+    },
+    {
+      "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
+      "summary": "The U.S. attacks were the ninth consecutive day of bombing since peace talks between the two countries collapsed in dispute over a memorandum of understanding focused on the Strait of Hormuz.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 06:04:56 -0400"
+    },
+    {
+      "title": "House Democrats are finally shifting on Israel. Party leaders must listen | Norman Solomon",
+      "summary": "<p>More than 100 Democratic lawmakers voted against arms for Israel. They’re listening to the people – their bosses are behind</p><p>The Democratic party is in dire need of a mutiny.</p><p>Top leaders at the party’s helm are unprepared to navigate the political sea change about Israel. Last week, ne",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/20/house-democrats-israel-hakeem-jeffries-schumer",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 10:00:54 GMT"
+    },
+    {
+      "title": "US expands Iran offensive as diplomats claim talks ongoing",
+      "summary": "<p>US military confirms third service member killed in current round of fighting, as price of oil passes $90 a barrel</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news\">Middle East crisis live – ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 09:34:42 GMT"
+    },
+    {
+      "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+      "summary": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 08:41:06 +0000"
+    },
+    {
+      "title": "Key takeaways from the World Cup 2026 final as Spain beat Argentina",
+      "summary": "Midfield dominance, stifling Lionel Messi and gifted wingers - Spain outclassed Argentina to lift the World Cup.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/key-takeaways-from-the-world-cup-2026-final-as-spain-beat-argentina?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 08:15:31 +0000"
+    },
+    {
+      "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
+      "summary": "Iran's IRGC claims an attack on Jordan while the US embassy issues a warning to Americans in Bahrain.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 20 Jul 2026 07:47:42 +0000"
+    },
+    {
+      "title": "Middle East crisis: US military says service member killed during ‘controlled detonation’ of downed Iranian drone – as it happened",
+      "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes\">US says another troop killed as Israel warns Tehran’s attacks coming close</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/jul/18/",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
       "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 11:15:30 GMT"
+      "pubDate": "Sun, 19 Jul 2026 20:25:52 GMT"
     },
     {
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
+      "summary": "<p>US military says service member was killed in Iraq during ‘controlled detonation’ as it launches more airstrikes at Iran</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news\">Middle East crisis l",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+      "importance": "medium",
+      "pubDate": "Sun, 19 Jul 2026 20:16:44 GMT"
+    },
+    {
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 11:10:40 GMT"
+      "pubDate": "Sun, 19 Jul 2026 19:45:12 GMT"
+    },
+    {
+      "title": "Israel threatens ‘full force’ response if Iran fires missiles towards it",
+      "summary": "<p>Return to all-out regional war grows increasingly likely as US and Iran trade strikes and Trump warns of escalation</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news\">Middle East crisis live: ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/19/israel-threatens-full-force-response-iran-fires-missiles",
+      "importance": "medium",
+      "pubDate": "Sun, 19 Jul 2026 17:30:32 GMT"
+    },
+    {
+      "title": "Israel’s brutality cannot continue in plain sight | Letters",
+      "summary": "<p><strong>Gwyn Daniel </strong>and<strong> Phil Gaunt </strong>respond to an article by Nesrine Malik about the horrors taking place in Israel’s prisons</p><p>Nesrine Malik’s incisive piece (<a href=\"https://www.theguardian.com/commentisfree/2026/jul/13/israel-prison-torture-death-hussam-abu-safiya",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/19/israels-brutality-cannot-continue-in-plain-sight",
+      "importance": "medium",
+      "pubDate": "Sun, 19 Jul 2026 15:45:45 GMT"
+    },
+    {
+      "title": "‘He’s a war criminal’: Mamdani exploring whether he can arrest Netanyahu if he visits New York",
+      "summary": "<p>NYC mayor says in Times interview that’s he’s in ‘active conversation’ with city’s law department about the matter</p><p>New York City mayor <a href=\"https://www.theguardian.com/us-news/zohran-mamdani\">Zohran Mamdani</a> has said he was reviewing whether his administration could arrest <a href=\"h",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
+      "importance": "medium",
+      "pubDate": "Sun, 19 Jul 2026 15:38:11 GMT"
     },
     {
       "title": "‘We hear your voices’: inside the Church of England’s debate over Palestine",
@@ -36,14 +172,6 @@
       "link": "https://www.theguardian.com/world/2026/jul/19/inside-church-of-england-debate-over-palestine-gaza",
       "importance": "medium",
       "pubDate": "Sun, 19 Jul 2026 10:52:36 GMT"
-    },
-    {
-      "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
-      "summary": "Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 10:09:25 +0000"
     },
     {
       "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
@@ -62,54 +190,6 @@
       "pubDate": "Sun, 19 Jul 2026 05:14:38 -0400"
     },
     {
-      "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-      "summary": "US strikes target Iran's IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 08:49:56 +0000"
-    },
-    {
-      "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-      "summary": "Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 08:46:42 +0000"
-    },
-    {
-      "title": "Spain vs Argentina: How each team can win the 2026 World Cup final",
-      "summary": "Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 08:12:54 +0000"
-    },
-    {
-      "title": "Israel demolishes Palestinian home in Masafer Yatta",
-      "summary": "Israel demolishes Palestinian home in Masafer Yatta",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 07:30:54 +0000"
-    },
-    {
-      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-      "summary": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 07:28:08 +0000"
-    },
-    {
-      "title": "The number one health issue in Palestine is the Israeli occupation",
-      "summary": "In both Gaza and the West Bank, Israeli policies are devastating Palestinian health with deadly consequences.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 07:15:19 +0000"
-    },
-    {
       "title": "Israel threatens to seize ancient water reservoirs near Bethlehem",
       "summary": "<p>Solomon’s Pools date back to the second century BCE, and have become a source of recreation for nearby Bethlehem</p><p>Israel is threatening to seize ancient water reservoirs near Bethlehem, in what would be a significant escalation in <a href=\"https://www.theguardian.com/world/2026/feb/02/palest",
       "source": "The Guardian — Middle East",
@@ -118,92 +198,12 @@
       "pubDate": "Sun, 19 Jul 2026 06:00:19 GMT"
     },
     {
-      "title": "US bombs Iran for eighth-straight night",
-      "summary": "The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 05:08:20 +0000"
-    },
-    {
       "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
       "summary": "<p>Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US allies</p><p>The US retaliated against Iran’s Revolutionary Guard (IRGC) after two American troops were killed and one was missing in Jordan when Tehran launched a wave of attacks a",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
       "importance": "medium",
       "pubDate": "Sun, 19 Jul 2026 04:41:49 GMT"
-    },
-    {
-      "title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
-      "summary": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 04:36:47 +0000"
-    },
-    {
-      "title": "At least one killed as Russian ballistic missiles hit Kyiv",
-      "summary": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 04:32:28 +0000"
-    },
-    {
-      "title": "US hits Iran for 8th consecutive night; Tehran returns fire on Gulf bases",
-      "summary": "Sirik and Hajiabad areas in Iran's Hormozgan province targeted as US says revenge for killing of two soldiers.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 19 Jul 2026 04:16:08 +0000"
-    },
-    {
-      "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
-      "summary": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
-      "importance": "medium",
-      "pubDate": "Sat, 18 Jul 2026 14:14:11 -0400"
-    },
-    {
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 18 Jul 2026 17:44:56 GMT"
-    },
-    {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
-      "importance": "medium",
-      "pubDate": "Sat, 18 Jul 2026 08:45:13 -0400"
-    },
-    {
-      "title": "Why is Trump risking midterm disaster by resuming the unpopular Iran war?",
-      "summary": "<p>Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans before the midterms</p><p>For half a century, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has performed a public high-wire act ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
-      "importance": "medium",
-      "pubDate": "Sat, 18 Jul 2026 09:00:02 GMT"
-    },
-    {
-      "title": "US launches seventh night of Iran strikes as Hormuz conflict escalates",
-      "summary": "<p>Central Command says attacks were designed to ‘continue degrading Iranian military capabilities’</p><p>The US military said it had launched a seventh consecutive night of strikes on Iran on Friday night as fighting escalated over the strait of Hormuz.</p><p>US Central Command, in a post on X, sai",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
-      "importance": "medium",
-      "pubDate": "Sat, 18 Jul 2026 06:03:13 GMT"
-    },
-    {
-      "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
-      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-      "importance": "medium",
-      "pubDate": "Sat, 18 Jul 2026 02:01:20 -0400"
     }
   ]
 }
