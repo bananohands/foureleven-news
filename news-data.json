@@ -1,10 +1,186 @@
 {
-  "generated": "2026-07-24T12:13:29.515Z",
-  "date": "Friday, July 24, 2026",
+  "generated": "2026-07-25T11:56:27.594Z",
+  "date": "Saturday, July 25, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
+      "summary": "Ukraine's attacks on warehouses of the Russian online retailer Wildberries have hurt small businesses and some consumers.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 07:43:48 -0400"
+    },
+    {
+      "title": "Two buses collide in Syria, killing at least 35 people",
+      "summary": "This is a breaking news story.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 11:14:14 +0000"
+    },
+    {
+      "title": "Treasure as trinkets: Zendaya’s earrings renew debate on ownership of ancient artefacts",
+      "summary": "<p>Jewellery made from BC Iran worn at Odyssey photocall throws spotlight on the trade of rare archeological finds</p><p>The Odyssey has stormed cinemas, but while its take on the Homeric epic has created ripples among western classicists, it is an actor’s earrings that have made waves further afiel",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 11:00:40 GMT"
+    },
+    {
+      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
+      "summary": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 09:54:44 +0000"
+    },
+    {
+      "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+      "summary": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 09:10:01 +0000"
+    },
+    {
+      "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
+      "summary": "Living near Taiz's front line forces families to make difficult choices amid sniper threats and economic hardships.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 08:09:47 +0000"
+    },
+    {
+      "title": "Born too soon: Premature babies fight for survival in Gaza",
+      "summary": "Israel's genocidal war on Gaza is causing a surge in premature births and endangering mothers' health.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 07:25:35 +0000"
+    },
+    {
+      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+      "summary": "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 07:22:47 +0000"
+    },
+    {
+      "title": "Reclaiming stolen childhoods: swimming classes resume in Gaza after three years of war",
+      "summary": "<p>In sea pools built with sandbags and rubble, Amjed Tantesh gives traumatised children brief respite from their daily lives</p><p>Swimming classes have started again in Gaza after three years of war, with hundreds of children learning to float, doggy paddle and take their first strokes in five mak",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 05:00:36 GMT"
+    },
+    {
+      "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+      "summary": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 00:31:16 +0000"
+    },
+    {
+      "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
+      "summary": "Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 00:16:32 +0000"
+    },
+    {
+      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "summary": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+      "summary": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the 'Abraham Accords'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 23:53:32 +0000"
+    },
+    {
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 22:49:59 GMT"
+    },
+    {
+      "title": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
+      "summary": "<p>President flew to Ankara onboard Qatari-gifted jet, without advanced defenses, and flew home on old Air Force One</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> switched aircraft before departing <a href=\"https://www.theguardian.com/world/turkey\">Turkey</a> earli",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 21:50:56 GMT"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "summary": "<p>Wildfires in Europe, Russian missile strikes in Kyiv, the cockroach protests in New Delhi and the World Cup final – <a href=\"https://www.instagram.com/theguardian20photos/?hl=en-gb\">the past seven days as captured by the world’s leading photojournalists</a></p><p><em>Warning: this gallery contain",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/24/the-week-around-the-world-in-20-pictures",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 18:02:32 GMT"
+    },
+    {
+      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+      "summary": "<p>No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and Kuwait</p><p>The US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump threatened “major military punishment” for Tehran and its Houthi allies in Yemen for extendin",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 17:58:22 GMT"
+    },
+    {
+      "title": "Middle East crisis: US carries out strikes across Iran as Tehran targets American bases in region – as it happened",
+      "summary": "<p>Latest attacks come after Trump vowed ‘major military punishment’ for Tehran and its Houthi allies</p><p>As we reported earlier, <strong>Iran</strong>’s military said on Friday that it carried out attacks targeting <strong>US</strong> military assets in <strong>Bahrain</strong>, <strong>Jordan</s",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 17:20:09 GMT"
+    },
+    {
+      "title": "How Chinese tech and Russian tactics are aiding Iran’s bombing of US bases",
+      "summary": "<p>Increasingly accurate and lethal attacks are revealing weaknesses in stretched defences across the Gulf</p><p>As the crisis in the Middle East escalates, Iran has been bombing US bases and critical infrastructure in the Gulf with increasing accuracy, helped by Chinese satellite imagery and tactic",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 17:13:36 GMT"
+    },
+    {
+      "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
+      "summary": "<p>Four Palestinians and two Israelis killed and several hurt after armed settlers entered village with military support</p><p>Israel has said it is preparing a major military operation in the West Bank after four Palestinians and two Israelis were killed during a confrontation that began after arme",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 16:54:02 GMT"
+    },
+    {
+      "title": "A seaplane carrying 11 crashes into an island north of Seattle and all aboard are rescued",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/de1679f/2147483647/strip/true/crop/5760x3838+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2F34%2F96debd4be3798fa846f99b0e8902%2F94e5f96f63fe4853975204d06502e264\" width=\"100%\"><small style=\"color: #999;\">A forensic expert han",
+      "source": "AP News",
+      "link": "https://apnews.com/article/seaplane-crash-rescue-san-juan-islands-washington-d29db82bfdb33f5e51e7d328a381718a",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 13:23:01 +0000"
+    },
+    {
+      "title": "New UK leader Andy Burnham caps a busy first week with a part-time office move to Manchester",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/9b23ebb/2147483647/strip/true/crop/4250x2832+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F56%2Fc2%2F78116e5da94943d5615621c77b80%2Fc6df8193291841d6abb0558a11795df8\" width=\"100%\"><small style=\"color: #999;\">Britain&#x27;s Prime ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/andy-burnham-manchester-number-10-north-dfda559e92872cafec56217897d49c49",
+      "importance": "medium",
+      "pubDate": "Fri, 24 Jul 2026 13:23:01 +0000"
+    },
     {
       "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
       "summary": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
@@ -14,36 +190,12 @@
       "pubDate": "Fri, 24 Jul 2026 07:37:58 -0400"
     },
     {
-      "title": "Trump threatens Iran escalation as tit-for-tat airstrikes continue",
-      "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf as the region braced itself after President Trump said he was close to deciding whether to launch \"a massive attack\".",
+      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
+      "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
       "importance": "medium",
       "pubDate": "Fri, 24 Jul 2026 07:30:08 -0400"
-    },
-    {
-      "title": "A bruising ICC scandal heads to a secret vote on removing chief prosecutor",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/c43c695/2147483647/strip/true/crop/7949x5297+0+72/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F58%2F40%2F363736ac7ccc4f315ee142b137f5%2F76e3cd6100204f7f9bb715f83a39bb51\" width=\"100%\"><small style=\"color: #999;\">The International Cr",
-      "source": "AP News",
-      "link": "https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 11:23:01 +0000"
-    },
-    {
-      "title": "China slaps export controls on 14 EU entities in retaliation for Russia-related sanctions",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/0561110/2147483647/strip/true/crop/5095x3395+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2Fa4%2Fd457bf309e65a2e0d220f4857cb7%2F212f6c8f814a4dedb1cfee83893c2844\" width=\"100%\"><small style=\"color: #999;\">A crane loads a shipp",
-      "source": "AP News",
-      "link": "https://apnews.com/article/china-eu-sanctions-russia-export-control-war-cfb75918077b268eb76b0f19c1673511",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 10:53:02 +0000"
-    },
-    {
-      "title": "Four Palestinians and one Israeli killed during West Bank settler attack",
-      "summary": "<p>Several others seriously injured in attack that residents of Palestinian village say also involved Israeli military</p><p>Four Palestinians and one Israeli have been killed in a shooting in the northern West Bank, health officials have said, during what residents described as a settler attack als",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 10:45:42 GMT"
     },
     {
       "title": "How the Houthis blockade of the Red Sea could affect the global economy",
@@ -52,158 +204,6 @@
       "link": "https://www.npr.org/2026/07/24/nx-s1-5904543/how-the-houthis-blockade-of-the-red-sea-could-affect-the-global-economy",
       "importance": "medium",
       "pubDate": "Fri, 24 Jul 2026 06:44:01 -0400"
-    },
-    {
-      "title": "Israel’s illegal settlements are Europe’s credibility test",
-      "summary": "The EU has documented accelerating annexation. It must now use its collective power to confront it.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 09:59:37 +0000"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy says he’s in talks with a US company to jointly produce Patriot air defenses",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f25656e/2147483647/strip/true/crop/2974x1982+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2Fe3%2Fa1b3cb4e00bf135aebf4bbcee2d0%2Fd3a94c3af0fe40368bef603a522275e7\" width=\"100%\"><small style=\"color: #999;\">Ukraine&#x27;s Presid",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russiak-ukraine-war-patriots-trump-loomer-raytheon-a2f06208baa0759215d973f01758e30f",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 09:53:02 +0000"
-    },
-    {
-      "title": "UNESCO adds West Bank site and Lebanese castles to World Heritage List despite Israeli objections",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/423e00b/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7c%2F56%2F67f5237d225869ee080886fe06af%2F75b27cf820474278a68fe1a66b444394\" width=\"100%\"><small style=\"color: #999;\">A Palestinian visitor",
-      "source": "AP News",
-      "link": "https://apnews.com/article/unesco-sebastia-lebanon-mount-amel-israel-heritage-12c558a4b6aa03fa40ad33ffb6e54b89",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 09:53:02 +0000"
-    },
-    {
-      "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
-      "summary": "One Israeli was also killed near town of Tal in Nablus, according to Israel's Magen David Adom rescue services.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 09:35:39 +0000"
-    },
-    {
-      "title": "US attacks Iran for 13th consecutive night",
-      "summary": "The US military says it has completed its 13th night of strikes against Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 08:39:53 +0000"
-    },
-    {
-      "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
-      "summary": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 07:59:01 +0000"
-    },
-    {
-      "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-      "summary": "President Trump says damages will be paid for by Iranian money that the US has 'in its possession, and controls'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 06:48:07 +0000"
-    },
-    {
-      "title": "Trillion dollar US defence bill would deepen military ties with Israel",
-      "summary": "A $1.15 trillion US defence bill passed by the House includes plans to expand military cooperation with Israel.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 05:01:43 +0000"
-    },
-    {
-      "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
-      "summary": "Israeli attacks come amid ongoing talks with Lebanese officials to implement framework for peace between two countries.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/7/24/israel-carries-out-blasts-across-south-lebanon-despite-ceasefire-deal?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 04:39:50 +0000"
-    },
-    {
-      "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
-      "summary": "<p>Irish politicians concerned about Daniel Tatlow-Devally’s treatment in jail want Micheál Martin to send observers to Ulm 5 trial</p><p>A cross-party delegation of Irish politicians has urged Dublin to send observers to a high-security trial of pro-Palestinian activists in Germany and to raise con",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 04:00:04 GMT"
-    },
-    {
-      "title": "Why did Trump just gift Saudi Arabia a nuclear win? – podcast",
-      "summary": "<p>Donald Trump has announced a landmark nuclear deal with Saudi Arabia while pressing ahead with efforts to stop Tehran from developing a nuclear weapon. What’s driving Trump’s new agreement with Riyadh? And how is it likely to be received at home and across the Gulf?</p><p>Jonathan Freedland speak",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/politics/audio/2026/jul/24/why-did-trump-just-gift-saudi-arabia-a-nuclear-win-podcast",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 04:00:03 GMT"
-    },
-    {
-      "title": "Middle East crisis is ‘getting out of control’, UN chief warns – as it happened",
-      "summary": "<p>This live blog has not closed, you can read our latest story from the region <a href=\"https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran\">here</a></p><p></p><p>Earlier in the US day, before Iran’s Revolutionary Guard said it had <a href=",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 02:33:09 GMT"
-    },
-    {
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 24 Jul 2026 01:59:49 GMT"
-    },
-    {
-      "title": "UK ‘ready to defend itself’ after Iranian threat over US bases",
-      "summary": "<p>IRGC claims base in south-west England was used by US to launch bombing missions, making it ‘legitimate target’</p><p>The government has said the UK is “ready to defend itself” after Iran’s military warned that any bases being used by the US were “legitimate targets”.</p><p>The UK has allowed the",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/23/uk-ready-to-defend-itself-iran-threat-us-bases",
-      "importance": "medium",
-      "pubDate": "Thu, 23 Jul 2026 22:41:37 GMT"
-    },
-    {
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 23 Jul 2026 17:58:02 GMT"
-    },
-    {
-      "title": "Donald Trump says decision on ‘massive attack’ against Iran is close",
-      "summary": "<p>President’s remarks follow Houthi strikes on Saudi tankers in the Red Sea and oil prices rising past $100 a barrel again</p><p>Donald Trump has said he is close to deciding whether to launch “a massive attack” against Iran, on a scale larger than strikes already witnessed during the months-long c",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran",
-      "importance": "medium",
-      "pubDate": "Thu, 23 Jul 2026 16:58:25 GMT"
-    },
-    {
-      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 23 Jul 2026 16:50:59 GMT"
-    },
-    {
-      "title": "How the Bab al-Mandab blockade threat helped push oil back above $100",
-      "summary": "<p>Escalating Houthi warnings to ships carrying Saudi crude through the strait lead to fears of further price surge</p><p>A fresh front in the Middle East crisis opened this week, bringing a return of soaring global energy markets and stoking fears that the oil price could surge to $120 (£90) a barr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/2026/jul/23/bab-al-mandab-blockade-push-oil-100-houthi-ships",
-      "importance": "medium",
-      "pubDate": "Thu, 23 Jul 2026 16:04:11 GMT"
-    },
-    {
-      "title": "Oil prices hit $100 for the first time since May",
-      "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 23 Jul 2026 15:31:00 GMT"
     }
   ]
 }
