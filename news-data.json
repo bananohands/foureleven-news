@@ -1,49 +1,161 @@
 {
-  "generated": "2026-08-09T11:20:34.806Z",
-  "date": "Sunday, August 9, 2026",
+  "generated": "2026-08-10T11:41:06.686Z",
+  "date": "Monday, August 10, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/04227e4/2147483647/strip/true/crop/2000x1333+0+85/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdf%2Fd3%2F84b89ff8d2a77e41d1e67777957e%2F67002831d4b24e1096196ac2873b0c0d\" width=\"100%\"><small style=\"color: #999;\">In this photo provid",
+      "title": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
+      "summary": "Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they've paid a heavy price.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 11:17:16 +0000"
+    },
+    {
+      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
+      "summary": "Months into the war, Trump is returning to squeezing Iran's economy rather than military offensive for now.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 11:11:33 +0000"
+    },
+    {
+      "title": "Iran won’t reopen Strait of Hormuz without US concessions and other Mideast developments",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/036c1d9/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2F95%2F4a2dce863dfccbad95a743110e0b%2F8d58dd12c1db4e6a91734b317ad54d40\" width=\"100%\"><small style=\"color: #999;\">Young men ride motorc",
       "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-drones-missiles-strikes-4f1dd5120278884bf36ce85efe84e5d9",
+      "link": "https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897",
       "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 10:53:01 +0000"
+      "pubDate": "Mon, 10 Aug 2026 10:53:02 +0000"
     },
     {
-      "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
-      "summary": "Yemeni army warns Houthis after attacks heighten escalation risk",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 10:45:57 +0000"
-    },
-    {
-      "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
-      "summary": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 10:35:00 +0000"
-    },
-    {
-      "title": "Watchdog for $46 billion tribal gambling industry can’t enforce the law without a chairperson",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1f3d52d/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F70%2Fcacd772c7771ff73977f8ca4e1b0%2Fc4d976d4147d42518905b11daa6cb521\" width=\"100%\"><small style=\"color: #999;\">The Harrah&#x27;s Cas",
+      "title": "A blocked Iranian flight to Yemen set off Houthis’ latest spiral with Saudi Arabia",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/06c96f3/2147483647/strip/true/crop/2291x1527+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2Fee%2F03e93d9722999fddcba6e7feb114%2F03baf45ff50b403694641e5de1da8529\" width=\"100%\"><small style=\"color: #999;\">This image taken from",
       "source": "AP News",
-      "link": "https://apnews.com/article/gambling-tribe-oklahoma-harrahs-trump-iowa-957eb706134bbe2ca1707b33b47ec613",
+      "link": "https://apnews.com/article/yemen-houthis-saudi-arabia-red-sea-iran-a8a0e282a17c13a1e528e7ca73f17c5e",
       "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 10:23:01 +0000"
+      "pubDate": "Mon, 10 Aug 2026 10:53:02 +0000"
     },
     {
-      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-      "summary": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
+      "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
+      "summary": "Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilians' lives.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+      "link": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 10:02:59 +0000"
+      "pubDate": "Mon, 10 Aug 2026 10:13:31 +0000"
+    },
+    {
+      "title": "Who is Mohsen Rezaei, and how significant is his appointment?",
+      "summary": "Former IRGC commander Rezaei will be taking over as secretary of Iran's top security body amid Hormuz talks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 10:11:48 +0000"
+    },
+    {
+      "title": "Turkey’s parliament opens debate on a pardon-like bill for thousands of PKK militants",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4e88cd5/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2F24%2Fd75c6e2d6b948e666b303c126b66%2F3321295af75d45ebbe33fdbc4fe3c5d9\" width=\"100%\"><small style=\"color: #999;\">Youngsters hold a pho",
+      "source": "AP News",
+      "link": "https://apnews.com/article/turkey-parliament-bill-pkk-peace-effort-a9addfb69c8126f1d661d4f37ef74827",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 09:23:02 +0000"
+    },
+    {
+      "title": "Ugandan statesman is in the race to become the next secretary-general of the United Nations",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/580d21a/2147483647/strip/true/crop/2000x1333+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2F63%2F0bad90deae6321461430c2e6bd7a%2F9f489dfaa7be415fafac0037732352b3\" width=\"100%\"><small style=\"color: #999;\">Olara Otunnu, the Uni",
+      "source": "AP News",
+      "link": "https://apnews.com/article/uganda-un-secretary-general-race-otunnu-8376b569726cd9a6fca80c25f4c17af6",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 09:23:01 +0000"
+    },
+    {
+      "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "summary": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 09:20:12 +0000"
+    },
+    {
+      "title": "Taiwan representative in Japan boycotts Nagasaki anniversary ceremony over seating",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/80ec3da/2147483647/strip/true/crop/4399x2931+301+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2F19%2F777d8fe59daf933e52e9d785c453%2F0f28dfb71c124bef9044db87cefd6279\" width=\"100%\"><small style=\"color: #999;\">People observe a mi",
+      "source": "AP News",
+      "link": "https://apnews.com/article/japan-nagasaki-taiwan-lee-memorial-ceremony-china-19ab601ed82fd0989fc7dd653ad185f4",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 08:53:02 +0000"
+    },
+    {
+      "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+      "summary": "Gaza Health Ministry says hospitals receive bodies of two Palestinians as Netanyahu rejects Trump plan to end war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 07:43:01 +0000"
+    },
+    {
+      "title": "Monday briefing: How the new phase of confrontation at al-Aqsa signals a challenge to the status quo",
+      "summary": "<p>In today’s newsletter: ​Jerusalem’s most volatile site has again become a flashpoint, with Arab states and former Israeli officials sounding the alarm over Benjamin Netanyahu’s complicity</p><p></p><p>Good morning. In late July, Itamar Ben-Gvir, West Bank settler and far-right extremist minister ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/10/monday-briefing-how-the-new-phase-of-confrontation-at-al-aqsa-signals-a-challenge-to-the-status-quo",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 05:45:18 GMT"
+    },
+    {
+      "title": "Revisited: Andy Burnham apologises for Labour’s stance on Gaza – podcast",
+      "summary": "<p>In July, Andy Burnham told the Guardian’s political editor, Pippa Crerar, that Labour ‘didn’t get it right’ on Gaza. He apologised for the party’s slow response in calling for a ceasefire, but stopped short of describing what was happening on the ground as genocide.</p><p>This is an edited versio",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/politics/audio/2026/aug/10/revisited-andy-burnham-apologises-for-labours-stance-on-gaza-podcast",
+      "importance": "medium",
+      "pubDate": "Mon, 10 Aug 2026 04:00:34 GMT"
+    },
+    {
+      "title": "How Iran's 'Axis of Resistance' has shaped the war",
+      "summary": "NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war",
+      "importance": "medium",
+      "pubDate": "Sun, 09 Aug 2026 17:27:11 -0400"
+    },
+    {
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 09 Aug 2026 21:25:04 GMT"
+    },
+    {
+      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
+      "summary": "<p>Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in</p><p>Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump.</p><p>In a statement on",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "importance": "medium",
+      "pubDate": "Sun, 09 Aug 2026 20:00:48 GMT"
+    },
+    {
+      "title": "Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened",
+      "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu\">Israel rejects US-led 15-point Gaza peace plan, says Netanyahu</a></p></li></ul><p></p><p><strong>Israeli prime minister Benjamin Netan",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Sun, 09 Aug 2026 19:54:53 GMT"
+    },
+    {
+      "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+      "summary": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
+      "importance": "medium",
+      "pubDate": "Sun, 09 Aug 2026 14:21:45 -0400"
+    },
+    {
+      "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
+      "summary": "<p>Drone strike comes after Riyadh signs defence pact and Tehran issues tough demands to reopen strait of Hormuz</p><p>Yemen’s Tehran-aligned Houthis have claimed responsibility for an attack on a refinery in Saudi Arabia, two days after the kingdom signed ⁠a defence pact with Turkey ⁠and Pakistan i",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Sun, 09 Aug 2026 15:11:28 GMT"
     },
     {
       "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
@@ -62,84 +174,12 @@
       "pubDate": "Sun, 09 Aug 2026 08:00:10 GMT"
     },
     {
-      "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
-      "summary": "Nagasaki Mayor says ‘humanity and nuclear weapons can't coexist’ as Japan marks anniversary of the US atomic bombing.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 07:56:47 +0000"
-    },
-    {
-      "title": "Nagasaki marks 81st atomic bomb anniversary as mayor says nuclear deterrence only increases risk",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/3908618/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb9%2F1d%2F8e02d7272b106920614ee13a28a3%2F4ed788ea8cda4b5da7d6c96552bed9c1\" width=\"100%\"><small style=\"color: #999;\">People observe a minu",
-      "source": "AP News",
-      "link": "https://apnews.com/article/japan-nagasaki-us-atomic-bomb-takaichi-security-79754e6066008e68c22681128c3c8068",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 07:53:01 +0000"
-    },
-    {
-      "title": "Israel advances plan for 627 settler units in occupied West Bank",
-      "summary": "New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 06:57:56 +0000"
-    },
-    {
-      "title": "Cyprus natural gas to supply Europe by first half of 2028, minister says, as EU seeks new sources",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1a3b18f/2147483647/strip/true/crop/7458x4969+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2Fb3%2Fe0c3a43d61c4a7d4d100a3cc120c%2Ff79fc6d96dc14cebb2e16492b21e97eb\" width=\"100%\"><small style=\"color: #999;\">Cyprus&#x27; Energy M",
-      "source": "AP News",
-      "link": "https://apnews.com/article/cyprus-natural-gas-eu-egypt-exxonmobil-total-eb6bc94433c6374d17d3ec54db5becb3",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 06:23:02 +0000"
-    },
-    {
-      "title": "Iran issues new demands as Pezeshkian seeks deal",
-      "summary": "Senior Iranian security official sets broader conditions for reopening Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 05:06:02 +0000"
-    },
-    {
-      "title": "As the world rediscovers ‘The Odyssey,’ disabled actors in Greece explore the pain of war",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/b3d679e/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2Fb1%2F84461cdb707038c0b0a5a8f79ef9%2F9d271756aa4343d1919ab0dff1114d58\" width=\"100%\"><small style=\"color: #999;\">From left to right, E",
-      "source": "AP News",
-      "link": "https://apnews.com/article/greece-ancient-theater-accessibility-odyssey-homer-353553292cf006c6e734978dfe9e931c",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 04:23:02 +0000"
-    },
-    {
-      "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-      "summary": "Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 04:12:39 +0000"
-    },
-    {
-      "title": "Israeli settler attacks rise as West Bank residents lose land",
-      "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 01:43:04 +0000"
-    },
-    {
-      "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
-      "summary": "IRGC sets conditions to reopen the Strait of Hormuz as the US seeks commitments to end attacks on ships in the waterway.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 09 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Turkiye says Mecca defence pact not aimed at Iran",
-      "summary": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 08 Aug 2026 23:59:15 +0000"
+      "pubDate": "Sat, 08 Aug 2026 23:43:44 GMT"
     },
     {
       "title": "Tanker sailors still face danger in the Strait of Hormuz",
@@ -158,52 +198,12 @@
       "pubDate": "Sat, 08 Aug 2026 21:01:28 GMT"
     },
     {
-      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
-      "summary": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
-      "importance": "medium",
-      "pubDate": "Sat, 08 Aug 2026 07:01:00 -0400"
-    },
-    {
       "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
       "summary": "<p>The US president’s profound ignorance of his enemy has led to an impotent cycle of empty threats, analysts say</p><p>Being the subject of mockery may be the most intense of all <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump’s</a> known aversions.</p><p>Yet more than five m",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
       "importance": "medium",
       "pubDate": "Sat, 08 Aug 2026 09:00:43 GMT"
-    },
-    {
-      "title": "Travelling through Iran reveals mixed narratives about the US-Israel war",
-      "summary": "<p>Some believe conflict strengthened national unity, others say it deepened repression, but all mourn the dead</p><p>The excavator stops suddenly. One of the workers reaches into the rubble and pulls something free. It isn’t twisted metal or broken concrete. It’s a child’s exercise book. The pages ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/aug/08/iran-journey-israel-us-war",
-      "importance": "medium",
-      "pubDate": "Sat, 08 Aug 2026 05:00:39 GMT"
-    },
-    {
-      "title": "The phone book that led us to Assad's spy chief in hiding",
-      "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 07 Aug 2026 23:23:12 GMT"
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "summary": "<p>Wildfires in the US and Europe, Russian strikes in Kyiv, beekeepers in Gaza and the European Aquatics Championships – <a href=\"https://www.instagram.com/theguardian20photos/?hl=en-gb\">the past seven days as captured by the world’s leading photojournalists</a></p> <a href=\"https://www.theguardian.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/07/the-week-around-the-world-in-20-pictures",
-      "importance": "medium",
-      "pubDate": "Fri, 07 Aug 2026 17:30:44 GMT"
     }
   ]
 }
