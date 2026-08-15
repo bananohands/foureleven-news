@@ -1,57 +1,153 @@
 {
-  "generated": "2026-08-14T11:37:00.898Z",
-  "date": "Friday, August 14, 2026",
+  "generated": "2026-08-15T11:11:08.377Z",
+  "date": "Saturday, August 15, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "US special forces ready to step up combat drills in Philippines and help deter aggression in Asia",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/187b4f9/2147483647/strip/true/crop/7421x4945+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F2a%2Fc8e25d1f83f3b6ab67ba5cc5ad10%2Fffed93865ca14ce796cfae90f9a2305e\" width=\"100%\"><small style=\"color: #999;\">United States Navy Ad",
-      "source": "AP News",
-      "link": "https://apnews.com/article/philippines-admiral-frank-bradley-us-special-forces-1bb2dd7783be2b82928e98ecea432110",
+      "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
+      "summary": "<p>Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors</p><p></p><p>Nine people have been killed, including three children, and 11 injured in two Israeli airstrikes on south Lebanon, the worst toll since deals in June brought a lull in hosti",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
       "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 11:23:02 +0000"
+      "pubDate": "Sat, 15 Aug 2026 10:48:33 GMT"
     },
     {
-      "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-      "summary": "Manchester City's Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.",
+      "title": "At scene of deadly Israeli strike on Lebanon home",
+      "summary": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 11:18:22 +0000"
+      "pubDate": "Sat, 15 Aug 2026 10:18:40 +0000"
     },
     {
-      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
-      "summary": "US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 11:06:59 +0000"
-    },
-    {
-      "title": "Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties rise",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/01b08a5/2147483647/strip/true/crop/11022x7344+159+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F1d%2F54eac26aef38771b66b34949589c%2F0fb986633326493ba561d033ad8579a4\" width=\"100%\"><small style=\"color: #999;\">This image provide",
+      "title": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4a4d739/2147483647/strip/true/crop/8414x5606+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Ff9%2F7ff2515d44198c1608232dee39b0%2F288c7da5b3564f39916a863effc54bb3\" width=\"100%\"><small style=\"color: #999;\">A general view shows ",
       "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-civilian-deaths-attacks-66f000409c6648239936b628a9eae0f5",
+      "link": "https://apnews.com/article/wall-street-home-depot-target-fed-7dd75609981e7e96b40aa82523b0ea57",
       "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 09:23:02 +0000"
+      "pubDate": "Sat, 15 Aug 2026 08:23:01 +0000"
     },
     {
-      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/cd54405/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2Fdf%2Fd21260d4be510ac58a02c659f28c%2F648dc7f1fff14d8d93cf05ae45ba4a68\" width=\"100%\"><small style=\"color: #999;\">Oil residue lines the",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-uae-us-strait-hormuz-august-14-2026-e8565c608ac5283ec8103c85df924b13",
-      "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 09:23:02 +0000"
-    },
-    {
-      "title": "What is a ‘ceasefire’ supposed to achieve?",
-      "summary": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
+      "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
+      "summary": "Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
+      "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 09:00:51 +0000"
+      "pubDate": "Sat, 15 Aug 2026 07:27:32 +0000"
+    },
+    {
+      "title": "Israeli strike kills 7 in Lebanon, 2 tankers attacked in Hormuz and other news from the Middle East",
+      "summary": "<p>2026-08-15T07:13:25Z</p> <p>An Israeli airstrike killed seven people in Lebanon on Saturday, one of the deadliest since a shaky truce between Israel and <span><a data-gtm-enhancement-style=\"LinkEnhancementA\" href=\"https://apnews.com/hub/hezbollah\">Hezbollah</a></span> went into effect on June 20.",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 07:23:02 +0000"
+    },
+    {
+      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+      "summary": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 07:18:13 +0000"
+    },
+    {
+      "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
+      "summary": "Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 07:13:11 +0000"
+    },
+    {
+      "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1603c35/2147483647/strip/true/crop/1189x792+6+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F80%2F1f234e4c775a1021964fcca76a93%2F4722cad569ec45fdb8e221cd309b3919\" width=\"100%\"><small style=\"color: #999;\">This is a locator map ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/southern-lebanon-israel-strike-hezbollah-iran-ansar-1124fd2bd0b7ed76b0e97683dddbcaad",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 06:23:01 +0000"
+    },
+    {
+      "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+      "summary": "Greenhouses and rented plots are lifelines for Gaza's farmers, helping them grow crops despite the extensive destruction",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 06:10:07 +0000"
+    },
+    {
+      "title": "Iran says no decision yet on a return to talks with the US",
+      "summary": "FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 04:24:02 +0000"
+    },
+    {
+      "title": "Did the US really destroy Iran’s ballistic missile capability?",
+      "summary": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream\".",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 03:52:08 +0000"
+    },
+    {
+      "title": "US President Trump says he will declare Strait of Hormuz US territory",
+      "summary": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 02:25:09 +0000"
+    },
+    {
+      "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
+      "summary": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
+      "importance": "medium",
+      "pubDate": "Fri, 14 Aug 2026 18:03:08 -0400"
+    },
+    {
+      "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
+      "summary": "<p>Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration str",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+      "importance": "medium",
+      "pubDate": "Fri, 14 Aug 2026 21:38:17 GMT"
+    },
+    {
+      "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+      "summary": "<p>Palestine’s vice-president calls plan ‘flagrant violation of international law’ and a step towards full Israeli annexation</p><p>Israel’s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine’s vice-president des",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "importance": "medium",
+      "pubDate": "Fri, 14 Aug 2026 17:52:51 GMT"
+    },
+    {
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
+    },
+    {
+      "title": "Benjamin Netanyahu describes UK as ‘first Islamic republic to get a nuclear weapon’",
+      "summary": "<p>Israeli PM criticised by political rival for attacking an international ally and overseeing ‘horrific diplomatic failure’</p><p>The Israeli prime minister, Benjamin Netanyahu, called the UK “the Islamic republic of Britain” in a podcast interview, where he also described the country as the “first",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/14/benjamin-netanyahu-describes-uk-first-islamic-republic-to-get-nuclear-weapon",
+      "importance": "medium",
+      "pubDate": "Fri, 14 Aug 2026 12:00:42 GMT"
+    },
+    {
+      "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
+      "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
+      "importance": "medium",
+      "pubDate": "Fri, 14 Aug 2026 06:47:19 -0400"
     },
     {
       "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
@@ -60,30 +156,6 @@
       "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
       "importance": "medium",
       "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400"
-    },
-    {
-      "title": "North Korea fumes over upcoming US-South Korea military drills",
-      "summary": "Pyongyang has accused the US of pushing the world 'to the brink of nuclear war'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 05:40:45 +0000"
-    },
-    {
-      "title": "U.S. ambassador slams Israeli settlers besieging home of Palestinian-American",
-      "summary": "U.S. ambassador to Israel Mike Huckabee called settlers besieging a West Bank home of an American-Palestinian family \"terrorists.\"",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/13/nx-s1-5930275/u-s-ambassador-slams-israeli-settlers-besieging-home-of-palestinian-american",
-      "importance": "medium",
-      "pubDate": "Thu, 13 Aug 2026 17:11:59 -0400"
-    },
-    {
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 13 Aug 2026 20:12:17 GMT"
     },
     {
       "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
@@ -100,22 +172,6 @@
       "link": "https://www.theguardian.com/commentisfree/2026/aug/13/ukraine-cathedrals-gaza-archives-iran-erase-history-war",
       "importance": "medium",
       "pubDate": "Thu, 13 Aug 2026 16:04:12 GMT"
-    },
-    {
-      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-      "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-      "importance": "medium",
-      "pubDate": "Thu, 13 Aug 2026 11:18:27 -0400"
-    },
-    {
-      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-      "summary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
-      "importance": "medium",
-      "pubDate": "Thu, 13 Aug 2026 05:58:40 -0400"
     },
     {
       "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
@@ -142,68 +198,12 @@
       "pubDate": "Wed, 12 Aug 2026 16:17:55 GMT"
     },
     {
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 12 Aug 2026 16:14:08 GMT"
-    },
-    {
       "title": "Ceuta showed just how easily Europe can be divided",
       "summary": "<p>The migrant influx prompted recriminations and a tit-for-tat dispute between Italy and Spain. Putin, Erdoğan and others will have taken note</p><p>Within hours of the first pictures of tens of thousands of migrants swimming the short distance from Morocco to the Spanish north African enclave of C",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/12/ceuta-showed-just-how-easy-it-is-to-divide-europe",
       "importance": "medium",
       "pubDate": "Wed, 12 Aug 2026 04:00:18 GMT"
-    },
-    {
-      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "summary": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 11 Aug 2026 19:27:17 GMT"
-    },
-    {
-      "title": "Lebanon parliament votes to abolish death penalty",
-      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 11 Aug 2026 15:24:07 GMT"
-    },
-    {
-      "title": "Human rights groups sue Trump administration over ‘crippling’ ICC sanctions",
-      "summary": "<p>Lawsuit challenges executive order targeting international criminal court for investigating Israeli crimes in Palestine</p><p>Four prominent US human rights organizations have accused the Trump administration of using its “crippling” sanctions regime against the international criminal court (ICC)",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
-      "importance": "medium",
-      "pubDate": "Tue, 11 Aug 2026 15:10:16 GMT"
-    },
-    {
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 11 Aug 2026 14:50:10 GMT"
-    },
-    {
-      "title": "Libyan oil refinery engulfed in flames after drone attack – video",
-      "summary": "<p>Firefighters attempt to tackle a huge blaze at a refinery in Zawiya after a drone strike near a main oil tank and pipeline network. It was the third such attack in two days, according to Libya's National Oil Corporation, but no group has claimed responsibility for them</p> <a href=\"https://www.th",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/aug/11/libya-oil-refinery-blaze-drone-attack-video",
-      "importance": "medium",
-      "pubDate": "Tue, 11 Aug 2026 14:10:34 GMT"
-    },
-    {
-      "title": "Drought, water rationing and dry rivers: our water crisis is here | Peter Gleick",
-      "summary": "<p>It doesn’t have to be this way. We know what needs to be done</p><p>Disturbing news about our water resources is now constant and unrelenting. In just the past few weeks, media have reported that Puerto Rico is <a href=\"https://www.theguardian.com/us-news/2026/jul/13/puerto-rico-water-shortages\">",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/11/drought-water-climate-crisis",
-      "importance": "medium",
-      "pubDate": "Tue, 11 Aug 2026 11:00:01 GMT"
     }
   ]
 }
