@@ -1,105 +1,97 @@
 {
-  "generated": "2026-08-15T11:11:08.377Z",
-  "date": "Saturday, August 15, 2026",
+  "generated": "2026-08-16T11:11:25.063Z",
+  "date": "Sunday, August 16, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
-      "summary": "<p>Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors</p><p></p><p>Nine people have been killed, including three children, and 11 injured in two Israeli airstrikes on south Lebanon, the worst toll since deals in June brought a lull in hosti",
+      "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+      "summary": "‘We were praying for her to faint’.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 10:32:42 +0000"
+    },
+    {
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT"
+    },
+    {
+      "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+      "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 09:03:05 +0000"
+    },
+    {
+      "title": "US top Middle East commander visits deployed aircraft carrier, and other Mideast news",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/d7c96bf/2147483647/strip/true/crop/2400x1599+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F11%2F83fbb3af58f9b6f034b5df56eb3d%2F4ee9b92012b64f0d865e10a03b907681\" width=\"100%\"><small style=\"color: #999;\">Sailors and Marines l",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-israel-lebanon-gaza-uss-lincoln-august-16-2026-98f43f920c102080a3526981cf0dd7b8",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 08:23:01 +0000"
+    },
+    {
+      "title": "How a simple lighter has become the backbone of life in Gaza",
+      "summary": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 06:10:58 +0000"
+    },
+    {
+      "title": "A nation divided: What do Israelis want in October’s elections?",
+      "summary": "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 06:06:31 +0000"
+    },
+    {
+      "title": "Israel strikes south Lebanon again as families flee north",
+      "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 04:43:21 +0000"
+    },
+    {
+      "title": "Yemeni government forces hit back after new Houthi offensive",
+      "summary": "Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 04:09:01 +0000"
+    },
+    {
+      "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+      "summary": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 16 Aug 2026 02:26:54 +0000"
+    },
+    {
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT"
+    },
+    {
+      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+      "summary": "<p>Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani</p><p></p><p>Eleven people have been killed, including three children, and 19<strong> </strong>injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought ",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
       "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 10:48:33 GMT"
-    },
-    {
-      "title": "At scene of deadly Israeli strike on Lebanon home",
-      "summary": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 10:18:40 +0000"
-    },
-    {
-      "title": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4a4d739/2147483647/strip/true/crop/8414x5606+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Ff9%2F7ff2515d44198c1608232dee39b0%2F288c7da5b3564f39916a863effc54bb3\" width=\"100%\"><small style=\"color: #999;\">A general view shows ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/wall-street-home-depot-target-fed-7dd75609981e7e96b40aa82523b0ea57",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 08:23:01 +0000"
-    },
-    {
-      "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
-      "summary": "Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 07:27:32 +0000"
-    },
-    {
-      "title": "Israeli strike kills 7 in Lebanon, 2 tankers attacked in Hormuz and other news from the Middle East",
-      "summary": "<p>2026-08-15T07:13:25Z</p> <p>An Israeli airstrike killed seven people in Lebanon on Saturday, one of the deadliest since a shaky truce between Israel and <span><a data-gtm-enhancement-style=\"LinkEnhancementA\" href=\"https://apnews.com/hub/hezbollah\">Hezbollah</a></span> went into effect on June 20.",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 07:23:02 +0000"
-    },
-    {
-      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
-      "summary": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 07:18:13 +0000"
-    },
-    {
-      "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
-      "summary": "Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 07:13:11 +0000"
-    },
-    {
-      "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1603c35/2147483647/strip/true/crop/1189x792+6+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F80%2F1f234e4c775a1021964fcca76a93%2F4722cad569ec45fdb8e221cd309b3919\" width=\"100%\"><small style=\"color: #999;\">This is a locator map ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/southern-lebanon-israel-strike-hezbollah-iran-ansar-1124fd2bd0b7ed76b0e97683dddbcaad",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 06:23:01 +0000"
-    },
-    {
-      "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-      "summary": "Greenhouses and rented plots are lifelines for Gaza's farmers, helping them grow crops despite the extensive destruction",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 06:10:07 +0000"
-    },
-    {
-      "title": "Iran says no decision yet on a return to talks with the US",
-      "summary": "FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 04:24:02 +0000"
-    },
-    {
-      "title": "Did the US really destroy Iran’s ballistic missile capability?",
-      "summary": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream\".",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 03:52:08 +0000"
-    },
-    {
-      "title": "US President Trump says he will declare Strait of Hormuz US territory",
-      "summary": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 02:25:09 +0000"
+      "pubDate": "Sat, 15 Aug 2026 13:55:28 GMT"
     },
     {
       "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
@@ -150,14 +142,6 @@
       "pubDate": "Fri, 14 Aug 2026 06:47:19 -0400"
     },
     {
-      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-      "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-      "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400"
-    },
-    {
       "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
       "summary": "<p>Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against Palestinians</p><p>Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler ",
       "source": "The Guardian — Middle East",
@@ -204,6 +188,22 @@
       "link": "https://www.theguardian.com/commentisfree/2026/aug/12/ceuta-showed-just-how-easy-it-is-to-divide-europe",
       "importance": "medium",
       "pubDate": "Wed, 12 Aug 2026 04:00:18 GMT"
+    },
+    {
+      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+      "summary": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 11 Aug 2026 19:27:17 GMT"
+    },
+    {
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 11 Aug 2026 15:24:07 GMT"
     }
   ]
 }
