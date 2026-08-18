@@ -1,161 +1,193 @@
 {
-  "generated": "2026-08-17T11:16:41.833Z",
-  "date": "Monday, August 17, 2026",
+  "generated": "2026-08-18T11:16:19.465Z",
+  "date": "Tuesday, August 18, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Kushner meets Netanyahu in Jerusalem following Hamas talks – Middle East crisis live",
-      "summary": "<p>Trump’s envoy and son-in-law meets Israeli leader in effort to push Gaza peace plan</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting\">Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza</a></p></li></ul><p>Reuters has a quick",
+      "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
+      "summary": "Ukrainian families mourn their loved ones as experts lament Washington's elusive promises of military support.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 10:45:37 +0000"
+    },
+    {
+      "title": "Eight air strikes hit airbase in Syria’s Idlib",
+      "summary": "Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 10:11:53 +0000"
+    },
+    {
+      "title": "Syrian man dies in custody after alleged abuse by security officers",
+      "summary": "A Syrian man died in police custody after his family alleged he was severely beaten.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 10:07:24 +0000"
+    },
+    {
+      "title": "Israeli strikes hit airbase runway in northwest Syria but no casualties, state TV reports",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/dceec6f/2147483647/strip/true/crop/1189x792+6+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2F52%2Fc3a2528f4298f21de4f765a8e37e%2Facba66cd757b4d29801aca200a22af6e\" width=\"100%\"><small style=\"color: #999;\">This is a locator map ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/syria-israel-turkey-airstrikes-idlib-3a0e758c87ded0f26ed71b4a92db6816",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 09:53:01 +0000"
+    },
+    {
+      "title": "Ukraine aims a drone blitz at Moscow while Russian missiles kill 10 in a Ukrainian village",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/d38d2ea/2147483647/strip/true/crop/2000x1333+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2Fc5%2Fa0a20aaeaff3fd511593573b7f4a%2Ff51875fa874d4c7f932e697389d08239\" width=\"100%\"><small style=\"color: #999;\">In this photo provide",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-5f1f84bfb064942d7b7fe9be1bd4693c",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 09:23:02 +0000"
+    },
+    {
+      "title": "War between U.S. and Iran shifts key resources away from Asia",
+      "summary": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 04:40:36 -0400"
+    },
+    {
+      "title": "Syrian court sentences Wassim al-Assad to death for war crimes",
+      "summary": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 08:23:59 +0000"
+    },
+    {
+      "title": "Ship attacked during Strait of Hormuz transit and other news from the Middle East",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/827e15f/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F9a%2Fe6c76e68cb4b9315bd6a775ae322%2Fb9b5fedfe82b41d1a5f540c91b04ecf3\" width=\"100%\"><small style=\"color: #999;\">Dark oil residue cove",
+      "source": "AP News",
+      "link": "https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-18-2026-9c48af23b713709e8e170191fbc78c2a",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 08:23:01 +0000"
+    },
+    {
+      "title": "What to watch in Tuesday’s Florida primary elections",
+      "summary": "Islamophobia, anti-Semitism, Trump's politics and Israel's war on Gaza figure prominently in the elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 08:08:39 +0000"
+    },
+    {
+      "title": "Palestine weekly: Global outcry fails to break West Bank siege",
+      "summary": "Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 07:46:17 +0000"
+    },
+    {
+      "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
+      "summary": "Al Jazeera looks at the devastating impact that Israel's war and siege on Gaza are having on women with breast cancer.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 07:43:45 +0000"
+    },
+    {
+      "title": "Israeli settler children attack ambulance in occupied West Bank",
+      "summary": "Video released by the Palestinian Red Crescent shows Israeli settler children attacking and blocking an ambulance.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 07:20:35 +0000"
+    },
+    {
+      "title": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+      "summary": "British maritime agency says the incident caused one casualty and damaged the vessel's engine room.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 06:35:43 +0000"
+    },
+    {
+      "title": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
+      "summary": "Beijing's new 'Ice Silk Road' cuts through a melting Arctic, and could prompt new tensions with the US, analysts say.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 06:28:31 +0000"
+    },
+    {
+      "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+      "summary": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400"
+    },
+    {
+      "title": "Iraq’s ghost villages: Islamic State drove people away – now a new enemy is preventing their return",
+      "summary": "<p>Nearly a decade after fighting ended in northern Iraq, the climate crisis has brought extreme heat and a water shortage, making life almost impossible</p><p>The first thing that strikes visitors arriving in Faka, a small village in Sinjar district, northern Iraq, is the silence. No children play ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/aug/18/northern-iraq-villages-islamic-state-climate-crisis",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 05:00:14 GMT"
+    },
+    {
+      "title": "Bondi library removes book How to Sell a Genocide from shelves after complaint",
+      "summary": "<p>Author Adam Johnson criticises Waverley council saying ‘reality is often upsetting’ while Palestinian group says libraries should hold ‘challenging’ books</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertisin",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb",
+      "importance": "medium",
+      "pubDate": "Tue, 18 Aug 2026 00:55:38 GMT"
+    },
+    {
+      "title": "Palestinian family in West Bank fear settler violence will rob them of home",
+      "summary": "The family of a Palestinian-American man remain holed up in his West Bank home for more than a week, after Israeli settlers laid siege to the house and the Israeli army then turned it into a closed military area.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
+      "importance": "medium",
+      "pubDate": "Mon, 17 Aug 2026 17:27:58 -0400"
+    },
+    {
+      "title": "Netanyahu party campaign billboard likens Mamdani to leaders of Iran and Hezbollah",
+      "summary": "<p>Likud’s depiction of Zohran Mamdani is latest move in spat between Israel’s prime minister and New York City mayor</p><p>Benjamin Netanyahu’s party has compared the New York City mayor, Zohran Mamdani, to the leaders of Iran and Hezbollah on a campaign billboard.</p><p>The billboard in central Te",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/17/netanyahu-party-campaign-billboard-mamdani-iran-hezbollah",
+      "importance": "medium",
+      "pubDate": "Mon, 17 Aug 2026 19:54:03 GMT"
+    },
+    {
+      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened",
+      "summary": "<p>US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/17/donald-trump-threatens-bomb-oman\">Trump threatens to bomb Oman if it ‘gets in the way’ ",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 11:12:56 GMT"
+      "pubDate": "Mon, 17 Aug 2026 16:48:26 GMT"
     },
     {
-      "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-      "summary": "Explosive drones target Iraqi Kurdish PM's office and security chief's residence; no casualties reported.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+      "title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+      "summary": "<p>Israeli PM again insists troops will not withdraw from strip until Hamas first disarms, but calls meeting constructive</p><p>Benjamin Netanyahu has told Donald Trump’s son-in-law and envoy <a href=\"https://www.theguardian.com/us-news/jared-kushner\">Jared Kushner</a> there can be no progress on th",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
       "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 10:54:50 +0000"
+      "pubDate": "Mon, 17 Aug 2026 16:42:04 GMT"
     },
     {
-      "title": "South Korea hopes for talks between US and North Korea after Trump downsizes military drills",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/640bd05/2147483647/strip/true/crop/2965x1976+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Ffc%2F79ee109f08fa5701ecd9d2934e95%2F41acd1eae80247afb14f2bfd0191bb20\" width=\"100%\"><small style=\"color: #999;\">U.S. Army&#x27;s armo",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-north-south-korea-military-drills-kim-84d2ae42b527d6a71d2e7d69acf8483d",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 10:53:02 +0000"
-    },
-    {
-      "title": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
-      "summary": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 10:51:03 +0000"
-    },
-    {
-      "title": "Iran working to finalize Hormuz agreement with Oman, and other news from the Middle East",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/bc3058d/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2F47%2F79ae67b764dfad924444cea0e159%2F1666ba5006af435dbe6ed370e62710fa\" width=\"100%\"><small style=\"color: #999;\">Palestinians remove i",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-17-2026-53ae10812e472a4e5bb228b9f318a5fc",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 09:53:01 +0000"
-    },
-    {
-      "title": "Kushner sits with Netanyahu to talk Gaza after 2-hour meeting with Hamas",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/3e6cda6/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2Ff7%2Fdd2c00dd3ce7c0ff5ace291253e6%2F0498f344bf5e47219ffee1be9bf8a64a\" width=\"100%\"><small style=\"color: #999;\">Palestinians remove i",
-      "source": "AP News",
-      "link": "https://apnews.com/article/kushner-trump-netanyahu-board-of-peace-mladenov-18252d84c29658ca13ac3380743953be",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 09:23:01 +0000"
-    },
-    {
-      "title": "The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/8e0e064/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2Ff4%2F17118da4a196feeb3a6ed80c3ad1%2F761b9177e1d24121a7b4b6f885f9af28\" width=\"100%\"><small style=\"color: #999;\">People spend time at ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 08:53:02 +0000"
-    },
-    {
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+      "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 08:43:12 GMT"
+      "pubDate": "Mon, 17 Aug 2026 16:02:58 GMT"
     },
     {
-      "title": "Kushner meets Netanyahu to push Trump Gaza plan",
-      "summary": "The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 08:13:04 +0000"
-    },
-    {
-      "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
-      "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 08:00:05 +0000"
-    },
-    {
-      "title": "Myanmar’s Min Aung Hlaing heads to Russia to deepen strategic ties with Moscow",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/fbf2bf2/2147483647/strip/true/crop/2560x1706+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2F8e%2Fe963584ec3fb3a1bc5f81580efae%2F04c8edbe830f495b80eaa82e3e86980d\" width=\"100%\"><small style=\"color: #999;\">In this photo release",
-      "source": "AP News",
-      "link": "https://apnews.com/article/myanmar-min-aung-hlaing-russia-visit-putin-4faa94549c942c7c9bd8d8d5b9d7163c",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 07:23:01 +0000"
-    },
-    {
-      "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/10372ad/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F75%2F63%2F6818b38f6a07f9640cd00240868e%2F0e24b556f6ff4e5c85ab1f435b46f6c2\" width=\"100%\"><small style=\"color: #999;\">Military personnel ta",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-military-operations-latin-american-western-hemisphere-a1fccf4414e44341d3dbd54e19ae1ba4",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 07:23:01 +0000"
-    },
-    {
-      "title": "Asian shares are mostly higher while US futures and oil prices hold steady",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/6722226/2147483647/strip/true/crop/8487x5655+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2F8d%2Fb885ea9b2fb02ba7a707bb4b928d%2Fbda2de7dbca4489cad0d830bf04f9b57\" width=\"100%\"><small style=\"color: #999;\">A general view shows ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/stocks-markets-futures-rates-oil-japan-bf398d5a01f611921c0b48a8bfc884d9",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 05:23:02 +0000"
-    },
-    {
-      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-      "summary": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400"
-    },
-    {
-      "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-      "summary": "Iran’s Parliament speaker and negotiator Mohammad Bagher Ghalibaf has declared both a military and political victory",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 05:16:18 +0000"
-    },
-    {
-      "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
-      "summary": "Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 04:58:47 +0000"
-    },
-    {
-      "title": "Iraq’s impossible predicament: why the country is trapped between Iran and the US – podcast",
-      "summary": "<p>With the outbreak of this year’s war, Iraq’s balancing act between the two antagonists has collapsed, exposing a perilously fragile state</p><p>By Ghaith Abdul-Ahad. Read by Mo Ayoub</p><p>The summer issue of the Long Read magazine is out now. <a href=\"https://guardianbookshop.com/guardian-long-r",
+      "title": "Can Trump’s peace plan for Gaza be saved? – The Latest",
+      "summary": "<p>Donald Trump’s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire in Gaza.</p><p>The talks come after Netanyahu rejected the US-backed 15-point peace plan for the t",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/audio/2026/aug/17/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us-podcast",
+      "link": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
       "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 04:00:45 GMT"
-    },
-    {
-      "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
-      "summary": "Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 03:41:30 +0000"
-    },
-    {
-      "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
-      "summary": "Footage shows a rare sighting of one of Iran’s most elusive wild felines.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 17 Aug 2026 02:55:01 +0000"
+      "pubDate": "Mon, 17 Aug 2026 15:56:48 GMT"
     },
     {
       "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
@@ -163,47 +195,15 @@
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
       "importance": "medium",
-      "pubDate": "Sun, 16 Aug 2026 22:07:32 GMT"
+      "pubDate": "Mon, 17 Aug 2026 12:57:18 GMT"
     },
     {
-      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-      "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
+      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+      "summary": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza talks forward.",
       "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
       "importance": "medium",
-      "pubDate": "Sun, 16 Aug 2026 16:20:22 -0400"
-    },
-    {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT"
-    },
-    {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT"
-    },
-    {
-      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-      "summary": "<p>Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani</p><p></p><p>Eleven people have been killed, including three children, and 19<strong> </strong>injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-      "importance": "medium",
-      "pubDate": "Sat, 15 Aug 2026 13:55:28 GMT"
-    },
-    {
-      "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
-      "summary": "<p>Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration str",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-      "importance": "medium",
-      "pubDate": "Fri, 14 Aug 2026 21:38:17 GMT"
+      "pubDate": "Mon, 17 Aug 2026 07:48:21 -0400"
     }
   ]
 }
