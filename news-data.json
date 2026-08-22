@@ -1,65 +1,137 @@
 {
-  "generated": "2026-08-21T11:17:15.337Z",
-  "date": "Friday, August 21, 2026",
+  "generated": "2026-08-22T11:12:26.455Z",
+  "date": "Saturday, August 22, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "What’s in a name? Why naming storms, military operations and medical maladies matters",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/ce7e6dc/2147483647/strip/true/crop/2718x1811+0+57/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2Fb1%2Fc2a8510581d2a2412fe831529a44%2F46bb78d2c82f430e968af5e4ba3db0a5\" width=\"100%\"><small style=\"color: #999;\">Floodwaters from Hur",
+      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/496c319/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2F09%2F2e6faaf7239f4b666f4fbe3d055b%2F907427991ad74b4783179f8c9ff7480a\" width=\"100%\"><small style=\"color: #999;\">President of Iran Mas",
       "source": "AP News",
-      "link": "https://apnews.com/article/names-storms-hurricanes-operations-c299516e86619e07b7680a303199e9c5",
+      "link": "https://apnews.com/article/middle-east-iran-israel-golan-467d9b2970e0b9855ac9a68ef90c8e75",
       "importance": "medium",
-      "pubDate": "Fri, 21 Aug 2026 10:53:01 +0000"
+      "pubDate": "Sat, 22 Aug 2026 09:53:01 +0000"
     },
     {
-      "title": "Cuba says US sanctions are blocking its efforts to open the economy to private investment",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/357ac11/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F5e%2F9e8616e3d9d16a6c2f75c36b4994%2F21ce8408936346eeb69ebcaa1d122fed\" width=\"100%\"><small style=\"color: #999;\">Ernesto Soberón Guzmá",
-      "source": "AP News",
-      "link": "https://apnews.com/article/cuba-us-sanctions-economy-reform-investment-65b19b9e3abf8a14945e4510c9557f83",
-      "importance": "medium",
-      "pubDate": "Fri, 21 Aug 2026 10:53:01 +0000"
-    },
-    {
-      "title": "Fall books: Fiction takes the spotlight in bookstores during the midterm season",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/076401e/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2Ff1%2Fa90d275c142c0f5a312ac2948de4%2F336d79f6599f4385a21d11d42db60628\" width=\"100%\"><small style=\"color: #999;\">This combination of i",
-      "source": "AP News",
-      "link": "https://apnews.com/article/fall-books-2026-4ff0310275a7dad2f826fe96cc8f8f6c",
-      "importance": "medium",
-      "pubDate": "Fri, 21 Aug 2026 10:23:02 +0000"
-    },
-    {
-      "title": "5 books to read this fall, from Marlon James to Joe Biden",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/694046e/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2F33%2F54ea6a11d43e3cd45d7cca6b054d%2F87ba3affa2f7451f8ca64328d4dc3b26\" width=\"100%\"><small style=\"color: #999;\">This combination of b",
-      "source": "AP News",
-      "link": "https://apnews.com/article/fall-books-2026-to-read-f9eb2443cbb68e664bee4487e3973df0",
-      "importance": "medium",
-      "pubDate": "Fri, 21 Aug 2026 10:23:02 +0000"
-    },
-    {
-      "title": "Iranian families struggle to afford the basics as US ratchets up economic warfare",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/204a0df/2147483647/strip/true/crop/7546x5028+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2Fed%2F5ac6d0b6d52031a4c8d3d39d87e1%2Fb8195141445745f5bd7cb45d5f0ab777\" width=\"100%\"><small style=\"color: #999;\">People walk in Tehran",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-economy-sanctions-inflation-73b0278a0307030588cac9f47b3443e0",
-      "importance": "medium",
-      "pubDate": "Fri, 21 Aug 2026 09:23:02 +0000"
-    },
-    {
-      "title": "Israeli settlers set fire to Palestinian home while family asleep",
-      "summary": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
+      "title": "Iran says new US sanctions violate sovereignty of other states",
+      "summary": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 21 Aug 2026 07:58:41 +0000"
+      "pubDate": "Sat, 22 Aug 2026 09:14:09 +0000"
     },
     {
-      "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-      "summary": "The 'unacceptable' E1 plan carries 'legal and reputational consequences' for those participating, European nations warn.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+      "title": "Persuasion, denial and bluster: Trump ‘stuck’ on Iran war ahead of elections",
+      "summary": "<p>As the president tries to extract the US from his Iran war quagmire, leadership in Tehran is only too happy to crush his midterm dreams</p><p>In the aftermath of his devastating election defeat, the US president remained haunted by regrets over <a href=\"https://www.theguardian.com/world/iran\">Ira",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/22/trump-iran-war-midterm-elections",
       "importance": "medium",
-      "pubDate": "Fri, 21 Aug 2026 07:56:21 +0000"
+      "pubDate": "Sat, 22 Aug 2026 09:00:05 GMT"
+    },
+    {
+      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
+      "summary": "<p>In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban</p><p>More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
+      "importance": "medium",
+      "pubDate": "Sat, 22 Aug 2026 09:00:04 GMT"
+    },
+    {
+      "title": "Somali pirates hijack oil tanker off Yemen in latest attack",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f608f48/2147483647/strip/true/crop/1978x1318+0+23/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F10%2Fd571e4f361d23bb6eb6da24e7750%2F299a340c4b374ec98107b4eb4d2f0bfc\" width=\"100%\"><small style=\"color: #999;\">FILE -Yemeni coast g",
+      "source": "AP News",
+      "link": "https://apnews.com/article/somalia-piracy-yemen-puntland-5095054a9227548818dfc819d226dc76",
+      "importance": "medium",
+      "pubDate": "Sat, 22 Aug 2026 08:53:02 +0000"
+    },
+    {
+      "title": "Wall Street week ahead: Reports on consumer confidence and inflation on tap",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/35c4219/2147483647/strip/true/crop/8466x5641+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F13%2Ff7%2F2ecfc3d2017258b9441ae49cd539%2F473a4676bbe241f09b2d19e46a4ad9e8\" width=\"100%\"><small style=\"color: #999;\">A screen shows stock ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/wall-street-consumer-confidence-inflation-f036e0c2aa019cc924ad148a1a497dbd",
+      "importance": "medium",
+      "pubDate": "Sat, 22 Aug 2026 08:23:02 +0000"
+    },
+    {
+      "title": "Russian attacks on Ukraine kill 2 people a day after deadly shopping mall drone strike",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/875df6b/2147483647/strip/true/crop/2000x1333+0+92/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2F2a%2Fe833c9a4a7b1c9bfb8e2af58dcb3%2F8892e4ad49d946c2af8aa8a5ffe41365\" width=\"100%\"><small style=\"color: #999;\">In this photo provid",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-5e6f60963f2662907441e95c635470c4",
+      "importance": "medium",
+      "pubDate": "Sat, 22 Aug 2026 07:53:02 +0000"
+    },
+    {
+      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+      "summary": "Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 22 Aug 2026 07:35:08 +0000"
+    },
+    {
+      "title": "Iranian president says time to end war with US from ‘position of strength’",
+      "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 22 Aug 2026 00:59:37 +0000"
+    },
+    {
+      "title": "California lawmaker overcomes pro-Israel spending to win special election",
+      "summary": "Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 22 Aug 2026 00:38:06 +0000"
+    },
+    {
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 21 Aug 2026 19:31:47 GMT"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "summary": "<p>Wildfires in Europe, Russian strikes in Kyiv, the Meta trial and swimming in Gaza – <a href=\"https://www.instagram.com/theguardian20photos/?hl=en-gb\">the past seven days as captured by the world’s leading photojournalists</a></p> <a href=\"https://www.theguardian.com/artanddesign/gallery/2026/aug/",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/21/the-week-around-the-world-in-20-pictures",
+      "importance": "medium",
+      "pubDate": "Fri, 21 Aug 2026 17:25:01 GMT"
+    },
+    {
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 21 Aug 2026 15:58:57 GMT"
+    },
+    {
+      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+      "summary": "<p>Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers</p><p>Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the <a href=\"ht",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+      "importance": "medium",
+      "pubDate": "Fri, 21 Aug 2026 15:03:34 GMT"
+    },
+    {
+      "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
+      "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+      "importance": "medium",
+      "pubDate": "Fri, 21 Aug 2026 07:42:10 -0400"
+    },
+    {
+      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+      "summary": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+      "importance": "medium",
+      "pubDate": "Fri, 21 Aug 2026 07:25:10 -0400"
     },
     {
       "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
@@ -76,22 +148,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
-    },
-    {
-      "title": "Iran war live: Tehran says planned US sanctions threaten global economy",
-      "summary": "Iran says Washington's warning of an 'economic D-Day' threatens the entire global economy.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-      "summary": "Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 23:19:56 +0000"
     },
     {
       "title": "Wars are happening across the world. Many of them are connected",
@@ -148,62 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
       "importance": "medium",
       "pubDate": "Thu, 20 Aug 2026 12:34:11 GMT"
-    },
-    {
-      "title": "Israel opens up bids for highly sensitive West Bank settlement project",
-      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 10:30:52 GMT"
-    },
-    {
-      "title": "North Korea fires a suspected missile toward the sea, Japan says",
-      "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 05:24:45 -0400"
-    },
-    {
-      "title": "An open letter to Iran’s political prisoners, trapped ‘between two blades of a scissors’",
-      "summary": "<p>On one side, you face the domination of the Islamic Republic; on the other, the imperialist forces that republic claims to stand against</p><p><em>August marks the anniversary of the 1988 mass executions in Iran, a horror that echoes in the country’s current surge in death sentences. It also mark",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/ng-interactive/2026/aug/20/iran-political-prisoners",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 09:00:48 GMT"
-    },
-    {
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 07:33:11 GMT"
-    },
-    {
-      "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
-      "summary": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 01:50:53 -0400"
-    },
-    {
-      "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
-      "summary": "<p>US president pivots towards ‘crushing’ economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table</p><p>Donald Trump has announced a new campaign to isolate Iran’s economy, threatening “tremendous economic consequences” on any country that helps",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 04:53:44 GMT"
-    },
-    {
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 04:17:53 GMT"
     }
   ]
 }
