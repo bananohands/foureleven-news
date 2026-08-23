@@ -1,25 +1,113 @@
 {
-  "generated": "2026-08-22T11:12:26.455Z",
-  "date": "Saturday, August 22, 2026",
+  "generated": "2026-08-23T11:12:30.143Z",
+  "date": "Sunday, August 23, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/496c319/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2F09%2F2e6faaf7239f4b666f4fbe3d055b%2F907427991ad74b4783179f8c9ff7480a\" width=\"100%\"><small style=\"color: #999;\">President of Iran Mas",
-      "source": "AP News",
-      "link": "https://apnews.com/article/middle-east-iran-israel-golan-467d9b2970e0b9855ac9a68ef90c8e75",
+      "title": "Syria foreign minister says door open for diplomacy with Israel",
+      "summary": "Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 22 Aug 2026 09:53:01 +0000"
+      "pubDate": "Sun, 23 Aug 2026 10:48:55 +0000"
     },
     {
-      "title": "Iran says new US sanctions violate sovereignty of other states",
-      "summary": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+      "title": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/018b7c1/2147483647/strip/true/crop/5028x3350+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F88%2Fc3%2Fc7e7a52ce4f9e1a269c1dbb836cb%2F0e1815127e004efab95dfd051bab5557\" width=\"100%\"><small style=\"color: #999;\">Ukraine&#x27;s Presid",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-zelenskyy-fedorov-15d84a5a1f52e376ffdf98082cdf9712",
       "importance": "medium",
-      "pubDate": "Sat, 22 Aug 2026 09:14:09 +0000"
+      "pubDate": "Sun, 23 Aug 2026 09:53:02 +0000"
+    },
+    {
+      "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+      "summary": "Israeli air attack near Gaza's Maghazi camp kills one person and injures two others.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 09:43:47 +0000"
+    },
+    {
+      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "summary": "<p>Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases</p><p>Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down.</p><p>The incident involved a small-scale energy gene",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 09:07:44 GMT"
+    },
+    {
+      "title": "Israeli wounded in occupied West Bank stabbing",
+      "summary": "Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 08:38:01 +0000"
+    },
+    {
+      "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/496c319/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2F09%2F2e6faaf7239f4b666f4fbe3d055b%2F907427991ad74b4783179f8c9ff7480a\" width=\"100%\"><small style=\"color: #999;\">President of Iran Mas",
+      "source": "AP News",
+      "link": "https://apnews.com/article/middle-east-iran-israel-west-bank-august-23-2026-a3fff9eba47a5510060e8014b82d794f",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 08:23:02 +0000"
+    },
+    {
+      "title": "Israeli politicians focus on foreign threats, ignoring spiralling debt",
+      "summary": "Israel faces mounting debt pressures as wars and declining tax revenues collide and more top earners leave the country.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/23/israeli-politicians-focus-on-foreign-threats-ignoring-spiralling-debt?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 07:46:52 +0000"
+    },
+    {
+      "title": "Kazakhstan votes in parliamentary election expected to strengthen president’s grip on power",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/328e8e0/2147483647/strip/true/crop/5611x3739+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F17%2Ff798f1df2a4bf560f907e0256240%2F748699abc39645e7a01000b7aaf282a9\" width=\"100%\"><small style=\"color: #999;\">A woman holds her bal",
+      "source": "AP News",
+      "link": "https://apnews.com/article/kazakhstan-election-tokayev-ef0cb883baa7344cc89fc1e655edbd5d",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 06:53:01 +0000"
+    },
+    {
+      "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+      "summary": "Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 05:10:05 +0000"
+    },
+    {
+      "title": "Trump will kick off the IndyCar race in the Beast before cars zoom through Washington’s streets",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/1e791bc/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2F35%2Ffad4d8bbacd3dc488fa9f80a5609%2Fb822c561aad1411f8feeca1207a14f05\" width=\"100%\"><small style=\"color: #999;\">Race car diver Scott ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/trump-indycar-america-250-fe6d60c0be3a82c63d44d7aa1703a671",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 04:23:01 +0000"
+    },
+    {
+      "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
+      "summary": "<p>Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council</p><p>The new leader of Iran’s top security body has warned its neighbours against joining new US efforts to squeeze Tehran’s economy, and threatened US com",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 03:34:27 GMT"
+    },
+    {
+      "title": "Israelis worry about weakening connection with younger Jewish Americans",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/e08ad57/2147483647/strip/true/crop/6720x4478+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2F73%2F61b3eef3c819fba459d8c29fccef%2Fb41e5018f99d4551a0329aeef7e8ab49\" width=\"100%\"><small style=\"color: #999;\">FILE- A U.S. flag is ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/israel-united-states-jewish-americans-relationship-ap-poll-92625d893c57d1d9ef33b6051a228b72",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 03:23:02 +0000"
+    },
+    {
+      "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+      "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 23 Aug 2026 00:00:00 +0000"
     },
     {
       "title": "Persuasion, denial and bluster: Trump ‘stuck’ on Iran war ahead of elections",
@@ -36,54 +124,6 @@
       "link": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
       "importance": "medium",
       "pubDate": "Sat, 22 Aug 2026 09:00:04 GMT"
-    },
-    {
-      "title": "Somali pirates hijack oil tanker off Yemen in latest attack",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f608f48/2147483647/strip/true/crop/1978x1318+0+23/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F10%2Fd571e4f361d23bb6eb6da24e7750%2F299a340c4b374ec98107b4eb4d2f0bfc\" width=\"100%\"><small style=\"color: #999;\">FILE -Yemeni coast g",
-      "source": "AP News",
-      "link": "https://apnews.com/article/somalia-piracy-yemen-puntland-5095054a9227548818dfc819d226dc76",
-      "importance": "medium",
-      "pubDate": "Sat, 22 Aug 2026 08:53:02 +0000"
-    },
-    {
-      "title": "Wall Street week ahead: Reports on consumer confidence and inflation on tap",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/35c4219/2147483647/strip/true/crop/8466x5641+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F13%2Ff7%2F2ecfc3d2017258b9441ae49cd539%2F473a4676bbe241f09b2d19e46a4ad9e8\" width=\"100%\"><small style=\"color: #999;\">A screen shows stock ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/wall-street-consumer-confidence-inflation-f036e0c2aa019cc924ad148a1a497dbd",
-      "importance": "medium",
-      "pubDate": "Sat, 22 Aug 2026 08:23:02 +0000"
-    },
-    {
-      "title": "Russian attacks on Ukraine kill 2 people a day after deadly shopping mall drone strike",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/875df6b/2147483647/strip/true/crop/2000x1333+0+92/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2F2a%2Fe833c9a4a7b1c9bfb8e2af58dcb3%2F8892e4ad49d946c2af8aa8a5ffe41365\" width=\"100%\"><small style=\"color: #999;\">In this photo provid",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-5e6f60963f2662907441e95c635470c4",
-      "importance": "medium",
-      "pubDate": "Sat, 22 Aug 2026 07:53:02 +0000"
-    },
-    {
-      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-      "summary": "Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 22 Aug 2026 07:35:08 +0000"
-    },
-    {
-      "title": "Iranian president says time to end war with US from ‘position of strength’",
-      "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 22 Aug 2026 00:59:37 +0000"
-    },
-    {
-      "title": "California lawmaker overcomes pro-Israel spending to win special election",
-      "summary": "Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 22 Aug 2026 00:38:06 +0000"
     },
     {
       "title": "How Israel is expanding settlements in drive to reshape West Bank",
@@ -164,46 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Thu, 20 Aug 2026 19:52:48 GMT"
-    },
-    {
-      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-      "summary": "<p>Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024</p><p>The Israeli military admitted on Wednesday its troops had opened fire on a car carrying five-year-old Hind Rajab and six family members in Gaza in 2024, saying it had ordered a crimina",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 19:15:09 GMT"
-    },
-    {
-      "title": "Samira al-Mana obituary",
-      "summary": "<p>My mother, Samira al-Mana, who has died aged<strong> </strong>91, was an Iraqi who moved to the UK when she was 30 and subsequently wrote five novels, two collections of short stories and a play.</p><p>Her work, which was written in Arabic, focused on the difficult choices faced by everyday citiz",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/books/2026/aug/20/samira-al-mana-obituary",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 19:02:59 GMT"
-    },
-    {
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 18:55:14 GMT"
-    },
-    {
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 12:38:35 GMT"
-    },
-    {
-      "title": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
-      "summary": "<p>Far-right minister says those convicted in military courts of terror offences will be executed after passing of death penalty law that does not apply to Jewish extremists</p><p>Israel’s far-right national security minister, Itamar Ben-Gvir, has posted a gloating video of the construction of a gal",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
-      "importance": "medium",
-      "pubDate": "Thu, 20 Aug 2026 12:34:11 GMT"
     }
   ]
 }
