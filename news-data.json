@@ -1,10 +1,178 @@
 {
-  "generated": "2026-09-03T14:49:03.717Z",
-  "date": "Thursday, September 3, 2026",
+  "generated": "2026-09-04T14:37:48.286Z",
+  "date": "Friday, September 4, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Serbia faces EU scrutiny over upcoming funeral of convicted war criminal Ratko Mladic",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/2d11671/2147483647/strip/true/crop/5638x3757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F08%2F5b%2F19795ab795b8fed3cfd72180a5ab%2F7efbb007468c4910ad735ceedbe9c0a0\" width=\"100%\"><small style=\"color: #999;\">Cars move along under",
+      "source": "AP News",
+      "link": "https://apnews.com/article/serbia-mladic-eu-funeral-belgrade-vucic-96408e87f62243f7a81d2a3b8a8bafbe",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 13:23:03 +0000"
+    },
+    {
+      "title": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected",
+      "summary": "<img src=\"https://dims.apnews.com/dims4/default/a62d53e/2147483647/strip/true/crop/8090x5391+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2Ff6%2F3c0e1ef08d3f1d50c2a9917bc07b%2F3ab0e6596ed740bca089e18e015935b1\" width=\"100%\"><small style=\"color: #999;\">Ukraine&#x27;s Presid",
+      "source": "AP News",
+      "link": "https://apnews.com/article/russia-ukraine-war-diplomacy-zelenskyy-kushner-witkoff-553d4ed8204070be97b1671db0c5cd53",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 13:23:03 +0000"
+    },
+    {
+      "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
+      "summary": "From My Lai to civilian killings in Afghanistan, Iraq, the US has often denied role before later quietly acknowledging.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 13:15:36 +0000"
+    },
+    {
+      "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
+      "summary": "Fighting has intensified between Iran-backed Houthi rebels and Yemeni government forces since Thursday.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 13:13:14 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
+      "summary": "Ben-Gvir sets out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 13:08:23 +0000"
+    },
+    {
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "summary": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 12:39:05 GMT"
+    },
+    {
+      "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
+      "summary": "<p>Family-run Al-Qarara Seed Bank is striving to help Palestinians gain sovereignty over their food security</p><p>Salama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza. At just 17, Muhanna had proudly sprouted cucumbers.</p><p>“I was very happy beca",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 12:37:57 GMT"
+    },
+    {
+      "title": "South Korea mulls ‘contributions’ in Strait of Hormuz",
+      "summary": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 12:10:51 +0000"
+    },
+    {
+      "title": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
+      "summary": "<p>The writer-director once called Israel’s ‘one-man New Wave’ is in Venice with The Road to Jericho, a new and poetic attempt to highlight the plight of those in the occupied West Bank</p><p>The Palestinian village of Khan al-Ahmar sits off dust-blown Highway-1, between Jerusalem and Jericho in the",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 11:55:19 GMT"
+    },
+    {
+      "title": "Iran war: Why US midterms could be a pivotal moment",
+      "summary": "Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 11:12:51 +0000"
+    },
+    {
+      "title": "Iranian town mourns after deadly strike on wedding",
+      "summary": "<p>Mourning turns to anger as residents of Kuhestak say Baloch communities are being placed in path of conflict</p><p>People in Kuhestak, a predominantly Baloch city in Iran’s southern Hormozgan province, are mourning after a <a href=\"https://www.theguardian.com/world/2026/sep/02/iran-us-missile-bla",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/04/iranian-town-kuhestak-devastated-strike-wedding",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 10:19:23 GMT"
+    },
+    {
+      "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+      "summary": "Argentina's president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 10:17:47 +0000"
+    },
+    {
+      "title": "Israel takes its war on Palestine into the AI age",
+      "summary": "The Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 09:42:02 +0000"
+    },
+    {
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "summary": "After renewed strikes this week, does either side have an exit strategy?",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+    },
+    {
+      "title": "Why has the Philippine peso plunged to a record low?",
+      "summary": "The Southeast Asian country's currency has plummeted amid the fallout of the Iran war and economic challenges at home.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 08:38:34 +0000"
+    },
+    {
+      "title": "Argentina escalates Falklands dispute with the U.K., seizing on Trump comments",
+      "summary": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
+      "importance": "medium",
+      "pubDate": "Fri, 04 Sep 2026 01:30:29 -0400"
+    },
+    {
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT"
+    },
+    {
+      "title": "Three farmers detained by Israel in Lebanon, village leader says",
+      "summary": "The detentions were reported to the US-led International Monitoring and Implementation Mechanism but Israeli military has not commented.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 03 Sep 2026 19:34:58 GMT"
+    },
+    {
+      "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
+      "summary": "<p>Troops escort settlers into al-Mughayyir and raze village outside Hebron as ethnic cleansing of West Bank continues</p><p>Israelis have shot dead two teenagers in a Palestinian village encircled by settlers, and Israeli troops have razed an entire village outside Hebron, in the latest attacks in ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
+      "importance": "medium",
+      "pubDate": "Thu, 03 Sep 2026 19:33:00 GMT"
+    },
+    {
+      "title": "Far-right Israeli minister outlines plan for removal of all Palestinians from Gaza",
+      "summary": "<p>Itamar Ben-Gvir claims proposal for illegal forced displacement of 2 million people is ‘realistic’ and ‘concrete’</p><p>Israel’s far-right national security minister has set out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip, with the intention of sending them abr",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/03/israel-far-right-minister-itamar-ben-gvir-plan-removal-palestinians-gaza",
+      "importance": "medium",
+      "pubDate": "Thu, 03 Sep 2026 18:01:05 GMT"
+    },
+    {
+      "title": "Palestinian teens killed during settler attack on West Bank village",
+      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 03 Sep 2026 15:05:57 GMT"
+    },
     {
       "title": "US commerce secretary erroneously said no Americans have died in Iran war, Trump claims",
       "summary": "<p>President said Howard Lutnick had Venezuela operation on his mind when he was discussing Iran war on CNBC</p><p>Donald Trump has claimed his commerce secretary, Howard Lutnick, erroneously stated that no Americans had been killed in the war with Iran because he was thinking about a previous US op",
@@ -15,35 +183,11 @@
     },
     {
       "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-      "summary": "<p>Air bases used by US in the UAE and Kuwait hit as the Israeli defence chief says Iran’s regime fears collapse due to economic pressures</p><p>Iran has continued to demonstrate an ability to target bases in the Gulf used by the US despite six months of war and a new sanctions regime described by t",
+      "summary": "<p>Air bases used by US in UAE and Kuwait hit as Israeli defence chief says Iran’s regime fears collapse due to economic pressures</p><p>Iran has continued to demonstrate an ability to target bases in the Gulf used by the US despite six months of war and a new sanctions regime described by the Trump",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
       "importance": "medium",
       "pubDate": "Thu, 03 Sep 2026 14:16:54 GMT"
-    },
-    {
-      "title": "Dozens missing, 5 dead after migrant boat is found drifting near Spain’s Canary Islands",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/84da285/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2Fa0%2F9bd631e3f72be2f5593a054dc611%2F863332e9c910413ca3585ed6cde03017\" width=\"100%\"><small style=\"color: #999;\">House Minority Leader",
-      "source": "AP News",
-      "link": "https://apnews.com/article/spain-migration-migrant-deaths-atlantic-canary-islands-95e8d95c6a9c24b67df0c664f2c5f3e7",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 13:53:02 +0000"
-    },
-    {
-      "title": "Democrats are promising a big agenda. Their unity is already being tested",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/84da285/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2Fa0%2F9bd631e3f72be2f5593a054dc611%2F863332e9c910413ca3585ed6cde03017\" width=\"100%\"><small style=\"color: #999;\">House Minority Leader",
-      "source": "AP News",
-      "link": "https://apnews.com/article/house-democrats-jeffries-midterm-elections-majority-agenda-ac731edc09c32e40319905db4c50ece6",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 13:53:02 +0000"
-    },
-    {
-      "title": "Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?",
-      "summary": "They're not carrying out pogroms, but are nonetheless setting the stage for land grabs by Israeli settlers.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 13:49:02 +0000"
     },
     {
       "title": "The Ceuta border breach was leapt on by Europe’s right. That doesn’t absolve Spain | María Ramírez",
@@ -54,156 +198,12 @@
       "pubDate": "Thu, 03 Sep 2026 13:29:48 GMT"
     },
     {
-      "title": "‘Can I take the door?’ woman pleads at Syrian prison exhibit",
-      "summary": "A Syrian woman spotted her missing brother’s name on a prison cell door at an exhibition in Damascus.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 13:02:59 +0000"
-    },
-    {
-      "title": "A Lebanese man held prisoner in Israel is released and handed over to Lebanon",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/4458838/2147483647/strip/true/crop/5097x3396+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F56%2F106f0c883bbb61fa38ea32ac16b9%2F9cebfb091a594b70a9f090f0814ab09f\" width=\"100%\"><small style=\"color: #999;\">Smoke rises as Israel",
-      "source": "AP News",
-      "link": "https://apnews.com/article/lebanon-israel-prisoner-malek-ghazi-release-hezbollah-bfe8abeb4f713332a543e23dd9d2bba5",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 12:53:02 +0000"
-    },
-    {
-      "title": "No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know",
-      "summary": "Abu Safia, in custody for nearly two years, continues to face abuse inside prison, his lawyer says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 11:21:59 +0000"
-    },
-    {
       "title": "The wars in Ukraine and Iran are becoming dangerously enmeshed | Christopher S Chivvis",
       "summary": "<p>As the Trump administration refuses to end its war in Iran, it is steering into the storm, not out of it</p><p>Russia hasn’t yet killed large numbers of Europeans outside Ukraine, but it’s getting closer. The night of 4-5 August, an airport bus driver <a href=\"https://www.rferl.org/a/german-polic",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/commentisfree/2026/sep/03/ukraine-iran-wars-trump",
       "importance": "medium",
       "pubDate": "Thu, 03 Sep 2026 10:00:50 GMT"
-    },
-    {
-      "title": "Yair Netanyahu, Israeli PM’s son, angers UK right over Falklands comment",
-      "summary": "Accusing the UK government of ‘hypocrisy’, Yair Netanyahu backs Argentina’s claims to the British-held Falkland Islands.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 09:54:15 +0000"
-    },
-    {
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 09:53:58 GMT"
-    },
-    {
-      "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
-      "summary": "EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 09:34:09 +0000"
-    },
-    {
-      "title": "Gulf insecurity fuels US energy dominance",
-      "summary": "The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 09:16:20 +0000"
-    },
-    {
-      "title": "China's Xi visits Egypt for the first time in a decade",
-      "summary": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 04:08:39 -0400"
-    },
-    {
-      "title": "U.S.-Israel relations are on the rocks ahead of elections",
-      "summary": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 04:06:18 -0400"
-    },
-    {
-      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "summary": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
-      "importance": "medium",
-      "pubDate": "Thu, 03 Sep 2026 03:04:25 -0400"
-    },
-    {
-      "title": "What we know about reported strike on Iran wedding celebrations",
-      "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 02 Sep 2026 21:02:35 GMT"
-    },
-    {
-      "title": "Israel ‘seeking Trump’s support for plan to expel Palestinians from Gaza’",
-      "summary": "<p>Defence minister says he believes US backing could tip regional balance in favour of forced resettlement</p><p>Israel’s defence minister has said his country is seeking Donald Trump’s support to approve plans to expel Palestinians from the Gaza Strip in what has widely been condemned as a potenti",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/02/israel-seeking-trumps-support-for-plan-to-expel-palestinians-from-gaza",
-      "importance": "medium",
-      "pubDate": "Wed, 02 Sep 2026 18:20:36 GMT"
-    },
-    {
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT"
-    },
-    {
-      "title": "The Guardian view on Israeli settlements: Britain can no longer look away | Editorial",
-      "summary": "<p>International law, European action and UK public opinion point the same way. Britain should stop helping to sustain Israeli settlements economically</p><p>In the Commons this week, the foreign secretary, Ed&nbsp;Miliband, appeared to have accepted the principle of a trade ban between the UK and I",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-israeli-settlements-britain-can-no-longer-look-away",
-      "importance": "medium",
-      "pubDate": "Wed, 02 Sep 2026 17:29:38 GMT"
-    },
-    {
-      "title": "Iran retaliates after US strikes reportedly kill wedding guests - The Latest",
-      "summary": "<p>Iran has accused the US of a ‘war crime’ after a missile blast killed at least four people, including a young child, and injured 68 at a wedding at a private house in southern Iran. A month-long uneasy truce between the US and Iran appears to have collapsed again, after US strikes on Saturday on ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/video/2026/sep/02/iran-retaliates-after-us-strikes-reportedly-kill-wedding-guests-the-latest",
-      "importance": "medium",
-      "pubDate": "Wed, 02 Sep 2026 16:23:07 GMT"
-    },
-    {
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT"
-    },
-    {
-      "title": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
-      "summary": "<p>Blast also injures 68 guests at the wedding in southern Iran, prompting fears of escalation in hostilities </p><p>Iran has accused the US of a war crime after a missile blast killed at least four people and injured 68 who were attending a wedding at a private home in a coastal city of southern Ir",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
-      "importance": "medium",
-      "pubDate": "Wed, 02 Sep 2026 15:19:04 GMT"
-    },
-    {
-      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-      "summary": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-      "importance": "medium",
-      "pubDate": "Wed, 02 Sep 2026 11:18:09 -0400"
     }
   ]
 }
