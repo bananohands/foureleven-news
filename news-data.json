@@ -1,10 +1,146 @@
 {
-  "generated": "2026-09-06T13:50:50.679Z",
-  "date": "Sunday, September 6, 2026",
+  "generated": "2026-09-07T16:12:34.994Z",
+  "date": "Monday, September 7, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "How the media manufactured consent for genocide",
+      "summary": "A new book uncovers the role the media played in whitewashing Israel's genocidal war on Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 14:59:37 +0000"
+    },
+    {
+      "title": "Israel opens trade office in Bosnia’s Republika Srpska",
+      "summary": "Israel’s Chamber of Commerce has opened a new trade office in Banja Luka.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israel-opens-trade-office-in-bosnias-republika-srpska?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 14:57:47 +0000"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
+      "summary": "Seven-year-old Wafaa Aqila and her father killed by Israeli strike while returning home with school supplies.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 13:52:52 +0000"
+    },
+    {
+      "title": "‘Breaks my heart’: Yemen jab shortages spark fears for millions of children",
+      "summary": "Some five million Yemeni children are deprived of essential routine vaccinations amid disputes.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/7/breaks-my-heart-yemen-jab-shortages-spark-fears-for-millions-of-children?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 13:46:42 +0000"
+    },
+    {
+      "title": "Israeli strikes in southern Lebanese village kill 12",
+      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 13:39:23 GMT"
+    },
+    {
+      "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
+      "summary": "Analysts warn Iraq faces severe security and political tests as the US-led coalition withdrawal deadline approaches.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 13:30:38 +0000"
+    },
+    {
+      "title": "Why has Nicaragua taken Germany to the ICJ over Gaza genocide?",
+      "summary": "Nicaragua accuses Germany of violating the Genocide Convention by supporting Israel amid its onslaught on Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/7/why-has-nicaragua-taken-germany-to-the-icj-over-gaza-genocide?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 13:26:28 +0000"
+    },
+    {
+      "title": "Moment Israeli strike hits next to Lebanese reporter",
+      "summary": "Moment Israeli strike hits next to Lebanese reporter",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-israeli-strike-hits-next-to-lebanese-reporter?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 13:05:59 +0000"
+    },
+    {
+      "title": "Yemen gov’t forces launch air strikes on Houthi targets",
+      "summary": "The Houthis and Yemeni government forces are battling for control of the critical Bab al-Mandeb Strait.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/7/yemen-govt-forces-launch-air-strikes-on-houthi-targets?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 13:05:54 +0000"
+    },
+    {
+      "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
+      "summary": "US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 12:00:07 +0000"
+    },
+    {
+      "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+      "summary": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 11:37:46 +0000"
+    },
+    {
+      "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
+      "summary": "There is less crude in the market, and refiners prefer to produce diesel. The result: ships are running short of fuel.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 11:26:27 +0000"
+    },
+    {
+      "title": "Israeli ministers keep telling everyone their brutal plans – so why doesn’t the world take them seriously? | Nesrine Malik",
+      "summary": "<p>Schemes to forcibly remove Palestinians from Gaza are not being promoted by fringe voices. But the international community continues to avert its eyes</p><p>The gap between what is being inflicted on Palestinians and the appropriate reaction on the part of the international community has always b",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/07/israeli-ministers-brutal-plans-palestinians-gaza",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 05:00:26 GMT"
+    },
+    {
+      "title": "UN expert Francesca Albanese calls for ‘true paradigm shift’ as Miliband resets policy on Israel",
+      "summary": "<p>Exclusive: UN special rapporteur on occupied territories says ban on goods from settlements ‘important’ but must go further if it is to amount to more than a ‘press release’</p><p>The UK’s planned ban on trade with unlawful Israeli settlements is a welcome, if overdue, first step and must be judg",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/07/un-francesca-albanese-miliband-israel-palestine-settlements-trade",
+      "importance": "medium",
+      "pubDate": "Mon, 07 Sep 2026 04:00:25 GMT"
+    },
+    {
+      "title": "What Russia and China learned from America after 9/11",
+      "summary": "Journalists Mikhail Zygar and Cindy Yu explain how the wars in Iraq and Afghanistan helped reshape Russia and China's ambitions.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5938065/what-russia-and-china-learned-from-america-after-9-11",
+      "importance": "medium",
+      "pubDate": "Sun, 06 Sep 2026 17:06:41 -0400"
+    },
+    {
+      "title": "Energy secretary says US might not reach nuclear agreement with Iran",
+      "summary": "<p>Chris Wright tells ABC there ‘may not’ be an agreement that would prevent Iran from having nuclear weapons</p><p>US energy secretary Chris Wright said on Sunday morning that the US may not be able to reach a nuclear agreement with Iran that would prevent the country from having nuclear weapons.</",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+      "importance": "medium",
+      "pubDate": "Sun, 06 Sep 2026 17:39:10 GMT"
+    },
+    {
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 06 Sep 2026 17:00:56 GMT"
+    },
     {
       "title": "Iran war likely to drag on for another six months, ex-US defense secretary warns",
       "summary": "<p>Leon Panetta tells Guardian US is risking ‘forever war’ and says Pentagon ‘turmoil’ sending message of weakness</p><p>Donald Trump’s <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">war with Iran</a> is likely to drag on for another six months, Leon Panetta, the former US defense",
@@ -12,118 +148,6 @@
       "link": "https://www.theguardian.com/world/2026/sep/06/iran-war-trump-leon-panetta-interview",
       "importance": "medium",
       "pubDate": "Sun, 06 Sep 2026 13:26:51 GMT"
-    },
-    {
-      "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-      "summary": "Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 13:15:46 +0000"
-    },
-    {
-      "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
-      "summary": "Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 13:13:36 +0000"
-    },
-    {
-      "title": "A whiplash election year enters its final stretch as Trump holds wild cards",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/6c7815c/2147483647/strip/true/crop/5625x3748+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2F95%2F8c3d7724e1ac2559a2350deb265a%2F7f5d80f63c5a4d8eb6a1d3f71168338f\" width=\"100%\"><small style=\"color: #999;\">President Donald Trum",
-      "source": "AP News",
-      "link": "https://apnews.com/article/trump-midterms-iran-tariffs-data-centers-f07499f53269e37ccd2565564cc01e4e",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 11:53:02 +0000"
-    },
-    {
-      "title": "At least 25 people dead in a bus crash in Cape Verde’s Fogo Island, officials and media say",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/eae61ee/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2F7c%2F7d9a4d07176eeebcd2d54a95c166%2F122911eb15d141aeb53a6dd7ca780137\" width=\"100%\"><small style=\"color: #999;\">A motorboat passes a ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/cape-verde-bus-crash-8c726e98d4709db1d48f9bb2a81c622b",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 11:23:02 +0000"
-    },
-    {
-      "title": "Iran says it hit a US ship in a week of renewed hostilities, and other Mideast news",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/eae61ee/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2F7c%2F7d9a4d07176eeebcd2d54a95c166%2F122911eb15d141aeb53a6dd7ca780137\" width=\"100%\"><small style=\"color: #999;\">A motorboat passes a ",
-      "source": "AP News",
-      "link": "https://apnews.com/article/mideast-iran-us-hormuz-lebanon-israel-b4f64c7492d8c5b9ff71794cc152186d",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 11:23:02 +0000"
-    },
-    {
-      "title": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
-      "summary": "Gaza families hold mass funeral for 100 people recovered from rubble in Zeitoun neighbourhood.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 11:13:50 +0000"
-    },
-    {
-      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
-      "summary": "The US and Iran attack tankers in Strait of Hormuz, as the two sides try to exert control over the strategic waterway.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 10:49:22 +0000"
-    },
-    {
-      "title": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
-      "summary": "The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 10:42:14 +0000"
-    },
-    {
-      "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
-      "summary": "Israel's visual colonisation aims to make Palestinians feel like guests in their own homeland.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 09:40:06 +0000"
-    },
-    {
-      "title": "Israeli air attacks on Lebanon kill at least four",
-      "summary": "Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 09:15:20 +0000"
-    },
-    {
-      "title": "Israel bombards several towns in southern Lebanon",
-      "summary": "The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 08:44:03 +0000"
-    },
-    {
-      "title": "US envoys Witkoff and Kushner set for talks in Kyiv after meeting with Putin in Moscow",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/2215e2c/2147483647/strip/true/crop/3561x2373+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2Fee%2Fc838d3b3a8905ec7d2e6319d2e09%2F329ef7c40afe42e0839c39d4f618600c\" width=\"100%\"><small style=\"color: #999;\">U.S. President Donald",
-      "source": "AP News",
-      "link": "https://apnews.com/article/russia-ukraine-war-witkoff-kushner-zelenskyy-putin-44bba3b57b480560d9f48dba7d28534e",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 08:23:01 +0000"
-    },
-    {
-      "title": "A fuel tanker explosion in west Iran kills 11 and injures 7",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/f450716/2147483647/strip/true/crop/1655x1103+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Fc4%2F4aaebcb78152e536bf8a22242d24%2F4e02dd7044304417bcfc2e9b5b52161a\" width=\"100%\"><small style=\"color: #999;\">In this photo release",
-      "source": "AP News",
-      "link": "https://apnews.com/article/iran-road-accident-death-toll-90148bfbc4007e09d4ad5130aecd1ed6",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 07:23:02 +0000"
-    },
-    {
-      "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-      "summary": "Al Jazeera finds 17 settlement-linked companies hold 2.1 billion pounds in UK public contracts.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 06:52:23 +0000"
     },
     {
       "title": "Broken feet, ripped-out hair and now a death sentence: the fate of twin sisters jailed over Iran protests",
@@ -134,28 +158,12 @@
       "pubDate": "Sun, 06 Sep 2026 06:00:58 GMT"
     },
     {
-      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
-      "summary": "More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 05:02:17 +0000"
-    },
-    {
       "title": "The world is being driven to the brink by thugs and dictators, but there is a route to a brighter future | Simon Tisdall",
       "summary": "<p>It’s no surprise some analysts say we are already in the midst of the third world war, but ordinary people have more power than we think </p><p>Don’t look up! The world is a mess. The sky could fall in any day. Unending wars, expanding humanitarian crises, rising authoritarianism, dysfunctional d",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/commentisfree/2026/sep/06/world-brink-thugs-dictators-brighter-future-ordinary-people",
       "importance": "medium",
       "pubDate": "Sun, 06 Sep 2026 05:00:57 GMT"
-    },
-    {
-      "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
-      "summary": "Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 06 Sep 2026 04:59:28 +0000"
     },
     {
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
@@ -166,28 +174,12 @@
       "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT"
     },
     {
-      "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
-      "summary": "The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
-      "importance": "medium",
-      "pubDate": "Sat, 05 Sep 2026 17:01:12 -0400"
-    },
-    {
       "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
       "summary": "<p>Officials said US aircraft carrier and destroyer avoided attacks before three Iranian tankers were struck by the US</p><p>The <a href=\"https://www.theguardian.com/us-news/us-military\">US military</a> said Saturday it struck three Iranian oil tankers after US navy warships came under missile attac",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
       "importance": "medium",
       "pubDate": "Sat, 05 Sep 2026 15:41:22 GMT"
-    },
-    {
-      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-      "summary": "U.S. and Iran trade attacks on ships as fighting flares up again",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "importance": "medium",
-      "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400"
     },
     {
       "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
@@ -198,12 +190,20 @@
       "pubDate": "Sat, 05 Sep 2026 13:47:19 GMT"
     },
     {
-      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
-      "summary": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
+      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
+      "summary": "<p>Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel\">Death on the road to Rafah: the night the IDF targe",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
       "importance": "medium",
-      "pubDate": "Sat, 05 Sep 2026 07:43:20 -0400"
+      "pubDate": "Sat, 05 Sep 2026 11:08:31 GMT"
+    },
+    {
+      "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
+      "summary": "<p>Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancer</p><p>A man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would still be alive today if the Home Office had agreed to bring her and her family to Britain.</p>",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+      "importance": "medium",
+      "pubDate": "Sat, 05 Sep 2026 10:00:33 GMT"
     }
   ]
 }
