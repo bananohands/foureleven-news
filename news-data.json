@@ -1,33 +1,161 @@
 {
-  "generated": "2026-09-09T14:55:24.998Z",
-  "date": "Wednesday, September 9, 2026",
+  "generated": "2026-09-10T14:41:57.926Z",
+  "date": "Thursday, September 10, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
-      "summary": "Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 14:19:00 +0000"
-    },
-    {
-      "title": "Burnham sees sanctions against Israeli settlements as an electoral asset",
-      "summary": "<p>While a survey found Labour, Lib Dem and Green voters to be the strongest backers of such a ban on trade, even Tory and Reform voters were in favour overall</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest",
+      "title": "Violence erupts in Yemen again: why it matters globally and how it is linked to the US-Iran war",
+      "summary": "<p>Houthis try to take control of more of Yemen’s Red Sea coast from Saudi-backed government, giving Iran and its allies control over a key shipping lane</p><p>Violence has erupted once again in Yemen, <a href=\"https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/politics/2026/sep/09/sanctions-israeli-settlements-trade-andy-burnham-analysis",
+      "link": "https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war",
       "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 14:18:48 GMT"
+      "pubDate": "Thu, 10 Sep 2026 14:10:12 GMT"
     },
     {
-      "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
-      "summary": "The reported truce follows the release of 360 villagers abducted during a Boko Haram attack in northeastern Nigeria.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
+      "title": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film",
+      "summary": "<p>Testimony from Israeli military insiders involved in surveillance and remote killings features in documentary produced by the Guardian</p><p></p><p>Testimony from 24 Israeli military insiders ​on the secret ​systems used in ​the war on Gaza​ has been revealed in a new documentary film about the m",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film",
       "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 13:35:34 +0000"
+      "pubDate": "Thu, 10 Sep 2026 13:42:20 GMT"
+    },
+    {
+      "title": "Houthis advance along Yemen’s southern Red Sea coast",
+      "summary": "Yemen’s Houthi rebels are advancing along the Red Sea coast, to gain more leverage over the Bab el-Mandeb Strait.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 13:14:03 +0000"
+    },
+    {
+      "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
+      "summary": "<p>Borrowing costs climb in Europe and oil tops $105 a barrel as bank flags growing price pressures in eurozone</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/10/markets-economy-oil-uk-flight-disruption-primark-home-delivery-business-live-news\">Business live – latest updat",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 13:10:15 GMT"
+    },
+    {
+      "title": "Israel will never stop me speaking up for Palestine",
+      "summary": "Israel’s decision to bar British MPs exposes how far it will go to avoid scrutiny over its treatment of Palestinians.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/9/10/israel-will-never-stop-me-speaking-up-for-palestine?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 12:16:47 +0000"
+    },
+    {
+      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
+      "summary": "<p>Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widens</p><p>Yemen’s Houthi rebels are making a concerted drive to take full control of the country’s Red Sea coast, claiming control of the key port of Mocha, in the most serious wave of fighting wi",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 11:39:56 GMT"
+    },
+    {
+      "title": "The Houthis are testing the limits of Saudi restraint",
+      "summary": "Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 11:17:23 +0000"
+    },
+    {
+      "title": "IAEA accuses Iran of ‘noncompliance’",
+      "summary": "Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 10:59:39 +0000"
+    },
+    {
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 10:43:53 GMT"
+    },
+    {
+      "title": "Qatar beat Iran in men’s basketball as Asian Games begin in Japan",
+      "summary": "The continental games will officially open on September 19, but several team competitions will get under way earlier.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/9/10/qatar-beat-iran-in-mens-basketball-as-asian-games-begin-in-japan?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 10:06:58 +0000"
+    },
+    {
+      "title": "The UK’s sanctions on Israeli settlements are a great victory – but must be only the beginning | Em Hilton",
+      "summary": "<p>The change in policy is a direct result of sustained pressure from activists and organisers across the Palestine movement. But what comes next?</p><p>The announcement on Tuesday by the foreign secretary, Ed Miliband, of an <a href=\"https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/10/uk-sanctions-israel-settlements-activists-palestine-movement",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 10:00:23 GMT"
+    },
+    {
+      "title": "Israeli checkpoints in the West Bank are choking the Palestinian economy",
+      "summary": "Israeli military checkpoints are choking the West Bank economy, devastating local businesses and daily life.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/10/israeli-checkpoints-in-the-west-bank-are-choking-the-palestinian-economy?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 09:48:03 +0000"
+    },
+    {
+      "title": "Benjamin Netanyahu has overseen a genocide: In his telling, he’s a victim",
+      "summary": "Ahead of Israel's national elections, Netanyahu reaches for an old playbook: grievance, blame-shifting and victimhood.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/10/benjamin-netanyahu-has-overseen-a-genocide-in-his-telling-hes-a-victim?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 09:38:58 +0000"
+    },
+    {
+      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
+      "summary": "Forces loyal to the UN-recognised government and Houthis fight on multiple fronts in an effort to expand their control.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 09:05:39 +0000"
+    },
+    {
+      "title": "Trump’s repeated threats to ‘wipe out’ Iran are normalizing mass violence | Mohamad Bazzi",
+      "summary": "<p>The president’s latest warning barely registered, written off as typical behavior. But the threats have real-world consequences</p><p>As the US and Iran fought around the strait of Hormuz last week, Donald Trump issued one of his typical threats. In an interview with a Fox News correspondent, <a ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/10/trump-iran-violence",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 09:00:20 GMT"
+    },
+    {
+      "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
+      "summary": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 04:43:02 -0400"
+    },
+    {
+      "title": "How the fate of a small furry animal reveals the ecological tragedy of Israel’s war on Lebanon | Hisham Younes",
+      "summary": "<p>The Syrian rock hyrax depends on the fragile landscapes of the border region. Alongside other environmentalists, I have been documenting the destruction of its habitat</p><p>Wars are usually measured in the number of people killed, homes destroyed and towns erased. Far less attention is paid to w",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/environment/2026/sep/10/how-the-fate-of-a-small-furry-animal-reveals-the-ecological-tragedy-of-israels-war-on-lebanon",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 06:00:18 GMT"
+    },
+    {
+      "title": "How a community living under demolition orders from Israel view UK sanctions",
+      "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 09 Sep 2026 22:17:22 GMT"
+    },
+    {
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 09 Sep 2026 21:21:13 GMT"
     },
     {
       "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
@@ -35,119 +163,31 @@
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 13:28:58 GMT"
+      "pubDate": "Wed, 09 Sep 2026 20:59:24 GMT"
     },
     {
-      "title": "An unnamed donor responds to global aid cuts with a record gift for the nonprofit Americares",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/8bc8937/2147483647/strip/true/crop/5927x3949+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Fe3%2F101a99101690f19b764d7e532492%2Fdda324f2d6a244a2a33b82d57c39d570\" width=\"100%\"><small style=\"color: #999;\">Neal Flanagan, right,",
-      "source": "AP News",
-      "link": "https://apnews.com/article/americares-usaid-funding-cuts-4c41232cb92ce9d9b328961e69872a2f",
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 13:23:02 +0000"
+      "pubDate": "Wed, 09 Sep 2026 20:22:51 GMT"
     },
     {
-      "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
-      "summary": "Authorities have not clarified what caused the explosion near the city of Sarmada.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
+      "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
+      "summary": "<p>Spiritual leaders stress diversity of views within Jewish community and warn against inaction on settler violence</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank\">‘It’s a good start’: prominent Israelis welcome ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
       "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 13:02:38 +0000"
+      "pubDate": "Wed, 09 Sep 2026 17:57:14 GMT"
     },
     {
-      "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-      "summary": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
+      "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
+      "summary": "<p>Ed Miliband’s intervention was ‘inevitable’ after Israeli government and security failures, say former ministers and diplomats</p><p>Prominent Israelis have welcomed <a href=\"https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing\"",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
       "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 12:26:25 +0000"
-    },
-    {
-      "title": "Warehouse explosion in northwestern Syria kills at least 4",
-      "summary": "<img src=\"https://dims.apnews.com/dims4/default/89c7b6e/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2Ffe%2F9348492d766ddeb82759c8bc154d%2F7df098b85f8041549db41eb392b5adc6\" width=\"100%\"><small style=\"color: #999;\">Syrian security force",
-      "source": "AP News",
-      "link": "https://apnews.com/article/syria-idlib-explosion-warehouse-sarmada-bfc58aac61599fdf8ac71d964c453037",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 12:23:01 +0000"
-    },
-    {
-      "title": "How has Israel hit back against sanctions by the UK, others?",
-      "summary": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 12:17:50 +0000"
-    },
-    {
-      "title": "Video: Dozens protest potential Strait of Hormuz deployment",
-      "summary": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 11:52:48 +0000"
-    },
-    {
-      "title": "How the UK’s ban on Israeli settlement goods has limits",
-      "summary": "Over a year, the UK imported just £6m ($8.1m) in goods recorded as Palestinian, including Israeli settlement goods.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/what-are-the-holes-in-the-uks-ban-on-imports-from-israeli-settlements?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 11:27:57 +0000"
-    },
-    {
-      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-      "summary": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 07:12:27 -0400"
-    },
-    {
-      "title": "Did Iran capture a US submarine? What we know about the underwater drone",
-      "summary": "Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible 'had malfunctioned a day ago'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 11:06:16 +0000"
-    },
-    {
-      "title": "‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade",
-      "summary": "UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 10:47:47 +0000"
-    },
-    {
-      "title": "Yemen war escalates: Who are the key actors involved?",
-      "summary": "Here is a look at the main actors currently involved in the conflict.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 10:45:09 +0000"
-    },
-    {
-      "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
-      "summary": "Israel announced it would close the consulate after UK said it was imposing sanctions on illegal settlements.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 10:09:06 +0000"
-    },
-    {
-      "title": "The war in the Gulf will have to end in compromise",
-      "summary": "Iran has not surrendered, and the war’s original aims remain unmet.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/9/9/the-war-in-the-gulf-will-have-to-end-in-compromise?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 10:09:04 +0000"
-    },
-    {
-      "title": "Turkish jets perform dramatic flyover above Egypt’s pyramids",
-      "summary": "The Turkish Air Force's aerobatic team, performed this spectacular demonstration flight over Egypt’s Pyramids of Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/turkish-jets-perform-dramatic-flyover-above-egypts-pyramids?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 09:56:42 +0000"
+      "pubDate": "Wed, 09 Sep 2026 17:36:42 GMT"
     },
     {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -155,55 +195,15 @@
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 09:47:39 GMT"
+      "pubDate": "Wed, 09 Sep 2026 16:46:53 GMT"
     },
     {
-      "title": "‘One day the Taliban will need women to be educated’: three sisters on being forced back to Afghanistan",
-      "summary": "<p>Shallah, Fatimah and Maahi are among hundreds of thousands of Afghan women and girls deported from Iran and Pakistan in the past year to a life of severe restrictions</p><p>It was a warm summer afternoon on 15 August 2021 when the Taliban entered Kabul and changed the lives of millions. Shallah*,",
+      "title": "Why is Trump silent on UK sanctions against Israeli West Bank settlements? – The Latest",
+      "summary": "<p>The foreign secretary, Ed Miliband, is facing a backlash over the government’s sanctions against illegal Israeli settlements in the West Bank after the chief rabbi, Ephraim Mirvis, said the safety of British Jews could be at risk. Miliband has rejected the warnings, emphasising that ministers can",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/global-development/2026/sep/09/taliban-afghanistan-women-iran",
+      "link": "https://www.theguardian.com/news/audio/2026/sep/09/uk-defends-sanctions-on-israeli-west-bank-settlements-after-backlash-the-latest",
       "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 09:00:05 GMT"
-    },
-    {
-      "title": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
-      "summary": "<p>In today’s newsletter: Ed Miliband has announced the strongest statement on Israel’s actions ever issued by the the UK government, but will it make a meaningful difference to Palestinians?</p><p>Good morning. For almost half a century, British governments have condemned illegal Israeli settlement",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 05:46:18 GMT"
-    },
-    {
-      "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
-      "summary": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 01:20:45 -0400"
-    },
-    {
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 01:45:15 GMT"
-    },
-    {
-      "title": "Australia to impose 'targeted measures' to stop Israeli settler violence but no import ban – video",
-      "summary": "<p>The foreign affairs minister, Penny Wong, has announced that Australia will work with international partners to 'deter illegal settlements and settler violence' but won’t follow the UK in implementing a trade ban with goods produced in Israeli settlements in the West Bank. Wong said the governmen",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/sep/09/australia-to-impose-targeted-measures-to-stop-israeli-settler-violence-but-no-import-ban-video",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 01:39:04 GMT"
-    },
-    {
-      "title": "Australia considers new Israel sanctions but won’t join UK in banning trade with ‘settler terrorists’",
-      "summary": "<p>Penny Wong has concerns about blanket ban announced by UK, France and Canada, but says new ‘targeted measures’ planned over Israeli settlers</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-ca",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/09/australia-considers-new-israel-sanctions-but-wont-join-uk-in-banning-trade-with-settler-terrorists-ntwnfb",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 01:38:02 GMT"
+      "pubDate": "Wed, 09 Sep 2026 16:37:06 GMT"
     }
   ]
 }
