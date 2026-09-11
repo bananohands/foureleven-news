@@ -1,13 +1,125 @@
 {
-  "generated": "2026-09-10T14:41:57.926Z",
-  "date": "Thursday, September 10, 2026",
+  "generated": "2026-09-11T14:43:21.136Z",
+  "date": "Friday, September 11, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
+      "title": "In Gaza, we’ve seen horror unfold with global powers’ support. Is that a blueprint for horror elsewhere? | Ahdaf Soueif",
+      "summary": "<p>For now, it is Palestinians who are being killed and displaced. But ideologies of supremacy and domination threaten us all</p><p>Last week, Itamar Ben-Gvir, Israel’s minister of national security, put out <a href=\"https://www.abc.net.au/news/2026-09-04/israel-minister-ben-gvir-deletes-palestinian",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/11/gaza-horror-global-powers-support-blueprint-palestinians-israel",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 14:29:23 GMT"
+    },
+    {
+      "title": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
+      "summary": "Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 14:09:52 +0000"
+    },
+    {
+      "title": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
+      "summary": "Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 14:07:00 +0000"
+    },
+    {
+      "title": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
+      "summary": "US and Israeli officials are using a drop in acute malnutrition cases to claim Gaza has no hunger.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 12:30:02 +0000"
+    },
+    {
+      "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+      "summary": "<p>Rampant Yemeni fighters take control of island in narrow point of Bab al-Mandab strait, which Saudi is relying on for oil exports</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war\">Vi",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Houthis take strategic Red Sea island, witnesses say",
+      "summary": "Rebel fighters are reported to have captured Perim, a strategic island on a vital international shipping route.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 11:35:19 GMT"
+    },
+    {
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 11:34:07 GMT"
+    },
+    {
+      "title": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
+      "summary": "Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 10:48:30 +0000"
+    },
+    {
+      "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
+      "summary": "US official admits the naval base near Manama sustained heavy damage in the war with Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 10:41:35 +0000"
+    },
+    {
+      "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast",
+      "summary": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 10:11:17 +0000"
+    },
+    {
+      "title": "How 9/11 helped Israel sell its war on Palestinians to America",
+      "summary": "The 'war on terror' made Israeli repression easier to present as part of a shared struggle against a common enemy.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 08:18:18 +0000"
+    },
+    {
+      "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
+      "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400"
+    },
+    {
+      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "summary": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+      "importance": "medium",
+      "pubDate": "Fri, 11 Sep 2026 01:40:21 -0400"
+    },
+    {
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "summary": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 10 Sep 2026 15:54:17 GMT"
+    },
+    {
       "title": "Violence erupts in Yemen again: why it matters globally and how it is linked to the US-Iran war",
-      "summary": "<p>Houthis try to take control of more of Yemen’s Red Sea coast from Saudi-backed government, giving Iran and its allies control over a key shipping lane</p><p>Violence has erupted once again in Yemen, <a href=\"https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-",
+      "summary": "<p>Houthis try to take control of more of Yemen’s Red Sea coast from Saudi-backed government, giving Iran and its allies control over a key shipping lane</p><p>Violence has erupted again in Yemen, <a href=\"https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war",
       "importance": "medium",
@@ -22,52 +134,20 @@
       "pubDate": "Thu, 10 Sep 2026 13:42:20 GMT"
     },
     {
-      "title": "Houthis advance along Yemen’s southern Red Sea coast",
-      "summary": "Yemen’s Houthi rebels are advancing along the Red Sea coast, to gain more leverage over the Bab el-Mandeb Strait.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 10 Sep 2026 13:14:03 +0000"
-    },
-    {
       "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
-      "summary": "<p>Borrowing costs climb in Europe and oil tops $105 a barrel as bank flags growing price pressures in eurozone</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/10/markets-economy-oil-uk-flight-disruption-primark-home-delivery-business-live-news\">Business live – latest updat",
+      "summary": "<p>Borrowing costs climb in Europe and oil tops $105 a barrel as bank says growing price pressures in eurozone will be ‘longer lasting than we had anticipated’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/10/markets-economy-oil-uk-flight-disruption-primark-home-delivery-",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
       "importance": "medium",
       "pubDate": "Thu, 10 Sep 2026 13:10:15 GMT"
     },
     {
-      "title": "Israel will never stop me speaking up for Palestine",
-      "summary": "Israel’s decision to bar British MPs exposes how far it will go to avoid scrutiny over its treatment of Palestinians.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/9/10/israel-will-never-stop-me-speaking-up-for-palestine?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 10 Sep 2026 12:16:47 +0000"
-    },
-    {
       "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
-      "summary": "<p>Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widens</p><p>Yemen’s Houthi rebels are making a concerted drive to take full control of the country’s Red Sea coast, claiming control of the key port of Mocha, in the most serious wave of fighting wi",
+      "summary": "<p>Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widens</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war\">Explained: why the fighting",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
       "importance": "medium",
       "pubDate": "Thu, 10 Sep 2026 11:39:56 GMT"
-    },
-    {
-      "title": "The Houthis are testing the limits of Saudi restraint",
-      "summary": "Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 10 Sep 2026 11:17:23 +0000"
-    },
-    {
-      "title": "IAEA accuses Iran of ‘noncompliance’",
-      "summary": "Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 10 Sep 2026 10:59:39 +0000"
     },
     {
       "title": "Iran war won't end until after crucial November elections, says Trump",
@@ -78,44 +158,12 @@
       "pubDate": "Thu, 10 Sep 2026 10:43:53 GMT"
     },
     {
-      "title": "Qatar beat Iran in men’s basketball as Asian Games begin in Japan",
-      "summary": "The continental games will officially open on September 19, but several team competitions will get under way earlier.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/10/qatar-beat-iran-in-mens-basketball-as-asian-games-begin-in-japan?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 10 Sep 2026 10:06:58 +0000"
-    },
-    {
       "title": "The UK’s sanctions on Israeli settlements are a great victory – but must be only the beginning | Em Hilton",
       "summary": "<p>The change in policy is a direct result of sustained pressure from activists and organisers across the Palestine movement. But what comes next?</p><p>The announcement on Tuesday by the foreign secretary, Ed Miliband, of an <a href=\"https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/commentisfree/2026/sep/10/uk-sanctions-israel-settlements-activists-palestine-movement",
       "importance": "medium",
       "pubDate": "Thu, 10 Sep 2026 10:00:23 GMT"
-    },
-    {
-      "title": "Israeli checkpoints in the West Bank are choking the Palestinian economy",
-      "summary": "Israeli military checkpoints are choking the West Bank economy, devastating local businesses and daily life.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/9/10/israeli-checkpoints-in-the-west-bank-are-choking-the-palestinian-economy?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 10 Sep 2026 09:48:03 +0000"
-    },
-    {
-      "title": "Benjamin Netanyahu has overseen a genocide: In his telling, he’s a victim",
-      "summary": "Ahead of Israel's national elections, Netanyahu reaches for an old playbook: grievance, blame-shifting and victimhood.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/10/benjamin-netanyahu-has-overseen-a-genocide-in-his-telling-hes-a-victim?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 10 Sep 2026 09:38:58 +0000"
-    },
-    {
-      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
-      "summary": "Forces loyal to the UN-recognised government and Houthis fight on multiple fronts in an effort to expand their control.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 10 Sep 2026 09:05:39 +0000"
     },
     {
       "title": "Trump’s repeated threats to ‘wipe out’ Iran are normalizing mass violence | Mohamad Bazzi",
@@ -156,54 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Wed, 09 Sep 2026 21:21:13 GMT"
-    },
-    {
-      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-      "summary": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 20:59:24 GMT"
-    },
-    {
-      "title": "Iran referred to UN Security Council for nuclear non-compliance",
-      "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 20:22:51 GMT"
-    },
-    {
-      "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
-      "summary": "<p>Spiritual leaders stress diversity of views within Jewish community and warn against inaction on settler violence</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank\">‘It’s a good start’: prominent Israelis welcome ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 17:57:14 GMT"
-    },
-    {
-      "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
-      "summary": "<p>Ed Miliband’s intervention was ‘inevitable’ after Israeli government and security failures, say former ministers and diplomats</p><p>Prominent Israelis have welcomed <a href=\"https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing\"",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 17:36:42 GMT"
-    },
-    {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 16:46:53 GMT"
-    },
-    {
-      "title": "Why is Trump silent on UK sanctions against Israeli West Bank settlements? – The Latest",
-      "summary": "<p>The foreign secretary, Ed Miliband, is facing a backlash over the government’s sanctions against illegal Israeli settlements in the West Bank after the chief rabbi, Ephraim Mirvis, said the safety of British Jews could be at risk. Miliband has rejected the warnings, emphasising that ministers can",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/audio/2026/sep/09/uk-defends-sanctions-on-israeli-west-bank-settlements-after-backlash-the-latest",
-      "importance": "medium",
-      "pubDate": "Wed, 09 Sep 2026 16:37:06 GMT"
     }
   ]
 }
