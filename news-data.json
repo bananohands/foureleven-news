@@ -1,33 +1,201 @@
 {
-  "generated": "2026-09-15T15:20:30.143Z",
-  "date": "Tuesday, September 15, 2026",
+  "generated": "2026-09-16T15:12:41.060Z",
+  "date": "Wednesday, September 16, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
-      "summary": "Riyadh has several military options, say analysts, but all of them carry risks, too.",
+      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
+      "summary": "Two people were killed in the assault on Gaza City - a paramedic and a 15-year-old boy returning from school.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 14:33:29 +0000"
+      "pubDate": "Wed, 16 Sep 2026 15:00:20 +0000"
     },
     {
-      "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
-      "summary": "Houthi coastal advances face hurdles: geography, local resistance and fierce government counterattacks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
+      "title": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+      "summary": "<p>Armed group appears to reach agreement with Trump administration over safety of Red Sea shipping</p><p>Officials from the US met Houthi leaders over the weekend at the country’s embassy in Muscat, Oman, it has been confirmed, leading to the US decision not to intervene to help Saudi Arabia drive ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
       "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 14:28:31 +0000"
+      "pubDate": "Wed, 16 Sep 2026 14:56:40 GMT"
     },
     {
-      "title": "Houthi-run TV releases video of abandoned Mocha airport",
-      "summary": "Houthi-run TV has aired drone video of Yemen’s Mocha International Airport, empty and abandoned.",
+      "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
+      "summary": "High energy costs at the pump and strategic setback for US in the Iran war will likely cost Trump in the midterms.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 13:11:13 +0000"
+      "pubDate": "Wed, 16 Sep 2026 14:53:51 +0000"
+    },
+    {
+      "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
+      "summary": "Israel’s defence minister has pledged to remove Palestinians from the besieged Strip.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 14:31:14 +0000"
+    },
+    {
+      "title": "Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’",
+      "summary": "Amnesty International says Iranian authorities committed crimes against humanity during the 2022-23 protests.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/16/four-years-on-iranians-reflect-on-impact-of-woman-life?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 14:18:54 +0000"
+    },
+    {
+      "title": "Why some countries fail while others prosper in the Middle East and Africa",
+      "summary": "The answer lies less in geography or resources than in the institutions that shape power, legitimacy and opportunity.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/9/16/why-some-countries-fail-while-others-prosper-in-the-middle-east-and-africa?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 13:40:43 +0000"
+    },
+    {
+      "title": "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
+      "summary": "As Gaza is being destroyed, the so-called oil fund enjoys robust returns from companies linked to Israel's military.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/16/norway-oil-fund-ethical-concerns?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 13:29:32 +0000"
+    },
+    {
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 13:28:46 GMT"
+    },
+    {
+      "title": "Djibouti on alert as people flee Yemen after Houthi takeover of Mayyun",
+      "summary": "From aboard a Djiboutian naval vessel in the Bab al-Mandeb Strait, an Al Jazeera team is monitoring the situation.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 13:23:55 +0000"
+    },
+    {
+      "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
+      "summary": "China says the US-Israel war on Iran highlights flaws in the Middle East's 'existing security architecture'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 13:09:51 +0000"
+    },
+    {
+      "title": "Photos: Gaza building collapse kills 20, including women and children",
+      "summary": "Israel-hit building collapsed in Gaza City, killing 20 and leaving dozens trapped under the rubble.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/9/16/photos-gaza-building-collapse-kills-20-including-women-and-children?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 12:56:42 +0000"
+    },
+    {
+      "title": "Emergency crews rush to free families from building collapse in Gaza – video",
+      "summary": "<p>At least 20 people were killed after a building that had previously been hit by an Israeli strike collapsed on Wednesday in Gaza City. Gaza's civil defence reported that at least 100 people, including 50 children, were believed to be trapped under the rubble. Ten families were believed to have mo",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/video/2026/sep/16/emergency-crews-gaza-building-collapse-israeli-strike-video",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 12:49:30 GMT"
+    },
+    {
+      "title": "At least 20 killed as multi-storey building collapses in Gaza City",
+      "summary": "Rescuers are searching through the rubble for survivors after a damaged apartment building collapsed overnight in Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 12:32:47 +0000"
+    },
+    {
+      "title": "Taiz camps overflow with Yemenis fleeing fighting after Houthi offensive",
+      "summary": "The recent flare-up in the Yemen conflict has seen tens of thousands of people displaced in Taiz governorate.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/16/taiz-camps-overflow-with-yemenis-fleeing-fighting-after-houthi-offensive?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 12:10:55 +0000"
+    },
+    {
+      "title": "US set to approve 60,000 heavy bombs for Israel: What that means",
+      "summary": "The package of 2,000-pound bombs comes amid Israel's genocidal war on Gaza and its occupation of southern Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/16/us-set-to-approve-60000-heavy-bombs-for-israel-what-that-means?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 12:09:45 +0000"
+    },
+    {
+      "title": "At least 20 killed after Israeli-hit building in Gaza City collapses",
+      "summary": "<p>Rescue workers say search for dozens of people hampered by lack of heavy machinery</p><p>A building housing about 100 displaced Palestinian families has collapsed in Gaza City, killing at least 20 people, as rescuers search the rubble for dozens of people believed to be trapped, including childre",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 11:34:31 GMT"
+    },
+    {
+      "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+      "summary": "Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 05:04:27 -0400"
+    },
+    {
+      "title": "Iranian security forces coordinated killing, torture and sexual abuse of protesters, says Amnesty",
+      "summary": "<p>Leaked documents and testimony reveal extent of regime’s crackdown in 2022 and how it paved the way for more brutal killings of protesters this year</p><p>Iranian security forces “coordinated” the killing, torture and sexual abuse of hundreds of people who took part in the women-led nationwide pr",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/sep/16/iran-killing-torture-sexual-abuse-protesters-amnesty",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 09:00:16 GMT"
+    },
+    {
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 08:36:17 GMT"
+    },
+    {
+      "title": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+      "summary": "<p>Iran-aligned group rejects claim it targeted Mecca, while Organisation of Islamic Cooperation condemns attack</p><p>Saudi Arabia has claimed its air defences intercepted and destroyed a ⁠Houthi drone attempting to fly over the holy city of Mecca, as Saudi warplanes continued to pound Yemen, raisi",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "importance": "medium",
+      "pubDate": "Wed, 16 Sep 2026 02:56:37 GMT"
+    },
+    {
+      "title": "US House votes for third time to end Iran war after $38bn cost is revealed",
+      "summary": "<p>Damaging budget report estimates cost will grow by $3bn per month and stockpiles of weapons could take five years to rebuild</p><p>The US House of Representatives has voted for a third time to end the war in Iran, approving a war powers resolution a few hours after a Congressional Budget Office (",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/15/iran-war-cost-cbo-report",
+      "importance": "medium",
+      "pubDate": "Tue, 15 Sep 2026 21:47:39 GMT"
+    },
+    {
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 15 Sep 2026 20:34:12 GMT"
+    },
+    {
+      "title": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
+      "summary": "<p>Estimated 100,000 Yemenis displaced amid renewed fighting as Qatar sounds alarm over Bab al-Mandab strait</p><p>Saudi cities faced the threat of a second day of Houthi attacks as fighting across Yemen led the UN to warn of a humanitarian crisis with 100,000 Yemenis already displaced.</p><p>As oil",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
+      "importance": "medium",
+      "pubDate": "Tue, 15 Sep 2026 17:25:02 GMT"
+    },
+    {
+      "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
+      "summary": "<p>Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason</p><p>Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor, the Oscar-winning Israeli directors of documentary NAZA, w",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support",
+      "importance": "medium",
+      "pubDate": "Tue, 15 Sep 2026 16:44:12 GMT"
     },
     {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
@@ -35,175 +203,7 @@
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 13:05:36 GMT"
-    },
-    {
-      "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
-      "summary": "More than 3,400 people arrived in 48 hours as Djibouti prepares for more.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 12:43:14 +0000"
-    },
-    {
-      "title": "UK sanctions on Israel ‘fall far short’ of its obligations, legal experts say",
-      "summary": "<p>More than 130 sign letter to PM saying international law requires further measures to stop illegal settlements</p><p>More than 130 legal experts, including 18 king’s counsel (KCs), have written to Andy Burnham saying that sanctions on Israeli settlements “fall far short” of Britain’s obligations ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/politics/2026/sep/15/legal-experts-say-sanctions-israel-fall-far-short-uk-obligations",
-      "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 11:54:14 GMT"
-    },
-    {
-      "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
-      "summary": "The Pentagon watchdog's report paints a picture of significant losses to US forces and facilities in the region.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 11:17:03 +0000"
-    },
-    {
-      "title": "Legend of Destruction review – starry voices grace animated telling of the Jewish revolt against the Romans",
-      "summary": "<p>Eight years in the making, the innovative film uses painted still images – it’s like being read a graphic novel by a cast including Oscar Isaac, Evangeline Lilly and Elliott Gould</p><p>This Israeli animated film has been largely hanging around in limbo since it was finished in 2021 after taking ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/sep/15/legend-of-destruction-review-starry-voices-grace-animated-telling-of-thejewish-revolt-against-the-romans",
-      "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 10:00:40 GMT"
-    },
-    {
-      "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’",
-      "summary": "Saudi-led coalition promises to respond 'firmly' to Houthi strikes on urban areas in Saudi Arabia.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 08:11:09 +0000"
-    },
-    {
-      "title": "Stories in Gaza documentary pulled by BBC still need to be aired, director says",
-      "summary": "<p>Exclusive: Jamie Roberts admits ‘serious mistake’ with Gaza: How to Survive a Warzone, as he speaks ahead of new film on UK far right</p><p>The stories told in the controversial BBC documentary <a href=\"https://www.theguardian.com/media/2025/feb/21/bbc-pulls-gaza-documentary-iplayer-hamas\">Gaza: ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/media/2026/sep/15/stories-gaza-documentary-pulled-bbc-need-aired-director-says",
-      "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 08:00:30 GMT"
-    },
-    {
-      "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
-      "summary": "<p>The militant group in Yemen captured the islands of Greater and Lesser Hanish, near the chokepoint of the Bab al-Mandab strait</p><p>Yemen’s Houthi militants have seized two strategic islands in the Red Sea, reinforcing the Iran-backed group’s ability to control a key shipping route, as concerns ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning",
-      "importance": "medium",
-      "pubDate": "Tue, 15 Sep 2026 04:22:16 GMT"
-    },
-    {
-      "title": "New special envoy for Britons detained overseas warns of limits of role",
-      "summary": "<p>Alistair Burt speaks candidly about difficulties of tackling complex cases as families express concern over mandate</p><p>The special envoy for British citizens detained overseas has spoken about the difficulties he faces in his new role, as families express concern over the position’s mandate in",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/politics/2026/sep/14/new-special-envoy-for-britons-detained-overseas-warns-of-limits-of-role",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 20:57:21 GMT"
-    },
-    {
-      "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
-      "summary": "One of the country's leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the mechanisms Israel has used to \"ethnically cleanse\" the West Bank of Palestinians.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 16:34:20 -0400"
-    },
-    {
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "summary": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 18:26:20 GMT"
-    },
-    {
-      "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-      "summary": "<p>Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears </p><p>US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled by the war in the Middle East trigger an intensifying sell-off in the glob",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 16:48:34 GMT"
-    },
-    {
-      "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
-      "summary": "<p>Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-\">‘They know the house they are bombing is full of childre",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 15:38:35 GMT"
-    },
-    {
-      "title": "US airman recounts Iran rescue in 60 Minutes segment branded propaganda",
-      "summary": "<p>Critics say segment about airman’s rescue was made to boost public perception of Trump’s unpopular war</p><p>A US airman has spoken of climbing a 7,000ft ridge with a broken back, arm and shoulder after <a href=\"https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-down",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/media/2026/sep/14/cbs-60-minutes-iran-war-propaganda",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 14:17:10 GMT"
-    },
-    {
-      "title": "Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies",
-      "summary": "<p>Impasse comes amid growing Saudi anger with Tehran over Houthi advances and strikes on airbase and pipeline</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline\">Oil prices rise after drone attacks shut down Saudi Ar",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 12:22:48 GMT"
-    },
-    {
-      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
-      "summary": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 07:39:06 -0400"
-    },
-    {
-      "title": "The situation in Iran is dangerously escalating – but whatever you do, don’t call it a war | Arwa Mahdawi",
-      "summary": "<p>Forget the bombing: the Trump administration keeps insisting this isn’t a war. But it’s not just a matter of semantics</p><p>“I will not send you to fight and die in stupid foreign wars that never end,” Donald Trump <a href=\"https://www.politico.com/news/2026/06/07/trump-says-never-promised-no-ne",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/14/iran-war-trump-semantics",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 10:00:54 GMT"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "Industry leaders call for AI development to slow down to ensure safety, Trump to campaign for GOP candidates ahead of midterms, Iranian officials say a meeting with the Gulf States has been postponed.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5965810/morning-news-brief",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 04:44:20 -0400"
-    },
-    {
-      "title": "Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank",
-      "summary": "<p>Report by Israeli human rights group says systematic and broad assault being waged on conditions required for Palestinians’ existence</p><p>Israel is working towards the systematic “elimination” of the conditions that sustain Palestinian collective life in the occupied West Bank, according to <a ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 07:23:04 GMT"
-    },
-    {
-      "title": "Satellite images show extent of damage to major Saudi pipeline, amid global oil supply fears",
-      "summary": "<p>Saudis yet to provide details about damage from drone attack to key east-west pipeline to Red Sea that could affect 4% of global oil supply</p><p>Saudi Arabia will run out of oil ⁠stocks for export if it ⁠doesn’t restart a drone-damaged major ​pipeline to the Red Sea within days, leading to the l",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/14/saudi-pipeline-drone-attack-houthis-global-oil-supply-prices",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 02:44:12 GMT"
-    },
-    {
-      "title": "US pilot shot down over Iran recalls 'free-falling' in first interview since rescue",
-      "summary": "The April rescue operation to recover the downed aircrew saw the first US boots on the ground in Iran in 46 years, American officials say.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cy7zvxe1jm7o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 14 Sep 2026 01:00:30 GMT"
-    },
-    {
-      "title": "Pregnant woman among more than 10 killed in Israeli attacks on Gaza",
-      "summary": "<p>Woman’s family says she died of injuries after being shot in the head while sitting inside a tent near Khan Younis</p><p>A pregnant Palestinian woman died on Saturday from injuries sustained after being shot in the head by Israeli forces south of Khan Younis, according to her family and medical w",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/13/pregnant-woman-killed-israeli-attacks-gaza",
-      "importance": "medium",
-      "pubDate": "Sun, 13 Sep 2026 15:51:33 GMT"
+      "pubDate": "Tue, 15 Sep 2026 16:13:41 GMT"
     }
   ]
 }
