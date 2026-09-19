@@ -1,10 +1,138 @@
 {
-  "generated": "2026-09-18T14:42:04.401Z",
-  "date": "Friday, September 18, 2026",
+  "generated": "2026-09-19T14:02:44.718Z",
+  "date": "Saturday, September 19, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+      "summary": "Some officials and state media have long openly described the industry as a ‘mafia’ system.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 13:21:52 +0000"
+    },
+    {
+      "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+      "summary": "Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 13:13:19 +0000"
+    },
+    {
+      "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+      "summary": "Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 12:59:31 +0000"
+    },
+    {
+      "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+      "summary": "Israel's Channel 12 and Maariv newspaper claim the military is facing 'severe shortages'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 12:51:43 +0000"
+    },
+    {
+      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+      "summary": "The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 12:34:37 +0000"
+    },
+    {
+      "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+      "summary": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 12:21:01 +0000"
+    },
+    {
+      "title": "In Gaza, actors perform a war they are still living",
+      "summary": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 12:18:52 +0000"
+    },
+    {
+      "title": "Iran stages show of force during mobilisation campaign in Tehran",
+      "summary": "Armed women, anti-aircraft guns and Shaheed drones were seen in Tehran as hundreds of thousands marched in the capital.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 10:56:00 +0000"
+    },
+    {
+      "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+      "summary": "Ukraine's Air Force says Russia hit the country with dozens of drones and two antiship missiles overnight.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 10:51:21 +0000"
+    },
+    {
+      "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+      "summary": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran's nuclear programme.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 08:18:08 +0000"
+    },
+    {
+      "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+      "summary": "Israeli soldiers' Gaza testimony causes backlash across much of the country's political establishment.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 07:50:44 +0000"
+    },
+    {
+      "title": "Pact with Saudi Arabia threatens to draw Pakistan into Middle East conflict",
+      "summary": "<p>Activation of mutual defence agreement by Riyadh as fighting with Houthis escalates would have wide-reaching repercussions for Islamabad</p><p>As he stood in Riyadh last September, the world looked like a very different place for Pakistan’s most powerful man, Gen Asim Munir.</p><p>The country’s a",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/19/pakistan-saudi-arabia-mecca-pact-joint-defence-agreement-houthis-yemen-conflict",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 07:00:39 GMT"
+    },
+    {
+      "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
+      "summary": "<p>As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign</p><p>First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the Venice film festival within the Palazzo del Cinema, the audience stood almo",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary",
+      "importance": "medium",
+      "pubDate": "Sat, 19 Sep 2026 05:00:37 GMT"
+    },
+    {
+      "title": "Syrian regime planned American journalist's kidnapping for weeks",
+      "summary": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
+      "importance": "medium",
+      "pubDate": "Fri, 18 Sep 2026 15:13:52 -0400"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "summary": "<p>Russian strikes in Kyiv, a female militia march in Tehran, protests in Pristina and Alfie Hewett at the US Open – the past seven days as captured by the world’s leading photojournalists</p> <a href=\"https://www.theguardian.com/artanddesign/gallery/2026/sep/18/the-week-around-the-world-in-20-pictu",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/18/the-week-around-the-world-in-20-pictures",
+      "importance": "medium",
+      "pubDate": "Fri, 18 Sep 2026 18:23:58 GMT"
+    },
+    {
+      "title": "This Israeli election could be the country’s last – this week I saw that for myself | Jonathan Freedland",
+      "summary": "<p>Spend time on the ground and you see how high the stakes are for next month’s contest – for Israelis and Palestinians alike</p><p>Candidates always say it, but this time it’s true. When Israel goes to the polls <a href=\"https://www.theguardian.com/world/2026/jul/13/israel-sets-october-date-first-",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/18/israel-election-last-october-palestinians",
+      "importance": "medium",
+      "pubDate": "Fri, 18 Sep 2026 17:20:45 GMT"
+    },
     {
       "title": "Yemen’s anti-Houthi forces launch inquest into sudden military collapse",
       "summary": "<p>Rout raises questions about coordination and morale as some politicians claim billions of dollars were offered to persuade forces to abandon position</p><p>A bitter inquest is under way among Yemen’s anti-Houthi forces as to how what was being billed as a decisive assault on Sana’a, the Houthi-co",
@@ -12,54 +140,6 @@
       "link": "https://www.theguardian.com/world/2026/sep/18/yemen-anti-houthi-forces-inquest-military-collapse",
       "importance": "medium",
       "pubDate": "Fri, 18 Sep 2026 14:12:10 GMT"
-    },
-    {
-      "title": "The cost of Iran’s regional leverage",
-      "summary": "Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 18 Sep 2026 13:52:49 +0000"
-    },
-    {
-      "title": "US voter opposition to war on Iran grows to new highs: Poll",
-      "summary": "Poll reveals 71 percent in US believe Trump's team lacks a clear strategy for resolving the conflict.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 18 Sep 2026 13:09:27 +0000"
-    },
-    {
-      "title": "Pakistan pledges full committment to defence of Saudi Arabia",
-      "summary": "Assurance comes amid questions over Pakistan and Turkiye's stance on Riyadh's fight with Houthis following defence pact.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/18/pakistan-pledges-full-committment-to-defence-of-saudi-arabia?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 18 Sep 2026 13:00:18 +0000"
-    },
-    {
-      "title": "As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines",
-      "summary": "Stretched by its war with Iran, Washington may have little choice but to trust Houthi assurances on shipping.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 18 Sep 2026 12:52:29 +0000"
-    },
-    {
-      "title": "United Nations says US may have committed war crimes in Iran: What it means",
-      "summary": "UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 18 Sep 2026 10:43:18 +0000"
-    },
-    {
-      "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
-      "summary": "A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 18 Sep 2026 10:33:22 +0000"
     },
     {
       "title": "Iranian actor Laleh Marzban faces severe threats after Venice film festival speech",
@@ -76,14 +156,6 @@
       "link": "https://www.theguardian.com/world/2026/sep/18/i-spend-a-bagful-of-money-and-dont-fill-a-bag-the-energy-crisis-hits-bangladesh",
       "importance": "medium",
       "pubDate": "Fri, 18 Sep 2026 09:00:14 GMT"
-    },
-    {
-      "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
-      "summary": "The Houthis' biggest land grab in years reignited Yemen's 12-year civil war and pushed up global fuel prices, extending their reach to a key maritime chokepoint and threatening Saudi Arabia's oil exports.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
-      "importance": "medium",
-      "pubDate": "Fri, 18 Sep 2026 04:02:41 -0400"
     },
     {
       "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
@@ -132,78 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Thu, 17 Sep 2026 13:47:36 GMT"
-    },
-    {
-      "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-      "summary": "<p>Fact-finding mission says military strikes on school and sports facility in ⁠February constitute war ⁠crimes</p><p>A UN fact-finding mission has determined there are reasonable grounds to believe the US was behind military strikes on a school and a sports facility in Iran in ⁠February that killed",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-      "importance": "medium",
-      "pubDate": "Thu, 17 Sep 2026 13:22:35 GMT"
-    },
-    {
-      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-      "summary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
-      "importance": "medium",
-      "pubDate": "Thu, 17 Sep 2026 08:33:36 -0400"
-    },
-    {
-      "title": "Watching NAZA was like peering through a window – and seeing the machinery of killing in Gaza | Mahmoud Mushtaha",
-      "summary": "<p>For so long I wondered why I survived while family and friends were killed. Now I know the only difference between life and death may have been an AI algorithm</p><p>The lights go down, and for a moment I forget I’m watching a screen. It fills with a rooftop in Tel Aviv at night, black and grey. ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/17/naza-film-documentary-killing-gaza",
-      "importance": "medium",
-      "pubDate": "Thu, 17 Sep 2026 12:30:49 GMT"
-    },
-    {
-      "title": "US blocks Palestinian leader from UN meeting in New York for second year in row",
-      "summary": "The US State Department extended visa sanctions after accusing Palestinian officials of failing to live up to peace process commitments.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 17 Sep 2026 09:06:08 GMT"
-    },
-    {
-      "title": "Algae bloom that crippled Israel's desalination plants raises water security concerns",
-      "summary": "The \"carpet\" of microalgae stopped five of Israel's six desalination plants from working.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 17 Sep 2026 08:40:41 GMT"
-    },
-    {
-      "title": "‘We left everything behind’: 125,000 people displaced as war reignites in Yemen",
-      "summary": "<p>Fierce fighting has forced people to abandon their homes, leaving everything behind to seek shelter in refugee camps</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war\">The rapid Houth",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/17/displaced-people-yemen-war",
-      "importance": "medium",
-      "pubDate": "Thu, 17 Sep 2026 08:37:15 GMT"
-    },
-    {
-      "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
-      "summary": "<p>In today’s newsletter: The Houthi advance along the Red Sea coast raised fears for global trade and energy supplies, while more than 100,000 Yemenis have been displaced by the fighting</p><p></p><p>Good morning. The lightning advance of Houthi militants along the west coast of Yemen over the past",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people",
-      "importance": "medium",
-      "pubDate": "Thu, 17 Sep 2026 05:45:50 GMT"
-    },
-    {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT"
-    },
-    {
-      "title": "Key House Democrat refuses to clear Trump’s $2.8bn arms sale to Israel",
-      "summary": "<p>Pro-Israel Gregory Meeks raises concerns over threat to civilian lives from package of 40,000 one-ton bombs</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now\">‘An antidote to Trumpism’",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/sep/16/us-arms-sale-israel-gregory-meeks",
-      "importance": "medium",
-      "pubDate": "Wed, 16 Sep 2026 20:20:28 GMT"
     }
   ]
 }
