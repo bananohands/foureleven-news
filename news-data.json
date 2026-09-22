@@ -1,10 +1,178 @@
 {
-  "generated": "2026-09-21T16:42:30.112Z",
-  "date": "Monday, September 21, 2026",
+  "generated": "2026-09-22T15:16:46.326Z",
+  "date": "Tuesday, September 22, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Middle East crisis live: Trump says Iran will make a deal after US midterms",
+      "summary": "<p>US president uses speech to UN General Assembly to push his narrative of the war</p><p>Tehran appears to have relaxed its preconditions for reopening the strait of Hormuz, saying it is prepared to do so within seven days so long as the US takes reciprocal steps to ease the pressure on Iran.</p><p",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 15:00:10 GMT"
+    },
+    {
+      "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
+      "summary": "Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 14:47:25 +0000"
+    },
+    {
+      "title": "UN Chief condemns Gaza destruction, West Bank settlements",
+      "summary": "In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 14:37:24 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Israel besieges Palestinian town",
+      "summary": "Israeli forces have effectively turned the Palestinian town of Biddu into military barracks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 14:30:51 +0000"
+    },
+    {
+      "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+      "summary": "<p>Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forces</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-update",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 13:57:36 GMT"
+    },
+    {
+      "title": "British banks warned not to invest in planned Israeli settlement before UK trade ban begins",
+      "summary": "<p>MPs send out letter as Israeli government seeks bids for construction of large E1 settlement in West Bank</p><p>British banks and financial institutions are receiving written warnings from MPs that they should not invest in Israel’s E1 settlement project even though new UK laws banning trade with",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/politics/2026/sep/22/mps-uk-banks-investment-israeli-settlement-trade-ban",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 13:43:41 GMT"
+    },
+    {
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 13:39:09 GMT"
+    },
+    {
+      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+      "summary": "Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 13:29:53 +0000"
+    },
+    {
+      "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
+      "summary": "Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 12:58:29 +0000"
+    },
+    {
+      "title": "Iran president heads to UNGA, vows to highlight US ‘oppression’",
+      "summary": "Iran president heads to UNGA, vows to highlight US 'oppression'",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/iran-president-heads-to-unga-vows-to-highlight-us-oppression?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 12:51:53 +0000"
+    },
+    {
+      "title": "Can the US ban Iranian airlines worldwide – and what would it mean?",
+      "summary": "Analysts say new sweeping US sanctions stand to worsen lives of millions of Iranians struggling in battered economy.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 11:19:08 +0000"
+    },
+    {
+      "title": "‘I’m afraid they’ll bomb the cafe where I work, or bomb me’: a day in the life of a 12-year-old boy in Gaza",
+      "summary": "<p>This week, as the war in Gaza approaches its fourth year, the Guardian follows five ordinary Palestinians as they go about their lives. Each tells the story of their day, revealing the terrible toll of the conflict. Ramadan lives in a tent on the beach and works to support his family</p><p><em>As",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/22/im-afraid-theyll-bomb-the-cafe-where-i-work-or-bomb-me-a-day-in-the-life-of-a-12-year-old-boy-in-gaza",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 11:00:53 GMT"
+    },
+    {
+      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+      "summary": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 06:59:37 -0400"
+    },
+    {
+      "title": "What Syrians want from al-Sharaa’s proposal of a ‘new Syria’ at UNGA",
+      "summary": "As President al-Sharaa is set to present a ‘new Syria’ at UNGA, Syrians at home demand safety and justice.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-syrians-want-from-al-sharaas-proposal-of-a-new-syria-at-unga?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 10:29:51 +0000"
+    },
+    {
+      "title": "Trump still thinks Iranians will ‘rise up’ against the regime. In Tehran I see a different story | Hossein Hamdieh",
+      "summary": "<p>If anything, the ongoing war is uniting a divided country against the foreign invaders. Washington seems a long way from grasping this point</p><p>The US president, Donald Trump, asked recently on one of <a href=\"https://thehill.com/homenews/administration/6065514-donald-trump-iranian-people-midd",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/22/trump-iranians-rise-up-against-the-regime-in-tehran",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 09:00:54 GMT"
+    },
+    {
+      "title": "UK to help refuel Saudi jets countering Houthi attacks",
+      "summary": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 08:53:03 GMT"
+    },
+    {
+      "title": "War between U.S. and Iran becomes a test of who will blink first",
+      "summary": "More than six months into the conflict between the U.S. and Iran, it's become a high-stakes game of endurance.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/22/nx-s1-5966364/war-between-u-s-and-iran-becomes-a-test-of-who-will-blink-first",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 04:47:37 -0400"
+    },
+    {
+      "title": "The Houthis’ shock advance and what it means for the world – podcast",
+      "summary": "<p>The Houthis now control the Bab al-Mandab strait. But where is it and why does it matter? <strong>Patrick Wintour</strong> explains</p><p>Remember that time a few years ago when few of us spared a thought for commercial shipping routes and strategic waterways? How times have changed. Now, you’d b",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/sep/22/the-houthis-shock-advance-and-what-it-means-for-the-world-full-story-podcast",
+      "importance": "medium",
+      "pubDate": "Tue, 22 Sep 2026 07:27:56 GMT"
+    },
+    {
+      "title": "Democrats’ Gaza reckoning: how failing to give Palestinians a voice came back to bite the party",
+      "summary": "<p>Voters rejected many establishment choices this year in favor of candidates pushing accountability for Gaza, writes Akbar Shahid Ahmed</p><p>The last time she gathered with fellow Democrats for a pre-election national convention, Georgia state representative Ruwa Romman got an unspoken message fr",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/sep/21/democrats-joe-biden-kamala-harris-book-gaza",
+      "importance": "medium",
+      "pubDate": "Mon, 21 Sep 2026 21:48:04 GMT"
+    },
+    {
+      "title": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
+      "summary": "<p>Andy Burnham seeks stability in Middle East to bring down prices at home as first meeting with Trump looms</p><p>The UK has agreed to provide defensive air support to Saudi Arabia to help counter Houthi fighters and restore stability in the Middle East while driving down the cost of living at hom",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters",
+      "importance": "medium",
+      "pubDate": "Mon, 21 Sep 2026 21:33:09 GMT"
+    },
+    {
+      "title": "Charges dropped against Stanford students over pro-Palestine protest",
+      "summary": "<p>Students faced prison terms and thousands of dollars in restitution over campus protest against Israel’s war on Gaza</p><p>Five Stanford University students <a href=\"https://www.theguardian.com/us-news/2026/jan/05/stanford-students-felony-case-pro-palestinian-protest\">who faced</a> prison sentenc",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/sep/21/stanford-students-gaza-protest-charges-dropped",
+      "importance": "medium",
+      "pubDate": "Mon, 21 Sep 2026 17:22:48 GMT"
+    },
     {
       "title": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
       "summary": "<p>US president reportedly changed his mind over Saudi Arabia’s pleas for assistance as bombs were being loaded</p><p>Houthi fighters are moving to seize strategic heights in Yemen that would cut the Red Sea coast off from areas held ​by Saudi-backed forces after Donald Trump called off US strikes o",
@@ -12,38 +180,6 @@
       "link": "https://www.theguardian.com/world/2026/sep/21/houthis-seize-strategic-terrain-yemen-trump-calls-off-airstrikes-last-minute",
       "importance": "medium",
       "pubDate": "Mon, 21 Sep 2026 16:14:38 GMT"
-    },
-    {
-      "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
-      "summary": "Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 15:18:12 +0000"
-    },
-    {
-      "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
-      "summary": "Repeated blasts at military sites expose the risks facing Syria as it rebuilds its army after years of war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 15:16:03 +0000"
-    },
-    {
-      "title": "How an economic squeeze is changing everyday life and work for Iranians",
-      "summary": "Iran’s government is trying to change some work patterns to help save on fuel and energy amid struggles and shortages.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 14:50:46 +0000"
-    },
-    {
-      "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-      "summary": "The use of the Pelican has provoked interest among military analysts as to whether it is a tactical ballistic missile.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 14:19:46 +0000"
     },
     {
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -54,46 +190,6 @@
       "pubDate": "Mon, 21 Sep 2026 14:14:16 GMT"
     },
     {
-      "title": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
-      "summary": "Azeez Al-Shaair has paid tribute to another Palestinian child killed by Israel, despite the NFL fine last week.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 12:49:07 +0000"
-    },
-    {
-      "title": "Child among four Palestinians killed in Israeli attacks on Gaza",
-      "summary": "Israeli attacks on Palestinians continue in Gaza despite a 'ceasefire' signed in October.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 12:32:43 +0000"
-    },
-    {
-      "title": "Israeli forces arrest dozens of Palestinians in occupied West Bank raid",
-      "summary": "At least 53 young men are being held in Biddu after raids left the town in lockdown, with schools and businesses shut.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 12:31:10 +0000"
-    },
-    {
-      "title": "NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila",
-      "summary": "Al-Shaair wears eye black with Akila's name despite being fined for displaying messages about Israel's genocide in Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/21/nfls-azeez-al-shaair-pays-tribute-to-slain-palestinian-girl-wafaa-akila?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 11:26:41 +0000"
-    },
-    {
-      "title": "Why is the US trying ‘regime change’ again?",
-      "summary": "The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 11:00:49 +0000"
-    },
-    {
       "title": "‘I lost my children, and I’m afraid of losing my baby again’: a day in the life of a pregnant woman in Gaza",
       "summary": "<p>Alaa lives in a tent pitched on the ruins of her house, which was destroyed by an Israeli airstrike that killed all three of her children. In one month, she will give birth again.</p><p><em>As the war in Gaza approaches its fourth year, this week, the Guardian follows five ordinary Palestinians a",
       "source": "The Guardian — Middle East",
@@ -102,108 +198,12 @@
       "pubDate": "Mon, 21 Sep 2026 11:00:23 GMT"
     },
     {
-      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
-      "summary": "The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 10:38:41 +0000"
-    },
-    {
-      "title": "Mystery object spotted hovering over Tehran",
-      "summary": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 10:10:14 +0000"
-    },
-    {
-      "title": "A simple guide to the Yemen conflict",
-      "summary": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 10:01:30 +0000"
-    },
-    {
       "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
       "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Mon, 21 Sep 2026 10:00:31 GMT"
-    },
-    {
-      "title": "The Houthis’ offensive is the latest spillover from Trump’s Iran disaster | Mohamad Bazzi",
-      "summary": "<p>Trump’s mess has rekindled Yemen’s civil war and a years-long conflict between the Houthis and Saudi Arabia</p><p>When the US and Israel launched a war of aggression against Iran in late February, Tehran’s allies in the Middle East jumped into the fray. Lebanon’s Hezbollah militia <a href=\"https:",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/21/houthi-iran-war-trump",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 10:00:21 GMT"
-    },
-    {
-      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
-      "summary": "Despite having rarely been more secure, public concerns about security continue to dominate the election.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 09:54:05 +0000"
-    },
-    {
-      "title": "What to know as world leaders converge at the United Nations this week",
-      "summary": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
-      "importance": "medium",
-      "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign",
-      "summary": "<p>Tensions grow as Trump tells Fox News he is considering ‘wiping Iran out’ after attacks on Riyadh by Houthi rebels</p><p>Governments across the Middle East are bracing for an escalation of violence after Iran claimed it had received intelligence that the US was preparing for a renewed bombing cam",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
-      "importance": "medium",
-      "pubDate": "Sun, 20 Sep 2026 18:56:45 GMT"
-    },
-    {
-      "title": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
-      "summary": "<p>Authorities issued warnings for city in first such alerts for Riyadh since fighting with Iran-backed Houthis escalated in July</p><p>Yemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke were seen ri",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
-      "importance": "medium",
-      "pubDate": "Sun, 20 Sep 2026 00:21:04 GMT"
-    },
-    {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 19 Sep 2026 23:49:26 GMT"
-    },
-    {
-      "title": "Israeli president pardons combat medic who shot dead wounded Palestinian attacker",
-      "summary": "<p>Elor Azaria’s conviction in 2017 for manslaughter of man who stabbed soldier continues to divide country</p><p>Israel’s president has pardoned a combat medic who shot dead a badly wounded Palestinian attacker who had stabbed a soldier in the occupied West Bank, in a case that <a href=\"https://www",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
-      "importance": "medium",
-      "pubDate": "Sat, 19 Sep 2026 20:32:17 GMT"
-    },
-    {
-      "title": "Pact with Saudi Arabia threatens to draw Pakistan into Middle East conflict",
-      "summary": "<p>Activation of mutual defence agreement by Riyadh as fighting with Houthis escalates would have wide-reaching repercussions for Islamabad</p><p>As he stood in Riyadh last September, the world looked like a very different place for Pakistan’s most powerful man, Gen Asim Munir.</p><p>The country’s a",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/19/pakistan-saudi-arabia-mecca-pact-joint-defence-agreement-houthis-yemen-conflict",
-      "importance": "medium",
-      "pubDate": "Sat, 19 Sep 2026 07:00:39 GMT"
-    },
-    {
-      "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
-      "summary": "<p>As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign</p><p>First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the Venice film festival within the Palazzo del Cinema, the audience stood almo",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary",
-      "importance": "medium",
-      "pubDate": "Sat, 19 Sep 2026 05:00:37 GMT"
     }
   ]
 }
