@@ -1,49 +1,169 @@
 {
-  "generated": "2026-09-25T15:40:48.940Z",
-  "date": "Friday, September 25, 2026",
+  "generated": "2026-09-26T14:48:37.963Z",
+  "date": "Saturday, September 26, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
-      "summary": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.",
+      "title": "The intelligence war is turning against the Houthis",
+      "summary": "Russian-Iranian intelligence helped the Houthis' offensive on the Red Sea coast. Now that system is under attack.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss",
+      "link": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 15:07:48 +0000"
+      "pubDate": "Sat, 26 Sep 2026 13:29:40 +0000"
     },
     {
-      "title": "Iraq calls for a ‘sovereign Palestinian state’ at UNGA",
-      "summary": "Iraqi Prime Minister Ali Falih Al-Zaidi called for a sovereign state of Palestine at the 81st session of the UNGA.",
+      "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
+      "summary": "Disabled and amputee children in Gaza are unable to get new wheelchairs as Israel refuses to allow them in",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iraq-calls-for-a-sovereign-palestinian-state-at-unga?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 15:03:22 +0000"
+      "pubDate": "Sat, 26 Sep 2026 13:22:33 +0000"
     },
     {
-      "title": "Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF",
-      "summary": "More than a quarter of the nearly 2,900 children screened by UNICEF in recent weeks were acutely malnourished.",
+      "title": "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
+      "summary": "Manchester City are understood to be ready to appeal any guilty verdict, but could face 'severe penalty' says ex-chair.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 14:10:51 +0000"
+      "pubDate": "Sat, 26 Sep 2026 12:59:13 +0000"
     },
     {
-      "title": "Israeli official takes notes after UN walkout against Netanyahu",
-      "summary": "An Israeli official was filmed taking notes after UN delegates staged a walk out during a speech by Netanyahu.",
+      "title": "Mecca defence alliance chiefs meet amid Houthi attacks",
+      "summary": "Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 12:41:21 +0000"
+      "pubDate": "Sat, 26 Sep 2026 12:48:50 +0000"
     },
     {
-      "title": "US seeking to revive Russia-Ukraine ceasefire talks",
-      "summary": "Amid ongoing diplomatic efforts, latest Russian attacks kill at least five people in Ukraine's capital Kyiv.",
+      "title": "Why has the Yemen government called for a general mobilisation?",
+      "summary": "Yemeni government offers amnesty to Houthi defectors, aiming to weaken rebel ranks and rebuild national unity.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/9/26/why-has-the-yemen-government-called-for-a-general-mobilisation?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 12:09:14 +0000"
+      "pubDate": "Sat, 26 Sep 2026 12:46:18 +0000"
+    },
+    {
+      "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+      "summary": "<p>US president is said to expect renewed strikes after midterms</p><p>US president Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports.</p><p>“They made a ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 12:38:46 GMT"
+    },
+    {
+      "title": "Pressure to boycott Israel game grows as Ireland preparations stall",
+      "summary": "Ireland are due to play Israel in the Nations League in Hungary on Sunday, but boycott pressure mounts on and off-field.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 11:48:08 +0000"
+    },
+    {
+      "title": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
+      "summary": "<p>Israel ‘categorically rejects’ publication and says businesses on database have committed no wrongdoing</p><p>The UN human rights office has added 61 more companies to a blacklist of firms that it says are involved in violating Palestinian human rights through business ties to Israeli settlements",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 11:10:09 GMT"
+    },
+    {
+      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+      "summary": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran's messages to the US.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 11:06:28 +0000"
+    },
+    {
+      "title": "We followed five people in Gaza from dawn to dusk – this is what the headlines don’t tell us",
+      "summary": "<p>Behind the stories of bombings and mass deaths, the everyday challenges facing Palestinians living under siege portray a quieter tragedy we rarely hear </p><p>What does it take to make a morning cup of tea in Gaza?</p><p>For <a href=\"https://www.theguardian.com/global-development/ng-interactive/2",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/we-followed-five-people-in-gaza-from-dawn-to-dusk-this-is-what-the-headlines-dont-tell-us",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 11:00:34 GMT"
+    },
+    {
+      "title": "An unexpected welcome: Syrian Kurds return to their homes in Afrin",
+      "summary": "Syrian Kurds are beginning to return to their homes in Afrin after years in exile, but have different experiences.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 10:52:03 +0000"
+    },
+    {
+      "title": "Israel bans Arab parties from election: Who they are, why it matters",
+      "summary": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 10:27:11 +0000"
+    },
+    {
+      "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+      "summary": "Analysts say Trump may opt to resume attacks on Iran after November midterm elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 09:28:19 +0000"
+    },
+    {
+      "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+      "summary": "Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq's economic dependence on oil, foreign goods.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 08:13:06 +0000"
+    },
+    {
+      "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+      "summary": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 02:59:45 -0400"
+    },
+    {
+      "title": "Gaza: a week in the life of five ordinary Palestinians",
+      "summary": "<p>As the war pushes deep into its third year, what does daily life look like for people living there and how has the conflict changed it?</p><p>***</p><p>We follow five ordinary people – a 12-year-old boy, a professor, a pregnant woman, a skateboarder and a grandmother – through their days, with al",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/gaza-a-week-in-the-life-of-five-ordinary-palestinians",
+      "importance": "medium",
+      "pubDate": "Sat, 26 Sep 2026 06:00:27 GMT"
+    },
+    {
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 25 Sep 2026 18:41:13 GMT"
+    },
+    {
+      "title": "Protests erupt as Netanyahu gives inflammatory UN speech - The Latest",
+      "summary": "<p>More than 100 people were arrested at large protests against the Israeli prime minister Benjamin Netanyahu’s address to the UN general assembly. Susan Sarandon, Chelsea Manning and Caleb Hearon were among the famous faces arrested. Inside the assembly hall, Netanyahu faced a mass walkout as he to",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
+      "importance": "medium",
+      "pubDate": "Fri, 25 Sep 2026 18:22:27 GMT"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "summary": "<p>Russian strikes in Kyiv, Netanyahu in New York, floods in Japan and the Asian Games – <a href=\"https://www.instagram.com/theguardian20photos/\">the past seven days as captured by the world’s leading photojournalists</a></p> <a href=\"https://www.theguardian.com/artanddesign/gallery/2026/sep/25/the-",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/25/the-week-around-the-world-in-20-pictures",
+      "importance": "medium",
+      "pubDate": "Fri, 25 Sep 2026 18:18:58 GMT"
+    },
+    {
+      "title": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
+      "summary": "<p>Iran’s seven-day timetable would restart nuclear talks, but will the US be willing to deliver on terms that include reining in Israel in Lebanon?</p><p></p><p>Iran’s seven-day timetable to reopen the strait of Hormuz and start talks on its nuclear programme has been pitched as a deal that could r",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+      "importance": "medium",
+      "pubDate": "Fri, 25 Sep 2026 15:43:59 GMT"
     },
     {
       "title": "It’s not hypothetical: the dangers of AI are already here | Granate Kim and Mohamed Hussein",
@@ -62,14 +182,6 @@
       "pubDate": "Fri, 25 Sep 2026 11:44:44 GMT"
     },
     {
-      "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-      "summary": "Pakistani and Turkish military chiefs head to Riyadh for urgent talks, but both countries remain cautious on involvement",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 11:22:45 +0000"
-    },
-    {
       "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
       "summary": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
       "source": "NPR World",
@@ -86,124 +198,12 @@
       "pubDate": "Fri, 25 Sep 2026 11:00:47 GMT"
     },
     {
-      "title": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
-      "summary": "The US-Israel war on Iran continues to take centre stage as the UNGA enters its fourth day.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
-      "summary": "Tehran’s offer comes as high fuel prices put pressure on Trump ahead of the US midterm elections.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 10:49:48 +0000"
-    },
-    {
       "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
       "summary": "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
       "importance": "medium",
       "pubDate": "Fri, 25 Sep 2026 06:25:03 -0400"
-    },
-    {
-      "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
-      "summary": "The war on Iran is raising the cost of living in Nigeria.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 10:10:33 +0000"
-    },
-    {
-      "title": "Israel and the US have battered the international legal order. The impunity must stop | Varsha Gandikota",
-      "summary": "<p>A group of nations will gather on Friday to address the crisis. The only response to unilateral bullying is collective action</p><p>The international legal order is in shambles. But from the ruins of impunity and lawbreaking, a group of nations is working to enforce accountability.</p><p>On Monda",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/25/israel-us-un-icc-hague-netanyahu",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 10:00:47 GMT"
-    },
-    {
-      "title": "Iran pitches seven-day roadmap to end conflict with US",
-      "summary": "Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 09:54:40 +0000"
-    },
-    {
-      "title": "Iran's president says his country has 'no trust' in U.S. in meeting with journalists",
-      "summary": "NPR's Steve Inskeep was part of a small group of journalists who met with an Iranian official on the sidelines of the U.N. General Assembly in New York. He tells Leila Fadel what he learned.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5980398/irans-president-says-his-country-has-no-trust-in-u-s-in-meeting-with-journalists",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 04:41:46 -0400"
-    },
-    {
-      "title": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
-      "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to Israel Thomas Nides about Israeli Prime Minister Benjamin Netanyahu's speech at the United Nations General Assembly.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5979942/former-u-s-ambassador-to-israel-on-netanyahus-speech-at-unga",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 04:40:59 -0400"
-    },
-    {
-      "title": "Saudi Arabia intercepts wave of Houthi missiles as oil climbs to one-week high",
-      "summary": "<p>The ⁠Saudi-led coalition in Yemen said the missiles were ⁠aimed at Taif and the Yanbu area on the Red Sea, the main alternative route for Saudi oil</p><p>Saudi Arabia says it intercepted six ballistic missiles fired by Yemen’s Iran-backed Houthis, with the latest attacks pushing oil prices ⁠to a ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/25/saudi-arabia-intercepts-houthi-missiles-oil-prices-climbs",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 02:54:27 GMT"
-    },
-    {
-      "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
-      "summary": "<p>Actors detained at Jewish Voice for Peace demonstration against Israeli prime minister’s address to the UN general assembly</p><p>Oscar-winning actor Susan Sarandon and Hacks star Hannah Einbinder were among people detained by police in New York on Thursday as they moved in to break up a protest ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/sep/25/susan-sarandon-hannah-einbinder-arrested-anti-netanyahu-protest-new-york",
-      "importance": "medium",
-      "pubDate": "Thu, 24 Sep 2026 23:23:34 GMT"
-    },
-    {
-      "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
-      "summary": "<p>Country says US must lift sanctions on its oil exports and end the war on all fronts, including in Lebanon</p><p>Iran said it has told Donald Trump it is willing to open the strait of Hormuz in six days, and to start talks on its nuclear program the day after, so long as the US lifts sanctions on",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
-      "importance": "medium",
-      "pubDate": "Thu, 24 Sep 2026 21:57:34 GMT"
-    },
-    {
-      "title": "I was arrested protesting Netanyahu’s New York visit. Here’s why we took a stand | Darializa Avila Chevalier",
-      "summary": "<p>I refuse to play host to a man who has overseen the slaughter or injury of more than 64,000 children in Gaza with American taxpayer dollars. I refuse to be complicit in genocide</p><p>Benjamin Netanyahu belongs at The Hague; not in the streets of New York City, and certainly not before the United",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/24/protester-netanyahu-gaza-new-york-arrested",
-      "importance": "medium",
-      "pubDate": "Thu, 24 Sep 2026 21:20:55 GMT"
-    },
-    {
-      "title": "UN delegates walk out as Benjamin Netanyahu prepares to address general assembly – video",
-      "summary": "<p>Dozens of delegates left the room in support of Palestine as the Israeli prime minister walked to the podium on Thursday. Other delegates clapped and chanted 'Am Yisrael Chai' or 'the people of Israel live' in support of the prime minister</p><ul><li><p><a href=\"https://www.theguardian.com/world/",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/sep/24/un-delegates-walkout-netanyahu-speech",
-      "importance": "medium",
-      "pubDate": "Thu, 24 Sep 2026 18:53:37 GMT"
-    },
-    {
-      "title": "Who are the Houthis and what do they want?",
-      "summary": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global energy market.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 24 Sep 2026 13:58:46 GMT"
-    },
-    {
-      "title": "Family of Iranian twins sentenced to death and decades in jail ask UN for help",
-      "summary": "<p>Taraneh and Romina Rahimi were charged with ‘waging war against God’ after joining protests against Tehran regime</p><p>The family of 21-year-old twins who have been sentenced respectively to <a href=\"https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-ira",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/24/twins-sentenced-to-death-and-jail-iran-un-appeal",
-      "importance": "medium",
-      "pubDate": "Thu, 24 Sep 2026 13:15:48 GMT"
     }
   ]
 }
