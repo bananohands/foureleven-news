@@ -1,65 +1,129 @@
 {
-  "generated": "2026-09-26T14:48:37.963Z",
-  "date": "Saturday, September 26, 2026",
+  "generated": "2026-09-27T15:27:34.624Z",
+  "date": "Sunday, September 27, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "The intelligence war is turning against the Houthis",
-      "summary": "Russian-Iranian intelligence helped the Houthis' offensive on the Red Sea coast. Now that system is under attack.",
+      "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
+      "summary": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
+      "link": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 13:29:40 +0000"
+      "pubDate": "Sun, 27 Sep 2026 14:36:44 +0000"
     },
     {
-      "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
-      "summary": "Disabled and amputee children in Gaza are unable to get new wheelchairs as Israel refuses to allow them in",
+      "title": "Yemen’s health system could collapse in some areas, minister warns",
+      "summary": "Yemen's healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 13:22:33 +0000"
+      "pubDate": "Sun, 27 Sep 2026 14:07:55 +0000"
     },
     {
-      "title": "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
-      "summary": "Manchester City are understood to be ready to appeal any guilty verdict, but could face 'severe penalty' says ex-chair.",
+      "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
+      "summary": "Smotrich’s words should not be dismissed as mere election rhetoric, human rights experts and analysts warn.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 12:59:13 +0000"
+      "pubDate": "Sun, 27 Sep 2026 14:03:45 +0000"
     },
     {
-      "title": "Mecca defence alliance chiefs meet amid Houthi attacks",
-      "summary": "Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.",
+      "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+      "summary": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 12:48:50 +0000"
+      "pubDate": "Sun, 27 Sep 2026 13:17:53 +0000"
     },
     {
-      "title": "Why has the Yemen government called for a general mobilisation?",
-      "summary": "Yemeni government offers amnesty to Houthi defectors, aiming to weaken rebel ranks and rebuild national unity.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/26/why-has-the-yemen-government-called-for-a-general-mobilisation?traffic_source=rss",
+      "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
+      "summary": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
       "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 12:46:18 +0000"
+      "pubDate": "Sun, 27 Sep 2026 08:06:19 -0400"
+    },
+    {
+      "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+      "summary": "Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 27 Sep 2026 11:04:30 +0000"
+    },
+    {
+      "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+      "summary": "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 27 Sep 2026 10:01:33 +0000"
+    },
+    {
+      "title": "Yemen government forces widen attacks against Houthis: What we know",
+      "summary": "Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 27 Sep 2026 09:59:21 +0000"
+    },
+    {
+      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+      "summary": "Iran is looking for alternatives to export its oil as the US blockades its southern ports.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 27 Sep 2026 08:49:32 +0000"
+    },
+    {
+      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "summary": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 27 Sep 2026 08:35:25 +0000"
+    },
+    {
+      "title": "Israel’s Netanyahu criticises opposition uniting against him for elections",
+      "summary": "Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 27 Sep 2026 08:10:22 +0000"
+    },
+    {
+      "title": "Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark",
+      "summary": "Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 27 Sep 2026 08:05:09 +0000"
+    },
+    {
+      "title": "61m tonnes of rubble: Gaza aid workers face delicate task of clearing ruins concealing up to 10,000 bodies",
+      "summary": "<p>Removal of war debris, in which lives, memories and unexploded Israeli bombs lie buried, is one of largest clearance operations in modern history</p><p>It took all day to clear a section of road in the Tel al-Hawa neighbourhood in Gaza City. At the end of it, Ahmed Alyan, a UN engineer, was exhau",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies",
+      "importance": "medium",
+      "pubDate": "Sun, 27 Sep 2026 07:00:58 GMT"
     },
     {
       "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-      "summary": "<p>US president is said to expect renewed strikes after midterms</p><p>US president Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports.</p><p>“They made a ",
+      "summary": "<p>US president is said to expect renewed strikes after the midterms</p><p>Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports.</p><p>“They made a proposal ",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
       "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 12:38:46 GMT"
+      "pubDate": "Sun, 27 Sep 2026 06:34:43 GMT"
     },
     {
-      "title": "Pressure to boycott Israel game grows as Ireland preparations stall",
-      "summary": "Ireland are due to play Israel in the Nations League in Hungary on Sunday, but boycott pressure mounts on and off-field.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss",
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
       "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 11:48:08 +0000"
+      "pubDate": "Sat, 26 Sep 2026 16:08:28 -0400"
     },
     {
       "title": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
@@ -70,52 +134,12 @@
       "pubDate": "Sat, 26 Sep 2026 11:10:09 GMT"
     },
     {
-      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-      "summary": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran's messages to the US.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 11:06:28 +0000"
-    },
-    {
       "title": "We followed five people in Gaza from dawn to dusk – this is what the headlines don’t tell us",
       "summary": "<p>Behind the stories of bombings and mass deaths, the everyday challenges facing Palestinians living under siege portray a quieter tragedy we rarely hear </p><p>What does it take to make a morning cup of tea in Gaza?</p><p>For <a href=\"https://www.theguardian.com/global-development/ng-interactive/2",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/we-followed-five-people-in-gaza-from-dawn-to-dusk-this-is-what-the-headlines-dont-tell-us",
       "importance": "medium",
       "pubDate": "Sat, 26 Sep 2026 11:00:34 GMT"
-    },
-    {
-      "title": "An unexpected welcome: Syrian Kurds return to their homes in Afrin",
-      "summary": "Syrian Kurds are beginning to return to their homes in Afrin after years in exile, but have different experiences.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 10:52:03 +0000"
-    },
-    {
-      "title": "Israel bans Arab parties from election: Who they are, why it matters",
-      "summary": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 10:27:11 +0000"
-    },
-    {
-      "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
-      "summary": "Analysts say Trump may opt to resume attacks on Iran after November midterm elections.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 09:28:19 +0000"
-    },
-    {
-      "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
-      "summary": "Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq's economic dependence on oil, foreign goods.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 26 Sep 2026 08:13:06 +0000"
     },
     {
       "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
@@ -180,30 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Fri, 25 Sep 2026 11:44:44 GMT"
-    },
-    {
-      "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
-      "summary": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 07:18:52 -0400"
-    },
-    {
-      "title": "‘We skate on the rooftops of damaged buildings’: a day in the life of a skateboarder in Gaza",
-      "summary": "<p>As the war in Gaza approaches its fourth year, the Guardian <a href=\"https://www.theguardian.com/global-development/series/gaza--a-week-in-the-life\">follows five ordinary Palestinians</a> as they go about their lives. Each tells the story of their day, revealing the terrible toll of the conflict.",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/25/we-skate-on-the-rooftops-of-damaged-buildings-a-day-in-the-life-a-skateboarder-in-gaza",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 11:00:47 GMT"
-    },
-    {
-      "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
-      "summary": "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
-      "importance": "medium",
-      "pubDate": "Fri, 25 Sep 2026 06:25:03 -0400"
     }
   ]
 }
