@@ -1,33 +1,105 @@
 {
-  "generated": "2026-09-28T18:18:38.575Z",
-  "date": "Monday, September 28, 2026",
+  "generated": "2026-09-29T16:41:40.368Z",
+  "date": "Tuesday, September 29, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Russian nuclear-capable bomber plane crashes, killing six people",
+      "summary": "Tu-95 plane crashed during training flight in uninhabited area of Amur region, Defence Ministry says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 16:03:39 +0000"
+    },
+    {
+      "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
+      "summary": "Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 15:47:37 +0000"
+    },
+    {
+      "title": "Ireland undecided on approach for next game against Israel, coach says",
+      "summary": "Ireland played the first Nations League game despite unease among some players over Israel's genocidal war in Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 15:33:42 +0000"
+    },
+    {
+      "title": "US-Iran talks in New York: What’s the latest?",
+      "summary": "Both sides remain interested in a diplomatic settlement but differ on how to achieve one.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 15:09:53 +0000"
+    },
+    {
+      "title": "Are Houthis using new modified cruise missiles in Yemen’s war?",
+      "summary": "Experts say use of modified Iranian defence system could alter the balance in the fight for the Red Sea.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/29/are-houthis-using-new-modified-cruise-missiles-in-yemens-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 13:22:28 +0000"
+    },
+    {
+      "title": "Iran downplays possible role in Houthis’ recent Yemen victories",
+      "summary": "Iran has long been accused of links with the Houthis in Yemen, but how far do these links go?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news-analysis/2026/9/29/iran-downplays-their-possible-role-in-houthis-recent-yemen-victories?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 13:20:34 +0000"
+    },
+    {
+      "title": "Man City’s Premier League charges: What’s the latest and what comes next?",
+      "summary": "Swingeing sanctions against City for breaching financial fair play rules would send shockwaves through English football.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 13:20:10 +0000"
+    },
+    {
+      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "summary": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 12:39:18 GMT"
+    },
+    {
+      "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
+      "summary": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 12:32:10 +0000"
+    },
+    {
+      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+      "summary": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+      "importance": "medium",
+      "pubDate": "Tue, 29 Sep 2026 05:00:00 -0400"
+    },
+    {
+      "title": "British men released on bail after suspected terror plot",
+      "summary": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The British base is used by the U.S. military for strikes on Iran.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
+      "importance": "medium",
+      "pubDate": "Mon, 28 Sep 2026 18:10:02 -0400"
+    },
     {
       "title": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot",
       "summary": "<p>Tehran has been trying to step up attacks on targets in the west but its track record has been mixed</p><p>Investigators may be some way from determining exactly what led five men with three vans to a village just outside RAF Fairford in the small hours of Sunday – but the fact they have all been",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
       "importance": "medium",
-      "pubDate": "Mon, 28 Sep 2026 17:52:24 GMT"
-    },
-    {
-      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-      "summary": "Mediators are trying to facilitate more talks, but Washington signals faith in its pressure tactics.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 28 Sep 2026 17:43:10 +0000"
-    },
-    {
-      "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
-      "summary": "Ukraine condemns Russian targeting of civilians as strikes kill seven and injure dozens across Kyiv.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 28 Sep 2026 17:37:36 +0000"
+      "pubDate": "Mon, 28 Sep 2026 21:36:40 GMT"
     },
     {
       "title": "Iran court upholds lashes sentence for singer who performed without hijab",
@@ -38,52 +110,12 @@
       "pubDate": "Mon, 28 Sep 2026 17:15:00 GMT"
     },
     {
-      "title": "Jerusalem Daily: Israeli incursions at Al-Aqsa Mosque",
-      "summary": "Jerusalem Daily: Israeli incursions at Al-Aqsa Mosque",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/jerusalem-daily-israeli-incursions-at-al-aqsa-mosque?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 28 Sep 2026 16:24:54 +0000"
-    },
-    {
-      "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
-      "summary": "British foreign minister vows to 'match word with action' when it comes to defending Palestinian rights.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 28 Sep 2026 15:35:21 +0000"
-    },
-    {
-      "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
-      "summary": "Tehran condemns 'unfounded and malicious speculation'; British FM vows to 'act against the proxies of Iran'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 28 Sep 2026 15:29:48 +0000"
-    },
-    {
-      "title": "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
-      "summary": "Israeli national security minister declares 'we are the owners of the place in Al-Aqsa' amid heavily guarded incursion.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 28 Sep 2026 14:03:55 +0000"
-    },
-    {
       "title": "Netanyahu is using Mamdani as a foil in his re-election campaign | Mohamad Bazzi",
       "summary": "<p>The Israeli prime minister’s remarks at the UN weren’t just motivated by personal animosity</p><p>In a boastful and defiant <a href=\"https://gadebate.un.org/en/81/israel\">speech to the United Nations</a> on Thursday, Benjamin Netanyahu called out <a href=\"https://www.theguardian.com/us-news/2026/",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/commentisfree/2026/sep/28/netanyahu-re-election-mamdani",
       "importance": "medium",
       "pubDate": "Mon, 28 Sep 2026 14:00:36 GMT"
-    },
-    {
-      "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
-      "summary": "The continued blockade of the Strait of Hormuz has forced Iraq to look for alternatives to export its oil.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 28 Sep 2026 13:53:28 +0000"
     },
     {
       "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
@@ -102,8 +134,8 @@
       "pubDate": "Mon, 28 Sep 2026 11:28:12 GMT"
     },
     {
-      "title": "U.K. examines if Iran or Russia are involved in foiled attack near base used by U.S.",
-      "summary": "Five men arrested on terror charges near a U.S.-run air force base were released on bail, as detectives investigate lines of inquiry, including whether a foreign state or armed group was involved.",
+      "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
+      "summary": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
       "source": "NPR World",
       "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
       "importance": "medium",
@@ -172,38 +204,6 @@
       "link": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
       "importance": "medium",
       "pubDate": "Sun, 27 Sep 2026 16:28:05 GMT"
-    },
-    {
-      "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
-      "summary": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
-      "importance": "medium",
-      "pubDate": "Sun, 27 Sep 2026 08:06:19 -0400"
-    },
-    {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 27 Sep 2026 07:44:11 GMT"
-    },
-    {
-      "title": "61m tonnes of rubble: Gaza aid workers face delicate task of clearing ruins concealing up to 10,000 bodies",
-      "summary": "<p>Removal of war debris, in which lives, memories and unexploded Israeli bombs lie buried, is one of largest clearance operations in modern history</p><p>It took all day to clear a section of road in the Tel al-Hawa neighbourhood in Gaza City. At the end of it, Ahmed Alyan, a UN engineer, was exhau",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies",
-      "importance": "medium",
-      "pubDate": "Sun, 27 Sep 2026 07:00:58 GMT"
-    },
-    {
-      "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-      "summary": "<p>US president is said to expect renewed strikes after the midterms</p><p>Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports.</p><p>“They made a proposal ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-      "importance": "medium",
-      "pubDate": "Sun, 27 Sep 2026 06:34:43 GMT"
     }
   ]
 }
