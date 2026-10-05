@@ -1,65 +1,185 @@
 {
-  "generated": "2026-10-04T15:34:17.202Z",
-  "date": "Sunday, October 4, 2026",
+  "generated": "2026-10-05T19:26:20.841Z",
+  "date": "Monday, October 5, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’ – UK politics live",
+      "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
+      "summary": "Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 19:01:32 +0000"
+    },
+    {
+      "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
+      "summary": "Israel ordered East Jerusalem consulate to be closed after Britain sanctioned settlements in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 18:42:36 +0000"
+    },
+    {
+      "title": "What is ‘Herod’s Pool’, and why is Israel developing it in the West Bank?",
+      "summary": "Israel is developing a reservoir on land in the occupied West Bank, with water syphoned off from Palestinians.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/5/what-is-herods-pool-and-why-is-israel-developing-it-in-the-west-bank?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 18:24:06 +0000"
+    },
+    {
+      "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
+      "summary": "<p>Police and security agencies in multiple countries scramble to piece together background and intentions of Hamam al-Hammami</p><p>Investigators believe the co-pilot who tried to take control of a plane from Dubai to Tel Aviv last week originally planned his attack for July but postponed the hijac",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 18:00:47 GMT"
+    },
+    {
+      "title": "UK threatens to expel Israeli diplomats over planned East Jerusalem consulate closure",
+      "summary": "<p>Tit-for-tat expulsions expected after relations deteriorate as a result of UK ban on goods from illegal settlements</p><p>The UK has threatened to expel one Israeli diplomat for every British diplomat forced to leave Israel as a result of Israel’s decision to <a href=\"https://www.theguardian.com/",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 17:53:46 GMT"
+    },
+    {
+      "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+      "summary": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 17:49:59 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Netanyahu gives voters dramatic ultimatum",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 17:05:46 +0000"
+    },
+    {
+      "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
+      "summary": "<p>The US withdrew its bombers from RAF Fairford after an investigation into an alleged planned terrorist attack on the base. At least 10 B-1 bombers used by the US military in the Iran conflict flew out of Fairford on Sunday, suggesting US officials were taking the threat seriously. Last week, five",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 15:45:46 GMT"
+    },
+    {
+      "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+      "summary": "Yemeni government forces claim strategic advances near Bab al-Mandeb strait amid a major anti-Houthi offensive.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 15:29:04 +0000"
+    },
+    {
+      "title": "What happened between Ireland and Israel in their Nations League match?",
+      "summary": "Spitting allegations, no handshakes, and bowed heads headlined the second Nations League fixture.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 15:28:16 +0000"
+    },
+    {
+      "title": "Air campaign against Houthis under way in Yemen, says Saudi-led coalition",
+      "summary": "<p>Operation supported by 100 fighter jets said to have secured ‘air protection’ of Bab al-Mandab strait and destroyed hundreds of targets</p><p>Leaders of a Saudi-led coalition in Yemen claimed a broad air campaign involving 100 jet aircraft was under way on Monday against the Iran-backed Houthi re",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 15:21:54 GMT"
+    },
+    {
+      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
+      "summary": "The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 14:19:44 +0000"
+    },
+    {
+      "title": "Iran’s oil minister resigns as country’s economic crisis worsens",
+      "summary": "<p>Departure comes amid large drop in oil receipts, rampant inflation and shrinking economy</p><p>Iran’s oil minister has resigned days after allegations that an intermediary trust selling Iranian oil abroad owed millions of dollars’ worth of export receipts to the state.</p><p>Mohsen Paknejad’s dep",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 14:16:14 GMT"
+    },
+    {
+      "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+      "summary": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 13:11:42 +0000"
+    },
+    {
+      "title": "Before UK Greens, who else has equated Zionism with racism?",
+      "summary": "Israel condemns the move as the party's vote causes an uproar, including among party members.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/5/before-uk-greens-who-else-has-equated-zionism-with-racism?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 13:03:09 +0000"
+    },
+    {
+      "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+      "summary": "<p>After Guardian investigation uncovered drone strike that killed 12 civilians and injured many more, seven-year-old Abdiqadir Salah underwent vital operation in Mogadishu</p><p>On the rickshaw ride to the hospital, Marian Haji Abdi Guled felt a mixture of joy and apprehension: the day they had bee",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 12:00:24 GMT"
+    },
+    {
+      "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+      "summary": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 06:53:46 -0400"
+    },
+    {
+      "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
+      "summary": "<p>Vivien Lichtenstein says she believes motion is unhelpful as anger grows over Zack Polanski’s absence for vote</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates\">UK politics live – latest ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 09:00:09 GMT"
+    },
+    {
+      "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
+      "summary": "<p>RMIT confirms co-pilot was a student as Australian authorities examine his time in country between 2015 and 2017</p><p>An Australian university has confirmed a flydubai co-pilot who allegedly tried to hijack an Israel-bound flight studied at its Melbourne campus, but left before completing his qu",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 05:52:17 GMT"
+    },
+    {
+      "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+      "summary": "<p>The announcement came hours after Iranian-backed Houthis reportedly cut a vital supply route to besieged city of Taiz</p><p>Yemen’s Saudi-backed government has announced the start of a new military operation to retake all territory held by the Houthis, even as the militant group made fresh gains ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
+      "importance": "medium",
+      "pubDate": "Mon, 05 Oct 2026 00:38:54 GMT"
+    },
+    {
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 04 Oct 2026 16:51:30 GMT"
+    },
+    {
+      "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
       "summary": "<p>Party formally adopts policy which equates Zionism with racism, as all <a href=\"https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism\">Green party votes to adopt policy that equates Zionism with racism</a></p><p></p><p>On Friday the Times <a href=\"https://",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Sun, 04 Oct 2026 15:27:25 GMT"
-    },
-    {
-      "title": "Iran tells US: there is ‘no military solution’ to end the war",
-      "summary": "Iranian Foreign Minister Abbas Araghchi says the era of “wasting time and dictating demands is over’.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 04 Oct 2026 15:06:14 +0000"
-    },
-    {
-      "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
-      "summary": "Fighting escalates in Taiz governorate as Yemen's government and Houthis battle for control of key strategic locations.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 04 Oct 2026 13:31:15 +0000"
-    },
-    {
-      "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
-      "summary": "Rashad al-Alimi says the campaign aims to restore state authority throughout Yemen.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 04 Oct 2026 12:48:50 +0000"
-    },
-    {
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "summary": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 04 Oct 2026 11:11:30 +0000"
-    },
-    {
-      "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-      "summary": "Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 04 Oct 2026 10:44:23 +0000"
-    },
-    {
-      "title": "Netanyahu’s fight to own the election narrative",
-      "summary": "What did Netanyahu know about October 7 before it happened?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 04 Oct 2026 10:05:53 +0000"
+      "pubDate": "Sun, 04 Oct 2026 16:32:00 GMT"
     },
     {
       "title": "Australia investigating Flydubai co-pilot's links to country",
@@ -84,126 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
       "importance": "medium",
       "pubDate": "Sun, 04 Oct 2026 01:26:39 GMT"
-    },
-    {
-      "title": "U.S. withdrawal from Iraq is complete",
-      "summary": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
-      "importance": "medium",
-      "pubDate": "Sat, 03 Oct 2026 17:57:33 -0400"
-    },
-    {
-      "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-      "summary": "<p>Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views</p><p>The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out a “terrorist attack” during the Israel-bound flight, the United ⁠Arab E",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-      "importance": "medium",
-      "pubDate": "Sat, 03 Oct 2026 11:56:46 GMT"
-    },
-    {
-      "title": "What is Zionism and why do some critics describe it as racist?",
-      "summary": "<p>Green party debate over the motion ‘Zionism is racism’ comes amid renewed arguments over the meaning and history of a contested term</p><p>Zack Polanski, the leader of the Green party, has said he is an <a href=\"https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/03/what-is-zionism-green-party-debate",
-      "importance": "medium",
-      "pubDate": "Sat, 03 Oct 2026 06:00:51 GMT"
-    },
-    {
-      "title": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
-      "summary": "<p>Experts sceptical flydubai co-pilot’s only motivation was to end his own life and say key question is means of radicalisation</p><p>At about 9.30 on Wednesday morning local time, Tali Manes was taking her six-year-old daughter, Nina, to the toilet on the regular flydubai flight from Dubai to Tel ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
-      "importance": "medium",
-      "pubDate": "Fri, 02 Oct 2026 15:40:05 GMT"
-    },
-    {
-      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
-      "summary": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 02 Oct 2026 15:29:28 GMT"
-    },
-    {
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 02 Oct 2026 11:52:04 GMT"
-    },
-    {
-      "title": "AI weapons systems are already here. Algorithms must not decide who lives and dies | Kenneth Roth",
-      "summary": "<p>Israel’s conduct in Gaza shows the danger of using AI in warfare. Humans must remain at the center of wartime decisions</p><p>As tech leaders <a href=\"https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html\">warn</a> about the threats of artificial intelligence, most",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/02/ai-weapons-systems-algorithms-war",
-      "importance": "medium",
-      "pubDate": "Fri, 02 Oct 2026 10:00:17 GMT"
-    },
-    {
-      "title": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-      "summary": "<p>Smit Machchhar says in video call with Indian PM that he realised if he did not get up ‘passengers would lose their lives’</p><p>The Indian pilot who helped thwart an <a href=\"https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel\">apparent attempt to crash ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
-      "importance": "medium",
-      "pubDate": "Fri, 02 Oct 2026 08:39:40 GMT"
-    },
-    {
-      "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-      "summary": "<p>Deployment underscores evolving complexity of Trump’s war against Iran as US midterm elections loom</p><p>The US military is dispatching a third aircraft carrier strike group to the Middle East, as President Donald Trump warned new strikes against Iran could be on the horizon.</p><p>The deploymen",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-      "importance": "medium",
-      "pubDate": "Fri, 02 Oct 2026 01:17:37 GMT"
-    },
-    {
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 01 Oct 2026 19:59:24 GMT"
-    },
-    {
-      "title": "How the stabbing incident unfolded on Israel-bound flydubai plane | Deconstructed",
-      "summary": "<p>An Israel-bound flydubai flight from Dubai made an emergency landing in Saudi Arabia on Wednesday after one of the co-pilots allegedly stabbed his captain in an apparent attempt to crash the plane. Israeli passengers intervened to stop the attack, restraining the co-pilot, while a reserve crew wa",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/oct/01/how-stabbing-incident-unfolded-israel-bound-flydubai-plane-deconstructed",
-      "importance": "medium",
-      "pubDate": "Thu, 01 Oct 2026 18:43:30 GMT"
-    },
-    {
-      "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
-      "summary": "<p>Team behind documentary push back against IDF attempt to discredit its exposure of military systems</p><p>The team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged acceptance of high numbers of civilian deaths, have revealed they ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
-      "importance": "medium",
-      "pubDate": "Thu, 01 Oct 2026 17:45:09 GMT"
-    },
-    {
-      "title": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
-      "summary": "<p>Alleged flydubai attacker interrogated by Saudi security services as investigation into apparent crash attempt opens</p><p>The Omani co-pilot who stabbed his captain in an apparent attempt to crash an Israel-bound flight from Dubai had previously undergone radical Islamist indoctrination and was ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-      "importance": "medium",
-      "pubDate": "Thu, 01 Oct 2026 16:04:48 GMT"
-    },
-    {
-      "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
-      "summary": "<p>Alternative ways being used to move fuel out of Gulf region, but flows of refined products such as diesel still constrained</p><p>Exports of crude from the strait of Hormuz have largely returned to levels seen before the outbreak of the Iran war, as oil producers and the shipping industry have fo",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
-      "importance": "medium",
-      "pubDate": "Thu, 01 Oct 2026 15:52:14 GMT"
-    },
-    {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 01 Oct 2026 14:22:14 GMT"
     }
   ]
 }
