@@ -1,17 +1,129 @@
 {
-  "generated": "2026-10-08T17:39:51.396Z",
-  "date": "Thursday, October 8, 2026",
+  "generated": "2026-10-09T17:15:21.141Z",
+  "date": "Friday, October 9, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Jerusalem Daily: Remembrance and mourning",
-      "summary": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
+      "title": "Zionism, racism and the Green party in turmoil | Letters",
+      "summary": "<p>Readers respond to articles on the Green party’s motion</p><p>As ever, Jonathan Freedland is on the money in his article (<a href=\"https://www.theguardian.com/commentisfree/2026/oct/02/green-party-anti-zionism-motion-attempt-tell-jews-how-to-think\">The Green party’s anti-Zionism motion is yet ano",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/politics/2026/oct/09/zionism-racism-and-the-green-party-in-turmoil",
       "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 17:17:22 +0000"
+      "pubDate": "Fri, 09 Oct 2026 16:22:50 GMT"
+    },
+    {
+      "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+      "summary": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 15:59:04 +0000"
+    },
+    {
+      "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+      "summary": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 15:28:10 +0000"
+    },
+    {
+      "title": "US sanctions International Criminal Court itself in major escalation",
+      "summary": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 15:08:30 +0000"
+    },
+    {
+      "title": "Pete Hegseth’s plan to livestream execution puts US in dubious company",
+      "summary": "<p>Only Iran and Afghanistan routinely carry out sentences in public, with Saudi Arabia appearing to have ended practice</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussol",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/09/pete-hegseth-public-execution-nidal-hasan-capital-sentences",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 13:55:07 GMT"
+    },
+    {
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 13:50:25 GMT"
+    },
+    {
+      "title": "Child flees as Israeli settlers hijack car during pogrom",
+      "summary": "A Palestinian boy was seen fleeing after Israeli settlers attacked his father and stole their car in Ramallah.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 13:09:13 +0000"
+    },
+    {
+      "title": "Ukraine takes aim at Russia’s AI data infrastructure",
+      "summary": "Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 13:01:57 +0000"
+    },
+    {
+      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+      "summary": "Saudi Arabia has seen several attacks by the Houthis in recent days, with airports appearing to be the primary target.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 11:46:39 +0000"
+    },
+    {
+      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+      "summary": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 07:37:04 -0400"
+    },
+    {
+      "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+      "summary": "<p>Attack is deadliest in kingdom since it launched major military offensive with allies against Houthis in Yemen</p><p>Three Saudi citizens have been killed and several other people were wounded in attacks targeting Riyadh ⁠airport for which Yemen’s Houthis claimed responsibility, Saudi officials h",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 09:47:10 GMT"
+    },
+    {
+      "title": "How do human beings explain taking part in genocide? NAZA provides a chilling look | Omer Bartov",
+      "summary": "<p>It’s easier to blame brutes and sadists for extreme violence. But as we see in the documentary, modern genocides are fueled by people who are uncomfortably recognizable</p><p>Werner Best, a senior SS official and jurist who helped organize the Nazi death squads that murdered hundreds of thousands",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global/commentisfree/2026/oct/09/naza-mass-killing-gaza-israel",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 09:00:44 GMT"
+    },
+    {
+      "title": "‘Self-imposed irrelevance’: why the EU is failing to act on growing public criticism of Israel",
+      "summary": "<p>While Israel’s actions against Palestinians intensify public anger, the bloc remains paralysed along familiar fault lines</p><p>When the British government announced <a href=\"https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing\"",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/09/why-eu-failing-act-growing-public-criticism-israel-gaza-west-bank",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 09:00:44 GMT"
+    },
+    {
+      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
+      "summary": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+      "importance": "medium",
+      "pubDate": "Thu, 08 Oct 2026 20:05:48 -0400"
+    },
+    {
+      "title": "Israel promotes film that mimics NAZA documentary",
+      "summary": "<p>Embassies post links to hastily produced online film echoing style of real Guardian documentary about mass killings of Gaza civilians</p><p>The Israeli government is promoting an online film project that mimics the style of NAZA, the award-winning documentary that details Israel’s mass killings o",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
+      "importance": "medium",
+      "pubDate": "Thu, 08 Oct 2026 17:52:35 GMT"
     },
     {
       "title": "Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem",
@@ -23,23 +135,15 @@
     },
     {
       "title": "Ben Jennings on the Gaza ‘ceasefire’ – cartoon",
-      "summary": "<a href=\"https://www.theguardian.com/commentisfree/picture/2026/oct/08/ben-jennings-the-gaza-ceasefire-cartoon\">Continue reading...</a>",
+      "summary": "<ul><li><p><a href=\"https://guardianprintshop.com/collections/ben-jennings\"><strong>Discover and buy more of Ben’s cartoons here</strong></a></p></li><li><p><a href=\"https://guardianprintshop.com/collections/ben-jennings/products/9th-october-2026\"><strong>Order your own print of this cartoon from th",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/08/ben-jennings-the-gaza-ceasefire-cartoon",
       "importance": "medium",
       "pubDate": "Thu, 08 Oct 2026 17:10:14 GMT"
     },
     {
-      "title": "Israel promotes film that mimics NAZA documentary",
-      "summary": "<p>Embassies post links to hastily produced online film echoing style of real Guardian documentary about mass killings of Gaza civilians</p><p>The Israeli government is promoting an online film project that mimics the style of NAZA, the award-winning documentary that details Israel’s mass killings o",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 17:05:18 GMT"
-    },
-    {
       "title": "Not since 9/11 has the UK faced such a security crisis – and threat to our liberal principles | Gaby Hinsliff",
-      "summary": "<p>The combination of Iranian, Russian and Chinese aggression is deeply concerning: just how much more concerned with security should the country be?</p><p>The first time the window-rattling roar of a B-1 bomber woke me up this summer, I thought for one crazed second we were under attack. By the sec",
+      "summary": "<p>The combination of Iranian, Russian and Chinese aggression is deeply worrying: just how much more concerned about security should the country be?</p><p>The first time the window-rattling roar of a B-1 bomber woke me up this summer, I thought for one crazed second we were under attack. By the seco",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/commentisfree/2026/oct/08/911-uk-security-crisis-threat-liberal-principles-securocracy",
       "importance": "medium",
@@ -47,7 +151,7 @@
     },
     {
       "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-      "summary": "<p>UK and Israel back away from full diplomatic confrontation, though British presence in Palestine will be much reduced</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates\">UK politics l",
+      "summary": "<p>UK and Israel back away from full diplomatic confrontation, though British presence in Palestine will be much reduced</p><p>Israel and the UK have backed away from a full-scale diplomatic confrontation, with Britain announcing it is rebranding its consulate general ⁠building in ⁠East Jerusalem ​a",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
       "importance": "medium",
@@ -70,30 +174,6 @@
       "pubDate": "Thu, 08 Oct 2026 15:21:46 GMT"
     },
     {
-      "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
-      "summary": "Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 14:43:19 +0000"
-    },
-    {
-      "title": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
-      "summary": "Israel's order to shut UK's Jerusalem consulate is the latest downturn in a relationship strained since before 1948.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 14:01:54 +0000"
-    },
-    {
-      "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
-      "summary": "British Foreign Secretary Miliband said the consulate building would remain but would be called 'UK Mission, Jerusalem'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 13:32:32 +0000"
-    },
-    {
       "title": "South Korea test-flies its first domestically developed hypersonic weapon",
       "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
       "source": "NPR World",
@@ -103,7 +183,7 @@
     },
     {
       "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-      "summary": "<p>Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-",
+      "summary": "<p>Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran</p><p>Oil prices have risen sharply amid fears about escalating tensions in the Middle East and a squeeze on production from the threat of a hurricane off the US c",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
       "importance": "medium",
@@ -124,86 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Thu, 08 Oct 2026 05:06:09 GMT"
-    },
-    {
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 05:00:44 GMT"
-    },
-    {
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-      "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 03:32:35 GMT"
-    },
-    {
-      "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
-      "summary": "<p>People tell of lives changed beyond recognition after the 7 October attacks by Hamas three years ago and the subsequent Israeli offensive </p><p><br></p><p>Ahmed Ishtaiwi has six chairs. They are cheap and plastic and battered, but they are among the 43-year-old driver and mechanic’s most valuabl",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
-      "importance": "medium",
-      "pubDate": "Wed, 07 Oct 2026 21:00:01 GMT"
-    },
-    {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 07 Oct 2026 20:27:03 GMT"
-    },
-    {
-      "title": "'We need to go. We need to help.' Israelis return to border to rebuild after Oct. 7",
-      "summary": "Three years after the Hamas-led attack on Oct. 7 emptied communities along Israel's border with Gaza, residents are returning and new families are moving in.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5948736/israel-border-gaza-oct-7-hamas-attack",
-      "importance": "medium",
-      "pubDate": "Wed, 07 Oct 2026 16:18:46 -0400"
-    },
-    {
-      "title": "Houthi forces appear to make slow advance in south-west Yemen",
-      "summary": "<p>Group’s fighters hit key airport in Aden with explosive moments before plane from Cairo was due to land</p><p>Houthi forces appeared to be making slow advances on Wednesday in south-west Yemen, approaching the city of Taiz and firing a missile and an explosive towards the airport in Aden, the chi",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport",
-      "importance": "medium",
-      "pubDate": "Wed, 07 Oct 2026 19:45:47 GMT"
-    },
-    {
-      "title": "Commemorations for victims of the 7 October Hamas attacks – in pictures",
-      "summary": "<p>Events were held in Israel and around the world to mark the third anniversary of the attacks led by Hamas on kibbutzim, border towns, military bases and a music festival in Israel, in which 1,209 people were killed and 251 hostages were taken</p> <a href=\"https://www.theguardian.com/world/gallery",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/gallery/2026/oct/07/commemorations-for-the-7-october-hamas-attacks-in-pictures",
-      "importance": "medium",
-      "pubDate": "Wed, 07 Oct 2026 18:29:27 GMT"
-    },
-    {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 07 Oct 2026 16:00:18 GMT"
-    },
-    {
-      "title": "‘Palestinians will bear the cost’: UK consulate in East Jerusalem prepares to shut its doors",
-      "summary": "<p>Forced closure marks low point in UK-Israeli relations, with reports UK is considering retaliatory expulsion of Israeli diplomats from London</p><p>The UK consulate in East Jerusalem gave few signs it was at the centre of a geopolitical controversy this week, with little movement around the high-",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
-      "importance": "medium",
-      "pubDate": "Wed, 07 Oct 2026 15:14:12 GMT"
-    },
-    {
-      "title": "The situation in Gaza three years on",
-      "summary": "The BBC's Gaza correspondent Rushdi Abualouf describes the situation in Gaza three years on from the 7 October attack.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/c6pwgrgd9zpzo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 07 Oct 2026 09:19:21 GMT"
     }
   ]
 }
