@@ -1,10 +1,162 @@
 {
-  "generated": "2026-10-09T17:15:21.141Z",
-  "date": "Friday, October 9, 2026",
+  "generated": "2026-10-10T16:02:19.120Z",
+  "date": "Saturday, October 10, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Dozens reported injured in Yemeni Houthi attack at Riyadh airport",
+      "summary": "<p>Saudi authorities yet to confirm strike as government-allied forces in Yemen claim successful offensive to retake Bab al-Mandab strait</p><p>Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, with dozens reported wounded and a witness describing pani",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 15:54:12 GMT"
+    },
+    {
+      "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
+      "summary": "<p>March is first since Ed Miliband declared UK’s position was that Israel’s occupation of West Bank was unlawful </p><p>Thousands of people have gathered in central London to express their support for Palestinians after three years of “genocide” carried out against them by Israel.</p><p>The demonst",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 15:52:21 GMT"
+    },
+    {
+      "title": "With or without Hamas",
+      "summary": "Hamas’s fate will not profoundly shape Gaza’s future.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 15:19:41 +0000"
+    },
+    {
+      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 15:05:55 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+      "summary": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 14:39:53 +0000"
+    },
+    {
+      "title": "Why is the US sanctioning the International Criminal Court?",
+      "summary": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 14:19:43 +0000"
+    },
+    {
+      "title": "Has Yemen returned to ‘full-scale war’?",
+      "summary": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 14:10:24 +0000"
+    },
+    {
+      "title": "When streets become a workplace: Gaza workers convert tents into offices",
+      "summary": "A real estate crisis in Gaza has forced professionals to use tents as surgeries and offices.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 13:50:05 +0000"
+    },
+    {
+      "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
+      "summary": "Rubio says threats to Western civilisation today 'every bit as real as they were on the dramatic stage of antiquity'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 13:09:09 +0000"
+    },
+    {
+      "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
+      "summary": "At least 1,481 Palestinians killed in Israeli attacks since last year's 'ceasefire', Gaza's Health Ministry says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 12:40:57 +0000"
+    },
+    {
+      "title": "England international Cole Palmer signs new Chelsea deal until 2034",
+      "summary": "Attacking midfielder Palmer has become a key figure in Chelsea's squad since his arrival from Man City in 2023.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 12:37:14 +0000"
+    },
+    {
+      "title": "Why is US turning to Russia for diesel despite sanctions?",
+      "summary": "President Donald Trump's deal with Putin comes amid surging fuel prices and looming US midterm elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 12:16:12 +0000"
+    },
+    {
+      "title": "In three years, Israel's war on Gaza hasn't just changed the Middle East, it's changed the world | Steve Bloomfield",
+      "summary": "<p>A whirlpool of violence has engulfed everywhere from Lebanon to Yemen. Meanwhile, the west has destroyed any political authority it once had</p><p>There was a world before 7 October, 2023, and now there is a world after. For Gaza, for Israel, for the wider Middle East, and for everyone else too. ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/10/israel-war-gaza-middle-east-world-violence",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 12:00:56 GMT"
+    },
+    {
+      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
+      "summary": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 07:40:53 -0400"
+    },
+    {
+      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
+      "summary": "Analysts say board has 'failed' in its attempts to secure lasting peace in Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 11:19:24 +0000"
+    },
+    {
+      "title": "Photos: What a year of ceasefire in Gaza looks like",
+      "summary": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Flydubai co-pilot began radicalisation in Australia, UAE prosecutors say",
+      "summary": "<p>Hammam al-Hammami’s shift towards extremism began while he was a student in Melbourne, according to Emirati attorney general</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/10/flydubai-co-pilot-radicalisation-australia-uae-prosecutors-ntwnfb",
+      "importance": "medium",
+      "pubDate": "Sat, 10 Oct 2026 00:58:59 GMT"
+    },
+    {
+      "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+      "summary": "<p>Hammam al-Hammami is believed to have been targeting the passenger terminal at Ben Gurion airport near Tel Aviv</p><p>The co-pilot who tried to seize control of a passenger jet flying from Dubai to Tel Aviv last week was planning to launch a suicide attack targeting the passenger terminal at Isra",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 20:38:11 GMT"
+    },
+    {
+      "title": "In the Shadows review – true tale of Ramla Ali’s remarkable rise through the boxing ranks is a knockout",
+      "summary": "<p>Jasmine Jobson goes the distance as the British-Somalian boxer battling pain from her past and her family’s disapproval in a heavyweight, tick-the-boxes production</p><p>The true-life success story of boxer Ramla Ali is confidently told in this capable picture from screenwriter Ursula Rani Sarma ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/oct/09/in-the-shadows-film-review-ramla-ali-boxer-somalia",
+      "importance": "medium",
+      "pubDate": "Fri, 09 Oct 2026 17:45:34 GMT"
+    },
     {
       "title": "Zionism, racism and the Green party in turmoil | Letters",
       "summary": "<p>Readers respond to articles on the Green party’s motion</p><p>As ever, Jonathan Freedland is on the money in his article (<a href=\"https://www.theguardian.com/commentisfree/2026/oct/02/green-party-anti-zionism-motion-attempt-tell-jews-how-to-think\">The Green party’s anti-Zionism motion is yet ano",
@@ -12,30 +164,6 @@
       "link": "https://www.theguardian.com/politics/2026/oct/09/zionism-racism-and-the-green-party-in-turmoil",
       "importance": "medium",
       "pubDate": "Fri, 09 Oct 2026 16:22:50 GMT"
-    },
-    {
-      "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-      "summary": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 15:59:04 +0000"
-    },
-    {
-      "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
-      "summary": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 15:28:10 +0000"
-    },
-    {
-      "title": "US sanctions International Criminal Court itself in major escalation",
-      "summary": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 15:08:30 +0000"
     },
     {
       "title": "Pete Hegseth’s plan to livestream execution puts US in dubious company",
@@ -52,30 +180,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Fri, 09 Oct 2026 13:50:25 GMT"
-    },
-    {
-      "title": "Child flees as Israeli settlers hijack car during pogrom",
-      "summary": "A Palestinian boy was seen fleeing after Israeli settlers attacked his father and stole their car in Ramallah.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 13:09:13 +0000"
-    },
-    {
-      "title": "Ukraine takes aim at Russia’s AI data infrastructure",
-      "summary": "Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 13:01:57 +0000"
-    },
-    {
-      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
-      "summary": "Saudi Arabia has seen several attacks by the Houthis in recent days, with airports appearing to be the primary target.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 11:46:39 +0000"
     },
     {
       "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
@@ -100,110 +204,6 @@
       "link": "https://www.theguardian.com/global/commentisfree/2026/oct/09/naza-mass-killing-gaza-israel",
       "importance": "medium",
       "pubDate": "Fri, 09 Oct 2026 09:00:44 GMT"
-    },
-    {
-      "title": "‘Self-imposed irrelevance’: why the EU is failing to act on growing public criticism of Israel",
-      "summary": "<p>While Israel’s actions against Palestinians intensify public anger, the bloc remains paralysed along familiar fault lines</p><p>When the British government announced <a href=\"https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing\"",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/09/why-eu-failing-act-growing-public-criticism-israel-gaza-west-bank",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 09:00:44 GMT"
-    },
-    {
-      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-      "summary": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 20:05:48 -0400"
-    },
-    {
-      "title": "Israel promotes film that mimics NAZA documentary",
-      "summary": "<p>Embassies post links to hastily produced online film echoing style of real Guardian documentary about mass killings of Gaza civilians</p><p>The Israeli government is promoting an online film project that mimics the style of NAZA, the award-winning documentary that details Israel’s mass killings o",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 17:52:35 GMT"
-    },
-    {
-      "title": "Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem",
-      "summary": "<p>Consulate targeted in sanctions spat has unusual diplomatic status that clashes with Israel’s ambitions to fully annex the city</p><p>Israel’s attempt to close the British consulate general in Jerusalem was primarily designed to deter London from imposing sanctions on settlements in occupied Pale",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 17:16:03 GMT"
-    },
-    {
-      "title": "Ben Jennings on the Gaza ‘ceasefire’ – cartoon",
-      "summary": "<ul><li><p><a href=\"https://guardianprintshop.com/collections/ben-jennings\"><strong>Discover and buy more of Ben’s cartoons here</strong></a></p></li><li><p><a href=\"https://guardianprintshop.com/collections/ben-jennings/products/9th-october-2026\"><strong>Order your own print of this cartoon from th",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/08/ben-jennings-the-gaza-ceasefire-cartoon",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 17:10:14 GMT"
-    },
-    {
-      "title": "Not since 9/11 has the UK faced such a security crisis – and threat to our liberal principles | Gaby Hinsliff",
-      "summary": "<p>The combination of Iranian, Russian and Chinese aggression is deeply worrying: just how much more concerned about security should the country be?</p><p>The first time the window-rattling roar of a B-1 bomber woke me up this summer, I thought for one crazed second we were under attack. By the seco",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/08/911-uk-security-crisis-threat-liberal-principles-securocracy",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 16:55:39 GMT"
-    },
-    {
-      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-      "summary": "<p>UK and Israel back away from full diplomatic confrontation, though British presence in Palestine will be much reduced</p><p>Israel and the UK have backed away from a full-scale diplomatic confrontation, with Britain announcing it is rebranding its consulate general ⁠building in ⁠East Jerusalem ​a",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 16:43:39 GMT"
-    },
-    {
-      "title": "Florida judge allows lawsuit against Shah of Iran’s alleged ‘chief torturer’ to move forward",
-      "summary": "<p>Parviz Sabeti denies allegations he led Savak intelligence agency under shah and directed torture of thousands</p><p>The alleged “chief torturer” for the deposed Shah of Iran is a step closer to trial for human rights abuses after a <a href=\"https://www.theguardian.com/us-news/florida\">Florida</a",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/oct/08/florida-torture-lawsuit-parviz-sabeti-iran-shah",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 16:00:23 GMT"
-    },
-    {
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 15:21:46 GMT"
-    },
-    {
-      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-      "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 08:01:34 -0400"
-    },
-    {
-      "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-      "summary": "<p>Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran</p><p>Oil prices have risen sharply amid fears about escalating tensions in the Middle East and a squeeze on production from the threat of a hurricane off the US c",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 11:11:47 GMT"
-    },
-    {
-      "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
-      "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
-      "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 08 Oct 2026 05:06:09 GMT"
     }
   ]
 }
