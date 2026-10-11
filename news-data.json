@@ -1,105 +1,145 @@
 {
-  "generated": "2026-10-10T16:02:19.120Z",
-  "date": "Saturday, October 10, 2026",
+  "generated": "2026-10-11T16:27:45.131Z",
+  "date": "Sunday, October 11, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Dozens reported injured in Yemeni Houthi attack at Riyadh airport",
-      "summary": "<p>Saudi authorities yet to confirm strike as government-allied forces in Yemen claim successful offensive to retake Bab al-Mandab strait</p><p>Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, with dozens reported wounded and a witness describing pani",
+      "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
+      "summary": "<p>Statement claims strikes against Dammam airport and Saudi Aramco facilities but it is unclear if group also claims today’s reported attack </p><p>Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace.<br><br> In a significant message, the <strong",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+      "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
       "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 15:54:12 GMT"
+      "pubDate": "Sun, 11 Oct 2026 16:18:45 GMT"
     },
     {
-      "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
-      "summary": "<p>March is first since Ed Miliband declared UK’s position was that Israel’s occupation of West Bank was unlawful </p><p>Thousands of people have gathered in central London to express their support for Palestinians after three years of “genocide” carried out against them by Israel.</p><p>The demonst",
+      "title": "Riyadh airport hit for second time after deadly Houthi missile attack, Saudi-led coalition says",
+      "summary": "<p>Unidentified projectile strikes King Khalid airport as escalating attacks threaten to draw more countries into Yemen conflict</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates\">Middle East ",
       "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
+      "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
       "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 15:52:21 GMT"
+      "pubDate": "Sun, 11 Oct 2026 16:11:14 GMT"
     },
     {
-      "title": "With or without Hamas",
-      "summary": "Hamas’s fate will not profoundly shape Gaza’s future.",
+      "title": "How the ICC can be saved",
+      "summary": "Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+      "link": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 15:19:41 +0000"
+      "pubDate": "Sun, 11 Oct 2026 15:15:35 +0000"
     },
     {
-      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
-      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "summary": "Ukrainian President Volodymyr Zelenskyy had pushed for a 60-day full ceasefire.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 15:10:27 +0000"
+    },
+    {
+      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+      "summary": "Repeated Houthi attacks on Saudi Arabia's King Khalid Airport reveal the limitations of even high-tech air defences.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 14:25:03 +0000"
+    },
+    {
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "summary": "IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US disabled vessel trying to run blockade.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 14:04:32 +0000"
+    },
+    {
+      "title": "At least 139 dead including children after migrant boat capsizes off Djibouti",
+      "summary": "<p>Eighty-four others still missing from vessel heading to Yemen with 305 people onboard, UN migration agency says</p><p>At least 139 people, including 15 children, have died after a boat carrying 305 migrants capsized off the coast of Djibouti, the International Organization for Migration (IOM) sai",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 13:56:47 GMT"
+    },
+    {
+      "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+      "summary": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 13:41:57 +0000"
+    },
+    {
+      "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
+      "summary": "<p>US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for diesel prices, looks unsustainable</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates\">Middle East crisis li",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 13:23:02 GMT"
+    },
+    {
+      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
+      "summary": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 12:28:11 +0000"
+    },
+    {
+      "title": "The scramble to rewrite Biden’s record on Gaza",
+      "summary": "Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 11:29:48 +0000"
+    },
+    {
+      "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
+      "summary": "<p>This is no scoffing matter. The accelerating proliferation of advanced nuclear weapons is bringing ‘end times’ closer by the day</p><p>Humankind has fearfully and sometimes joyfully anticipated the end of the world ever since it began. The Bible’s Book of Revelation speaks of “end times”, a perio",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+      "importance": "medium",
+      "pubDate": "Sun, 11 Oct 2026 09:00:22 GMT"
+    },
+    {
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "summary": "Saturday's attack was the deadliest in Saudi Arabia since May 2015. US and Saudi officials are blaming Yemen's Houthis, who have yet to comment on the strike.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 15:05:55 GMT"
+      "pubDate": "Sun, 11 Oct 2026 08:41:30 GMT"
     },
     {
-      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-      "summary": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
       "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 14:39:53 +0000"
+      "pubDate": "Sat, 10 Oct 2026 19:44:15 -0400"
     },
     {
-      "title": "Why is the US sanctioning the International Criminal Court?",
-      "summary": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+      "summary": "<p>Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels</p><p>The latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than 300 others, civil aviation authorities said early on Sunday, with some",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
       "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 14:19:43 +0000"
+      "pubDate": "Sat, 10 Oct 2026 23:37:27 GMT"
     },
     {
-      "title": "Has Yemen returned to ‘full-scale war’?",
-      "summary": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
       "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 14:10:24 +0000"
+      "pubDate": "Sat, 10 Oct 2026 17:32:53 -0400"
     },
     {
-      "title": "When streets become a workplace: Gaza workers convert tents into offices",
-      "summary": "A real estate crisis in Gaza has forced professionals to use tents as surgeries and offices.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
+      "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
+      "summary": "<p>Twenty arrested in first march since Ed Miliband declared UK’s position was that Israel’s occupation of West Bank was unlawful</p><p>Thousands of people have gathered in central London to express their support for Palestinians after three years of “genocide” carried out against them by Israel.</p",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
       "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 13:50:05 +0000"
-    },
-    {
-      "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
-      "summary": "Rubio says threats to Western civilisation today 'every bit as real as they were on the dramatic stage of antiquity'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 13:09:09 +0000"
-    },
-    {
-      "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
-      "summary": "At least 1,481 Palestinians killed in Israeli attacks since last year's 'ceasefire', Gaza's Health Ministry says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 12:40:57 +0000"
-    },
-    {
-      "title": "England international Cole Palmer signs new Chelsea deal until 2034",
-      "summary": "Attacking midfielder Palmer has become a key figure in Chelsea's squad since his arrival from Man City in 2023.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 12:37:14 +0000"
-    },
-    {
-      "title": "Why is US turning to Russia for diesel despite sanctions?",
-      "summary": "President Donald Trump's deal with Putin comes amid surging fuel prices and looming US midterm elections.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 12:16:12 +0000"
+      "pubDate": "Sat, 10 Oct 2026 16:52:15 GMT"
     },
     {
       "title": "In three years, Israel's war on Gaza hasn't just changed the Middle East, it's changed the world | Steve Bloomfield",
@@ -116,14 +156,6 @@
       "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
       "importance": "medium",
       "pubDate": "Sat, 10 Oct 2026 07:40:53 -0400"
-    },
-    {
-      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-      "summary": "Analysts say board has 'failed' in its attempts to secure lasting peace in Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 10 Oct 2026 11:19:24 +0000"
     },
     {
       "title": "Photos: What a year of ceasefire in Gaza looks like",
@@ -172,38 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/09/pete-hegseth-public-execution-nidal-hasan-capital-sentences",
       "importance": "medium",
       "pubDate": "Fri, 09 Oct 2026 13:55:07 GMT"
-    },
-    {
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 13:50:25 GMT"
-    },
-    {
-      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
-      "summary": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 07:37:04 -0400"
-    },
-    {
-      "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
-      "summary": "<p>Attack is deadliest in kingdom since it launched major military offensive with allies against Houthis in Yemen</p><p>Three Saudi citizens have been killed and several other people were wounded in attacks targeting Riyadh ⁠airport for which Yemen’s Houthis claimed responsibility, Saudi officials h",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 09:47:10 GMT"
-    },
-    {
-      "title": "How do human beings explain taking part in genocide? NAZA provides a chilling look | Omer Bartov",
-      "summary": "<p>It’s easier to blame brutes and sadists for extreme violence. But as we see in the documentary, modern genocides are fueled by people who are uncomfortably recognizable</p><p>Werner Best, a senior SS official and jurist who helped organize the Nazi death squads that murdered hundreds of thousands",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/global/commentisfree/2026/oct/09/naza-mass-killing-gaza-israel",
-      "importance": "medium",
-      "pubDate": "Fri, 09 Oct 2026 09:00:44 GMT"
     }
   ]
 }
