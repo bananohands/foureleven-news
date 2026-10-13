@@ -1,41 +1,145 @@
 {
-  "generated": "2026-10-12T20:03:12.835Z",
-  "date": "Monday, October 12, 2026",
+  "generated": "2026-10-13T17:51:42.056Z",
+  "date": "Tuesday, October 13, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
-      "summary": "Iran’s ambassador tells UK officials Tehran willing to assist in investigation, reiterates denial of involvement.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+      "title": "Saudi Arabia strikes strategic oil depots near Yemen capital",
+      "summary": "<p>Civilians warned to evacuate outskirts of Sana’a ahead of biggest attack so far on Houthi energy infrastructure</p><p>Saudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital Sana’a, in a fresh escalation of the conflict between Riyadh and the Ira",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
       "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 18:51:18 +0000"
+      "pubDate": "Tue, 13 Oct 2026 17:26:08 GMT"
     },
     {
-      "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
-      "summary": "UK Prime Minister Andy Burnham says the incidents at RAF Fairford and RAF Molesworth were likely coordinated by Iran.",
+      "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
+      "summary": "Yemen has reported 8,034 suspected cases and 27 deaths this year, with a quarter of the total coming in last four weeks.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 18:24:42 +0000"
+      "pubDate": "Tue, 13 Oct 2026 17:18:45 +0000"
     },
     {
-      "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-      "summary": "Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.",
+      "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
+      "summary": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 17:07:50 +0000"
+      "pubDate": "Tue, 13 Oct 2026 16:38:45 +0000"
     },
     {
-      "title": "Blast kills teenager, injures dozens in northern Israel",
-      "summary": "A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.",
+      "title": "UK spy chief says Iran is stepping up targeting of military bases",
+      "summary": "MI5 chief says 50 arrests were made in past year to disrupt Iran-led operations.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 16:44:07 +0000"
+      "pubDate": "Tue, 13 Oct 2026 16:06:56 +0000"
+    },
+    {
+      "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
+      "summary": "Explosions in Sanaa reported shortly after Saudi-led coalition's evacuation order as Houthis promise 'harsh' response.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 15:01:36 +0000"
+    },
+    {
+      "title": "Palestinians dream of returning home after Israel raids West Bank camps",
+      "summary": "Palestinians have been displaced from their homes in Tulkarem refugee camp and dream of returning home.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 14:02:25 +0000"
+    },
+    {
+      "title": "Yemeni government launches air strikes on Houthi positions",
+      "summary": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 13:47:14 +0000"
+    },
+    {
+      "title": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
+      "summary": "Iran has been accused of being behind a plot against an airbase in the UK.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 13:03:56 +0000"
+    },
+    {
+      "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
+      "summary": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 13:03:33 +0000"
+    },
+    {
+      "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
+      "summary": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 12:57:33 +0000"
+    },
+    {
+      "title": "Who are the Houthis and what do they want?",
+      "summary": "Their fighting with pro-government forces over Yemen's Red Sea coast and attacks on Saudi Arabia has put the spotlight on the Iran-backed group.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 06:38:32 GMT"
+    },
+    {
+      "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+      "summary": "Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 05:02:57 GMT"
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 04:30:09 GMT"
+    },
+    {
+      "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+      "summary": "<p>World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\">Threat of AI share crash puts w",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 02:00:11 GMT"
+    },
+    {
+      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+      "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+      "importance": "medium",
+      "pubDate": "Mon, 12 Oct 2026 17:43:48 -0400"
+    },
+    {
+      "title": "Many Iranians who go to Turkey to find jobs are exploited",
+      "summary": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with nothing but more debt.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
+      "importance": "medium",
+      "pubDate": "Mon, 12 Oct 2026 17:37:21 -0400"
+    },
+    {
+      "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
+      "summary": "Yemen's entrenched civil war is now impossible to ignore. But in operating rooms in its port city of Aden, geopolitics feels remote.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 12 Oct 2026 16:28:10 GMT"
     },
     {
       "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
@@ -44,46 +148,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
       "importance": "medium",
       "pubDate": "Mon, 12 Oct 2026 15:42:37 GMT"
-    },
-    {
-      "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
-      "summary": "Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 15:19:23 +0000"
-    },
-    {
-      "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
-      "summary": "Tehran seeks dialogue in Yemen conflict, warning a military solution risks complicating the volatile regional situation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 14:27:49 +0000"
-    },
-    {
-      "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
-      "summary": "The IRGC is hitting more ships allegedly part of a shuttle operation to move crude oil beyond the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 14:25:55 +0000"
-    },
-    {
-      "title": "Why are the Houthis striking Saudi airports?",
-      "summary": "The attacks mark the deadliest assault on Saudi soil in more than a decade.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 14:23:20 +0000"
-    },
-    {
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 14:00:03 GMT"
     },
     {
       "title": "Why are the Houthis attacking Saudi airports and how are the missiles getting through?",
@@ -140,70 +204,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story",
       "importance": "medium",
       "pubDate": "Mon, 12 Oct 2026 08:00:49 GMT"
-    },
-    {
-      "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
-      "summary": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 02:41:57 -0400"
-    },
-    {
-      "title": "The Gulf has entered a new era of instability. If its leaders think they can rely on old alliances, they are wrong | Nesrine Malik",
-      "summary": "<p>The latest attack by Houthi rebels on Saudi Arabia may prove to be more calamitous for the region than the world imagines</p><p>On Saturday, Houthi rebels launched a shocking and <a href=\"https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-h",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 06:00:49 GMT"
-    },
-    {
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 11 Oct 2026 22:45:58 GMT"
-    },
-    {
-      "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
-      "summary": "<p>Unidentified projectile strikes King Khalid airport, killing one and injuring 11, as escalating attacks threaten to draw more countries into Yemen conflict</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy\">Analysis: attack wil",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "importance": "medium",
-      "pubDate": "Sun, 11 Oct 2026 22:28:50 GMT"
-    },
-    {
-      "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
-      "summary": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
-      "importance": "medium",
-      "pubDate": "Sun, 11 Oct 2026 17:16:36 -0400"
-    },
-    {
-      "title": "Canelo Álvarez ‘fears nothing’ and will fight in Riyadh despite deadly attacks, Al-Sheikh says",
-      "summary": "<ul><li><p>Álvarez vows to fight in Riyadh despite deadly strikes</p></li><li><p>Airport attacks leave at least 12 dead, hundreds hurt</p></li><li><p>Mexican seeks redemption after Crawford defeat</p></li></ul><p>Canelo Álvarez intends to go ahead with his world title fight in Saudi Arabia later thi",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/sport/2026/oct/11/canelo-alvarez-saudi-arabia-riyadh-fight-houthi-attacks-christian-mbilli",
-      "importance": "medium",
-      "pubDate": "Sun, 11 Oct 2026 20:42:20 GMT"
-    },
-    {
-      "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
-      "summary": "<p>This live blog is now closed. You can read our latest full report here:</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport\">Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say</a></p></li></u",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "importance": "medium",
-      "pubDate": "Sun, 11 Oct 2026 18:03:22 GMT"
-    },
-    {
-      "title": "Airport attacks another dangerous moment in already tense conflict",
-      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT"
     }
   ]
 }
