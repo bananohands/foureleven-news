@@ -1,89 +1,145 @@
 {
-  "generated": "2026-10-13T17:51:42.056Z",
-  "date": "Tuesday, October 13, 2026",
+  "generated": "2026-10-14T15:38:02.275Z",
+  "date": "Wednesday, October 14, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Saudi Arabia strikes strategic oil depots near Yemen capital",
-      "summary": "<p>Civilians warned to evacuate outskirts of Sana’a ahead of biggest attack so far on Houthi energy infrastructure</p><p>Saudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital Sana’a, in a fresh escalation of the conflict between Riyadh and the Ira",
+      "title": "Container ship sinks near strait of Hormuz amid surge in Iranian attacks",
+      "summary": "<p>Second vessel also reportedly sinking as uptick in strikes suggests Iran trying to close waterway before US elections</p><p>A container ship has ⁠sunk near the strait of Hormuz and a second cargo vessel was reportedly sinking amid the sharpest uptick in Iranian attacks on shipping since the start",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 15:35:33 GMT"
+    },
+    {
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "summary": "All 21 sailors on GFS Pride were evacuated safely after it was hit by an unidentified projectile on Tuesday, Singaporean authorities say.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 15:34:19 GMT"
+    },
+    {
+      "title": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
+      "summary": "Almost one million people cut off from food aid as health infrastructure overwhelmed by war-wounded.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 15:06:18 +0000"
+    },
+    {
+      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+      "summary": "Palestinian officials slam move by Colombian government that marked major shift after ex-president had cut Israel ties.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 14:08:45 +0000"
+    },
+    {
+      "title": "Two scenarios for the Yemen war",
+      "summary": "What comes next is either a retreat for the Houthis or a war of attrition.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 13:50:28 +0000"
+    },
+    {
+      "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+      "summary": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 13:28:21 +0000"
+    },
+    {
+      "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+      "summary": "One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 13:17:34 +0000"
+    },
+    {
+      "title": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+      "summary": "Saudi Arabia's East-West oil pipeline was struck by drones last month in an attack that originated in Iraq.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 12:50:51 +0000"
+    },
+    {
+      "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+      "summary": "Colombia has opened an embassy in West Jerusalem under new far-right President Abelardo de la Espriella.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 12:28:06 +0000"
+    },
+    {
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 12:26:13 GMT"
+    },
+    {
+      "title": "Do any of these Israeli candidates support a Palestinian state?",
+      "summary": "Do any of these Israeli candidates support a Palestinian state?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 11:43:29 +0000"
+    },
+    {
+      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "summary": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 11:39:06 +0000"
+    },
+    {
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "summary": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 11:16:21 +0000"
+    },
+    {
+      "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+      "summary": "Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 10:57:35 +0000"
+    },
+    {
+      "title": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
+      "summary": "Israeli plans to reopen Route 463 for settlers threaten to isolate Palestinian villages and fragment Ramallah.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 10:49:40 +0000"
+    },
+    {
+      "title": "Iranian woman handed death sentence for ‘blasphemy’ in social media post",
+      "summary": "<p>Rights groups warn of Tehran regime’s increasing use of executions to suppress dissent, with at least 600 this year</p><p>Human rights groups have raised the alarm over the growing number of death sentences and executions in Iran, after reports that a 23-year-old woman, Najmeh Amini, <a href=\"htt",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "importance": "medium",
+      "pubDate": "Wed, 14 Oct 2026 04:00:44 GMT"
+    },
+    {
+      "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
+      "summary": "<p>Civilians warned to leave target area near Sana’a before attacks as conflict between Riyadh and Houthi forces escalates</p><p>Saudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital, Sana’a, while later on Tuesday it said it had intercepted missi",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
       "importance": "medium",
       "pubDate": "Tue, 13 Oct 2026 17:26:08 GMT"
-    },
-    {
-      "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
-      "summary": "Yemen has reported 8,034 suspected cases and 27 deaths this year, with a quarter of the total coming in last four weeks.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 17:18:45 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-      "summary": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 16:38:45 +0000"
-    },
-    {
-      "title": "UK spy chief says Iran is stepping up targeting of military bases",
-      "summary": "MI5 chief says 50 arrests were made in past year to disrupt Iran-led operations.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 16:06:56 +0000"
-    },
-    {
-      "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
-      "summary": "Explosions in Sanaa reported shortly after Saudi-led coalition's evacuation order as Houthis promise 'harsh' response.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 15:01:36 +0000"
-    },
-    {
-      "title": "Palestinians dream of returning home after Israel raids West Bank camps",
-      "summary": "Palestinians have been displaced from their homes in Tulkarem refugee camp and dream of returning home.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 14:02:25 +0000"
-    },
-    {
-      "title": "Yemeni government launches air strikes on Houthi positions",
-      "summary": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 13:47:14 +0000"
-    },
-    {
-      "title": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
-      "summary": "Iran has been accused of being behind a plot against an airbase in the UK.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 13:03:56 +0000"
-    },
-    {
-      "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
-      "summary": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 13:03:33 +0000"
-    },
-    {
-      "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
-      "summary": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 13 Oct 2026 12:57:33 +0000"
     },
     {
       "title": "Who are the Houthis and what do they want?",
@@ -110,28 +166,20 @@
       "pubDate": "Tue, 13 Oct 2026 04:30:09 GMT"
     },
     {
+      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+      "summary": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 13 Oct 2026 04:27:22 GMT"
+    },
+    {
       "title": "IMF warns global economy ‘could soon test the limits of resilience’",
       "summary": "<p>World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\">Threat of AI share crash puts w",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
       "importance": "medium",
       "pubDate": "Tue, 13 Oct 2026 02:00:11 GMT"
-    },
-    {
-      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
-      "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 17:43:48 -0400"
-    },
-    {
-      "title": "Many Iranians who go to Turkey to find jobs are exploited",
-      "summary": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with nothing but more debt.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 17:37:21 -0400"
     },
     {
       "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
@@ -156,54 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/12/why-are-the-houthis-attacking-saudi-airports-riyadh-yemen",
       "importance": "medium",
       "pubDate": "Mon, 12 Oct 2026 13:41:17 GMT"
-    },
-    {
-      "title": "Lebanon’s only church-bell maker on keeping a 300-year family tradition alive",
-      "summary": "<p>Naffah Naffah makes the bells in the mountains near Beirut. His sons will take over the foundry when he retires</p><p>The story of Lebanon’s last remaining church-bell maker begins with a rifle. In the 18th century, Youssef Gabriel, a local metalworker, was secretly making and equipping Arab revo",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 13:06:45 GMT"
-    },
-    {
-      "title": "NAZA: Netanyahu orders identification and prosecution of film’s interviewees",
-      "summary": "<p>Israeli PM calls for criminal investigation into soldiers and officers interviewed in Guardian-produced documentary</p><p>The Israeli prime minister, Benjamin Netanyahu, has ordered the country’s attorney general and the head of the Shin Bet security service to reveal the identities of soldiers a",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 12:59:56 GMT"
-    },
-    {
-      "title": "Why is it so hard to fight the Houthis?",
-      "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 12:15:01 GMT"
-    },
-    {
-      "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-      "summary": "Footage from inside the airport shows the moment the strike hit on Saturday.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 09:38:03 GMT"
-    },
-    {
-      "title": "CCTV from inside Riyadh airport shows moment of deadly airstrike – video",
-      "summary": "<p>CCTV released by Saudi Arabia shows the moment of an attack on King Khalid international airport that killed 13 people and wounded more than 300 on 10 October. Footage shows passengers queueing, making their way through a security gate and sitting in a waiting area moments before the blast, after",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/oct/12/cctv-riyadh-airport-footage-deadly-airstrike-saudi-arabia-video",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 09:11:20 GMT"
-    },
-    {
-      "title": "A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art",
-      "summary": "<p>Using archive material of destroyed houses, terrorised children and dead bodies, Kamal Aljafari adds humanity to the reels by overlaying poems by Palestinian authors</p><p>In Arabic, “fidai” means someone willing to sacrifice themselves for the greater good. Borrowing this word, which is at times",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story",
-      "importance": "medium",
-      "pubDate": "Mon, 12 Oct 2026 08:00:49 GMT"
     }
   ]
 }
