@@ -1,10 +1,114 @@
 {
-  "generated": "2026-10-16T15:04:10.984Z",
-  "date": "Friday, October 16, 2026",
+  "generated": "2026-10-17T13:59:31.916Z",
+  "date": "Saturday, October 17, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+      "summary": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 12:27:49 +0000"
+    },
+    {
+      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 12:10:56 +0000"
+    },
+    {
+      "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+      "summary": "<p>United Arab Emirates will reportedly resume payments to Yemeni forces as gains by Iran-backed Houthi fighters alarm Gulf state rulers</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved\">Yemen civil war: what spar",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 11:57:15 GMT"
+    },
+    {
+      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+      "summary": "Analysts say Russia will benefit most from US sanctions waiver.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 11:10:22 +0000"
+    },
+    {
+      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+      "summary": "With Southeast Asia's largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 10:12:01 +0000"
+    },
+    {
+      "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
+      "summary": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 09:47:55 +0000"
+    },
+    {
+      "title": "Houthis strike Yemen’s Aden: What that means",
+      "summary": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 09:16:48 +0000"
+    },
+    {
+      "title": "Israeli raids and arrests in southern Syria push population to the brink",
+      "summary": "Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 07:17:06 +0000"
+    },
+    {
+      "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+      "summary": "<p>Families have been scattered, fathers separated from their children, and couples unable to reunite and marry</p><p>Wijdan Abu Matar, 43, was forced to leave Gaza in November 2023 with her eight children for medical treatment, while her injured husband, Hatem, remained behind.</p><p>Wijdan and her",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 07:00:24 GMT"
+    },
+    {
+      "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+      "summary": "<p>Settlers hurl rocks at Palestinians and beat photographer Heidi Levine as part of yearly attacks to disrupt harvest</p><p>Israeli settlers have attacked Palestinians across the occupied West Bank in a coordinated movement to disrupt the annual olive harvest, burning cars and trees and injuring Pa",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+      "importance": "medium",
+      "pubDate": "Fri, 16 Oct 2026 16:34:58 GMT"
+    },
+    {
+      "title": "American photojournalist recounts Israeli settler attack in the occupied West Bank – video",
+      "summary": "<p>At least six people were injured when a group of masked Israeli settlers descended on an olive grove in Abu Falah, in the occupied West Bank, on Friday, in a coordinated movement across the area to disrupt the annual olive harvest by burning cars and trees. Washington Post journalist Heidi Levine",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/video/2026/oct/16/american-photojournalist-israeli-settler-attack-west-bank",
+      "importance": "medium",
+      "pubDate": "Fri, 16 Oct 2026 16:33:36 GMT"
+    },
+    {
+      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for <em>The Washington Post</em>.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+      "importance": "medium",
+      "pubDate": "Fri, 16 Oct 2026 11:57:27 -0400"
+    },
+    {
+      "title": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
+      "summary": "<p>Film interviewing military insiders about mass killing of civilians in Gaza wins widespread praise around the world</p><p>Critics around the world have hailed the award-winning documentary NAZA as a “brilliant and harrowing” film that is “impossible to ignore”.</p><p>NAZA, which is produced by th",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
+      "importance": "medium",
+      "pubDate": "Fri, 16 Oct 2026 15:42:46 GMT"
+    },
     {
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
@@ -14,100 +118,12 @@
       "pubDate": "Fri, 16 Oct 2026 14:31:04 GMT"
     },
     {
-      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
-      "summary": "Sheikh Mohammed also discussed Israeli 'violations' in Lebanese territory with Prime Minister Nawaf Salam.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 14:19:36 +0000"
-    },
-    {
-      "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-      "summary": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 14:12:13 +0000"
-    },
-    {
-      "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
-      "summary": "<p>Settlers hurl rocks at Palestinians and beat photographer Heidi Levine as part of yearly attacks to disrupt harvest</p><p>Israeli settlers have attacked Palestinians across the occupied West Bank in a coordinated movement to disrupt the annual olive harvest, burning cars and trees and injuring Pa",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 14:06:59 GMT"
-    },
-    {
-      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
-      "summary": "Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 14:01:08 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-      "summary": "Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 13:52:48 +0000"
-    },
-    {
-      "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
-      "summary": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 13:26:47 +0000"
-    },
-    {
-      "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
-      "summary": "At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 13:04:32 +0000"
-    },
-    {
       "title": "I’ve debated with Israel’s most fervent defenders – NAZA debunks their talking points | Mehdi Hasan",
       "summary": "<p>The film’s testimonies from Israeli soldiers and intelligence officers expose years of baseless propaganda. Don’t take my word – take theirs</p><p>I watched the extraordinary new <a href=\"https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abrah",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film",
       "importance": "medium",
       "pubDate": "Fri, 16 Oct 2026 12:00:10 GMT"
-    },
-    {
-      "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
-      "summary": "Israel now reaches into Cyprus’s water, gas, health and defence and many Cypriots fear their island is losing control.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 11:54:10 +0000"
-    },
-    {
-      "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-      "summary": "US and Russia each have more than 4,000 warheads. China set to catch up with them within five years, Trump says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 11:28:12 +0000"
-    },
-    {
-      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-      "summary": "It is the first time the president has addressed nuclear weapons, but he didn't deny US could use 'mother of all bombs'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 10:21:12 +0000"
-    },
-    {
-      "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-      "summary": "The UN is warning that nearly one million displaced Palestinians face flooding risks as winter approaches.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 10:12:34 +0000"
     },
     {
       "title": "NAZA: the film Israel does not want you to see - video",
@@ -166,6 +182,14 @@
       "pubDate": "Thu, 15 Oct 2026 23:38:46 GMT"
     },
     {
+      "title": "Three years on, Israel still bars foreign journalists from entering Gaza",
+      "summary": "More than a year into a declared ceasefire in Gaza — and three years into the war — Israel still hasn't allowed foreign media independent access to Gaza.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
+      "importance": "medium",
+      "pubDate": "Thu, 15 Oct 2026 17:01:50 -0400"
+    },
+    {
       "title": "Food and fuel run low as besieged Yemeni city braces for Houthi breakthrough",
       "summary": "<p>Speed of advance has left people rushing to buy food as basic supplies to city are cut off by fighting</p><p>Ali Abdulsamed spent all day waiting and walking. Like many people in the besieged Yemeni city of Taiz, he was searching for some food for his family of six. But each time he reached the e",
       "source": "The Guardian — Middle East",
@@ -180,30 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Thu, 15 Oct 2026 05:00:23 GMT"
-    },
-    {
-      "title": "Unpolished, anti-Bibi, but evasive on peace: who is the Israeli opposition candidate Gadi Eisenkot?",
-      "summary": "<p>The ‘menschy’ former general contrasts with the current PM when it comes to style and character – yet on key policy points retains a studied ambiguity</p><p>He has been called the man who is everything the Israeli prime minister, Benjamin Netanyahu, is not.</p><p>Gadi Eisenkot, a former general a",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/15/israel-gadi-eisenkot-profile-netanyahu-election",
-      "importance": "medium",
-      "pubDate": "Thu, 15 Oct 2026 04:00:23 GMT"
-    },
-    {
-      "title": "Global charity withholds report into its role in Syria's 'disappeared' children",
-      "summary": "SOS Children's Villages International has acknowledged that more than 140 children were taken to its facilities by Syrian security services.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 14 Oct 2026 23:20:57 GMT"
-    },
-    {
-      "title": "Israel blocks construction of key Gaza base created by Trump peace board",
-      "summary": "<p>Exclusive: Israel has not permitted US-led project to house 150 international troops to move forward</p><p>Israel is refusing to allow a key military outpost project for Donald Trump’s Board of Peace to proceed in Gaza, the Guardian has learned.</p><p>In early August, the Board of Peace, the inte",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
-      "importance": "medium",
-      "pubDate": "Wed, 14 Oct 2026 19:19:52 GMT"
     }
   ]
 }
