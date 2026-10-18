@@ -1,25 +1,153 @@
 {
-  "generated": "2026-10-17T13:59:31.916Z",
-  "date": "Saturday, October 17, 2026",
+  "generated": "2026-10-18T14:12:12.681Z",
+  "date": "Sunday, October 18, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-      "summary": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.",
+      "title": "Sudan army accused of drone strike on livestock market",
+      "summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 17 Oct 2026 12:27:49 +0000"
+      "pubDate": "Sun, 18 Oct 2026 13:37:03 +0000"
     },
     {
-      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+      "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+      "summary": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 17 Oct 2026 12:10:56 +0000"
+      "pubDate": "Sun, 18 Oct 2026 13:16:13 +0000"
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 12:16:14 GMT"
+    },
+    {
+      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
+      "summary": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 12:07:34 +0000"
+    },
+    {
+      "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+      "summary": "Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 12:00:04 +0000"
+    },
+    {
+      "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+      "summary": "Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 11:24:43 +0000"
+    },
+    {
+      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+      "summary": "Analysts say that any move from Egypt will remain 'strictly defensive', as the conflict in Yemen intensifies.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 11:11:26 +0000"
+    },
+    {
+      "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+      "summary": "A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 10:48:18 +0000"
+    },
+    {
+      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+      "summary": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 10:34:09 +0000"
+    },
+    {
+      "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+      "summary": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
+      "summary": "Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 10:23:38 +0000"
+    },
+    {
+      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+      "summary": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 09:16:54 +0000"
+    },
+    {
+      "title": "Attacked from the sky: Sudanese goldminers count deadly cost of eking out a living on the Egypt border",
+      "summary": "<p>As civil war has left their country in ruins, many young Sudanese have turned to artisanal mining. An airstrike on a mine last week killed more than 100 and has provoked anger against Egypt, seen as the most likely suspect</p><p>Torches still fixed on their heads but tools cast aside, the Sudanes",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/oct/18/attacked-from-the-sky-sudanese-goldminers-count-deadly-cost-of-eking-out-a-living-on-the-egypt-border",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 07:00:52 GMT"
+    },
+    {
+      "title": "‘There’s a lot of racism, a lot of hatred’: Far right gains predicted as Israel heads to the polls",
+      "summary": "<p>Whether or not Netanyahu can hold on to power, Israelis are expected to vote in a more rightwing Knesset</p><p></p><p>Four decades ago, when the extremist rabbi <a href=\"https://www.theguardian.com/news/2025/mar/20/meir-kahane-israel-kach-ben-gvir-long-dead-extremist\">Meir Kahane</a> won a single",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/18/theres-a-lot-of-racism-a-lot-of-hatred-far-right-gains-predicted-as-israel-heads-to-the-polls",
+      "importance": "medium",
+      "pubDate": "Sun, 18 Oct 2026 05:00:51 GMT"
+    },
+    {
+      "title": "Jonathan Glazer was ‘shocked into silence’ by NAZA documentary",
+      "summary": "<p>Film’s executive producer talks about first time he watched film detailing Israel’s mass killing of civilians in Gaza</p><p>The director Jonathan Glazer said he was “shocked into silence” the first time he watched NAZA, an <a href=\"https://www.theguardian.com/film/2026/sep/10/naza-review-israel-g",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 22:30:50 GMT"
+    },
+    {
+      "title": "Israeli settlers attack European diplomats in West Bank",
+      "summary": "<p>French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives </p><p>Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, i",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 18:57:56 GMT"
+    },
+    {
+      "title": "NAZA directors: 'It's a film about systems of mass killing' – video",
+      "summary": "<p>The directors of Naza, Yuval Abraham and Rachel Szor, answered questions from the Guardian's editor-in-chief, Katharine Viner, at the film's London premiere on Thursday. The critically acclaimed film includes testimony from 24 Israeli military insiders, shot at night on the rooftops of Tel Aviv. ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/video/2026/oct/17/naza-directors-its-a-film-about-systems-of-mass-killings-video",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 15:54:30 GMT"
+    },
+    {
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "importance": "medium",
+      "pubDate": "Sat, 17 Oct 2026 10:25:10 -0400"
     },
     {
       "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
@@ -28,46 +156,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
       "importance": "medium",
       "pubDate": "Sat, 17 Oct 2026 11:57:15 GMT"
-    },
-    {
-      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-      "summary": "Analysts say Russia will benefit most from US sanctions waiver.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 17 Oct 2026 11:10:22 +0000"
-    },
-    {
-      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-      "summary": "With Southeast Asia's largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 17 Oct 2026 10:12:01 +0000"
-    },
-    {
-      "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
-      "summary": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 17 Oct 2026 09:47:55 +0000"
-    },
-    {
-      "title": "Houthis strike Yemen’s Aden: What that means",
-      "summary": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 17 Oct 2026 09:16:48 +0000"
-    },
-    {
-      "title": "Israeli raids and arrests in southern Syria push population to the brink",
-      "summary": "Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 17 Oct 2026 07:17:06 +0000"
     },
     {
       "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
@@ -116,94 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Fri, 16 Oct 2026 14:31:04 GMT"
-    },
-    {
-      "title": "I’ve debated with Israel’s most fervent defenders – NAZA debunks their talking points | Mehdi Hasan",
-      "summary": "<p>The film’s testimonies from Israeli soldiers and intelligence officers expose years of baseless propaganda. Don’t take my word – take theirs</p><p>I watched the extraordinary new <a href=\"https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abrah",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 12:00:10 GMT"
-    },
-    {
-      "title": "NAZA: the film Israel does not want you to see - video",
-      "summary": "<p>Oscar-winning filmmakers Yuval Abraham and Rachel Szor discuss their new documentary, NAZA, which exposes the AI systems that the Israeli military uses to rain down strikes on Gaza, causing the mass killing of civilians. Based on the testimony of 24 military insiders, the documentary caused uproa",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/video/2026/oct/16/naza-the-film-israel-does-not-want-you-to-see-video",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 09:55:27 GMT"
-    },
-    {
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 08:45:54 GMT"
-    },
-    {
-      "title": "Calling the shots: what NAZA says about perpetrator cinema",
-      "summary": "<p>The documentary detailing Israel’s mass killing of civilians in Gaza is the latest film to give a voice to those who carry out atrocities – confronting viewers with some of the most difficult questions of all</p><p>Are we still talking about the banality of evil? When that overworked phrase was f",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/oct/16/calling-the-shots-what-naza-says-about-perpetrator-cinema",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 07:00:53 GMT"
-    },
-    {
-      "title": "Jonathan Glazer says Israel’s retaliation over NAZA ‘more venal’ than anticipated",
-      "summary": "<p>Film’s executive producer says he was ‘shocked into silence’ the first time he watched documentary that details Israel’s mass killing of civilians in Gaza</p><p>The director Jonathan Glazer has called Israel’s retaliation against NAZA’s film-makers and the military figures interviewed in the <a h",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 06:00:54 GMT"
-    },
-    {
-      "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
-      "summary": "<p>Maeen Abdulmalik Saeed says Iran-backed militia’s use of drones represents ‘new era of radical terrorism’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/15/yemen-stockpile-supplies-houthis-advance-taiz\">Food and fuel run low as besieged Yemeni city braces for Houthi breakthroug",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 04:00:50 GMT"
-    },
-    {
-      "title": "Houthi missiles strike Yemen presidential palace, killing five",
-      "summary": "<p>Attack was the first on Aden’s Al-Maashiq palace ⁠in the latest fighting between ​the Iran-aligned Houthis and Saudi Arabia</p><p>Yemen’s Houthis fired missiles at the presidential palace complex in the southern city of Aden on Thursday, killing five people, the government said, as the Saudi-led ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-      "importance": "medium",
-      "pubDate": "Fri, 16 Oct 2026 00:27:21 GMT"
-    },
-    {
-      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 15 Oct 2026 23:38:46 GMT"
-    },
-    {
-      "title": "Three years on, Israel still bars foreign journalists from entering Gaza",
-      "summary": "More than a year into a declared ceasefire in Gaza — and three years into the war — Israel still hasn't allowed foreign media independent access to Gaza.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
-      "importance": "medium",
-      "pubDate": "Thu, 15 Oct 2026 17:01:50 -0400"
-    },
-    {
-      "title": "Food and fuel run low as besieged Yemeni city braces for Houthi breakthrough",
-      "summary": "<p>Speed of advance has left people rushing to buy food as basic supplies to city are cut off by fighting</p><p>Ali Abdulsamed spent all day waiting and walking. Like many people in the besieged Yemeni city of Taiz, he was searching for some food for his family of six. But each time he reached the e",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/15/yemen-stockpile-supplies-houthis-advance-taiz",
-      "importance": "medium",
-      "pubDate": "Thu, 15 Oct 2026 10:18:58 GMT"
-    },
-    {
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 15 Oct 2026 05:00:23 GMT"
     }
   ]
 }
