@@ -1,10 +1,162 @@
 {
-  "generated": "2026-10-19T17:15:55.789Z",
-  "date": "Monday, October 19, 2026",
+  "generated": "2026-10-20T15:28:55.490Z",
+  "date": "Tuesday, October 20, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "summary": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 15:02:34 +0000"
+    },
+    {
+      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "summary": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 14:39:50 +0000"
+    },
+    {
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 14:09:42 GMT"
+    },
+    {
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 13:54:35 GMT"
+    },
+    {
+      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+      "summary": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 13:20:33 +0000"
+    },
+    {
+      "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
+      "summary": "UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 13:00:21 +0000"
+    },
+    {
+      "title": "Israeli attacks kill at least four Palestinians in Gaza",
+      "summary": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 12:59:58 +0000"
+    },
+    {
+      "title": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
+      "summary": "Britain’s reopened refugee resettlement scheme offers no escape for Palestinians in Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 12:58:49 +0000"
+    },
+    {
+      "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+      "summary": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 12:37:06 +0000"
+    },
+    {
+      "title": "Iran denies collapse is close as US claims IRGC running out of money",
+      "summary": "Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 12:29:58 +0000"
+    },
+    {
+      "title": "Yemen: Maps show 10 years of changing control",
+      "summary": "A decade of war has shifted Yemen’s front lines, but the Houthis still hold Sanaa, and no side controls the country.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 12:05:21 +0000"
+    },
+    {
+      "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+      "summary": "<p>RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh</p><p>RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the country’s cities and critical infrast",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 11:54:52 GMT"
+    },
+    {
+      "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
+      "summary": "A re-ignition of Yemen's war has left the chronically sick who need treatment trapped in the country.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 11:52:11 +0000"
+    },
+    {
+      "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+      "summary": "Ministry of Defence says warplanes will operate in 'defensive role' and not be used to attack Yemeni group.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 11:37:43 +0000"
+    },
+    {
+      "title": "Masoud Pezeshkian: Peace, Not Surrender",
+      "summary": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 11:02:31 +0000"
+    },
+    {
+      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+      "summary": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 10:36:57 +0000"
+    },
+    {
+      "title": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
+      "summary": "<p>Their overland routes to safety blocked off, several thousand people have boarded boats to escape gunfire, bombing and a dire humanitarian situation </p><p>Abubaker Saeed was fishing in the Red Sea off Yemen’s coast last month when he noticed explosions in the distance. His mind turned immediatel",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/20/families-cross-red-sea-to-djibouti-houthi-conflict-yemen",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 10:00:32 GMT"
+    },
+    {
+      "title": "Israel's far right find fertile ground among first-time voters",
+      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 20 Oct 2026 08:53:06 GMT"
+    },
+    {
+      "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+      "summary": "<p>Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks</p><p>Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojourna",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+      "importance": "medium",
+      "pubDate": "Mon, 19 Oct 2026 18:05:14 GMT"
+    },
     {
       "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
       "summary": "<p>More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces </p><p>At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest single loss of",
@@ -14,108 +166,12 @@
       "pubDate": "Mon, 19 Oct 2026 17:15:23 GMT"
     },
     {
-      "title": "Iran War backlash threatens Republican control of Congress",
-      "summary": "Public opposition to the Iran War could threaten Republican control of Congress, as economic fallout fuels voter anger.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 16:24:30 +0000"
-    },
-    {
-      "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
-      "summary": "The World Food Programme has announced that funding shortages will force it to suspend food assistance in Gaza",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 16:06:57 +0000"
-    },
-    {
-      "title": "Trump endorses Netanyhu ahead of elections",
-      "summary": "Trump endorses Netanyahu ahead of Israel’s election, Ben-Gvir faces student protesters.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 15:54:25 +0000"
-    },
-    {
-      "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
-      "summary": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 15:15:02 +0000"
-    },
-    {
-      "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
-      "summary": "Displaced families in Gaza fear worsening food insecurity as planned aid cuts coincide with continued restrictions.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 15:05:16 +0000"
-    },
-    {
       "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
       "summary": "<p>At least 15 vessels struck in waterway in past 10 days, with rumours that they were carrying valuable goods</p><p>People have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships passing through the crucial waterway in the past 10 days.</p><p>Some shi",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
       "importance": "medium",
       "pubDate": "Mon, 19 Oct 2026 14:48:56 GMT"
-    },
-    {
-      "title": "Pakistan suspends Iran border trade, amid violence on both sides",
-      "summary": "Islamabad cites security concerns, while Tehran points to technical issues as Pakistan mediates between Iran and the US.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 14:43:03 +0000"
-    },
-    {
-      "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
-      "summary": "Doctors who volunteered in Gaza have described working during Israel’s genocidal war on the strip.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 13:36:09 +0000"
-    },
-    {
-      "title": "Dozens killed after Houthi strike on military camp in Shabwa",
-      "summary": "Dozens of Yemenis are feared dead after a Houthi strike targeted a military camp in Yemen’s Shabwa governorate.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 13:26:01 +0000"
-    },
-    {
-      "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
-      "summary": "GCC states have pressed Moscow to help halt Iranian attacks and reopen the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 13:22:58 +0000"
-    },
-    {
-      "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
-      "summary": "Local authorities say armed group launched ballistic missiles at camp in southern governorate during training exercise.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 12:51:46 +0000"
-    },
-    {
-      "title": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
-      "summary": "Analysis of map coordinates and timelines raises doubts over official Israeli accounts of West Bank settler pogrom.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 12:28:27 +0000"
-    },
-    {
-      "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
-      "summary": "In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn't been tough enough.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 11:35:52 +0000"
     },
     {
       "title": "Saudi Arabia is learning the hard way: they can’t count on Trump for protection | Mohamad Bazzi",
@@ -148,62 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
       "importance": "medium",
       "pubDate": "Mon, 19 Oct 2026 09:54:33 GMT"
-    },
-    {
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 06:29:55 GMT"
-    },
-    {
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 06:00:18 GMT"
-    },
-    {
-      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-      "summary": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 01:35:39 -0400"
-    },
-    {
-      "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
-      "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
-      "importance": "medium",
-      "pubDate": "Sun, 18 Oct 2026 17:00:08 -0400"
-    },
-    {
-      "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
-      "summary": "<p>New video footage of Israeli settler assault on European delegation as Netanyahu attempts to raise doubt</p><p>Hours after Israeli militants <a href=\"https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank\">attacked a delegation</a> of European diplom",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-      "importance": "medium",
-      "pubDate": "Sun, 18 Oct 2026 18:39:23 GMT"
-    },
-    {
-      "title": "Flydubai captain describes blocking axe blows as co-pilot attacked him",
-      "summary": "<p>Capt Smit Machchhar said he screamed for help as he reached to open the cockpit door on flight FZ1073</p><p>The captain of a flydubai flight who was attacked by a co-pilot who intended to crash the plane has described ⁠blocking axe blows to his head and screaming for help as he reached to open th",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
-      "importance": "medium",
-      "pubDate": "Sun, 18 Oct 2026 17:27:17 GMT"
-    },
-    {
-      "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
-      "summary": "<p>Mike Huckabee calls for arrest and prosecution of those responsible as Heidi Levine, 63, recovers in hospital in Israel</p><p>The US ambassador to Israel, Mike Huckabee, has denounced the settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needing surgery as",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-      "importance": "medium",
-      "pubDate": "Sun, 18 Oct 2026 17:02:13 GMT"
     }
   ]
 }
