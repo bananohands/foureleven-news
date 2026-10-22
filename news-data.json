@@ -1,10 +1,162 @@
 {
-  "generated": "2026-10-21T15:45:00.157Z",
-  "date": "Wednesday, October 21, 2026",
+  "generated": "2026-10-22T15:44:09.933Z",
+  "date": "Thursday, October 22, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Iran threatens oil and AI facilities across seven Gulf countries if US and Israel renew attacks",
+      "summary": "<p>Iran’s security chiefs say there will be ‘zero red lines’ if Trump and Netanyahu attack again</p><p>Iran will strike oil facilities, undersea cables, datacentres and AI facilities across as many as seven countries in the Gulf in the event of a fresh US-Israeli attack, Mohsen Rezaei, the secretary",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 15:03:00 GMT"
+    },
+    {
+      "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+      "summary": "Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 14:55:59 +0000"
+    },
+    {
+      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+      "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 13:46:33 GMT"
+    },
+    {
+      "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
+      "summary": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 13:42:26 +0000"
+    },
+    {
+      "title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
+      "summary": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 13:33:27 +0000"
+    },
+    {
+      "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+      "summary": "<p>Similar withdrawals from UAE, Jordan, Qatar and Bahrain reported as concerns grow about restart of war on Iran after US midterm elections</p><p>The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia as the gulf kingdom faces a barrage ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 13:05:30 GMT"
+    },
+    {
+      "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "summary": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 12:12:32 +0000"
+    },
+    {
+      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+      "summary": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 07:28:24 -0400"
+    },
+    {
+      "title": "Oil prices jump to five-month high as attacks threaten global supply",
+      "summary": "<p>Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you\">Shipping workers: how is the Middle East",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 11:28:11 GMT"
+    },
+    {
+      "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+      "summary": "Tom Barrack says Washington's relationship with the Middle East needs to change from one of control to one of support.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 10:51:11 +0000"
+    },
+    {
+      "title": "Maritime and port workers: how is the Middle East conflict affecting you?",
+      "summary": "<p>We want to hear from those working or living at sea, including maritime workers, sailors, port staff and family about how the situation is affecting their work</p><p>The conflict in the Middle East continues to disrupt shipping across the region, including in the strait of Hormuz, one of the worl",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 10:18:30 GMT"
+    },
+    {
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 09:27:10 GMT"
+    },
+    {
+      "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+      "summary": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 04:56:58 -0400"
+    },
+    {
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 05:30:22 GMT"
+    },
+    {
+      "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
+      "summary": "<p>Investigation suggests American company Axon still supplies Israel with Taser weapons despite evidence they have been used to torture prisoners</p><p>The soldiers drag<strong> </strong>the man into a section of the prison known as Hell’s Wing, a metaphor for its notoriety for acts of brutality. S",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 04:00:05 GMT"
+    },
+    {
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 22 Oct 2026 01:07:34 GMT"
+    },
+    {
+      "title": "AIPAC halts endorsements and direct contributions to candidates",
+      "summary": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+      "importance": "medium",
+      "pubDate": "Wed, 21 Oct 2026 20:22:48 -0400"
+    },
+    {
+      "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
+      "summary": "<p>US photojournalist describes ‘protective shield’, vows to return to work in West Bank and criticises Netanyahu comments on incident</p><p>The Washington Post photojournalist who was attacked and seriously injured by <a href=\"https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-ol",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
+      "importance": "medium",
+      "pubDate": "Wed, 21 Oct 2026 17:59:14 GMT"
+    },
+    {
+      "title": "Israel’s fault lines: inside the 23 October Guardian Weekly",
+      "summary": "<p>Far right gains predicted in key election. <strong>Plus:</strong> why the mystery over Havana syndrome refuses to die</p><p>• <a href=\"https://support.theguardian.com/uk/subscribe/weekly?promoCode=WWM53X\"><strong>Get the Guardian Weekly delivered to your home address</strong></a></p><p>Israel is ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/news/2026/oct/21/israels-fault-lines-inside-the-23-october-guardian-weekly",
+      "importance": "medium",
+      "pubDate": "Wed, 21 Oct 2026 17:00:52 GMT"
+    },
     {
       "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
       "summary": "<p>Water and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routes</p><p>The humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as the city runs out of water, fuel and fresh food, Oxfam aid workers in the country have warn",
@@ -12,14 +164,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
       "importance": "medium",
       "pubDate": "Wed, 21 Oct 2026 14:24:02 GMT"
-    },
-    {
-      "title": "US congressional candidate Brad Lander freed after West Bank detention",
-      "summary": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 14:12:15 +0000"
     },
     {
       "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
@@ -30,38 +174,6 @@
       "pubDate": "Wed, 21 Oct 2026 14:08:28 GMT"
     },
     {
-      "title": "How war in Lebanon has cost young people with autism and ADHD",
-      "summary": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 13:32:57 +0000"
-    },
-    {
-      "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
-      "summary": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 09:28:04 -0400"
-    },
-    {
-      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-      "summary": "The European states say their support for Riyadh is 'defensive', but analysts warn Houthi reaction may complicate that.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 13:25:50 +0000"
-    },
-    {
-      "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
-      "summary": "A family in the South Hebron Hills has spent more than two weeks cut off by settlers camped outside.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 13:20:27 +0000"
-    },
-    {
       "title": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
       "summary": "<p>Lebanese officials were furious, claiming the city erased Gibran’s identity. Yet there was a time when Arab immigrants in the US thought ‘we were all Syrians’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/feb/03/muslim-new-york-city\">This is Muslim New York: artis",
       "source": "The Guardian — Middle East",
@@ -70,52 +182,12 @@
       "pubDate": "Wed, 21 Oct 2026 13:00:19 GMT"
     },
     {
-      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-      "summary": "Iran's nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 12:18:10 +0000"
-    },
-    {
-      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-      "summary": "UK's deployment of jets to defend Saudi Arabia is the latest chapter in a relationship older than the kingdom itself.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 10:22:35 +0000"
-    },
-    {
-      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-      "summary": "Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 09:02:18 +0000"
-    },
-    {
       "title": "After three disastrous years, Israel needs to rethink itself. A new government would be a start | Dahlia Scheindlin",
       "summary": "<p>Only a clear opposition victory would let us begin to heal, strengthen democracy and establish Palestinian rights</p><ul><li><p>Dahlia Scheindlin is a Tel Aviv-based political analyst</p></li></ul><p>Israel’s 27 October election is fast approaching, with little clarity about who will win. But Ben",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/commentisfree/2026/oct/21/israel-new-government-election-opposition-victory-palestine",
       "importance": "medium",
       "pubDate": "Wed, 21 Oct 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-      "summary": "Britain offers military support as Saudi cancels renowned 'Davos in desert\" investor meeting due to strikes from Houthi forces in Yemen.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 04:40:51 -0400"
-    },
-    {
-      "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 01:43:24 -0400"
     },
     {
       "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
@@ -132,78 +204,6 @@
       "link": "https://www.theguardian.com/news/audio/2026/oct/21/the-netanyahu-doctrine-how-israels-longest-serving-leader-reshaped-the-country-in-his-image-podcast",
       "importance": "medium",
       "pubDate": "Wed, 21 Oct 2026 04:00:07 GMT"
-    },
-    {
-      "title": "Fifth foreign firm pulls out of controversial Israeli cable car project to East Jerusalem",
-      "summary": "<p>Rights groups say the planned 1.4km route, which ends at compound run by far-right settler group Elad, will displace Palestinians and reshape the cultural landscape</p><p></p><p>A fifth foreign company has pulled out of a plan to build a cable car from West to East Jerusalem that threatens to inv",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 04:00:05 GMT"
-    },
-    {
-      "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-      "summary": "<p>RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh</p><p>RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying protective missions over the country’s cities and critical infras",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-      "importance": "medium",
-      "pubDate": "Tue, 20 Oct 2026 18:30:16 GMT"
-    },
-    {
-      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 20 Oct 2026 14:09:42 GMT"
-    },
-    {
-      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 20 Oct 2026 13:54:35 GMT"
-    },
-    {
-      "title": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
-      "summary": "<p>Their overland routes to safety blocked off, several thousand people have boarded boats to escape gunfire, bombing and a dire humanitarian situation </p><p>Abubaker Saeed was fishing in the Red Sea off Yemen’s coast last month when he noticed explosions in the distance. His mind turned immediatel",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/20/families-cross-red-sea-to-djibouti-houthi-conflict-yemen",
-      "importance": "medium",
-      "pubDate": "Tue, 20 Oct 2026 10:00:32 GMT"
-    },
-    {
-      "title": "Israel's far right find fertile ground among first-time voters",
-      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 20 Oct 2026 08:53:06 GMT"
-    },
-    {
-      "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-      "summary": "<p>Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks</p><p>Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojourna",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 18:05:14 GMT"
-    },
-    {
-      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-      "summary": "<p>More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces </p><p>At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest single loss of",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 17:15:23 GMT"
-    },
-    {
-      "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
-      "summary": "<p>At least 15 vessels struck in waterway in past 10 days, with rumours that they were carrying valuable goods</p><p>People have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships passing through the crucial waterway in the past 10 days.</p><p>Some shi",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
-      "importance": "medium",
-      "pubDate": "Mon, 19 Oct 2026 14:48:56 GMT"
     }
   ]
 }
