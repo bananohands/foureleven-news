@@ -1,65 +1,121 @@
 {
-  "generated": "2026-10-23T15:32:16.246Z",
-  "date": "Friday, October 23, 2026",
+  "generated": "2026-10-24T14:10:05.672Z",
+  "date": "Saturday, October 24, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Netanyahu floats Crypto to bypass sanctions",
+      "summary": "Netanyahu floats Crypto to bypass sanctions",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 23 Oct 2026 14:45:43 GMT"
+      "pubDate": "Sat, 24 Oct 2026 13:27:11 +0000"
     },
     {
-      "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-      "summary": "<p>Two soldiers and two Palestinians killed in exchange of fire outside Hebron, where Israeli military says it thwarted ‘terror attack’</p><p>Benjamin Netanyahu has ordered the army to prepare for a “very extensive” operation in the occupied <a href=\"https://www.theguardian.com/world/west-bank\">West",
+      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+      "summary": "<p>PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint</p><p>Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in <a href=\"https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operati",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 13:17:13 GMT"
+    },
+    {
+      "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
+      "summary": "A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 13:16:23 +0000"
+    },
+    {
+      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "summary": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 13:06:03 +0000"
+    },
+    {
+      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+      "summary": "US intelligence memo warns that Iranian plots against US citizens in the Middle East 'have reached advanced stages'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 12:51:21 +0000"
+    },
+    {
+      "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+      "summary": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 12:30:42 +0000"
+    },
+    {
+      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+      "summary": "Netanyahu says 'we will destroy this place' as Israeli forces begin days-long operation with raids and demolitions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 09:14:40 +0000"
+    },
+    {
+      "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+      "summary": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 07:36:02 GMT"
+    },
+    {
+      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+      "summary": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 03:04:13 -0400"
+    },
+    {
+      "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+      "summary": "<p>The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general election</p><p>They chant his name, they cheer and clap – and yet he is not the most dominant person in the room. Looming over the crowd that h",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+      "importance": "medium",
+      "pubDate": "Sat, 24 Oct 2026 05:00:24 GMT"
+    },
+    {
+      "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+      "summary": "<p>Benjamin Netanyahu and ministers promise demolitions and forced displacement after deadly gunfight</p><p>Israel has launched a campaign of collective punishment against Palestinians in Hebron after gunmen killed two Israeli soldiers and injured three near a checkpoint outside the city.</p><p>Benj",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
       "importance": "medium",
-      "pubDate": "Fri, 23 Oct 2026 14:19:30 GMT"
+      "pubDate": "Fri, 23 Oct 2026 17:22:11 GMT"
     },
     {
-      "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
-      "summary": "Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
+      "title": "US and Israel are warned against launching fresh strikes on Iran",
+      "summary": "<p>Multinational ‘anti-war bloc’ uses Istanbul summit to call for a diplomatic solution to Middle East crisis</p><p>Foreign ministers at a summit of eight European and Middle Eastern countries have urged the US and Israel not to renews their attacks on Iran, warning a fresh outbreak of fighting woul",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
       "importance": "medium",
-      "pubDate": "Fri, 23 Oct 2026 13:50:26 +0000"
+      "pubDate": "Fri, 23 Oct 2026 17:18:34 GMT"
     },
     {
-      "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-      "summary": "No confirmation from Russia or Ukraine as White House says 'localised' ceasefire to take effect in Oleshky.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 23 Oct 2026 13:39:06 +0000"
-    },
-    {
-      "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
-      "summary": "<p>Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news\">Business live – latest updates<",
+      "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+      "summary": "<p>Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres</p><p>Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets.</p><p>Brent crude, the international benchmark for o",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
       "importance": "medium",
-      "pubDate": "Fri, 23 Oct 2026 13:27:04 GMT"
+      "pubDate": "Fri, 23 Oct 2026 16:48:28 GMT"
     },
     {
-      "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
-      "summary": "Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Fri, 23 Oct 2026 13:17:46 +0000"
-    },
-    {
-      "title": "US-Iran war, then and now: How the landscape has changed since February",
-      "summary": "The positions of Washington and Tehran have changed dramatically since US-Israeli strikes began the war, analysts say.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 23 Oct 2026 11:43:53 +0000"
+      "pubDate": "Fri, 23 Oct 2026 15:37:07 GMT"
     },
     {
       "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
@@ -92,14 +148,6 @@
       "link": "https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu",
       "importance": "medium",
       "pubDate": "Fri, 23 Oct 2026 06:00:03 GMT"
-    },
-    {
-      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
-      "summary": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
-      "importance": "medium",
-      "pubDate": "Thu, 22 Oct 2026 18:17:04 -0400"
     },
     {
       "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
@@ -156,54 +204,6 @@
       "link": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
       "importance": "medium",
       "pubDate": "Thu, 22 Oct 2026 10:18:30 GMT"
-    },
-    {
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 22 Oct 2026 09:27:10 GMT"
-    },
-    {
-      "title": "How Arab parties could hold critical balance of power in Israeli election",
-      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 22 Oct 2026 05:30:22 GMT"
-    },
-    {
-      "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
-      "summary": "<p>Investigation suggests American company Axon still supplies Israel with Taser weapons despite evidence they have been used to torture prisoners</p><p>The soldiers drag<strong> </strong>the man into a section of the prison known as Hell’s Wing, a metaphor for its notoriety for acts of brutality. S",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
-      "importance": "medium",
-      "pubDate": "Thu, 22 Oct 2026 04:00:05 GMT"
-    },
-    {
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 22 Oct 2026 01:07:34 GMT"
-    },
-    {
-      "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
-      "summary": "<p>US photojournalist describes ‘protective shield’, vows to return to work in West Bank and criticises Netanyahu comments on incident</p><p>The Washington Post photojournalist who was attacked and seriously injured by <a href=\"https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-ol",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 17:59:14 GMT"
-    },
-    {
-      "title": "Israel’s fault lines: inside the 23 October Guardian Weekly",
-      "summary": "<p>Far right gains predicted in key election. <strong>Plus:</strong> why the mystery over Havana syndrome refuses to die</p><p>• <a href=\"https://support.theguardian.com/uk/subscribe/weekly?promoCode=WWM53X\"><strong>Get the Guardian Weekly delivered to your home address</strong></a></p><p>Israel is ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/2026/oct/21/israels-fault-lines-inside-the-23-october-guardian-weekly",
-      "importance": "medium",
-      "pubDate": "Wed, 21 Oct 2026 17:00:52 GMT"
     }
   ]
 }
