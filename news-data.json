@@ -1,65 +1,185 @@
 {
-  "generated": "2026-10-28T16:54:07.299Z",
-  "date": "Wednesday, October 28, 2026",
+  "generated": "2026-10-29T17:11:59.434Z",
+  "date": "Thursday, October 29, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
-      "summary": "<p>Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb\">Full",
+      "title": "Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’",
+      "summary": "<p>Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition\">Israel’s choice: Netanyahu remaining in pow",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 17:03:15 GMT"
+    },
+    {
+      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+      "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 11:58:27 -0400"
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 15:47:20 GMT"
+    },
+    {
+      "title": "Israel’s anti-Qatar campaign bleeds into elections",
+      "summary": "Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 15:35:53 +0000"
+    },
+    {
+      "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+      "summary": "Gaza's Health Ministry says dozens died awaiting treatment abroad as Israeli attacks continue despite a 'ceasefire'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 15:12:36 +0000"
+    },
+    {
+      "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
+      "summary": "The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumbling.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 10:52:11 -0400"
+    },
+    {
+      "title": "The beautiful, shocking work of artist Hoda Afshar: ‘I don’t take freedom of speech for granted’",
+      "summary": "<p>Afshar’s experiences as a young woman in Iran have shaped her artistic career in Australia, focusing her eye on the humanity within inhumane systems</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/2026/sep/25/saved-for-sunday-newsletter-email-signup-subscribe-guardian-australia-li",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/artanddesign/2026/oct/30/artist-hoda-afshar-interview-photography-exhibition-buxton-contemporary",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 14:00:46 GMT"
+    },
+    {
+      "title": "Damascus, Amman contradict each other on attack that killed civilians",
+      "summary": "Analysts say accountability is needed to quell public outrage over killing of family in southern Syria.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 13:44:42 +0000"
+    },
+    {
+      "title": "Men pulled from vehicle stranded by floods in Syria",
+      "summary": "This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 13:15:14 +0000"
+    },
+    {
+      "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+      "summary": "Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 12:46:29 +0000"
+    },
+    {
+      "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
+      "summary": "Israel is imposing a tight siege of Hebron amid raids, home demolitions and displacement.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 12:29:05 +0000"
+    },
+    {
+      "title": "King Charles on Caribbean tour as calls grow for slavery reparations",
+      "summary": "UK’s King Charles joined a Junkanoo street parade during a visit to the Bahamas ahead of the Commonwealth summit.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 12:10:22 +0000"
+    },
+    {
+      "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+      "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 07:34:30 -0400"
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 09:06:48 GMT"
+    },
+    {
+      "title": "Netanyahu bloc loses majority as most ballots counted – as it happened",
+      "summary": "<p>This live blog is now closed – you can read the latest elections news <a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb\">here</a></p><p><strong>One apparent loser from Tuesday’s election was far-right national security m",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
       "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 16:38:53 GMT"
+      "pubDate": "Thu, 29 Oct 2026 00:24:12 GMT"
     },
     {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "summary": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "title": "New book makes fiery claims about Jared Kushner’s finances in Trump’s first term",
+      "summary": "<p>Kushner threatens to sue, denying allegations that two slush funds were set up to influence his Middle East role</p><p>A new book containing incendiary claims about <a href=\"https://www.theguardian.com/us-news/jared-kushner\">Jared Kushner</a>’s financial dealings during <a href=\"https://www.thegu",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
       "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 16:06:17 +0000"
+      "pubDate": "Wed, 28 Oct 2026 21:56:39 GMT"
+    },
+    {
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 28 Oct 2026 20:53:02 GMT"
     },
     {
       "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-      "summary": "<p>Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news\">Israel election – live u",
+      "summary": "<p>Projections show votes for Palestinian parties surged in a tight contest that drew highest turnout in decades</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news\">Israel election results ",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
       "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 16:04:10 GMT"
+      "pubDate": "Wed, 28 Oct 2026 19:58:27 GMT"
+    },
+    {
+      "title": "The Guardian view on Israel’s elections: Netanyahu lost his mandate. If opponents unite, he’ll lose power too | Editorial",
+      "summary": "<p>His chief rival should reject the prime minister’s anti-democratic vision and work with Palestinian Israeli parties</p><p>Benjamin Netanyahu has <a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb\">lost his mandate</a> but",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-israels-elections-netanyahu-lost-his-mandate-if-opponents-unite-hell-lose-power-too",
+      "importance": "medium",
+      "pubDate": "Wed, 28 Oct 2026 19:01:16 GMT"
+    },
+    {
+      "title": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
+      "summary": "<p>Incumbent could turn defeat into another term in office as rival parties erect confected barrier to unseating him</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news\">Israel election resu",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
+      "importance": "medium",
+      "pubDate": "Wed, 28 Oct 2026 18:54:10 GMT"
+    },
+    {
+      "title": "Iranian film-maker Jafar Panahi given new prison sentence",
+      "summary": "<p>Charges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’</p><p>An Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five years and one month and ordered the seizure of all his assets.</p><p>The ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
+      "importance": "medium",
+      "pubDate": "Wed, 28 Oct 2026 16:56:10 GMT"
     },
     {
       "title": "Israel election: what we know so far",
-      "summary": "<p>With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-po",
+      "summary": "<p>With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eise",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
       "importance": "medium",
       "pubDate": "Wed, 28 Oct 2026 15:08:58 GMT"
-    },
-    {
-      "title": "Are GCC countries looking for a regional security pact with Iran?",
-      "summary": "Observers say diverging views are unlikely to turn current diplomatic efforts into a lasting infrastructure.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 14:51:14 +0000"
-    },
-    {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 14:30:31 GMT"
-    },
-    {
-      "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
-      "summary": "Exit poll projections show that if Eisenkot’s bloc teamed up with Arab parties, they could potentially unseat Bibi.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 14:30:17 +0000"
     },
     {
       "title": "Israel's election result is messy - here's why",
@@ -68,54 +188,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Wed, 28 Oct 2026 14:26:24 GMT"
-    },
-    {
-      "title": "Espionage threats blur lines between security and dissent in Iran",
-      "summary": "Iran is using the threat of spy networks to detain and execute political opponents, analysts say.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 14:03:08 +0000"
-    },
-    {
-      "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
-      "summary": "The deployment marks the first time in years that three Vanguard-class vessels have been at sea at the same time.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 13:56:41 +0000"
-    },
-    {
-      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-      "summary": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 13:47:39 +0000"
-    },
-    {
-      "title": "Victims of Jordan’s air strikes in Syria",
-      "summary": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 12:35:19 +0000"
-    },
-    {
-      "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
-      "summary": "With both blocs short of a majority, parties face a choice: to break the taboo on Arab allies or return to the polls.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 12:22:20 +0000"
-    },
-    {
-      "title": "Israeli voters: hope and despair as election ballots are counted",
-      "summary": "Israeli voters in Tel Aviv expressed mixed emotions as ballots were counted after the election.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 11:55:08 +0000"
     },
     {
       "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
@@ -132,78 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Wed, 28 Oct 2026 10:35:13 GMT"
-    },
-    {
-      "title": "A bitter night in Israel for all who craved a fresh start. Netanyahu survives for now – and we are more divided than ever | Dahlia Scheindlin",
-      "summary": "<p>Exit polls gave the opposition hope, but then reality dawned. With most votes going to rightwing parties, the prospects for the left and centre now look bleak</p><p>Following Israel’s <a href=\"https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netan",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/28/israel-election-exit-poll-netanyahu-survives",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 10:08:29 GMT"
-    },
-    {
-      "title": "Partial results from Israel's contentious election show no clear winner",
-      "summary": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc will consider forming a coalition with them.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 04:46:47 -0400"
-    },
-    {
-      "title": "Ex-Israeli diplomat calls opposition's refusal to work with Arab parties 'reckless'",
-      "summary": "Why a stronger showing for Arab parties may not translate into political power in Israel.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019328/israel-election-arab-parties-government",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 04:46:16 -0400"
-    },
-    {
-      "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-      "summary": "<p>Talks are aimed at reopening strait of Hormuz and lifting sanctions on Iran, and for Houthis to withdraw in Yemen</p><p>A multipronged peace deal to reopen the strait of Hormuz within four days of sanctions being lifted and for the Houthis to withdraw substantial forces inside Yemen are at the he",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 05:00:55 GMT"
-    },
-    {
-      "title": "Major Israeli TV networks revise polling projections – as it happened",
-      "summary": "<p>This blog had now closed – our <a href=\"https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news\">live Israel election results coverage continues here</a></p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 04:08:29 GMT"
-    },
-    {
-      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
-      "summary": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 02:09:11 GMT"
-    },
-    {
-      "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
-      "summary": "<p>Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news\">Israeli elect",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-      "importance": "medium",
-      "pubDate": "Tue, 27 Oct 2026 23:57:50 GMT"
-    },
-    {
-      "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
-      "summary": "<p>Early indications suggest it will be some time before the shape of new government and who will lead it is clear</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news\">Israel election – live up",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-      "importance": "medium",
-      "pubDate": "Tue, 27 Oct 2026 20:56:23 GMT"
-    },
-    {
-      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
-      "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-      "importance": "medium",
-      "pubDate": "Tue, 27 Oct 2026 16:45:39 -0400"
     }
   ]
 }
