@@ -1,17 +1,169 @@
 {
-  "generated": "2026-10-29T17:11:59.434Z",
-  "date": "Thursday, October 29, 2026",
+  "generated": "2026-10-30T16:52:53.201Z",
+  "date": "Friday, October 30, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’",
+      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+      "summary": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 15:50:23 +0000"
+    },
+    {
+      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+      "summary": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 15:26:00 +0000"
+    },
+    {
+      "title": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
+      "summary": "<p>The opposition can’t win unless they join forces with Arab parties. Benjamin Netanyahu knows this, and will use every ruse to stay in power</p><p>It’s less an election result than a philosophical puzzle: what happens when a win contains a loss, a loss contains a win and the two collide? That’s th",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 15:12:57 GMT"
+    },
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 15:09:29 GMT"
+    },
+    {
+      "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+      "summary": "Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 15:06:00 +0000"
+    },
+    {
+      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+      "summary": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 14:40:19 +0000"
+    },
+    {
+      "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+      "summary": "Israeli forces are treating the 'Yellow Line', which is encroaching westward, as 'a kill zone', the OHCHR says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 14:18:07 +0000"
+    },
+    {
+      "title": "Palestinian child survives Israeli gunshot to the head",
+      "summary": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 13:32:24 +0000"
+    },
+    {
+      "title": "Italy tightens security as students, unions launch nationwide protests",
+      "summary": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 13:14:11 +0000"
+    },
+    {
+      "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+      "summary": "<p>IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’</p><p>Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in the face of",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 12:49:56 GMT"
+    },
+    {
+      "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
+      "summary": "The mediation mission comes amid speculation about a potential resumption of hostilities.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 12:26:56 +0000"
+    },
+    {
+      "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
+      "summary": "The strong Palestinian turnout has exposed how Arab citizens are treated within Israel's democracy, says Xavier Abu Eid.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 11:43:17 +0000"
+    },
+    {
+      "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+      "summary": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 07:20:26 -0400"
+    },
+    {
+      "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
+      "summary": "<p>Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan</p><p>The Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.</p><",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 09:00:50 GMT"
+    },
+    {
+      "title": "Israel is in a political deadlock. What comes next?",
+      "summary": "Israel's consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
+      "summary": "<p>In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political moment</p><p>Good morning. It was described by many Israelis as the most consequential election in their countr",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 06:44:29 GMT"
+    },
+    {
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 06:02:23 GMT"
+    },
+    {
+      "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+      "summary": "<p>Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority</p><p></p><p>Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tu",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 23:14:53 GMT"
+    },
+    {
+      "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+      "summary": "<p>US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy</p><p>Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal letter from the US vice-president, ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+      "importance": "medium",
+      "pubDate": "Thu, 29 Oct 2026 19:32:24 GMT"
+    },
+    {
+      "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
       "summary": "<p>Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition\">Israel’s choice: Netanyahu remaining in pow",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
       "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 17:03:15 GMT"
+      "pubDate": "Thu, 29 Oct 2026 17:49:57 GMT"
     },
     {
       "title": "US and Japan agree to establish a Japanese facility for joint missile production",
@@ -20,30 +172,6 @@
       "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
       "importance": "medium",
       "pubDate": "Thu, 29 Oct 2026 11:58:27 -0400"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 15:47:20 GMT"
-    },
-    {
-      "title": "Israel’s anti-Qatar campaign bleeds into elections",
-      "summary": "Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 15:35:53 +0000"
-    },
-    {
-      "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
-      "summary": "Gaza's Health Ministry says dozens died awaiting treatment abroad as Israeli attacks continue despite a 'ceasefire'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 15:12:36 +0000"
     },
     {
       "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
@@ -62,46 +190,6 @@
       "pubDate": "Thu, 29 Oct 2026 14:00:46 GMT"
     },
     {
-      "title": "Damascus, Amman contradict each other on attack that killed civilians",
-      "summary": "Analysts say accountability is needed to quell public outrage over killing of family in southern Syria.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 13:44:42 +0000"
-    },
-    {
-      "title": "Men pulled from vehicle stranded by floods in Syria",
-      "summary": "This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 13:15:14 +0000"
-    },
-    {
-      "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-      "summary": "Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 12:46:29 +0000"
-    },
-    {
-      "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-      "summary": "Israel is imposing a tight siege of Hebron amid raids, home demolitions and displacement.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 12:29:05 +0000"
-    },
-    {
-      "title": "King Charles on Caribbean tour as calls grow for slavery reparations",
-      "summary": "UK’s King Charles joined a Junkanoo street parade during a visit to the Bahamas ahead of the Commonwealth summit.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 12:10:22 +0000"
-    },
-    {
       "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
       "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
       "source": "NPR World",
@@ -116,94 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Thu, 29 Oct 2026 09:06:48 GMT"
-    },
-    {
-      "title": "Netanyahu bloc loses majority as most ballots counted – as it happened",
-      "summary": "<p>This live blog is now closed – you can read the latest elections news <a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb\">here</a></p><p><strong>One apparent loser from Tuesday’s election was far-right national security m",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 00:24:12 GMT"
-    },
-    {
-      "title": "New book makes fiery claims about Jared Kushner’s finances in Trump’s first term",
-      "summary": "<p>Kushner threatens to sue, denying allegations that two slush funds were set up to influence his Middle East role</p><p>A new book containing incendiary claims about <a href=\"https://www.theguardian.com/us-news/jared-kushner\">Jared Kushner</a>’s financial dealings during <a href=\"https://www.thegu",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 21:56:39 GMT"
-    },
-    {
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 20:53:02 GMT"
-    },
-    {
-      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-      "summary": "<p>Projections show votes for Palestinian parties surged in a tight contest that drew highest turnout in decades</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news\">Israel election results ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 19:58:27 GMT"
-    },
-    {
-      "title": "The Guardian view on Israel’s elections: Netanyahu lost his mandate. If opponents unite, he’ll lose power too | Editorial",
-      "summary": "<p>His chief rival should reject the prime minister’s anti-democratic vision and work with Palestinian Israeli parties</p><p>Benjamin Netanyahu has <a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb\">lost his mandate</a> but",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-israels-elections-netanyahu-lost-his-mandate-if-opponents-unite-hell-lose-power-too",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 19:01:16 GMT"
-    },
-    {
-      "title": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
-      "summary": "<p>Incumbent could turn defeat into another term in office as rival parties erect confected barrier to unseating him</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news\">Israel election resu",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 18:54:10 GMT"
-    },
-    {
-      "title": "Iranian film-maker Jafar Panahi given new prison sentence",
-      "summary": "<p>Charges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’</p><p>An Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five years and one month and ordered the seizure of all his assets.</p><p>The ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 16:56:10 GMT"
-    },
-    {
-      "title": "Israel election: what we know so far",
-      "summary": "<p>With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eise",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 15:08:58 GMT"
-    },
-    {
-      "title": "Israel's election result is messy - here's why",
-      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 14:26:24 GMT"
-    },
-    {
-      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-      "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 07:28:55 -0400"
-    },
-    {
-      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-      "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 28 Oct 2026 10:35:13 GMT"
     }
   ]
 }
