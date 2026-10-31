@@ -1,25 +1,97 @@
 {
-  "generated": "2026-10-30T16:52:53.201Z",
-  "date": "Friday, October 30, 2026",
+  "generated": "2026-10-31T15:54:46.082Z",
+  "date": "Saturday, October 31, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-      "summary": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
+      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn't rule out attack, is ‘prepared for all scenarios’.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 15:50:23 +0000"
+      "pubDate": "Sat, 31 Oct 2026 14:31:37 +0000"
     },
     {
-      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-      "summary": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
+      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+      "summary": "Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 15:26:00 +0000"
+      "pubDate": "Sat, 31 Oct 2026 14:20:23 +0000"
+    },
+    {
+      "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+      "summary": "Despite genocide, regional war and isolation, Israel's election revealed little appetite for political alternatives.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 31 Oct 2026 13:35:51 +0000"
+    },
+    {
+      "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
+      "summary": "A new outbreak in fighting in Yemen has forced tens of thousands of people from their homes.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 31 Oct 2026 12:45:49 +0000"
+    },
+    {
+      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "summary": "Withdrawal from the nuclear treaty doses not mean that Iran would build a nuclear weapon, observers say.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 31 Oct 2026 12:22:45 +0000"
+    },
+    {
+      "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+      "summary": "Iran’s supreme leader says Tehran’s potential response will not be restricted by geography.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 31 Oct 2026 12:13:42 +0000"
+    },
+    {
+      "title": "Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’",
+      "summary": "Criticism of Israel's captain Adam Edelman at Winter Olympics breached discrimination rules, Swiss complaints body says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 31 Oct 2026 10:49:19 +0000"
+    },
+    {
+      "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
+      "summary": "From Texas to Maine, rising prices and the Iran war put key Senate races in play as Democrats fight for control.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 31 Oct 2026 10:38:43 +0000"
+    },
+    {
+      "title": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
+      "summary": "<p>With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats </p><p>Last year, Umm Khaled Fatoun returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers tearing into her son’s house in the Bedouin village ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "importance": "medium",
+      "pubDate": "Sat, 31 Oct 2026 09:25:16 GMT"
+    },
+    {
+      "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+      "summary": "<p>Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by America</p><p></p><p>Never has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
+      "importance": "medium",
+      "pubDate": "Sat, 31 Oct 2026 06:00:38 GMT"
+    },
+    {
+      "title": "'Nothing will change for us': Palestinians react to Israeli elections – video",
+      "summary": "<p>While Palestinians in Gaza, the West Bank and Israel held on to hope, many questioned whether the results of the Israeli elections would bring about any change. Tuesday’s elections led to Benjamin Netanyahu’s far-right coalition losing its majority after four years in power. The main Jewish oppos",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/video/2026/oct/30/nothing-will-change-for-us-palestinians-react-to-israeli-elections-video",
+      "importance": "medium",
+      "pubDate": "Fri, 30 Oct 2026 17:41:19 GMT"
     },
     {
       "title": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
@@ -38,68 +110,12 @@
       "pubDate": "Fri, 30 Oct 2026 15:09:29 GMT"
     },
     {
-      "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
-      "summary": "Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 15:06:00 +0000"
-    },
-    {
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "summary": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 14:40:19 +0000"
-    },
-    {
-      "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-      "summary": "Israeli forces are treating the 'Yellow Line', which is encroaching westward, as 'a kill zone', the OHCHR says.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 14:18:07 +0000"
-    },
-    {
-      "title": "Palestinian child survives Israeli gunshot to the head",
-      "summary": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 13:32:24 +0000"
-    },
-    {
-      "title": "Italy tightens security as students, unions launch nationwide protests",
-      "summary": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 13:14:11 +0000"
-    },
-    {
       "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
       "summary": "<p>IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’</p><p>Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in the face of",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
       "importance": "medium",
       "pubDate": "Fri, 30 Oct 2026 12:49:56 GMT"
-    },
-    {
-      "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
-      "summary": "The mediation mission comes amid speculation about a potential resumption of hostilities.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 12:26:56 +0000"
-    },
-    {
-      "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
-      "summary": "The strong Palestinian turnout has exposed how Arab citizens are treated within Israel's democracy, says Xavier Abu Eid.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 11:43:17 +0000"
     },
     {
       "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
@@ -188,22 +204,6 @@
       "link": "https://www.theguardian.com/artanddesign/2026/oct/30/artist-hoda-afshar-interview-photography-exhibition-buxton-contemporary",
       "importance": "medium",
       "pubDate": "Thu, 29 Oct 2026 14:00:46 GMT"
-    },
-    {
-      "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
-      "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 07:34:30 -0400"
-    },
-    {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 09:06:48 GMT"
     }
   ]
 }
