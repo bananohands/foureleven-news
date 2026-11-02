@@ -1,65 +1,145 @@
 {
-  "generated": "2026-11-01T16:57:17.795Z",
-  "date": "Sunday, November 1, 2026",
+  "generated": "2026-11-02T20:34:31.399Z",
+  "date": "Monday, November 2, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Iran pushing accelerated plan for ceasefire talks with US",
+      "summary": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 18:49:26 +0000"
+    },
+    {
+      "title": "After Israel’s election: What’s next?",
+      "summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 18:32:59 +0000"
+    },
+    {
+      "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+      "summary": "<p>Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks</p><p>The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.</p><p>Brent crude, the international benchmark, dropped by more than 6.5% to as",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 17:14:23 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
+      "summary": "Israeli forces ended their lockdown of Hebron in the occupied West Bank, but its forces continued to attack a school.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 16:56:41 +0000"
+    },
+    {
+      "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
+      "summary": "Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 16:03:52 +0000"
+    },
+    {
+      "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
+      "summary": "Displaced Hebron families return to damaged homes, left to pick up scattered pieces of their lives after Israeli siege.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 15:43:00 +0000"
+    },
+    {
+      "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
+      "summary": "Network calls move 'assault' on press freedom, warns of 'dangerous pattern' that undermines ability to report facts.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 15:09:49 +0000"
+    },
+    {
+      "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+      "summary": "Political wrangling is still ongoing as all blocs weigh potential paths to power.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 15:00:08 +0000"
+    },
+    {
+      "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
+      "summary": "<p>Following a Syrian mother and daughter over a decade, Itab Azzam and Jack MacInnes capture a family transformed</p><p>There’s a startling moment in this BBC refugee documentary when Syrian mother Nisreen – in the apparently miserable situation of hiking across the Balkans towards Germany, four ki",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 13:00:41 GMT"
+    },
+    {
+      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+      "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 07:19:54 -0500"
+    },
+    {
+      "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+      "summary": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 04:42:11 -0500"
+    },
+    {
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 06:00:54 GMT"
+    },
+    {
+      "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+      "summary": "<p>Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election</p><p>The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted <a href=\"https://www.theguardian.com/world/202",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 06:00:33 GMT"
+    },
+    {
+      "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+      "summary": "<p>Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset</p><p>The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is facing a his",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 06:00:32 GMT"
+    },
+    {
+      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+      "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "importance": "medium",
+      "pubDate": "Sun, 01 Nov 2026 17:19:13 -0500"
+    },
+    {
+      "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+      "summary": "<p>Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopening</p><p>Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz be",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+      "importance": "medium",
+      "pubDate": "Sun, 01 Nov 2026 17:49:28 GMT"
+    },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 16:25:33 GMT"
-    },
-    {
-      "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-      "summary": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 15:38:12 +0000"
-    },
-    {
-      "title": "Israel election: When will government be formed, who will lead it?",
-      "summary": "President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 14:16:14 +0000"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill at least nine people",
-      "summary": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 14:10:59 +0000"
-    },
-    {
-      "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-      "summary": "Four-year-old among eight Palestinians killed in Israeli drone attacks across the Gaza Strip.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 13:36:16 +0000"
-    },
-    {
-      "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
-      "summary": "As one of Lebanon's most vulnerable communities, Palestinians are struggling to make ends meet.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 13:25:27 +0000"
-    },
-    {
-      "title": "Iran and US explore diplomacy amid rising threats of war",
-      "summary": "Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to 'take care of'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 13:02:10 +0000"
+      "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
       "title": "‘What’s our crime?’: A Palestinian family’s fight to get care for son injured by Hamas rocket",
@@ -79,7 +159,7 @@
     },
     {
       "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
-      "summary": "<p>Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by America</p><p></p><p>Never has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils ",
+      "summary": "<p>Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by America</p><p>Never has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils in Tehr",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
       "importance": "medium",
@@ -118,92 +198,12 @@
       "pubDate": "Fri, 30 Oct 2026 12:49:56 GMT"
     },
     {
-      "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
-      "summary": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 07:20:26 -0400"
-    },
-    {
       "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
       "summary": "<p>Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan</p><p>The Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.</p><",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
       "importance": "medium",
       "pubDate": "Fri, 30 Oct 2026 09:00:50 GMT"
-    },
-    {
-      "title": "Israel is in a political deadlock. What comes next?",
-      "summary": "Israel's consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
-      "summary": "<p>In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political moment</p><p>Good morning. It was described by many Israelis as the most consequential election in their countr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 06:44:29 GMT"
-    },
-    {
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 06:02:23 GMT"
-    },
-    {
-      "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-      "summary": "<p>Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority</p><p></p><p>Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tu",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 23:14:53 GMT"
-    },
-    {
-      "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
-      "summary": "<p>US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy</p><p>Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal letter from the US vice-president, ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 19:32:24 GMT"
-    },
-    {
-      "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
-      "summary": "<p>Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition\">Israel’s choice: Netanyahu remaining in pow",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 17:49:57 GMT"
-    },
-    {
-      "title": "The beautiful, shocking work of artist Hoda Afshar: ‘I don’t take freedom of speech for granted’",
-      "summary": "<p>Afshar’s experiences as a young woman in Iran have shaped her artistic career in Australia, focusing her eye on the humanity within inhumane systems</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/2026/sep/25/saved-for-sunday-newsletter-email-signup-subscribe-guardian-australia-li",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/artanddesign/2026/oct/30/artist-hoda-afshar-interview-photography-exhibition-buxton-contemporary",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 14:00:46 GMT"
-    },
-    {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 09:06:48 GMT"
-    },
-    {
-      "title": "Netanyahu bloc loses majority as most ballots counted – as it happened",
-      "summary": "<p>This live blog is now closed – you can read the latest elections news <a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb\">here</a></p><p><strong>One apparent loser from Tuesday’s election was far-right national security m",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "importance": "medium",
-      "pubDate": "Thu, 29 Oct 2026 00:24:12 GMT"
     }
   ]
 }
