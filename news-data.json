@@ -1,25 +1,161 @@
 {
-  "generated": "2026-11-02T20:34:31.399Z",
-  "date": "Monday, November 2, 2026",
+  "generated": "2026-11-03T18:09:57.137Z",
+  "date": "Tuesday, November 3, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Iran pushing accelerated plan for ceasefire talks with US",
-      "summary": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
+      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+      "summary": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 18:49:26 +0000"
+      "pubDate": "Tue, 03 Nov 2026 17:26:02 +0000"
     },
     {
-      "title": "After Israel’s election: What’s next?",
-      "summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+      "title": "Trump says US will end military aid to Israel by the end of this year",
+      "summary": "<p>US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment</p><p>Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
       "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 18:32:59 +0000"
+      "pubDate": "Tue, 03 Nov 2026 17:17:11 GMT"
+    },
+    {
+      "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+      "summary": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 16:49:10 +0000"
+    },
+    {
+      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+      "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 10:54:39 -0500"
+    },
+    {
+      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+      "summary": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 15:47:34 +0000"
+    },
+    {
+      "title": "Trump says US 'won't be paying Israel' by end of year",
+      "summary": "The president accuses Democrats of weaponising US aid to Israel as a \"talking point\" with which to attack Republicans.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 15:09:51 GMT"
+    },
+    {
+      "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+      "summary": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 15:00:10 +0000"
+    },
+    {
+      "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+      "summary": "The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 14:30:24 +0000"
+    },
+    {
+      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+      "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 09:13:58 -0500"
+    },
+    {
+      "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+      "summary": "<p>Strikes on eve of US midterms reportedly target surface-to-air missiles being used against US assets</p><p>The ⁠US launched limited strikes on ​Iran’s Qeshm Island late on Monday, hours after the vice-president, JD Vance, said he was optimistic that diplomatic efforts to end the war were moving i",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 13:52:34 GMT"
+    },
+    {
+      "title": "Trump says US will stop giving Israel aid after year-end",
+      "summary": "Military aid to Israel and campaign contributions from Israel’s backers to US candidates have animated political debate.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 13:42:05 +0000"
+    },
+    {
+      "title": "Iran commander sets out five conditions for regional security",
+      "summary": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 13:21:57 +0000"
+    },
+    {
+      "title": "Trump’s troubles with Iran could open the door to China",
+      "summary": "<p>Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region</p><p>China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East.</p><p>The diplomatic salvo comes before a highly anticipated m",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 13:13:50 GMT"
+    },
+    {
+      "title": "Qatar remains hopeful the US and Iran can reach a deal",
+      "summary": "Qatar’s foreign ministry spokesperson Majed al-Ansari says regional neighbours and international partners are working to",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 13:05:39 +0000"
+    },
+    {
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 11:33:33 GMT"
+    },
+    {
+      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+      "summary": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 06:01:14 -0500"
+    },
+    {
+      "title": "Will Trump relaunch his war on Iran after the midterm elections? | Mohamad Bazzi",
+      "summary": "<p>Reports have suggested a vulnerable president could start a new bombing campaign. But that wouldn’t bring a deal any closer</p><p>Will Donald Trump decide to resume a large-scale war against Iran after the US midterm elections?</p><p>That question has loomed over the campaign for weeks, as offici",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/03/trump-iran-war-after-midterm-elections",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 10:00:47 GMT"
+    },
+    {
+      "title": "‘Our aim is that children are protected’: besieged West Bank school fortifies its defences against settler violence",
+      "summary": "<p>After deaths of five students at hands of Israeli settlers in last academic year, al-Mughayyir’s teachers and pupils are on high alert</p><p>This year, parents in al-Mughayyir had to be persuaded to send their children back to school. Israeli settlers had killed five teenage students last academi",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/03/our-aim-is-that-children-are-protected-besieged-west-bank-school-fortifies-its-defences-against-settler-violence",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 06:00:41 GMT"
+    },
+    {
+      "title": "Sheikh Tahnoon: the most powerful man you’ve never heard of – podcast",
+      "summary": "<p>The UAE’s spymaster is also one of the richest financiers on the planet. Now he has his sights on AI dominance. <strong>Jack Shenker</strong> explores the sheikh’s shadowy world</p><p>When we think about the world’s most powerful people, a few names will inevitably spring to mind: Trump, Putin, m",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/03/sheikh-tahnoon-most-powerful-man-never-heard-of-podcast",
+      "importance": "medium",
+      "pubDate": "Tue, 03 Nov 2026 03:00:35 GMT"
     },
     {
       "title": "Oil price falls amid hope of a breakthrough to end Iran war",
@@ -28,46 +164,6 @@
       "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
       "importance": "medium",
       "pubDate": "Mon, 02 Nov 2026 17:14:23 GMT"
-    },
-    {
-      "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-      "summary": "Israeli forces ended their lockdown of Hebron in the occupied West Bank, but its forces continued to attack a school.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 16:56:41 +0000"
-    },
-    {
-      "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-      "summary": "Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 16:03:52 +0000"
-    },
-    {
-      "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-      "summary": "Displaced Hebron families return to damaged homes, left to pick up scattered pieces of their lives after Israeli siege.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 15:43:00 +0000"
-    },
-    {
-      "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
-      "summary": "Network calls move 'assault' on press freedom, warns of 'dangerous pattern' that undermines ability to report facts.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 15:09:49 +0000"
-    },
-    {
-      "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
-      "summary": "Political wrangling is still ongoing as all blocs weigh potential paths to power.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 15:00:08 +0000"
     },
     {
       "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
@@ -94,116 +190,20 @@
       "pubDate": "Mon, 02 Nov 2026 04:42:11 -0500"
     },
     {
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "summary": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
+    },
+    {
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
       "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Mon, 02 Nov 2026 06:00:54 GMT"
-    },
-    {
-      "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-      "summary": "<p>Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election</p><p>The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted <a href=\"https://www.theguardian.com/world/202",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
-      "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 06:00:33 GMT"
-    },
-    {
-      "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
-      "summary": "<p>Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset</p><p>The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is facing a his",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
-      "importance": "medium",
-      "pubDate": "Mon, 02 Nov 2026 06:00:32 GMT"
-    },
-    {
-      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
-      "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 17:19:13 -0500"
-    },
-    {
-      "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
-      "summary": "<p>Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopening</p><p>Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz be",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 17:49:28 GMT"
-    },
-    {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT"
-    },
-    {
-      "title": "‘What’s our crime?’: A Palestinian family’s fight to get care for son injured by Hamas rocket",
-      "summary": "<p>Kinaan Dadou, 10, has been left disabled since 7 October 2023 as his parents struggle to find funding for specialist treatment</p><p>It was 7.30am on 7 October 2023 when a Hamas rocket exploded next to 7-year-old Kinaan Dadou. The rocket was aimed at the Israeli settlement of Efrat in the occupie",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/01/palestinian-family-fight-care-son-hamas-rocket",
-      "importance": "medium",
-      "pubDate": "Sun, 01 Nov 2026 06:00:03 GMT"
-    },
-    {
-      "title": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
-      "summary": "<p>With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats </p><p>Last year, Umm Khaled Fatoun returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers tearing into her son’s house in the Bedouin village ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
-      "importance": "medium",
-      "pubDate": "Sat, 31 Oct 2026 17:16:24 GMT"
-    },
-    {
-      "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
-      "summary": "<p>Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by America</p><p>Never has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils in Tehr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
-      "importance": "medium",
-      "pubDate": "Sat, 31 Oct 2026 06:00:38 GMT"
-    },
-    {
-      "title": "'Nothing will change for us': Palestinians react to Israeli elections – video",
-      "summary": "<p>While Palestinians in Gaza, the West Bank and Israel held on to hope, many questioned whether the results of the Israeli elections would bring about any change. Tuesday’s elections led to Benjamin Netanyahu’s far-right coalition losing its majority after four years in power. The main Jewish oppos",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/oct/30/nothing-will-change-for-us-palestinians-react-to-israeli-elections-video",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 17:41:19 GMT"
-    },
-    {
-      "title": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
-      "summary": "<p>The opposition can’t win unless they join forces with Arab parties. Benjamin Netanyahu knows this, and will use every ruse to stay in power</p><p>It’s less an election result than a philosophical puzzle: what happens when a win contains a loss, a loss contains a win and the two collide? That’s th",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 15:12:57 GMT"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 15:09:29 GMT"
-    },
-    {
-      "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
-      "summary": "<p>IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’</p><p>Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in the face of",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 12:49:56 GMT"
-    },
-    {
-      "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
-      "summary": "<p>Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan</p><p>The Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.</p><",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
-      "importance": "medium",
-      "pubDate": "Fri, 30 Oct 2026 09:00:50 GMT"
     }
   ]
 }
