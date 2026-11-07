@@ -1,10 +1,146 @@
 {
-  "generated": "2026-11-06T17:44:37.978Z",
-  "date": "Friday, November 6, 2026",
+  "generated": "2026-11-07T16:41:09.240Z",
+  "date": "Saturday, November 7, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Israel builds 90km network of military roads across southern Lebanon",
+      "summary": "Israel is building roads and military outposts across southern Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 16:30:33 +0000"
+    },
+    {
+      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 15:34:58 +0000"
+    },
+    {
+      "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
+      "summary": "When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to revive its beauty.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 14:30:00 +0000"
+    },
+    {
+      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+      "summary": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 14:24:48 +0000"
+    },
+    {
+      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+      "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 13:50:15 +0000"
+    },
+    {
+      "title": "Gaza displacement camps collapse under rainwater",
+      "summary": "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse. Al Jazeera’s Nour Khaled reports.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 13:14:53 +0000"
+    },
+    {
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 13:07:23 +0000"
+    },
+    {
+      "title": "Heavy rains flood displacement camps across Gaza",
+      "summary": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 13:04:51 +0000"
+    },
+    {
+      "title": "Court rules against Home Office in asylum seeker kidnapping case",
+      "summary": "<p>Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya</p><p>The court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims.</p><p>The ruling ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 13:00:11 GMT"
+    },
+    {
+      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "summary": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 12:22:18 +0000"
+    },
+    {
+      "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+      "summary": "<p>Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war</p><p>A year into the <a href=\"https://www.theguardian.com/world/israel-hamas-war\">war in Gaza</a>, the networks of <a href=\"https://www.theguardian.com/world/israel\">Israel</a>’s mili",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 12:00:12 GMT"
+    },
+    {
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "summary": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 11:59:26 +0000"
+    },
+    {
+      "title": "Rains flood 70,000 displaced families’ tents in Gaza",
+      "summary": "Initial losses are estimated at about $3m, according to Gaza's Government Media Office.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 11:10:02 +0000"
+    },
+    {
+      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+      "summary": "<p>Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks</p><p>Qatar, the lead mediator in the US-Iran conflict, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to visit Iran’s bombed nuclear sites, including those housing t",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 07:00:04 GMT"
+    },
+    {
+      "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+      "summary": "<p>Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump</p><p><a href=\"https://www.theguardian.com/commentisfree/2026/nov/05/the-guardian-view-on-the-midterms-and-foreign-policy-american-voters-spoke-and-now-the-world-waits-anxiou",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 06:00:04 GMT"
+    },
+    {
+      "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+      "summary": "<p>The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have accelerated</p><p>Donald Trump has said the US military on Friday carried out a new round of limited strikes on Iran, targeting an air defence system, descri",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+      "importance": "medium",
+      "pubDate": "Sat, 07 Nov 2026 03:07:01 GMT"
+    },
+    {
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+      "importance": "medium",
+      "pubDate": "Fri, 06 Nov 2026 15:42:51 -0500"
+    },
     {
       "title": "Israel’s election and self-definition invite questions | Letters",
       "summary": "<p><strong>Dr Richard Skues </strong>responds to an article by Jonathan Freedland in which he says the opposition can’t win unless they join forces with Arab parties</p><p>Jonathan Freedland is surely right that the Israeli political parties opposed to Benjamin Netanyahu should make common cause wit",
@@ -14,44 +150,12 @@
       "pubDate": "Fri, 06 Nov 2026 16:38:52 GMT"
     },
     {
-      "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-      "summary": "Arab-majority parties in Israel, the Joint List and Ra’am, have backed Netanyahu’s rival Gadi Eisenkot to form a governm",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 06 Nov 2026 16:21:57 +0000"
-    },
-    {
-      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-      "summary": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 06 Nov 2026 16:04:19 +0000"
-    },
-    {
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
       "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Fri, 06 Nov 2026 13:23:44 GMT"
-    },
-    {
-      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-      "summary": "Iran launches diplomatic offensive as US mulls resumption of war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 06 Nov 2026 12:57:33 +0000"
-    },
-    {
-      "title": "Born to be torn: A generation raised under Houthi rule in Yemen",
-      "summary": "As children are recruited to fight, the cost of failing to confront the Houthis is being felt far beyond Yemen.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 06 Nov 2026 12:16:40 +0000"
     },
     {
       "title": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
@@ -100,110 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
       "importance": "medium",
       "pubDate": "Thu, 05 Nov 2026 13:47:00 GMT"
-    },
-    {
-      "title": "‘Wrong on every count’: How the Guardian reported the 1956 Suez crisis",
-      "summary": "<p>The military conflict in Egypt involving the UK, France and Israel that ended with a humiliating exit for the two European nations</p><p><em>On 26 July 1956, Egyptian president <a href=\"https://www.theguardian.com/theguardian/2014/sep/29/egypt-president-nasser-dies-archive-1970\">Gamal Abdel Nasse",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/05/1956-suez-crisis-guardian-reports",
-      "importance": "medium",
-      "pubDate": "Thu, 05 Nov 2026 13:28:51 GMT"
-    },
-    {
-      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
-      "summary": "<p>Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support</p><p>South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defen",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
-      "importance": "medium",
-      "pubDate": "Thu, 05 Nov 2026 04:22:49 GMT"
-    },
-    {
-      "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
-      "summary": "<p>Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adj",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-      "importance": "medium",
-      "pubDate": "Wed, 04 Nov 2026 20:00:43 GMT"
-    },
-    {
-      "title": "The midterms were a thumping rebuke of the US-Israel relationship",
-      "summary": "<p>Even Trump seems to recognize that the relationship has become a political liability, and may never be the same</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions\">Q&amp;A: Ask",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-      "importance": "medium",
-      "pubDate": "Wed, 04 Nov 2026 19:22:43 GMT"
-    },
-    {
-      "title": "Win or lose? Inside the 6 November Guardian Weekly",
-      "summary": "<p>Who will control the Knesset? <strong>Plus:</strong> why the argument over autism?</p><p><a href=\"https://support.theguardian.com/uk/subscribe/weekly?promoCode=WWM53X\"><strong>Get the Guardian Weekly delivered to your home address</strong></a></p><p>I’m writing this as the world wakes up to news ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/2026/nov/04/win-or-lose-inside-the-6-november-guardian-weekly",
-      "importance": "medium",
-      "pubDate": "Wed, 04 Nov 2026 18:00:40 GMT"
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT"
-    },
-    {
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 04 Nov 2026 16:18:21 GMT"
-    },
-    {
-      "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
-      "summary": "<p>Iran celebrates its claimed role in ‘regime change’ amid pressure on Trump to ‘finish the job’ with attack</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race\">US midterms live – latest updates</a></p></li></ul>",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
-      "importance": "medium",
-      "pubDate": "Wed, 04 Nov 2026 14:07:17 GMT"
-    },
-    {
-      "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
-      "summary": "<p>Move comes after attorney general blocks Shin Bet call to interrogate politicians from Palestinian-led parties</p><p>Israel’s election commission on Wednesday confirmed the final results of last week’s vote that stripped Benjamin Netanyahu’s far-right coalition of its governing majority, rejectin",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
-      "importance": "medium",
-      "pubDate": "Wed, 04 Nov 2026 12:19:18 GMT"
-    },
-    {
-      "title": "Trump claims US will end military aid to Israel by end of this year",
-      "summary": "<p>US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has said that the US will end military aid to <a href=\"https://www.theguardian.com/world/israel\">Israel</a> at",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-      "importance": "medium",
-      "pubDate": "Tue, 03 Nov 2026 17:17:11 GMT"
-    },
-    {
-      "title": "Trump says US 'won't be paying Israel' by end of year",
-      "summary": "The president accuses Democrats of weaponising US aid to Israel as a \"talking point\" with which to attack Republicans.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 03 Nov 2026 15:09:51 GMT"
-    },
-    {
-      "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-      "summary": "<p>Strikes on eve of US midterms reportedly target surface-to-air missiles being used against US assets</p><p>The ⁠US launched limited strikes on ​Iran’s Qeshm Island late on Monday, hours after the vice-president, JD Vance, said he was optimistic that diplomatic efforts to end the war were moving i",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-      "importance": "medium",
-      "pubDate": "Tue, 03 Nov 2026 13:52:34 GMT"
-    },
-    {
-      "title": "Trump’s troubles with Iran could open the door to China",
-      "summary": "<p>Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region</p><p>China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East.</p><p>The diplomatic salvo comes before a highly anticipated m",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
-      "importance": "medium",
-      "pubDate": "Tue, 03 Nov 2026 13:13:50 GMT"
     }
   ]
 }
