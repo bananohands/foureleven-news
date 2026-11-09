@@ -1,17 +1,169 @@
 {
-  "generated": "2026-11-08T16:52:00.149Z",
-  "date": "Sunday, November 8, 2026",
+  "generated": "2026-11-09T21:12:00.795Z",
+  "date": "Monday, November 9, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-      "summary": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 16:18:09 +0000"
+      "pubDate": "Mon, 09 Nov 2026 20:20:08 GMT"
+    },
+    {
+      "title": "How is Gaza coping with another severe winter?",
+      "summary": "How is Gaza coping with another severe winter?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 19:47:46 +0000"
+    },
+    {
+      "title": "Four killed in sand embankment collapse in Gaza - video",
+      "summary": "<p>Torrential rain in Gaza caused a sand embankment to collapse on to tents, killing a woman and three small children in an incident that highlighted the danger facing hundreds of thousands of displaced Palestinians as the rainy winter season sets in. Medics said heavy rain late on Sunday washed awa",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/video/2026/nov/09/four-killed-in-sand-embankment-collapse-in-gaza-video",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 19:38:08 GMT"
+    },
+    {
+      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "summary": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 18:48:00 +0000"
+    },
+    {
+      "title": "Yemen government forces claim new advances as Houthi border attacks resume",
+      "summary": "Yemeni forces claim fresh advances across key fronts as cross-border Houthi attacks surge amid heavy clashes.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 18:37:03 +0000"
+    },
+    {
+      "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
+      "summary": "<p>High winds and heavy train triggered collapse of sand bank overlooking camp for displaced families</p><p>Witnesses have described the frantic struggle to save three members of a family buried by a landslide triggered by high winds and heavy rain in Gaza.</p><p>A sand bank overlooking a camp for d",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 18:27:51 GMT"
+    },
+    {
+      "title": "Displaced families suffer in Gaza floods as 70,000 tents wrecked – video",
+      "summary": "<p>Gaza's civil defence authorities declared a state of maximum emergency on Saturday as a rainstorm flooded about 70,000 tents housing displaced Palestinians and overwhelmed rescue services. The flooding has made daily life increasingly difficult for displaced families in the camps, now facing a th",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/video/2026/nov/09/displaced-families-suffer-in-gaza-floods-as-70000-tents-wrecked-video",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 18:04:55 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+      "summary": "Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 17:55:47 +0000"
+    },
+    {
+      "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+      "summary": "<p>French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month</p><p>France has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprecedented scal",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 17:54:40 GMT"
+    },
+    {
+      "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
+      "summary": "A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 17:17:39 +0000"
+    },
+    {
+      "title": "France accuses Iran of cyberattack on supermarket fridges",
+      "summary": "Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1,000 stores.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 16:33:33 +0000"
+    },
+    {
+      "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
+      "summary": "Netanyahu and Zini's interference claims lack evidence, according to law enforcement officials quoted by Haaretz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 16:18:28 +0000"
+    },
+    {
+      "title": "‘I’m surrounded by millions of people but I could still die from the heat’ – This is climate breakdown",
+      "summary": "<p>He went to Saudi Arabia to perform the sacred hajj pilgrimage – then the heat came. This is Zirrar Ali’s story</p><p></p><p><em>Location:</em> Mecca, Saudi Arabia</p><p><em>Disaster:</em> Heatwave, 2024</p><p><em>After a transformative trip to Iran and one of its mosques, Zirrar started believing",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/09/extreme-heat-mecca-hajj-pilgrimage-this-is-climate-breakdown-saudi-arabia",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 12:00:08 GMT"
+    },
+    {
+      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+      "summary": "<p>Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall</p><p>Deadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in neighbouring Iran. The city of Erbil, in Iraq, was par",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 10:59:06 GMT"
+    },
+    {
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 10:41:57 GMT"
+    },
+    {
+      "title": "A Fox Under a Pink Moon review – Iranian teen refugee paints boldly imaginative self-portrait",
+      "summary": "<p>Soraya Akhlaghi filmed her perilous flight from Iran and precarious new life over five years on her phone, reassembled here with yearning animations</p><p>The world feels like an overwhelmingly forlorn place in this striking refugee self-portrait, shot on smartphone by Soraya Akhlaghi over five y",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 10:00:06 GMT"
+    },
+    {
+      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+      "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+      "importance": "medium",
+      "pubDate": "Sun, 08 Nov 2026 17:04:13 -0500"
+    },
+    {
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 08 Nov 2026 21:37:36 GMT"
+    },
+    {
+      "title": "Heavy rain floods displaced families’ tents in Gaza – in pictures",
+      "summary": "<p>The first winter storm began affecting the people of Gaza this weekend with heavy rain hitting on Saturday. Reports that about 70,000 tents were flooded within 12 hours prompted warnings of a worsening humanitarian situation for hundreds of thousands of displaced people living in temporary camps ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/gallery/2026/nov/08/heavy-rain-floods-displaced-families-tents-gaza-in-pictures",
+      "importance": "medium",
+      "pubDate": "Sun, 08 Nov 2026 18:50:12 GMT"
+    },
+    {
+      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "summary": "<p>Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’</p><p>Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran pr",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+      "importance": "medium",
+      "pubDate": "Sun, 08 Nov 2026 17:53:59 GMT"
     },
     {
       "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
@@ -22,52 +174,12 @@
       "pubDate": "Sun, 08 Nov 2026 14:26:14 GMT"
     },
     {
-      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-      "summary": "As fears of an escalation grow, Washington announces 'Task Force Iron Gate'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 14:06:19 +0000"
-    },
-    {
-      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-      "summary": "A political impasse between the KRG and PUK threatens to break up the semiautonomous northern region.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 13:06:28 +0000"
-    },
-    {
-      "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-      "summary": "Former army chief has 28 days to cobble together a ruling coalition after President chose him over incumbent Netanyahu.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 11:34:58 +0000"
-    },
-    {
-      "title": "After rebel offensive, efforts to push them back appear to have stalled",
-      "summary": "Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 10:28:08 +0000"
-    },
-    {
-      "title": "Floods in Gaza leave tens of thousands without shelter",
-      "summary": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 09:28:52 +0000"
-    },
-    {
-      "title": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
-      "summary": "Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 09:09:59 +0000"
+      "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
     },
     {
       "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall",
@@ -92,118 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT"
-    },
-    {
-      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
-      "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 17:12:09 -0500"
-    },
-    {
-      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-      "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 15:18:18 -0500"
-    },
-    {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT"
-    },
-    {
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 17:58:41 GMT"
-    },
-    {
-      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-      "summary": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 16:25:55 GMT"
-    },
-    {
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "summary": "<p>Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya</p><p>The court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims.</p><p>The ruling ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 13:00:11 GMT"
-    },
-    {
-      "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
-      "summary": "<p>Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war</p><p>A year into the <a href=\"https://www.theguardian.com/world/israel-hamas-war\">war in Gaza</a>, the networks of <a href=\"https://www.theguardian.com/world/israel\">Israel</a>’s mili",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 12:00:12 GMT"
-    },
-    {
-      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-      "summary": "<p>Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks</p><p>Qatar, the lead mediator in the US-Iran conflict, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to visit Iran’s bombed nuclear sites, including those housing t",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 07:00:04 GMT"
-    },
-    {
-      "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
-      "summary": "<p>Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump</p><p><a href=\"https://www.theguardian.com/commentisfree/2026/nov/05/the-guardian-view-on-the-midterms-and-foreign-policy-american-voters-spoke-and-now-the-world-waits-anxiou",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 06:00:04 GMT"
-    },
-    {
-      "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-      "summary": "<p>The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have accelerated</p><p>Donald Trump has said the US military on Friday carried out a new round of limited strikes on Iran, targeting an air defence system, descri",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 03:07:01 GMT"
-    },
-    {
-      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-      "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-      "importance": "medium",
-      "pubDate": "Fri, 06 Nov 2026 15:42:51 -0500"
-    },
-    {
-      "title": "Israel’s election and self-definition invite questions | Letters",
-      "summary": "<p><strong>Dr Richard Skues </strong>responds to an article by Jonathan Freedland in which he says the opposition can’t win unless they join forces with Arab parties</p><p>Jonathan Freedland is surely right that the Israeli political parties opposed to Benjamin Netanyahu should make common cause wit",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/06/israels-election-and-self-definition-invite-questions",
-      "importance": "medium",
-      "pubDate": "Fri, 06 Nov 2026 16:38:52 GMT"
-    },
-    {
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 06 Nov 2026 13:23:44 GMT"
-    },
-    {
-      "title": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
-      "summary": "<p>While some fear another full-scale war, others are less sure – but both agree repression at home will continue</p><p>Just hours after the US midterm election results delivered a crushing defeat for the Republican party, pro-regime crowds gathered in Tehran’s Enghelab Square to set fire to a giant",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/06/uncertainty-iran-donald-trump-midterms-defeat-war-repression",
-      "importance": "medium",
-      "pubDate": "Fri, 06 Nov 2026 12:00:42 GMT"
     }
   ]
 }
