@@ -1,25 +1,169 @@
 {
-  "generated": "2026-11-09T21:12:00.795Z",
-  "date": "Monday, November 9, 2026",
+  "generated": "2026-11-10T18:22:24.534Z",
+  "date": "Tuesday, November 10, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "France accuses Iran of supermarket fridge hacking",
+      "title": "US petrol prices are down, but elevated inflation continues",
+      "summary": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 17:40:35 +0000"
+    },
+    {
+      "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+      "summary": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 17:35:07 +0000"
+    },
+    {
+      "title": "Israeli president warns against repeat election in new Knesset session",
+      "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 17:16:15 +0000"
+    },
+    {
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 17:03:16 GMT"
+    },
+    {
+      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+      "summary": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 16:39:25 +0000"
+    },
+    {
+      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+      "summary": "Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 15:49:36 +0000"
+    },
+    {
+      "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+      "summary": "<p>Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent</p><p>Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.</p><p>The seven-time Formula One world cham",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 15:39:26 GMT"
+    },
+    {
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 15:21:18 GMT"
+    },
+    {
+      "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+      "summary": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 15:21:11 +0000"
+    },
+    {
+      "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+      "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 15:18:32 +0000"
+    },
+    {
+      "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
+      "summary": "Eight articles brought by a Republican lawmaker accuse US Pentagon chief of waging unlawful wars on Iran and Venezuela.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 14:45:22 +0000"
+    },
+    {
+      "title": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
+      "summary": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 14:27:45 +0000"
+    },
+    {
+      "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+      "summary": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 14:03:31 +0000"
+    },
+    {
+      "title": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
+      "summary": "This year's Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel's war with Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 14:01:09 +0000"
+    },
+    {
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
       "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 20:20:08 GMT"
+      "pubDate": "Tue, 10 Nov 2026 13:45:13 GMT"
     },
     {
-      "title": "How is Gaza coping with another severe winter?",
-      "summary": "How is Gaza coping with another severe winter?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
+      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+      "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 19:47:46 +0000"
+      "pubDate": "Tue, 10 Nov 2026 11:23:18 GMT"
+    },
+    {
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 09:40:31 GMT"
+    },
+    {
+      "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+      "summary": "<p>Opposition politicians get first chance to take control of levers of power, even as they struggle to form government</p><p>Israel’s new Knesset will be sworn in on Tuesday, giving opposition politicians their first chance to take control of some levers of power, even as they struggle to form a ne",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+      "importance": "medium",
+      "pubDate": "Tue, 10 Nov 2026 06:00:31 GMT"
+    },
+    {
+      "title": "Iran denies it was behind cyber fridge attacks targeting France",
+      "summary": "The denial comes a day after the French government blamed Iranian military hackers for last month's attack on refrigeration systems at around 700 retail sites, which spoiled millions of dollars' worth of food.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 17:30:49 -0500"
+    },
+    {
+      "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
+      "summary": "President Trump says he's halting aid to Israel. Israelis are worried. But experts say the U.S. is just shifting aid from the State Department to the Pentagon, with less congressional oversight.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
+      "importance": "medium",
+      "pubDate": "Mon, 09 Nov 2026 16:58:14 -0500"
     },
     {
       "title": "Four killed in sand embankment collapse in Gaza - video",
@@ -30,24 +174,8 @@
       "pubDate": "Mon, 09 Nov 2026 19:38:08 GMT"
     },
     {
-      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
-      "summary": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 18:48:00 +0000"
-    },
-    {
-      "title": "Yemen government forces claim new advances as Houthi border attacks resume",
-      "summary": "Yemeni forces claim fresh advances across key fronts as cross-border Houthi attacks surge amid heavy clashes.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 18:37:03 +0000"
-    },
-    {
       "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
-      "summary": "<p>High winds and heavy train triggered collapse of sand bank overlooking camp for displaced families</p><p>Witnesses have described the frantic struggle to save three members of a family buried by a landslide triggered by high winds and heavy rain in Gaza.</p><p>A sand bank overlooking a camp for d",
+      "summary": "<p>High winds and heavy rain triggered collapse of sand bank overlooking camp for displaced families</p><p>Witnesses have described the frantic struggle to save three members of a family buried by a landslide triggered by high winds and heavy rain in Gaza.</p><p>A sand bank overlooking a camp for di",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
       "importance": "medium",
@@ -62,14 +190,6 @@
       "pubDate": "Mon, 09 Nov 2026 18:04:55 GMT"
     },
     {
-      "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
-      "summary": "Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 17:55:47 +0000"
-    },
-    {
       "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
       "summary": "<p>French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month</p><p>France has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprecedented scal",
       "source": "The Guardian — Middle East",
@@ -78,132 +198,12 @@
       "pubDate": "Mon, 09 Nov 2026 17:54:40 GMT"
     },
     {
-      "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
-      "summary": "A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 17:17:39 +0000"
-    },
-    {
-      "title": "France accuses Iran of cyberattack on supermarket fridges",
-      "summary": "Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1,000 stores.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 16:33:33 +0000"
-    },
-    {
-      "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
-      "summary": "Netanyahu and Zini's interference claims lack evidence, according to law enforcement officials quoted by Haaretz.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 16:18:28 +0000"
-    },
-    {
       "title": "‘I’m surrounded by millions of people but I could still die from the heat’ – This is climate breakdown",
       "summary": "<p>He went to Saudi Arabia to perform the sacred hajj pilgrimage – then the heat came. This is Zirrar Ali’s story</p><p></p><p><em>Location:</em> Mecca, Saudi Arabia</p><p><em>Disaster:</em> Heatwave, 2024</p><p><em>After a transformative trip to Iran and one of its mosques, Zirrar started believing",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/09/extreme-heat-mecca-hajj-pilgrimage-this-is-climate-breakdown-saudi-arabia",
       "importance": "medium",
       "pubDate": "Mon, 09 Nov 2026 12:00:08 GMT"
-    },
-    {
-      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-      "summary": "<p>Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall</p><p>Deadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in neighbouring Iran. The city of Erbil, in Iraq, was par",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 10:59:06 GMT"
-    },
-    {
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 10:41:57 GMT"
-    },
-    {
-      "title": "A Fox Under a Pink Moon review – Iranian teen refugee paints boldly imaginative self-portrait",
-      "summary": "<p>Soraya Akhlaghi filmed her perilous flight from Iran and precarious new life over five years on her phone, reassembled here with yearning animations</p><p>The world feels like an overwhelmingly forlorn place in this striking refugee self-portrait, shot on smartphone by Soraya Akhlaghi over five y",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee",
-      "importance": "medium",
-      "pubDate": "Mon, 09 Nov 2026 10:00:06 GMT"
-    },
-    {
-      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
-      "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 17:04:13 -0500"
-    },
-    {
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 21:37:36 GMT"
-    },
-    {
-      "title": "Heavy rain floods displaced families’ tents in Gaza – in pictures",
-      "summary": "<p>The first winter storm began affecting the people of Gaza this weekend with heavy rain hitting on Saturday. Reports that about 70,000 tents were flooded within 12 hours prompted warnings of a worsening humanitarian situation for hundreds of thousands of displaced people living in temporary camps ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/gallery/2026/nov/08/heavy-rain-floods-displaced-families-tents-gaza-in-pictures",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 18:50:12 GMT"
-    },
-    {
-      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
-      "summary": "<p>Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’</p><p>Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran pr",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 17:53:59 GMT"
-    },
-    {
-      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "summary": "<p>Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority</p><p>Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left ne",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 14:26:14 GMT"
-    },
-    {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
-    },
-    {
-      "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall",
-      "summary": "<p>With the global tide turning against him, the US president’s lame duck status could still aggravate old tensions and spark new explosions</p><p>It was a victory for the world, too. People in the many countries that suffered pain, loss and cruel indignities at the hands of Donald Trump over the pa",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 06:00:32 GMT"
-    },
-    {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sun, 08 Nov 2026 04:03:12 GMT"
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT"
     }
   ]
 }
