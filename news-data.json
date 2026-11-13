@@ -1,17 +1,113 @@
 {
-  "generated": "2026-11-12T18:38:41.359Z",
-  "date": "Thursday, November 12, 2026",
+  "generated": "2026-11-13T18:17:35.309Z",
+  "date": "Friday, November 13, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-      "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
+      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
+      "summary": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 18:03:02 +0000"
+      "pubDate": "Fri, 13 Nov 2026 16:34:24 +0000"
+    },
+    {
+      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+      "summary": "Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 16:22:33 +0000"
+    },
+    {
+      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+      "summary": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 15:02:16 +0000"
+    },
+    {
+      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+      "summary": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 14:16:20 +0000"
+    },
+    {
+      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "summary": "<p>First direct attack on US military installations for months was in response to US airstrike on communications tower</p><p>Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Siri",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 13:52:11 GMT"
+    },
+    {
+      "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
+      "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 13:19:26 +0000"
+    },
+    {
+      "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
+      "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 12:57:08 +0000"
+    },
+    {
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "summary": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 12:28:28 GMT"
+    },
+    {
+      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+      "summary": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 11:51:57 +0000"
+    },
+    {
+      "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+      "summary": "<p>Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award </p><p>A boxer and political prisoner on death row in Iran said he will “never surrender” as he accepted a prestigious human rights prize on behalf of ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+      "importance": "medium",
+      "pubDate": "Fri, 13 Nov 2026 06:00:11 GMT"
+    },
+    {
+      "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+      "summary": "<p>Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets</p><p>Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intelligence serv",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+      "importance": "medium",
+      "pubDate": "Thu, 12 Nov 2026 19:15:30 GMT"
+    },
+    {
+      "title": "The Guardian view on Gaza’s misery: don’t let Palestinian deaths mount in this bleak winter | Editorial",
+      "summary": "<p>The formation of a new Israeli government won’t stop the killing, but sustained international pressure must be applied</p><p>What do you call a ceasefire when the firing has not ceased? The killings in&nbsp;Gaza decreased when the truce was announced last&nbsp;October, but they did not end. Israe",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter",
+      "importance": "medium",
+      "pubDate": "Thu, 12 Nov 2026 18:54:58 GMT"
+    },
+    {
+      "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
+      "summary": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 12 Nov 2026 18:54:00 GMT"
     },
     {
       "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
@@ -22,60 +118,12 @@
       "pubDate": "Thu, 12 Nov 2026 18:00:50 GMT"
     },
     {
-      "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-      "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 17:18:13 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-      "summary": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 16:55:10 +0000"
-    },
-    {
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
       "source": "BBC Middle East",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Thu, 12 Nov 2026 16:54:12 GMT"
-    },
-    {
-      "title": "Prominent Israeli settler denied entry into France",
-      "summary": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 16:44:49 +0000"
-    },
-    {
-      "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-      "summary": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 16:07:16 +0000"
-    },
-    {
-      "title": "UK court finds two Iranian men guilty of spying for Iran",
-      "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 15:15:48 +0000"
-    },
-    {
-      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-      "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 14:27:54 +0000"
     },
     {
       "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
@@ -92,30 +140,6 @@
       "link": "https://www.theguardian.com/world/video/2026/nov/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-five-others-video",
       "importance": "medium",
       "pubDate": "Thu, 12 Nov 2026 14:23:47 GMT"
-    },
-    {
-      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-      "summary": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 14:23:01 +0000"
-    },
-    {
-      "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-      "summary": "<p>Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets</p><p>Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intelligence serv",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 14:07:42 GMT"
-    },
-    {
-      "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
-      "summary": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 13:06:12 GMT"
     },
     {
       "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
@@ -150,14 +174,6 @@
       "pubDate": "Thu, 12 Nov 2026 04:29:50 -0500"
     },
     {
-      "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-      "summary": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-      "importance": "medium",
-      "pubDate": "Thu, 12 Nov 2026 04:29:30 -0500"
-    },
-    {
       "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
       "summary": "<p>Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife</p><p>The vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the waterway and spill",
       "source": "The Guardian — Middle East",
@@ -188,22 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT"
-    },
-    {
-      "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-      "summary": "<p>Bessent, driving force behind US push to cripple Iran’s economy, relocates over alleged threat to his life</p><p>The US Treasury secretary, Scott Bessent, has relocated from his home in the Washington area to a military base after an Iranian threat against his life, <a href=\"https://www.nytimes.c",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-      "importance": "medium",
-      "pubDate": "Wed, 11 Nov 2026 09:11:30 GMT"
-    },
-    {
-      "title": "‘The cold is lethal’: storms leave thousands in Gaza without shelter",
-      "summary": "<p>Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas</p><p>Tens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend, while 150,000 new shelters are held outside Gaza aw",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
-      "importance": "medium",
-      "pubDate": "Wed, 11 Nov 2026 05:00:32 GMT"
     }
   ]
 }
