@@ -1,25 +1,201 @@
 {
-  "generated": "2026-11-17T19:29:15.531Z",
-  "date": "Tuesday, November 17, 2026",
+  "generated": "2026-11-18T19:11:19.718Z",
+  "date": "Wednesday, November 18, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
-      "summary": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
+      "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+      "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 18:43:46 +0000"
+      "pubDate": "Wed, 18 Nov 2026 18:22:26 +0000"
     },
     {
-      "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "title": "Israeli forces launch new military operation in central Gaza",
+      "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 13:34:31 -0500"
+      "pubDate": "Wed, 18 Nov 2026 18:12:42 +0000"
+    },
+    {
+      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+      "summary": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 17:45:09 +0000"
+    },
+    {
+      "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+      "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 16:47:26 +0000"
+    },
+    {
+      "title": "World Bank official says Lebanon reconstruction making slow progress",
+      "summary": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 16:44:59 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+      "summary": "Israel’s army beat a journalist covering a settler attack near Jericho.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 16:28:54 +0000"
+    },
+    {
+      "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+      "summary": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 16:16:48 +0000"
+    },
+    {
+      "title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
+      "summary": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 15:00:34 +0000"
+    },
+    {
+      "title": "Israeli forces demolish homes in southern Lebanon",
+      "summary": "Israeli excavators demolished homes in Zawtar al-Sharqiye in southern Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 14:52:31 +0000"
+    },
+    {
+      "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+      "summary": "Many Palestinians started to flee refugee camps as the Israeli offensive got underway.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 14:39:09 +0000"
+    },
+    {
+      "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+      "summary": "Iran and the US have continued to exchange strikes in recent days, but all-out war has so far been avoided.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 14:36:20 +0000"
+    },
+    {
+      "title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
+      "summary": "A weeks-long operation was behind two waves of strikes using long-range missiles and drones developed in Ukraine.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 14:35:56 +0000"
+    },
+    {
+      "title": "Can the US and Iran sustain a ‘frozen war’?",
+      "summary": "Tehran may eventually decide that 'escalating confrontation' is preferable to status quo, says analyst Hamidreza Azizi.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 14:13:51 +0000"
+    },
+    {
+      "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+      "summary": "<p>Attorney general says E1 settlement decision should not be taken by caretaker government led by Netanyahu</p><p>Israel has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state solution unviable, days after the UK imposed sanc",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 14:05:38 GMT"
+    },
+    {
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 13:04:48 GMT"
+    },
+    {
+      "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
+      "summary": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500"
+    },
+    {
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "summary": "<p>A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza</p><p>Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s <a href=\"https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pi",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 09:58:28 GMT"
+    },
+    {
+      "title": "‘They want silence’: how the film NAZA is shaking Israel",
+      "summary": "<p>The documentary has triggered fierce backlash, but by exposing the army’s conduct in Gaza it’s proved impossible to ignore</p><p>It was on Yom Kippur this year that Nadav Weiman first sensed the documentary NAZA was having a significant impact in Israel – despite the fact that back in September, ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 06:44:25 GMT"
+    },
+    {
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "summary": "<p>Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans</p><p>The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi.</p><",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 05:00:32 GMT"
+    },
+    {
+      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+      "summary": "<p>Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death</p><p>A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commande",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+      "importance": "medium",
+      "pubDate": "Wed, 18 Nov 2026 00:21:33 GMT"
+    },
+    {
+      "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+      "summary": "<p>Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government</p><p>The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu.</p><p>The new ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+      "importance": "medium",
+      "pubDate": "Tue, 17 Nov 2026 22:30:17 GMT"
+    },
+    {
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Tue, 17 Nov 2026 20:30:20 GMT"
+    },
+    {
+      "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+      "summary": "<p>Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents</p><p>A 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village near Jericho where settlers have recently moved in after taking over s",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+      "importance": "medium",
+      "pubDate": "Tue, 17 Nov 2026 20:21:48 GMT"
+    },
+    {
+      "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
+      "summary": "<p>Foreign affairs minister, Penny Wong, says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjus",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+      "importance": "medium",
+      "pubDate": "Tue, 17 Nov 2026 20:20:31 GMT"
     },
     {
       "title": "UK sanctions firms over Israeli West Bank settlements",
@@ -28,182 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Tue, 17 Nov 2026 18:27:27 GMT"
-    },
-    {
-      "title": "Inferno engulfs gas tanker in strait of Hormuz after reported strike – video",
-      "summary": "<p>The crew of an LPG tanker abandoned ship after the vessel was reportedly struck by a projectile while sailing through the strait of Hormuz, maritime security sources told Reuters. The fire comes amid a surge in attacks around the waterway in recent weeks</p> <a href=\"https://www.theguardian.com/w",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/video/2026/nov/17/inferno-engulfs-gas-tanker-in-strait-of-hormuz-after-reported-strike-video",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 18:20:59 GMT"
-    },
-    {
-      "title": "Israeli forces invade Syrian village leaving homes damaged",
-      "summary": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 17:57:20 +0000"
-    },
-    {
-      "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
-      "summary": "<p>Digital monitors recorded 400% rise in posts attacking Arab Israelis, including Netanyahu’s disproven fraud allegations </p><p>Anti-Arab hate speech surged on social media in Israel around the country’s general election last month, digital monitors have said, as politicians including Benjamin Net",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 17:44:07 GMT"
-    },
-    {
-      "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-      "summary": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 17:34:27 +0000"
-    },
-    {
-      "title": "Religious ruling revives memories in Israel of Rabin assassination",
-      "summary": "Hostility towards Palestinian participation in Israel's government fuels fears of far-right political violence.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 17:33:18 +0000"
-    },
-    {
-      "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-      "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 16:53:25 +0000"
-    },
-    {
-      "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
-      "summary": "<p>US officials ‘debate whether Iran can or will attempt to execute’ plot to detonate a ‘dirty bomb’, report says</p><p>Donald Trump has claimed the US is “looking into” whether Iran is developing plans to detonate a so-called “dirty bomb” in Washington, even as the White House said there were “no c",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 16:03:34 GMT"
-    },
-    {
-      "title": "Jerusalem Daily: Deadly settler pogroms persist",
-      "summary": "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 15:49:11 +0000"
-    },
-    {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 15:36:11 GMT"
-    },
-    {
-      "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-      "summary": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 15:26:55 +0000"
-    },
-    {
-      "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
-      "summary": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 15:13:57 +0000"
-    },
-    {
-      "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
-      "summary": "A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 14:59:39 +0000"
-    },
-    {
-      "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-      "summary": "<p>Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ </p><p>Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West Bank, after he pledged to try to",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 12:18:08 GMT"
-    },
-    {
-      "title": "American Doctor review – medics put their lives on the line in Gaza amid the carnage",
-      "summary": "<p>Poh Si Teng’s powerful documentary follows three doctors from the US who sign up to volunteer at the Nasser hospital </p><p>This is the latest documentary about medics travelling to Palestine to treat civilian casualties; it’s a powerful, angry film, in a state of despair at the scale of sufferin",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/film/2026/nov/17/american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-poh-si-ten-documentary",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 11:00:35 GMT"
-    },
-    {
-      "title": "Trump arrives in Philippines to kick off Asia trip",
-      "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 05:43:55 -0500"
-    },
-    {
-      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-      "summary": "A Ukrainian drone and missile attack prepared over several weeks struck a vital Russian rail and road bridge to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said Tuesday.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 04:50:45 -0500"
-    },
-    {
-      "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
-      "summary": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 16 Nov 2026 23:01:47 GMT"
-    },
-    {
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 16 Nov 2026 21:40:07 GMT"
-    },
-    {
-      "title": "Third US aircraft carrier brings thousands more troops to Middle East",
-      "summary": "<p>The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’</p><p>A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as <a href=\"https:",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
-      "importance": "medium",
-      "pubDate": "Mon, 16 Nov 2026 21:13:02 GMT"
-    },
-    {
-      "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
-      "summary": "<p>Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden </p><p>Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait and pulled b",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
-      "importance": "medium",
-      "pubDate": "Mon, 16 Nov 2026 19:04:07 GMT"
-    },
-    {
-      "title": "‘Let the aid in’: Deadly winter approaches in Gaza - The Latest",
-      "summary": "<p>Deadly floods in Gaza have created a dire humanitarian crisis, as the governments of Australia, Canada, the UK and Italy call on Israel to allow the safe passage of critical aid to civilians before winter sets in. Tens of thousands of Palestinians in Gaza have been left in waterlogged and damaged",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/news/video/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest",
-      "importance": "medium",
-      "pubDate": "Mon, 16 Nov 2026 18:13:37 GMT"
-    },
-    {
-      "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-      "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-      "importance": "medium",
-      "pubDate": "Mon, 16 Nov 2026 13:04:50 -0500"
     }
   ]
 }
