@@ -1,33 +1,97 @@
 {
-  "generated": "2026-11-19T19:15:58.660Z",
-  "date": "Thursday, November 19, 2026",
+  "generated": "2026-11-20T18:54:58.161Z",
+  "date": "Friday, November 20, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-      "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+      "title": "Jerusalem Daily: Palestinians return home to ruins",
+      "summary": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 18:46:10 +0000"
+      "pubDate": "Fri, 20 Nov 2026 15:42:04 +0000"
     },
     {
-      "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
-      "summary": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+      "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+      "summary": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 18:16:09 +0000"
+      "pubDate": "Fri, 20 Nov 2026 14:48:04 +0000"
     },
     {
-      "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
-      "summary": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+      "title": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
+      "summary": "<p>After two attempts at two separate border crossings, I was denied entry, despite an approved visa and an official invitation from my health diplomacy charity</p><p>This month I set out to return to Palestine, where I was born and studied, as part of a health diplomacy delegation to the occupied P",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/21/im-an-australian-palestinian-doctor-who-was-turned-away-at-the-west-bank-border-the-stigma-of-being-born-in-gaza-stands-in-the-way-of-peace-ntwnfb",
       "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 17:15:30 +0000"
+      "pubDate": "Fri, 20 Nov 2026 14:00:32 GMT"
+    },
+    {
+      "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+      "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 13:42:56 +0000"
+    },
+    {
+      "title": "Poland hit by at least one Russian missile, says Polish govt",
+      "summary": "Poland hit by at least one Russian missile, says Polish govt",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 13:23:53 +0000"
+    },
+    {
+      "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+      "summary": "Iraq's Federal Police are due to assume control of town's newly established control headquarters.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 13:17:00 +0000"
+    },
+    {
+      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+      "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 07:04:57 -0500"
+    },
+    {
+      "title": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",
+      "summary": "<p>The war between the US, Israel and Iran has turned the strait of Hormuz, one of the world’s busiest oil shipping routes, into a battlefield, but also the centre of a deepening environmental disaster. Tankers struck by missiles or sea mines are leaking oil into the Gulf, leaving vast slicks visibl",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 12:00:38 GMT"
+    },
+    {
+      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+      "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 06:37:35 -0500"
+    },
+    {
+      "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+      "summary": "<p>Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activists</p><p>The removal of male professors teaching female students at a university in southern Iraq has sparked protests and been criticised by activists as a Taliban-like gender segregat",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 05:00:23 GMT"
+    },
+    {
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 00:13:21 GMT"
     },
     {
       "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
@@ -46,60 +110,12 @@
       "pubDate": "Thu, 19 Nov 2026 17:03:23 GMT"
     },
     {
-      "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
-      "summary": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 16:59:38 +0000"
-    },
-    {
       "title": "‘In our lands the rain is made of bullets’: Palestinian artists look back in anger, melancholy and defiance",
       "summary": "<p><strong>IMMA, Dublin</strong> <br>From massacre locations painted on to basalt slabs to photocollages of bulldozed airports, artists from across the Levant address their traumatic history</p><p>In 2006, Simone Fattal painted on to basalt slabs the names of places indelibly associated with massacr",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/artanddesign/2026/nov/19/a-sea-for-borrowed-time-review-palestinian-artists-imma-dublin",
       "importance": "medium",
       "pubDate": "Thu, 19 Nov 2026 16:58:24 GMT"
-    },
-    {
-      "title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
-      "summary": "Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 14:41:38 +0000"
-    },
-    {
-      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-      "summary": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 13:54:10 +0000"
-    },
-    {
-      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-      "summary": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel's military.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 13:49:49 +0000"
-    },
-    {
-      "title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
-      "summary": "Knesset MPs call the incident 'a hate crime' while Hamas blames Israeli 'settler gangs'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 13:24:12 +0000"
-    },
-    {
-      "title": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
-      "summary": "Leaders hailed the unprecedented meeting as historic, with discussions spanning nuclear risks to energy flows.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 13:13:53 +0000"
     },
     {
       "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
@@ -188,22 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
       "importance": "medium",
       "pubDate": "Tue, 17 Nov 2026 22:30:17 GMT"
-    },
-    {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 20:30:20 GMT"
-    },
-    {
-      "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-      "summary": "<p>Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents</p><p>A 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village near Jericho where settlers have recently moved in after taking over s",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 20:21:48 GMT"
     }
   ]
 }
