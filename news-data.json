@@ -1,25 +1,81 @@
 {
-  "generated": "2026-11-20T18:54:58.161Z",
-  "date": "Friday, November 20, 2026",
+  "generated": "2026-11-21T17:49:35.335Z",
+  "date": "Saturday, November 21, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Jerusalem Daily: Palestinians return home to ruins",
-      "summary": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
+      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 20 Nov 2026 15:42:04 +0000"
+      "pubDate": "Sat, 21 Nov 2026 17:20:03 +0000"
     },
     {
-      "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
-      "summary": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Fri, 20 Nov 2026 14:48:04 +0000"
+      "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000"
+    },
+    {
+      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+      "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Nov 2026 14:15:36 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Nov 2026 14:06:06 +0000"
+    },
+    {
+      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+      "summary": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Nov 2026 12:29:49 +0000"
+    },
+    {
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Nov 2026 11:02:49 +0000"
+    },
+    {
+      "title": "Deadly fire engulfs power station in southern Iraq",
+      "summary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Nov 2026 11:02:29 +0000"
+    },
+    {
+      "title": "‘We ​are tired from all this suffering’: displaced families in Gaza brace for another winter of misery",
+      "summary": "<p>Floods have worsened harsh existence for Palestinians living in tent camps, with fears growing for what the coming months will bring</p><p>Abdul Karim al-Sahhar knew winter was coming to Gaza in the small hours of a wet and windy night earlier this month when <a href=\"https://www.theguardian.com/",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Nov 2026 05:00:49 GMT"
+    },
+    {
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 20 Nov 2026 22:14:17 GMT"
     },
     {
       "title": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
@@ -28,30 +84,6 @@
       "link": "https://www.theguardian.com/commentisfree/2026/nov/21/im-an-australian-palestinian-doctor-who-was-turned-away-at-the-west-bank-border-the-stigma-of-being-born-in-gaza-stands-in-the-way-of-peace-ntwnfb",
       "importance": "medium",
       "pubDate": "Fri, 20 Nov 2026 14:00:32 GMT"
-    },
-    {
-      "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
-      "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Nov 2026 13:42:56 +0000"
-    },
-    {
-      "title": "Poland hit by at least one Russian missile, says Polish govt",
-      "summary": "Poland hit by at least one Russian missile, says Polish govt",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Nov 2026 13:23:53 +0000"
-    },
-    {
-      "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
-      "summary": "Iraq's Federal Police are due to assume control of town's newly established control headquarters.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Nov 2026 13:17:00 +0000"
     },
     {
       "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
@@ -84,14 +116,6 @@
       "link": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
       "importance": "medium",
       "pubDate": "Fri, 20 Nov 2026 05:00:23 GMT"
-    },
-    {
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Nov 2026 00:13:21 GMT"
     },
     {
       "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
@@ -132,22 +156,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
       "importance": "medium",
       "pubDate": "Thu, 19 Nov 2026 12:36:37 GMT"
-    },
-    {
-      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-      "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-      "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 04:46:24 -0500"
-    },
-    {
-      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-      "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-      "importance": "medium",
-      "pubDate": "Thu, 19 Nov 2026 04:44:40 -0500"
     },
     {
       "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
@@ -196,14 +204,6 @@
       "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
       "importance": "medium",
       "pubDate": "Wed, 18 Nov 2026 00:21:33 GMT"
-    },
-    {
-      "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
-      "summary": "<p>Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government</p><p>The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu.</p><p>The new ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-      "importance": "medium",
-      "pubDate": "Tue, 17 Nov 2026 22:30:17 GMT"
     }
   ]
 }
