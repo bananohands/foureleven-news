@@ -1,65 +1,105 @@
 {
-  "generated": "2026-11-21T17:49:35.335Z",
-  "date": "Saturday, November 21, 2026",
+  "generated": "2026-11-22T18:08:47.619Z",
+  "date": "Sunday, November 22, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-      "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
       "importance": "medium",
-      "pubDate": "Sat, 21 Nov 2026 17:20:03 +0000"
+      "pubDate": "Sun, 22 Nov 2026 12:44:52 -0500"
     },
     {
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+      "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000"
+      "pubDate": "Sun, 22 Nov 2026 16:50:48 +0000"
     },
     {
-      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-      "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+      "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+      "summary": "<p>Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes </p><p>Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi Eisenkot, ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
       "importance": "medium",
-      "pubDate": "Sat, 21 Nov 2026 14:15:36 +0000"
+      "pubDate": "Sun, 22 Nov 2026 15:22:38 GMT"
     },
     {
-      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
+      "summary": "Two Russian attacks kill at least four people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 21 Nov 2026 14:06:06 +0000"
+      "pubDate": "Sun, 22 Nov 2026 14:48:50 +0000"
     },
     {
-      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-      "summary": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
+      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 21 Nov 2026 12:29:49 +0000"
+      "pubDate": "Sun, 22 Nov 2026 14:30:27 +0000"
     },
     {
-      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-      "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 21 Nov 2026 11:02:49 +0000"
+      "pubDate": "Sun, 22 Nov 2026 14:20:41 +0000"
     },
     {
-      "title": "Deadly fire engulfs power station in southern Iraq",
-      "summary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+      "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+      "summary": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Sat, 21 Nov 2026 11:02:29 +0000"
+      "pubDate": "Sun, 22 Nov 2026 14:00:31 +0000"
+    },
+    {
+      "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+      "summary": "<p>UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues</p><p>A British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war.</p><p>Lewis Pugh, a UN patron of the ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Nov 2026 13:36:01 GMT"
+    },
+    {
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "summary": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Nov 2026 13:16:45 +0000"
+    },
+    {
+      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+      "summary": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Nov 2026 13:15:40 +0000"
+    },
+    {
+      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+      "summary": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Sun, 22 Nov 2026 12:31:30 +0000"
+    },
+    {
+      "title": "A grieving family in Lebanon returns to their village",
+      "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+      "importance": "medium",
+      "pubDate": "Sat, 21 Nov 2026 17:01:32 -0500"
     },
     {
       "title": "‘We ​are tired from all this suffering’: displaced families in Gaza brace for another winter of misery",
@@ -86,28 +126,12 @@
       "pubDate": "Fri, 20 Nov 2026 14:00:32 GMT"
     },
     {
-      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-      "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Nov 2026 07:04:57 -0500"
-    },
-    {
       "title": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",
       "summary": "<p>The war between the US, Israel and Iran has turned the strait of Hormuz, one of the world’s busiest oil shipping routes, into a battlefield, but also the centre of a deepening environmental disaster. Tankers struck by missiles or sea mines are leaking oil into the Gulf, leaving vast slicks visibl",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
       "importance": "medium",
       "pubDate": "Fri, 20 Nov 2026 12:00:38 GMT"
-    },
-    {
-      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-      "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-      "source": "NPR World",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-      "importance": "medium",
-      "pubDate": "Fri, 20 Nov 2026 06:37:35 -0500"
     },
     {
       "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
@@ -180,30 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
       "importance": "medium",
       "pubDate": "Wed, 18 Nov 2026 09:58:28 GMT"
-    },
-    {
-      "title": "‘They want silence’: how the film NAZA is shaking Israel",
-      "summary": "<p>The documentary has triggered fierce backlash, but by exposing the army’s conduct in Gaza it’s proved impossible to ignore</p><p>It was on Yom Kippur this year that Nadav Weiman first sensed the documentary NAZA was having a significant impact in Israel – despite the fact that back in September, ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
-      "importance": "medium",
-      "pubDate": "Wed, 18 Nov 2026 06:44:25 GMT"
-    },
-    {
-      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-      "summary": "<p>Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans</p><p>The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi.</p><",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-      "importance": "medium",
-      "pubDate": "Wed, 18 Nov 2026 05:00:32 GMT"
-    },
-    {
-      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-      "summary": "<p>Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death</p><p>A Pakistani man was sentenced to more than 27 years in prison on Tuesday <a href=\"https://www.theguardian.com/us-news/2026/mar/07/pakistani-man-convicted-of-plotting-to-kill-trump-",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-      "importance": "medium",
-      "pubDate": "Wed, 18 Nov 2026 00:21:33 GMT"
     }
   ]
 }
