@@ -1,10 +1,154 @@
 {
-  "generated": "2026-11-25T20:18:00.800Z",
-  "date": "Wednesday, November 25, 2026",
+  "generated": "2026-11-26T19:55:19.245Z",
+  "date": "Thursday, November 26, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
+    {
+      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+      "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 19:19:12 +0000"
+    },
+    {
+      "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+      "summary": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 18:30:36 +0000"
+    },
+    {
+      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+      "summary": "<p>Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City</p><p>Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and struggle to find food, cl",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 17:59:44 GMT"
+    },
+    {
+      "title": "Netanyahu’s corruption trial: Is it really all over?",
+      "summary": "Court recommendations put the Israeli leader's trial, political future and efforts to evade prosecution back in focus.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 17:38:02 +0000"
+    },
+    {
+      "title": "Syrian children continue learning amid the ruins of war in Idlib",
+      "summary": "Syria reopened a semi destroyed school in Idlib province",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 17:32:21 +0000"
+    },
+    {
+      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+      "summary": "Iran has strongly denied any involvement in the fatal incident.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 16:32:31 +0000"
+    },
+    {
+      "title": "Two dead after Iranian drone attack on Kuwait",
+      "summary": "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 15:55:15 +0000"
+    },
+    {
+      "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
+      "summary": "Football icon says it is more urgent than ever to demand an end to Israel's 'apartheid, colonialism and occupation'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 15:53:32 +0000"
+    },
+    {
+      "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+      "summary": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 15:45:59 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
+      "summary": "Al Jazeera’s Ava Warriner has the latest in Jerusalem Daily.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 15:23:25 +0000"
+    },
+    {
+      "title": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
+      "summary": "Tribunal raises questions about the credibility of UNRWA's decision to dismiss its staff without substantiated evidence.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 15:00:47 +0000"
+    },
+    {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+      "source": "NPR World",
+      "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 08:31:28 -0500"
+    },
+    {
+      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+      "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 10:14:08 GMT"
+    },
+    {
+      "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+      "summary": "<p>Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decade</p><p>Israel has institutionalised the use of torture to extract confessions from Palestinian prisoners, sometimes documenting abuse in official records or granting advanced approval ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 10:00:52 GMT"
+    },
+    {
+      "title": "‘She was so not regretful about killing her husband’: the Iranian film that shines a light on blood money and retributive justice",
+      "summary": "<p>The co-director of An Eye for an Eye, Tanaz Eshaghian, reveals how she came to make a documentary about a woman facing the threat of execution from her husband’s family – as sanctioned by sharia law</p><p>“Even though I was raised here,” says the Iranian-American film-maker Tanaz Eshaghian from h",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/film/2026/nov/26/an-eye-for-an-eye-tanaz-eshaghian",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 08:00:50 GMT"
+    },
+    {
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 06:01:58 GMT"
+    },
+    {
+      "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+      "summary": "<p>Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged</p><p>A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid workers in 2024, saying it was based “almost entirely” on unproven assertions from ",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 00:05:50 GMT"
+    },
+    {
+      "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+      "summary": "<p>Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war</p><p>Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video jo",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+      "importance": "medium",
+      "pubDate": "Wed, 25 Nov 2026 23:06:06 GMT"
+    },
     {
       "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
       "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
@@ -14,60 +158,12 @@
       "pubDate": "Wed, 25 Nov 2026 19:47:39 GMT"
     },
     {
-      "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-      "summary": "Disruptions at Yemen's largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 19:15:52 +0000"
-    },
-    {
-      "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-      "summary": "<p>Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged</p><p>A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid workers in 2024, saying it was based “almost entirely” on unproven assertions from ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 18:14:27 GMT"
-    },
-    {
-      "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
-      "summary": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 17:29:51 +0000"
-    },
-    {
-      "title": "Switzerland forced to close office in North Korea over sanctions feud",
-      "summary": "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 16:58:49 +0000"
-    },
-    {
-      "title": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
-      "summary": "Palestinian farmer and human rights defender Ghassan Najjar was arrested by Israeli forces.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 16:34:42 +0000"
-    },
-    {
       "title": "They belong to Jerusalem’s past and present: meet the African Palestinians",
       "summary": "<p>Despite militarisation, occupation and marginalisation, African culture prevails in the Old City, something I discovered first-hand when I visited</p><ul><li><p><a href=\"https://www.theguardian.com/global/2024/oct/16/sign-up-for-the-long-wave-newsletter-our-weekly-black-life-and-culture-email\"><s",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/news/2026/nov/25/meet-the-african-palestinians-jerusalem",
       "importance": "medium",
       "pubDate": "Wed, 25 Nov 2026 16:28:29 GMT"
-    },
-    {
-      "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
-      "summary": "Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 16:02:22 +0000"
     },
     {
       "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
@@ -108,102 +204,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
       "importance": "medium",
       "pubDate": "Tue, 24 Nov 2026 18:02:53 GMT"
-    },
-    {
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Nov 2026 15:35:53 GMT"
-    },
-    {
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT"
-    },
-    {
-      "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
-      "summary": "<p>Health ministry records 272 new infections in October, more than eight times the normal monthly rate</p><p>Gaza’s health ministry has issued an epidemic alert after a sharp rise in meningitis infections, with more than 270 new cases reported in October.</p><p>Dr Nidal Ghoneim, a senior official a",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Nov 2026 14:51:18 GMT"
-    },
-    {
-      "title": "Why the genocide verdict against Myanmar has big implications for Israel | Geoffrey Robertson",
-      "summary": "<p>Proving the ‘crime of crimes’ against an individual is notoriously difficult, but the ICJ has set a precedent for states to be found liable. Israel could be next</p><p>For the first time ever, a state has been found <a href=\"https://www.theguardian.com/commentisfree/2026/nov/19/the-guardian-view-",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/24/genocide-verdict-myanmar-implications-israel-world",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Nov 2026 14:11:15 GMT"
-    },
-    {
-      "title": "Iranian singer and four others receive lashes after performance without hijab",
-      "summary": "<p>Western governments and rights groups have criticised flogging as torture and a violation of international law</p><p>An Iranian singer and four members of her production team ⁠have each received 74 lashes after being sentenced for “offending public decency by producing and ⁠publishing obscene and",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Nov 2026 20:56:17 GMT"
-    },
-    {
-      "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
-      "summary": "<p>Mahdi Tounsi appeared with visible bruising after being interrogated by police on his association with Israeli-Palestinian organisations</p><p>Israeli professors, students and rights activists are calling for the immediate release of Mahdi Tounsi, a sociology student at Jerusalem’s Hebrew Univers",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Nov 2026 19:48:58 GMT"
-    },
-    {
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Nov 2026 18:04:20 GMT"
-    },
-    {
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Nov 2026 17:07:25 GMT"
-    },
-    {
-      "title": "Twenty Gaza students due to leave for Ireland after winning visa battle",
-      "summary": "<p>Group’s evacuation follows campaign to overturn decision to deny visas to more than 60 students from territory</p><p>Twenty students from<a href=\"https://www.theguardian.com/world/gaza\"> Gaza</a> are to travel to <a href=\"https://www.theguardian.com/world/ireland\">Ireland</a> to take up scholarsh",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Nov 2026 13:03:14 GMT"
-    },
-    {
-      "title": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
-      "summary": "<p>The international court of justice has settled questions over the issue of intent, with powerful implications for Israel</p><p>The international court of justice (ICJ) <a href=\"https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-jud-01-00-en.pdf\">decision</a> last Thursday t",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/23/myanmar-genocide-ruling",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Nov 2026 11:00:54 GMT"
-    },
-    {
-      "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
-      "summary": "<p>Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’</p><p>Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and toxic air threatening the life-supp",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
-      "importance": "medium",
-      "pubDate": "Mon, 23 Nov 2026 04:00:45 GMT"
-    },
-    {
-      "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
-      "summary": "<p>Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes </p><p>Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi Eisenkot, ",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-      "importance": "medium",
-      "pubDate": "Sun, 22 Nov 2026 15:22:38 GMT"
     }
   ]
 }
