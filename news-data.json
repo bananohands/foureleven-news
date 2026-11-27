@@ -1,97 +1,129 @@
 {
-  "generated": "2026-11-26T19:55:19.245Z",
-  "date": "Thursday, November 26, 2026",
+  "generated": "2026-11-27T19:44:28.165Z",
+  "date": "Friday, November 27, 2026",
   "storyCount": 25,
   "feedsChecked": 7,
   "feedsSucceeded": 7,
   "stories": [
     {
-      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-      "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+      "summary": "The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 19:19:12 +0000"
+      "pubDate": "Fri, 27 Nov 2026 17:44:33 +0000"
     },
     {
-      "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
-      "summary": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
+      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+      "summary": "Officials from Pakistan, Saudi Arabia and Turkiye pledge to protect the kingdom's security during talks in Islamabad.",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
       "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 18:30:36 +0000"
+      "pubDate": "Fri, 27 Nov 2026 17:41:24 +0000"
+    },
+    {
+      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+      "summary": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 17:13:46 +0000"
+    },
+    {
+      "title": "Syria debates citizenship rights for children of foreign fighters",
+      "summary": "Syria may amend its nationality law to grant citizenship to children of Syrian mothers and foreign fighters.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 16:47:35 +0000"
+    },
+    {
+      "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+      "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 16:33:21 +0000"
+    },
+    {
+      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+      "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 16:13:07 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+      "summary": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness'.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 16:01:44 +0000"
+    },
+    {
+      "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+      "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel's genocidal war on Gaza.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 14:17:25 +0000"
+    },
+    {
+      "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+      "summary": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 13:28:55 +0000"
+    },
+    {
+      "title": "Sentence served, still detained: Palestinian families waiting for reunions",
+      "summary": "Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 13:14:52 +0000"
+    },
+    {
+      "title": "Momentous decision looms after judges call for Netanyahu charges to be dropped",
+      "summary": "<p>Dropping of corruption charges against Israeli PM after unusual intervention could set damaging precedent</p><p>The Israeli judges presiding over Benjamin Netanyahu’s corruption trial have called on prosecutors to end proceedings, a highly unusual intervention that leaves the attorney general fac",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 10:48:29 GMT"
+    },
+    {
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 06:04:51 GMT"
+    },
+    {
+      "title": "‘Systematic assault’: paramedics blocked and attacked by Israeli settlers and soldiers in West Bank",
+      "summary": "<p>Human rights groups report increasing attacks on Palestinian healthcare workers</p><p>Yousef Diriyeh and his son Hadi, both paramedics in the occupied West Bank, were lifting a wounded young woman into their ambulance when they heard shots crack and bullets whistle past their heads.</p><p>Less th",
+      "source": "The Guardian — Middle East",
+      "link": "https://www.theguardian.com/world/2026/nov/27/paramedics-blocked-attacked-by-settlers-west-bank",
+      "importance": "medium",
+      "pubDate": "Fri, 27 Nov 2026 06:00:57 GMT"
+    },
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "source": "BBC Middle East",
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&amp;at_campaign=rss",
+      "importance": "medium",
+      "pubDate": "Thu, 26 Nov 2026 21:17:53 GMT"
     },
     {
       "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
-      "summary": "<p>Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City</p><p>Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and struggle to find food, cl",
+      "summary": "<p>Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City</p><p>Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and a struggle to find food, ",
       "source": "The Guardian — Middle East",
       "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
       "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 17:59:44 GMT"
-    },
-    {
-      "title": "Netanyahu’s corruption trial: Is it really all over?",
-      "summary": "Court recommendations put the Israeli leader's trial, political future and efforts to evade prosecution back in focus.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 17:38:02 +0000"
-    },
-    {
-      "title": "Syrian children continue learning amid the ruins of war in Idlib",
-      "summary": "Syria reopened a semi destroyed school in Idlib province",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 17:32:21 +0000"
-    },
-    {
-      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-      "summary": "Iran has strongly denied any involvement in the fatal incident.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 16:32:31 +0000"
-    },
-    {
-      "title": "Two dead after Iranian drone attack on Kuwait",
-      "summary": "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 15:55:15 +0000"
-    },
-    {
-      "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
-      "summary": "Football icon says it is more urgent than ever to demand an end to Israel's 'apartheid, colonialism and occupation'.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 15:53:32 +0000"
-    },
-    {
-      "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-      "summary": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 15:45:59 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
-      "summary": "Al Jazeera’s Ava Warriner has the latest in Jerusalem Daily.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 15:23:25 +0000"
-    },
-    {
-      "title": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
-      "summary": "Tribunal raises questions about the credibility of UNRWA's decision to dismiss its staff without substantiated evidence.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
-      "importance": "medium",
-      "pubDate": "Thu, 26 Nov 2026 15:00:47 +0000"
+      "pubDate": "Thu, 26 Nov 2026 20:33:07 GMT"
     },
     {
       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
@@ -172,38 +204,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
       "importance": "medium",
       "pubDate": "Wed, 25 Nov 2026 14:06:13 GMT"
-    },
-    {
-      "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
-      "summary": "<p>James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views</p><p>James “Fergie” Chambers, the wealthy leftwing activist and donor controversially sought in extradition by the US, has told the Guardian that he is “not asking anyone to endo",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 11:00:46 GMT"
-    },
-    {
-      "title": "Protesters call on Israel to free Palestinian student held without charge",
-      "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
-      "source": "BBC Middle East",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&amp;at_campaign=rss",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 10:03:42 GMT"
-    },
-    {
-      "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
-      "summary": "<p>With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate</p><p>Hussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city of Aden, where there was a measure of safety.</p><p>The Saudi-backed Y",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
-      "importance": "medium",
-      "pubDate": "Wed, 25 Nov 2026 05:00:06 GMT"
-    },
-    {
-      "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
-      "summary": "<p>Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him</p><p>Palestinian student Mahdi Tounsi appeared in a closed-door court hearing in Jerusalem, as academics and activists warned that Israel’s attempt to jail him without tri",
-      "source": "The Guardian — Middle East",
-      "link": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
-      "importance": "medium",
-      "pubDate": "Tue, 24 Nov 2026 18:02:53 GMT"
     }
   ]
 }
